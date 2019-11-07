@@ -2,6 +2,7 @@ const path = require("path");
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
+require("dotenv").config();
 
 const userRoutes = require("./routes/user");
 
@@ -9,7 +10,7 @@ const app = express();
 
 mongoose
   .connect(
-    "mongodb+srv://tom:oYOvBO1P2MFNMRiS@cluster0-6zjcg.mongodb.net/isometric",
+    process.env.DATABASE_URL,
     {
         useNewUrlParser: true,
         useUnifiedTopology: true
