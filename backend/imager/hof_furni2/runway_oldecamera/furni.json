@@ -1,0 +1,552 @@
+{
+  "assets": {
+    "runway_oldecamera_64_sd_2_0": {
+      "name": "runway_oldecamera_64_sd_2_0",
+      "x": 31,
+      "y": 15,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_0": {
+      "name": "runway_oldecamera_64_a_2_0",
+      "x": 36,
+      "y": 110,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_1": {
+      "name": "runway_oldecamera_64_a_2_1",
+      "x": 36,
+      "y": 110,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_2": {
+      "name": "runway_oldecamera_64_a_2_2",
+      "x": 36,
+      "y": 109,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_3": {
+      "name": "runway_oldecamera_64_a_2_3",
+      "x": 36,
+      "y": 108,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_4": {
+      "name": "runway_oldecamera_64_a_2_4",
+      "x": 36,
+      "y": 108,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_5": {
+      "name": "runway_oldecamera_64_a_2_5",
+      "x": 40,
+      "y": 140,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_6": {
+      "name": "runway_oldecamera_64_a_2_6",
+      "x": 37,
+      "y": 140,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_7": {
+      "name": "runway_oldecamera_64_a_2_7",
+      "x": 36,
+      "y": 149,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_8": {
+      "name": "runway_oldecamera_64_a_2_8",
+      "x": 36,
+      "y": 158,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_9": {
+      "name": "runway_oldecamera_64_a_2_9",
+      "x": 36,
+      "y": 168,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_10": {
+      "name": "runway_oldecamera_64_a_2_10",
+      "x": 36,
+      "y": 172,
+      "exists": true
+    },
+    "runway_oldecamera_64_a_2_11": {
+      "name": "runway_oldecamera_64_a_2_11",
+      "x": 36,
+      "y": 106,
+      "exists": true
+    },
+    "runway_oldecamera_32_sd_2_0": {
+      "name": "runway_oldecamera_32_sd_2_0",
+      "x": 15,
+      "y": 7,
+      "exists": true
+    },
+    "runway_oldecamera_32_a_2_0": {
+      "name": "runway_oldecamera_32_a_2_0",
+      "x": 20,
+      "y": 56,
+      "exists": true
+    },
+    "runway_oldecamera_32_a_2_1": {
+      "name": "runway_oldecamera_32_a_2_1",
+      "x": 20,
+      "y": 56,
+      "exists": true
+    },
+    "runway_oldecamera_32_a_2_2": {
+      "name": "runway_oldecamera_32_a_2_2",
+      "x": 20,
+      "y": 57,
+      "exists": true
+    },
+    "runway_oldecamera_32_a_2_3": {
+      "name": "runway_oldecamera_32_a_2_3",
+      "x": 20,
+      "y": 56,
+      "exists": true
+    },
+    "runway_oldecamera_32_a_2_4": {
+      "name": "runway_oldecamera_32_a_2_4",
+      "x": 20,
+      "y": 71,
+      "exists": true
+    },
+    "runway_oldecamera_32_a_2_5": {
+      "name": "runway_oldecamera_32_a_2_5",
+      "x": 20,
+      "y": 71,
+      "exists": true
+    },
+    "runway_oldecamera_32_a_2_6": {
+      "name": "runway_oldecamera_32_a_2_6",
+      "x": 20,
+      "y": 74,
+      "exists": true
+    },
+    "runway_oldecamera_32_a_2_7": {
+      "name": "runway_oldecamera_32_a_2_7",
+      "x": 20,
+      "y": 79,
+      "exists": true
+    },
+    "runway_oldecamera_32_a_2_8": {
+      "name": "runway_oldecamera_32_a_2_8",
+      "x": 20,
+      "y": 84,
+      "exists": true
+    },
+    "runway_oldecamera_32_a_2_9": {
+      "name": "runway_oldecamera_32_a_2_9",
+      "x": 20,
+      "y": 87,
+      "exists": true
+    },
+    "runway_oldecamera_32_a_2_10": {
+      "name": "runway_oldecamera_32_a_2_10",
+      "x": 20,
+      "y": 54,
+      "exists": true
+    },
+    "runway_oldecamera_icon_a": {
+      "name": "runway_oldecamera_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "runway_oldecamera_64_sd_4_0": {
+      "name": "runway_oldecamera_64_sd_4_0",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_sd_2_0",
+      "x": 31,
+      "y": 15,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_0": {
+      "name": "runway_oldecamera_64_a_4_0",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_0",
+      "x": 36,
+      "y": 110,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_1": {
+      "name": "runway_oldecamera_64_a_4_1",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_1",
+      "x": 36,
+      "y": 110,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_2": {
+      "name": "runway_oldecamera_64_a_4_2",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_2",
+      "x": 36,
+      "y": 109,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_3": {
+      "name": "runway_oldecamera_64_a_4_3",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_3",
+      "x": 36,
+      "y": 108,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_4": {
+      "name": "runway_oldecamera_64_a_4_4",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_4",
+      "x": 36,
+      "y": 108,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_5": {
+      "name": "runway_oldecamera_64_a_4_5",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_5",
+      "x": 40,
+      "y": 140,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_6": {
+      "name": "runway_oldecamera_64_a_4_6",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_6",
+      "x": 37,
+      "y": 140,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_7": {
+      "name": "runway_oldecamera_64_a_4_7",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_7",
+      "x": 36,
+      "y": 149,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_8": {
+      "name": "runway_oldecamera_64_a_4_8",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_8",
+      "x": 36,
+      "y": 158,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_9": {
+      "name": "runway_oldecamera_64_a_4_9",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_9",
+      "x": 36,
+      "y": 168,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_10": {
+      "name": "runway_oldecamera_64_a_4_10",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_10",
+      "x": 36,
+      "y": 172,
+      "exists": false
+    },
+    "runway_oldecamera_64_a_4_11": {
+      "name": "runway_oldecamera_64_a_4_11",
+      "flipH": 1,
+      "source": "runway_oldecamera_64_a_2_11",
+      "x": 36,
+      "y": 106,
+      "exists": false
+    },
+    "runway_oldecamera_32_sd_4_0": {
+      "name": "runway_oldecamera_32_sd_4_0",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_sd_2_0",
+      "x": 15,
+      "y": 7,
+      "exists": false
+    },
+    "runway_oldecamera_32_a_4_0": {
+      "name": "runway_oldecamera_32_a_4_0",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_a_2_0",
+      "x": 20,
+      "y": 56,
+      "exists": false
+    },
+    "runway_oldecamera_32_a_4_1": {
+      "name": "runway_oldecamera_32_a_4_1",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_a_2_1",
+      "x": 20,
+      "y": 56,
+      "exists": false
+    },
+    "runway_oldecamera_32_a_4_2": {
+      "name": "runway_oldecamera_32_a_4_2",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_a_2_2",
+      "x": 20,
+      "y": 57,
+      "exists": false
+    },
+    "runway_oldecamera_32_a_4_3": {
+      "name": "runway_oldecamera_32_a_4_3",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_a_2_3",
+      "x": 20,
+      "y": 56,
+      "exists": false
+    },
+    "runway_oldecamera_32_a_4_4": {
+      "name": "runway_oldecamera_32_a_4_4",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_a_2_4",
+      "x": 20,
+      "y": 71,
+      "exists": false
+    },
+    "runway_oldecamera_32_a_4_5": {
+      "name": "runway_oldecamera_32_a_4_5",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_a_2_5",
+      "x": 20,
+      "y": 71,
+      "exists": false
+    },
+    "runway_oldecamera_32_a_4_6": {
+      "name": "runway_oldecamera_32_a_4_6",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_a_2_6",
+      "x": 20,
+      "y": 74,
+      "exists": false
+    },
+    "runway_oldecamera_32_a_4_7": {
+      "name": "runway_oldecamera_32_a_4_7",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_a_2_7",
+      "x": 20,
+      "y": 79,
+      "exists": false
+    },
+    "runway_oldecamera_32_a_4_8": {
+      "name": "runway_oldecamera_32_a_4_8",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_a_2_8",
+      "x": 20,
+      "y": 84,
+      "exists": false
+    },
+    "runway_oldecamera_32_a_4_9": {
+      "name": "runway_oldecamera_32_a_4_9",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_a_2_9",
+      "x": 20,
+      "y": 87,
+      "exists": false
+    },
+    "runway_oldecamera_32_a_4_10": {
+      "name": "runway_oldecamera_32_a_4_10",
+      "flipH": 1,
+      "source": "runway_oldecamera_32_a_2_10",
+      "x": 20,
+      "y": 54,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  11
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "runway_oldecamera",
+    "visualization": "furniture_animated"
+  }
+}

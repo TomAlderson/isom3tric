@@ -1,0 +1,392 @@
+{
+  "assets": {
+    "christmas_sleigh_64_a_2_0": {
+      "name": "christmas_sleigh_64_a_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_64_a_4_0",
+      "x": 32,
+      "y": 64,
+      "exists": false
+    },
+    "christmas_sleigh_64_a_4_0": {
+      "name": "christmas_sleigh_64_a_4_0",
+      "x": 32,
+      "y": 64,
+      "exists": true
+    },
+    "christmas_sleigh_64_b_2_0": {
+      "name": "christmas_sleigh_64_b_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_64_b_4_0",
+      "x": -17,
+      "y": 54,
+      "exists": false
+    },
+    "christmas_sleigh_64_b_4_0": {
+      "name": "christmas_sleigh_64_b_4_0",
+      "x": -17,
+      "y": 54,
+      "exists": true
+    },
+    "christmas_sleigh_64_c_2_0": {
+      "name": "christmas_sleigh_64_c_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_64_c_4_0",
+      "x": -25,
+      "y": 33,
+      "exists": false
+    },
+    "christmas_sleigh_64_c_4_0": {
+      "name": "christmas_sleigh_64_c_4_0",
+      "x": -25,
+      "y": 33,
+      "exists": true
+    },
+    "christmas_sleigh_64_d_2_0": {
+      "name": "christmas_sleigh_64_d_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_64_d_4_0",
+      "x": -25,
+      "y": -6,
+      "exists": false
+    },
+    "christmas_sleigh_64_d_4_0": {
+      "name": "christmas_sleigh_64_d_4_0",
+      "x": -25,
+      "y": -6,
+      "exists": true
+    },
+    "christmas_sleigh_64_e_2_0": {
+      "name": "christmas_sleigh_64_e_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_64_e_4_0",
+      "x": 60,
+      "y": 42,
+      "exists": false
+    },
+    "christmas_sleigh_64_e_4_0": {
+      "name": "christmas_sleigh_64_e_4_0",
+      "x": 60,
+      "y": 42,
+      "exists": true
+    },
+    "christmas_sleigh_64_f_2_0": {
+      "name": "christmas_sleigh_64_f_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_64_f_4_0",
+      "x": 71,
+      "y": 14,
+      "exists": false
+    },
+    "christmas_sleigh_64_f_4_0": {
+      "name": "christmas_sleigh_64_f_4_0",
+      "x": 71,
+      "y": 14,
+      "exists": true
+    },
+    "christmas_sleigh_64_g_2_0": {
+      "name": "christmas_sleigh_64_g_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_64_g_4_0",
+      "x": 66,
+      "y": -5,
+      "exists": false
+    },
+    "christmas_sleigh_64_g_4_0": {
+      "name": "christmas_sleigh_64_g_4_0",
+      "x": 66,
+      "y": -5,
+      "exists": true
+    },
+    "christmas_sleigh_64_h_2_0": {
+      "name": "christmas_sleigh_64_h_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_64_h_4_0",
+      "x": 27,
+      "y": 24,
+      "exists": false
+    },
+    "christmas_sleigh_64_h_4_0": {
+      "name": "christmas_sleigh_64_h_4_0",
+      "x": 27,
+      "y": 24,
+      "exists": true
+    },
+    "christmas_sleigh_64_i_2_0": {
+      "name": "christmas_sleigh_64_i_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_64_i_4_0",
+      "x": 35,
+      "y": 10,
+      "exists": false
+    },
+    "christmas_sleigh_64_i_4_0": {
+      "name": "christmas_sleigh_64_i_4_0",
+      "x": 35,
+      "y": 10,
+      "exists": true
+    },
+    "christmas_sleigh_64_j_2_0": {
+      "name": "christmas_sleigh_64_j_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_64_j_4_0",
+      "x": 20,
+      "y": -22,
+      "exists": false
+    },
+    "christmas_sleigh_64_j_4_0": {
+      "name": "christmas_sleigh_64_j_4_0",
+      "x": 20,
+      "y": -22,
+      "exists": true
+    },
+    "christmas_sleigh_64_sd_2_0": {
+      "name": "christmas_sleigh_64_sd_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_64_sd_4_0",
+      "x": 51,
+      "y": 11,
+      "exists": false
+    },
+    "christmas_sleigh_64_sd_4_0": {
+      "name": "christmas_sleigh_64_sd_4_0",
+      "x": 51,
+      "y": 11,
+      "exists": true
+    },
+    "christmas_sleigh_icon_a": {
+      "name": "christmas_sleigh_icon_a",
+      "x": 15,
+      "y": 12,
+      "exists": true
+    },
+    "christmas_sleigh_32_a_2_0": {
+      "name": "christmas_sleigh_32_a_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_32_a_4_0",
+      "x": 17,
+      "y": 31,
+      "exists": false
+    },
+    "christmas_sleigh_32_a_4_0": {
+      "name": "christmas_sleigh_32_a_4_0",
+      "x": 17,
+      "y": 31,
+      "exists": true
+    },
+    "christmas_sleigh_32_b_2_0": {
+      "name": "christmas_sleigh_32_b_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_32_b_4_0",
+      "x": -10,
+      "y": 25,
+      "exists": false
+    },
+    "christmas_sleigh_32_b_4_0": {
+      "name": "christmas_sleigh_32_b_4_0",
+      "x": -10,
+      "y": 25,
+      "exists": true
+    },
+    "christmas_sleigh_32_c_2_0": {
+      "name": "christmas_sleigh_32_c_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_32_c_4_0",
+      "x": -13,
+      "y": 14,
+      "exists": false
+    },
+    "christmas_sleigh_32_c_4_0": {
+      "name": "christmas_sleigh_32_c_4_0",
+      "x": -13,
+      "y": 14,
+      "exists": true
+    },
+    "christmas_sleigh_32_d_2_0": {
+      "name": "christmas_sleigh_32_d_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_32_d_4_0",
+      "x": 30,
+      "y": 19,
+      "exists": false
+    },
+    "christmas_sleigh_32_d_4_0": {
+      "name": "christmas_sleigh_32_d_4_0",
+      "x": 30,
+      "y": 19,
+      "exists": true
+    },
+    "christmas_sleigh_32_e_2_0": {
+      "name": "christmas_sleigh_32_e_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_32_e_4_0",
+      "x": 38,
+      "y": 8,
+      "exists": false
+    },
+    "christmas_sleigh_32_e_4_0": {
+      "name": "christmas_sleigh_32_e_4_0",
+      "x": 38,
+      "y": 8,
+      "exists": true
+    },
+    "christmas_sleigh_32_f_2_0": {
+      "name": "christmas_sleigh_32_f_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_32_f_4_0",
+      "x": 13,
+      "y": 10,
+      "exists": false
+    },
+    "christmas_sleigh_32_f_4_0": {
+      "name": "christmas_sleigh_32_f_4_0",
+      "x": 13,
+      "y": 10,
+      "exists": true
+    },
+    "christmas_sleigh_32_g_2_0": {
+      "name": "christmas_sleigh_32_g_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_32_g_4_0",
+      "x": 17,
+      "y": 4,
+      "exists": false
+    },
+    "christmas_sleigh_32_g_4_0": {
+      "name": "christmas_sleigh_32_g_4_0",
+      "x": 17,
+      "y": 4,
+      "exists": true
+    },
+    "christmas_sleigh_32_sd_2_0": {
+      "name": "christmas_sleigh_32_sd_2_0",
+      "flipH": 1,
+      "source": "christmas_sleigh_32_sd_4_0",
+      "x": 30,
+      "y": 6,
+      "exists": false
+    },
+    "christmas_sleigh_32_sd_4_0": {
+      "name": "christmas_sleigh_32_sd_4_0",
+      "x": 30,
+      "y": 6,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 1.1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 7,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -10
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 1700
+        },
+        {
+          "layerId": 3,
+          "z": 900
+        },
+        {
+          "layerId": 4,
+          "z": 1200
+        },
+        {
+          "layerId": 5,
+          "z": 1200
+        },
+        {
+          "layerId": 6,
+          "z": 2120
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 10,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -10
+        },
+        {
+          "layerId": 1,
+          "z": 400
+        },
+        {
+          "layerId": 2,
+          "z": 1200
+        },
+        {
+          "layerId": 3,
+          "z": 100
+        },
+        {
+          "layerId": 4,
+          "z": 950
+        },
+        {
+          "layerId": 5,
+          "z": 1200
+        },
+        {
+          "layerId": 6,
+          "z": 1200
+        },
+        {
+          "layerId": 7,
+          "z": 1950
+        },
+        {
+          "layerId": 8,
+          "z": 2110
+        },
+        {
+          "layerId": 9,
+          "z": 1990
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "christmas_sleigh",
+    "visualization": "furniture_static"
+  }
+}

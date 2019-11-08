@@ -1,0 +1,490 @@
+{
+  "assets": {
+    "dimmer_steampunk_32_c_2_0": {
+      "name": "dimmer_steampunk_32_c_2_0",
+      "x": 7,
+      "y": -4,
+      "exists": true
+    },
+    "dimmer_steampunk_32_a_2_0": {
+      "name": "dimmer_steampunk_32_a_2_0",
+      "x": 9,
+      "y": 10,
+      "exists": true
+    },
+    "dimmer_steampunk_32_a_2_1": {
+      "name": "dimmer_steampunk_32_a_2_1",
+      "x": 9,
+      "y": 10,
+      "exists": true
+    },
+    "dimmer_steampunk_32_b_2_0": {
+      "name": "dimmer_steampunk_32_b_2_0",
+      "x": 8,
+      "y": -10,
+      "exists": false
+    },
+    "dimmer_steampunk_32_b_2_1": {
+      "name": "dimmer_steampunk_32_b_2_1",
+      "x": 3,
+      "y": 2,
+      "exists": true
+    },
+    "dimmer_steampunk_32_b_2_2": {
+      "name": "dimmer_steampunk_32_b_2_2",
+      "x": 5,
+      "y": 3,
+      "exists": true
+    },
+    "dimmer_steampunk_32_b_2_3": {
+      "name": "dimmer_steampunk_32_b_2_3",
+      "x": 6,
+      "y": 4,
+      "exists": true
+    },
+    "dimmer_steampunk_32_b_2_4": {
+      "name": "dimmer_steampunk_32_b_2_4",
+      "x": 7,
+      "y": 5,
+      "exists": true
+    },
+    "dimmer_steampunk_32_b_2_5": {
+      "name": "dimmer_steampunk_32_b_2_5",
+      "x": 9,
+      "y": 6,
+      "exists": true
+    },
+    "dimmer_steampunk_64_c_2_0": {
+      "name": "dimmer_steampunk_64_c_2_0",
+      "x": 15,
+      "y": -11,
+      "exists": true
+    },
+    "dimmer_steampunk_64_a_2_0": {
+      "name": "dimmer_steampunk_64_a_2_0",
+      "x": 15,
+      "y": 20,
+      "exists": true
+    },
+    "dimmer_steampunk_64_a_2_1": {
+      "name": "dimmer_steampunk_64_a_2_1",
+      "x": 15,
+      "y": 20,
+      "exists": true
+    },
+    "dimmer_steampunk_64_b_2_0": {
+      "name": "dimmer_steampunk_64_b_2_0",
+      "x": -8,
+      "y": -11,
+      "exists": true
+    },
+    "dimmer_steampunk_64_b_2_1": {
+      "name": "dimmer_steampunk_64_b_2_1",
+      "x": 13,
+      "y": 3,
+      "exists": true
+    },
+    "dimmer_steampunk_64_b_2_2": {
+      "name": "dimmer_steampunk_64_b_2_2",
+      "x": 5,
+      "y": 6,
+      "exists": true
+    },
+    "dimmer_steampunk_64_b_2_3": {
+      "name": "dimmer_steampunk_64_b_2_3",
+      "x": 5,
+      "y": 8,
+      "exists": true
+    },
+    "dimmer_steampunk_64_b_2_4": {
+      "name": "dimmer_steampunk_64_b_2_4",
+      "x": 9,
+      "y": 10,
+      "exists": true
+    },
+    "dimmer_steampunk_64_b_2_5": {
+      "name": "dimmer_steampunk_64_b_2_5",
+      "x": 11,
+      "y": 12,
+      "exists": true
+    },
+    "dimmer_steampunk_icon_a": {
+      "name": "dimmer_steampunk_icon_a",
+      "x": 11,
+      "y": 14,
+      "exists": true
+    },
+    "dimmer_steampunk_32_c_4_0": {
+      "name": "dimmer_steampunk_32_c_4_0",
+      "flipH": 1,
+      "source": "dimmer_steampunk_32_c_2_0",
+      "x": 7,
+      "y": -4,
+      "exists": false
+    },
+    "dimmer_steampunk_32_a_4_0": {
+      "name": "dimmer_steampunk_32_a_4_0",
+      "flipH": 1,
+      "source": "dimmer_steampunk_32_a_2_0",
+      "x": 9,
+      "y": 10,
+      "exists": false
+    },
+    "dimmer_steampunk_32_a_4_1": {
+      "name": "dimmer_steampunk_32_a_4_1",
+      "flipH": 1,
+      "source": "dimmer_steampunk_32_a_2_1",
+      "x": 9,
+      "y": 10,
+      "exists": false
+    },
+    "dimmer_steampunk_32_b_4_0": {
+      "name": "dimmer_steampunk_32_b_4_0",
+      "flipH": 1,
+      "source": "dimmer_steampunk_32_b_2_0",
+      "x": 8,
+      "y": -10,
+      "exists": false
+    },
+    "dimmer_steampunk_32_b_4_1": {
+      "name": "dimmer_steampunk_32_b_4_1",
+      "flipH": 1,
+      "source": "dimmer_steampunk_32_b_2_1",
+      "x": 3,
+      "y": 2,
+      "exists": false
+    },
+    "dimmer_steampunk_32_b_4_2": {
+      "name": "dimmer_steampunk_32_b_4_2",
+      "flipH": 1,
+      "source": "dimmer_steampunk_32_b_2_2",
+      "x": 5,
+      "y": 3,
+      "exists": false
+    },
+    "dimmer_steampunk_32_b_4_3": {
+      "name": "dimmer_steampunk_32_b_4_3",
+      "flipH": 1,
+      "source": "dimmer_steampunk_32_b_2_3",
+      "x": 6,
+      "y": 4,
+      "exists": false
+    },
+    "dimmer_steampunk_32_b_4_4": {
+      "name": "dimmer_steampunk_32_b_4_4",
+      "flipH": 1,
+      "source": "dimmer_steampunk_32_b_2_4",
+      "x": 7,
+      "y": 5,
+      "exists": false
+    },
+    "dimmer_steampunk_32_b_4_5": {
+      "name": "dimmer_steampunk_32_b_4_5",
+      "flipH": 1,
+      "source": "dimmer_steampunk_32_b_2_5",
+      "x": 9,
+      "y": 6,
+      "exists": false
+    },
+    "dimmer_steampunk_64_c_4_0": {
+      "name": "dimmer_steampunk_64_c_4_0",
+      "flipH": 1,
+      "source": "dimmer_steampunk_64_c_2_0",
+      "x": 15,
+      "y": -11,
+      "exists": false
+    },
+    "dimmer_steampunk_64_a_4_0": {
+      "name": "dimmer_steampunk_64_a_4_0",
+      "flipH": 1,
+      "source": "dimmer_steampunk_64_a_2_0",
+      "x": 15,
+      "y": 20,
+      "exists": false
+    },
+    "dimmer_steampunk_64_a_4_1": {
+      "name": "dimmer_steampunk_64_a_4_1",
+      "flipH": 1,
+      "source": "dimmer_steampunk_64_a_2_1",
+      "x": 15,
+      "y": 20,
+      "exists": false
+    },
+    "dimmer_steampunk_64_b_4_0": {
+      "name": "dimmer_steampunk_64_b_4_0",
+      "flipH": 1,
+      "source": "dimmer_steampunk_64_b_2_0",
+      "x": -8,
+      "y": -11,
+      "exists": false
+    },
+    "dimmer_steampunk_64_b_4_1": {
+      "name": "dimmer_steampunk_64_b_4_1",
+      "flipH": 1,
+      "source": "dimmer_steampunk_64_b_2_1",
+      "x": 13,
+      "y": 3,
+      "exists": false
+    },
+    "dimmer_steampunk_64_b_4_2": {
+      "name": "dimmer_steampunk_64_b_4_2",
+      "flipH": 1,
+      "source": "dimmer_steampunk_64_b_2_2",
+      "x": 5,
+      "y": 6,
+      "exists": false
+    },
+    "dimmer_steampunk_64_b_4_3": {
+      "name": "dimmer_steampunk_64_b_4_3",
+      "flipH": 1,
+      "source": "dimmer_steampunk_64_b_2_3",
+      "x": 5,
+      "y": 8,
+      "exists": false
+    },
+    "dimmer_steampunk_64_b_4_4": {
+      "name": "dimmer_steampunk_64_b_4_4",
+      "flipH": 1,
+      "source": "dimmer_steampunk_64_b_2_4",
+      "x": 9,
+      "y": 10,
+      "exists": false
+    },
+    "dimmer_steampunk_64_b_4_5": {
+      "name": "dimmer_steampunk_64_b_4_5",
+      "flipH": 1,
+      "source": "dimmer_steampunk_64_b_2_5",
+      "x": 11,
+      "y": 12,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 0.2,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2995
+        },
+        {
+          "layerId": 1,
+          "z": -2995
+        },
+        {
+          "layerId": 2,
+          "alpha": 51,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2995
+        },
+        {
+          "layerId": 1,
+          "z": -2995
+        },
+        {
+          "layerId": 2,
+          "alpha": 51,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_roomdimmer",
+    "type": "dimmer_steampunk",
+    "visualization": "furniture_animated"
+  }
+}

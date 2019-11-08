@@ -1,0 +1,326 @@
+{
+  "assets": {
+    "tiki_parasol_32_a_0_0": {
+      "name": "tiki_parasol_32_a_0_0",
+      "x": 6,
+      "y": 35,
+      "exists": true
+    },
+    "tiki_parasol_32_a_0_1": {
+      "name": "tiki_parasol_32_a_0_1",
+      "source": "tiki_parasol_32_a_0_0",
+      "x": 6,
+      "y": 35,
+      "exists": false
+    },
+    "tiki_parasol_32_b_0_0": {
+      "name": "tiki_parasol_32_b_0_0",
+      "x": 32,
+      "y": 85,
+      "exists": true
+    },
+    "tiki_parasol_32_b_0_1": {
+      "name": "tiki_parasol_32_b_0_1",
+      "source": "tiki_parasol_32_b_0_0",
+      "x": 32,
+      "y": 85,
+      "exists": false
+    },
+    "tiki_parasol_32_c_0_0": {
+      "name": "tiki_parasol_32_c_0_0",
+      "x": 32,
+      "y": 52,
+      "exists": true
+    },
+    "tiki_parasol_32_c_0_1": {
+      "name": "tiki_parasol_32_c_0_1",
+      "x": 33,
+      "y": 52,
+      "exists": true
+    },
+    "tiki_parasol_32_d_0_0": {
+      "name": "tiki_parasol_32_d_0_0",
+      "x": 40,
+      "y": 58,
+      "exists": true
+    },
+    "tiki_parasol_32_d_0_1": {
+      "name": "tiki_parasol_32_d_0_1",
+      "x": 40,
+      "y": 58,
+      "exists": true
+    },
+    "tiki_parasol_64_a_0_0": {
+      "name": "tiki_parasol_64_a_0_0",
+      "x": 13,
+      "y": 69,
+      "exists": true
+    },
+    "tiki_parasol_64_a_0_1": {
+      "name": "tiki_parasol_64_a_0_1",
+      "source": "tiki_parasol_64_a_0_0",
+      "x": 13,
+      "y": 69,
+      "exists": false
+    },
+    "tiki_parasol_64_b_0_0": {
+      "name": "tiki_parasol_64_b_0_0",
+      "x": 66,
+      "y": 170,
+      "exists": true
+    },
+    "tiki_parasol_64_b_0_1": {
+      "name": "tiki_parasol_64_b_0_1",
+      "source": "tiki_parasol_64_b_0_0",
+      "x": 66,
+      "y": 170,
+      "exists": false
+    },
+    "tiki_parasol_64_c_0_0": {
+      "name": "tiki_parasol_64_c_0_0",
+      "x": 65,
+      "y": 106,
+      "exists": true
+    },
+    "tiki_parasol_64_c_0_1": {
+      "name": "tiki_parasol_64_c_0_1",
+      "x": 68,
+      "y": 106,
+      "exists": true
+    },
+    "tiki_parasol_64_d_0_0": {
+      "name": "tiki_parasol_64_d_0_0",
+      "x": 81,
+      "y": 119,
+      "exists": true
+    },
+    "tiki_parasol_64_d_0_1": {
+      "name": "tiki_parasol_64_d_0_1",
+      "x": 81,
+      "y": 119,
+      "exists": true
+    },
+    "tiki_parasol_64_sd_0_0": {
+      "name": "tiki_parasol_64_sd_0_0",
+      "x": 14,
+      "y": 10,
+      "exists": true
+    },
+    "tiki_parasol_icon_a": {
+      "name": "tiki_parasol_icon_a",
+      "x": 12,
+      "y": 15,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 3,
+          "ink": "ADD"
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 2,
+          "z": 900
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "z": 1001
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "tiki_parasol",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "assets": {
+    "xmas08_dvdr1_32_a_0_0": {
+      "name": "xmas08_dvdr1_32_a_0_0",
+      "flipH": 1,
+      "source": "xmas08_dvdr1_32_a_2_0",
+      "x": 14,
+      "y": 28,
+      "exists": false
+    },
+    "xmas08_dvdr1_32_a_2_0": {
+      "name": "xmas08_dvdr1_32_a_2_0",
+      "x": 14,
+      "y": 28,
+      "exists": true
+    },
+    "xmas08_dvdr1_32_b_0_0": {
+      "name": "xmas08_dvdr1_32_b_0_0",
+      "flipH": 1,
+      "source": "xmas08_dvdr1_32_b_2_0",
+      "x": 29,
+      "y": 19,
+      "exists": false
+    },
+    "xmas08_dvdr1_32_b_2_0": {
+      "name": "xmas08_dvdr1_32_b_2_0",
+      "x": 29,
+      "y": 19,
+      "exists": true
+    },
+    "xmas08_dvdr1_32_sd_0_0": {
+      "name": "xmas08_dvdr1_32_sd_0_0",
+      "flipH": 1,
+      "source": "xmas08_dvdr1_32_sd_2_0",
+      "x": 28,
+      "y": 2,
+      "exists": false
+    },
+    "xmas08_dvdr1_32_sd_2_0": {
+      "name": "xmas08_dvdr1_32_sd_2_0",
+      "x": 28,
+      "y": 2,
+      "exists": true
+    },
+    "xmas08_dvdr1_64_a_0_0": {
+      "name": "xmas08_dvdr1_64_a_0_0",
+      "x": 25,
+      "y": 50,
+      "exists": true
+    },
+    "xmas08_dvdr1_64_a_2_0": {
+      "name": "xmas08_dvdr1_64_a_2_0",
+      "x": 23,
+      "y": 50,
+      "exists": true
+    },
+    "xmas08_dvdr1_64_b_0_0": {
+      "name": "xmas08_dvdr1_64_b_0_0",
+      "x": -9,
+      "y": 36,
+      "exists": true
+    },
+    "xmas08_dvdr1_64_b_2_0": {
+      "name": "xmas08_dvdr1_64_b_2_0",
+      "x": 56,
+      "y": 35,
+      "exists": true
+    },
+    "xmas08_dvdr1_64_c_0_0": {
+      "name": "xmas08_dvdr1_64_c_0_0",
+      "x": 27,
+      "y": 54,
+      "exists": true
+    },
+    "xmas08_dvdr1_64_c_2_0": {
+      "name": "xmas08_dvdr1_64_c_2_0",
+      "x": 25,
+      "y": 55,
+      "exists": true
+    },
+    "xmas08_dvdr1_64_d_0_0": {
+      "name": "xmas08_dvdr1_64_d_0_0",
+      "x": -9,
+      "y": 39,
+      "exists": true
+    },
+    "xmas08_dvdr1_64_d_2_0": {
+      "name": "xmas08_dvdr1_64_d_2_0",
+      "x": 58,
+      "y": 39,
+      "exists": true
+    },
+    "xmas08_dvdr1_64_sd_0_0": {
+      "name": "xmas08_dvdr1_64_sd_0_0",
+      "flipH": 1,
+      "source": "xmas08_dvdr1_64_sd_2_0",
+      "x": 57,
+      "y": 5,
+      "exists": false
+    },
+    "xmas08_dvdr1_64_sd_2_0": {
+      "name": "xmas08_dvdr1_64_sd_2_0",
+      "x": 57,
+      "y": 5,
+      "exists": true
+    },
+    "xmas08_dvdr1_icon_a": {
+      "name": "xmas08_dvdr1_icon_a",
+      "x": 16,
+      "y": 16,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 980
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "alpha": 217
+        },
+        {
+          "layerId": 1,
+          "alpha": 217,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1
+        },
+        {
+          "layerId": 3,
+          "z": 1001
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "xmas08_dvdr1",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,992 @@
+{
+  "assets": {
+    "pirate_mast3grp_32_a_0_0": {
+      "name": "pirate_mast3grp_32_a_0_0",
+      "x": 47,
+      "y": 86,
+      "exists": true
+    },
+    "pirate_mast3grp_32_e_0_0": {
+      "name": "pirate_mast3grp_32_e_0_0",
+      "x": 38,
+      "y": 74,
+      "exists": true
+    },
+    "pirate_mast3grp_32_e_0_1": {
+      "name": "pirate_mast3grp_32_e_0_1",
+      "x": 38,
+      "y": 72,
+      "exists": true
+    },
+    "pirate_mast3grp_32_b_0_0": {
+      "name": "pirate_mast3grp_32_b_0_0",
+      "x": 10,
+      "y": 79,
+      "exists": true
+    },
+    "pirate_mast3grp_32_f_0_0": {
+      "name": "pirate_mast3grp_32_f_0_0",
+      "x": -6,
+      "y": 56,
+      "exists": true
+    },
+    "pirate_mast3grp_32_f_0_1": {
+      "name": "pirate_mast3grp_32_f_0_1",
+      "x": -6,
+      "y": 56,
+      "exists": true
+    },
+    "pirate_mast3grp_32_c_0_0": {
+      "name": "pirate_mast3grp_32_c_0_0",
+      "x": -16,
+      "y": 57,
+      "exists": true
+    },
+    "pirate_mast3grp_32_g_0_0": {
+      "name": "pirate_mast3grp_32_g_0_0",
+      "x": -16,
+      "y": 51,
+      "exists": true
+    },
+    "pirate_mast3grp_32_g_0_1": {
+      "name": "pirate_mast3grp_32_g_0_1",
+      "x": -16,
+      "y": 51,
+      "exists": true
+    },
+    "pirate_mast3grp_32_d_0_0": {
+      "name": "pirate_mast3grp_32_d_0_0",
+      "x": -32,
+      "y": 50,
+      "exists": true
+    },
+    "pirate_mast3grp_32_h_0_0": {
+      "name": "pirate_mast3grp_32_h_0_0",
+      "x": -32,
+      "y": 43,
+      "exists": true
+    },
+    "pirate_mast3grp_32_h_0_1": {
+      "name": "pirate_mast3grp_32_h_0_1",
+      "x": -32,
+      "y": 44,
+      "exists": true
+    },
+    "pirate_mast3grp_64_a_0_0": {
+      "name": "pirate_mast3grp_64_a_0_0",
+      "x": 92,
+      "y": 171,
+      "exists": true
+    },
+    "pirate_mast3grp_64_e_0_0": {
+      "name": "pirate_mast3grp_64_e_0_0",
+      "x": 75,
+      "y": 151,
+      "exists": true
+    },
+    "pirate_mast3grp_64_e_0_1": {
+      "name": "pirate_mast3grp_64_e_0_1",
+      "x": 77,
+      "y": 151,
+      "exists": true
+    },
+    "pirate_mast3grp_64_b_0_0": {
+      "name": "pirate_mast3grp_64_b_0_0",
+      "x": 18,
+      "y": 157,
+      "exists": true
+    },
+    "pirate_mast3grp_64_f_0_0": {
+      "name": "pirate_mast3grp_64_f_0_0",
+      "x": -12,
+      "y": 112,
+      "exists": true
+    },
+    "pirate_mast3grp_64_f_0_1": {
+      "name": "pirate_mast3grp_64_f_0_1",
+      "x": -12,
+      "y": 112,
+      "exists": true
+    },
+    "pirate_mast3grp_64_c_0_0": {
+      "name": "pirate_mast3grp_64_c_0_0",
+      "x": -32,
+      "y": 112,
+      "exists": true
+    },
+    "pirate_mast3grp_64_g_0_0": {
+      "name": "pirate_mast3grp_64_g_0_0",
+      "x": -32,
+      "y": 102,
+      "exists": true
+    },
+    "pirate_mast3grp_64_g_0_1": {
+      "name": "pirate_mast3grp_64_g_0_1",
+      "x": -32,
+      "y": 102,
+      "exists": true
+    },
+    "pirate_mast3grp_64_d_0_0": {
+      "name": "pirate_mast3grp_64_d_0_0",
+      "x": -64,
+      "y": 99,
+      "exists": true
+    },
+    "pirate_mast3grp_64_h_0_0": {
+      "name": "pirate_mast3grp_64_h_0_0",
+      "x": -64,
+      "y": 86,
+      "exists": true
+    },
+    "pirate_mast3grp_64_h_0_1": {
+      "name": "pirate_mast3grp_64_h_0_1",
+      "x": -64,
+      "y": 86,
+      "exists": true
+    },
+    "pirate_mast3grp_icon_a": {
+      "name": "pirate_mast3grp_icon_a",
+      "x": 27,
+      "y": 92,
+      "exists": true
+    },
+    "pirate_mast3grp_icon_b": {
+      "name": "pirate_mast3grp_icon_b",
+      "x": 24,
+      "y": 85,
+      "exists": true
+    },
+    "pirate_mast3grp_32_a_2_0": {
+      "name": "pirate_mast3grp_32_a_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_a_0_0",
+      "x": 47,
+      "y": 86,
+      "exists": false
+    },
+    "pirate_mast3grp_32_e_2_0": {
+      "name": "pirate_mast3grp_32_e_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_e_0_0",
+      "x": 38,
+      "y": 74,
+      "exists": false
+    },
+    "pirate_mast3grp_32_e_2_1": {
+      "name": "pirate_mast3grp_32_e_2_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_e_0_1",
+      "x": 38,
+      "y": 74,
+      "exists": false
+    },
+    "pirate_mast3grp_32_b_2_0": {
+      "name": "pirate_mast3grp_32_b_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_b_0_0",
+      "x": 10,
+      "y": 79,
+      "exists": false
+    },
+    "pirate_mast3grp_32_f_2_0": {
+      "name": "pirate_mast3grp_32_f_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_f_0_0",
+      "x": -6,
+      "y": 56,
+      "exists": false
+    },
+    "pirate_mast3grp_32_f_2_1": {
+      "name": "pirate_mast3grp_32_f_2_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_f_0_1",
+      "x": -6,
+      "y": 56,
+      "exists": false
+    },
+    "pirate_mast3grp_32_c_2_0": {
+      "name": "pirate_mast3grp_32_c_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_c_0_0",
+      "x": -16,
+      "y": 57,
+      "exists": false
+    },
+    "pirate_mast3grp_32_g_2_0": {
+      "name": "pirate_mast3grp_32_g_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_g_0_0",
+      "x": -16,
+      "y": 51,
+      "exists": false
+    },
+    "pirate_mast3grp_32_g_2_1": {
+      "name": "pirate_mast3grp_32_g_2_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_g_0_1",
+      "x": -16,
+      "y": 51,
+      "exists": false
+    },
+    "pirate_mast3grp_32_d_2_0": {
+      "name": "pirate_mast3grp_32_d_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_d_0_0",
+      "x": -32,
+      "y": 50,
+      "exists": false
+    },
+    "pirate_mast3grp_32_h_2_0": {
+      "name": "pirate_mast3grp_32_h_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_h_0_0",
+      "x": -32,
+      "y": 43,
+      "exists": false
+    },
+    "pirate_mast3grp_32_h_2_1": {
+      "name": "pirate_mast3grp_32_h_2_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_h_0_1",
+      "x": -32,
+      "y": 43,
+      "exists": false
+    },
+    "pirate_mast3grp_64_a_2_0": {
+      "name": "pirate_mast3grp_64_a_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_a_0_0",
+      "x": 92,
+      "y": 171,
+      "exists": false
+    },
+    "pirate_mast3grp_64_e_2_0": {
+      "name": "pirate_mast3grp_64_e_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_e_0_0",
+      "x": 75,
+      "y": 151,
+      "exists": false
+    },
+    "pirate_mast3grp_64_e_2_1": {
+      "name": "pirate_mast3grp_64_e_2_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_e_0_1",
+      "x": 77,
+      "y": 151,
+      "exists": false
+    },
+    "pirate_mast3grp_64_b_2_0": {
+      "name": "pirate_mast3grp_64_b_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_b_0_0",
+      "x": 18,
+      "y": 157,
+      "exists": false
+    },
+    "pirate_mast3grp_64_f_2_0": {
+      "name": "pirate_mast3grp_64_f_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_f_0_0",
+      "x": -12,
+      "y": 112,
+      "exists": false
+    },
+    "pirate_mast3grp_64_f_2_1": {
+      "name": "pirate_mast3grp_64_f_2_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_f_0_1",
+      "x": -12,
+      "y": 112,
+      "exists": false
+    },
+    "pirate_mast3grp_64_c_2_0": {
+      "name": "pirate_mast3grp_64_c_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_c_0_0",
+      "x": -32,
+      "y": 112,
+      "exists": false
+    },
+    "pirate_mast3grp_64_g_2_0": {
+      "name": "pirate_mast3grp_64_g_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_g_0_0",
+      "x": -32,
+      "y": 102,
+      "exists": false
+    },
+    "pirate_mast3grp_64_g_2_1": {
+      "name": "pirate_mast3grp_64_g_2_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_g_0_1",
+      "x": -32,
+      "y": 102,
+      "exists": false
+    },
+    "pirate_mast3grp_64_d_2_0": {
+      "name": "pirate_mast3grp_64_d_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_d_0_0",
+      "x": -64,
+      "y": 99,
+      "exists": false
+    },
+    "pirate_mast3grp_64_h_2_0": {
+      "name": "pirate_mast3grp_64_h_2_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_h_0_0",
+      "x": -64,
+      "y": 86,
+      "exists": false
+    },
+    "pirate_mast3grp_64_h_2_1": {
+      "name": "pirate_mast3grp_64_h_2_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_h_0_1",
+      "x": -64,
+      "y": 86,
+      "exists": false
+    },
+    "pirate_mast3grp_32_a_4_0": {
+      "name": "pirate_mast3grp_32_a_4_0",
+      "x": 56,
+      "y": 81,
+      "exists": true
+    },
+    "pirate_mast3grp_32_b_4_0": {
+      "name": "pirate_mast3grp_32_b_4_0",
+      "x": 46,
+      "y": 79,
+      "exists": true
+    },
+    "pirate_mast3grp_32_c_4_0": {
+      "name": "pirate_mast3grp_32_c_4_0",
+      "x": -16,
+      "y": 47,
+      "exists": true
+    },
+    "pirate_mast3grp_32_d_4_0": {
+      "name": "pirate_mast3grp_32_d_4_0",
+      "x": -32,
+      "y": 41,
+      "exists": true
+    },
+    "pirate_mast3grp_32_e_4_0": {
+      "name": "pirate_mast3grp_32_e_4_0",
+      "x": 52,
+      "y": 73,
+      "exists": true
+    },
+    "pirate_mast3grp_32_f_4_0": {
+      "name": "pirate_mast3grp_32_f_4_0",
+      "x": 8,
+      "y": 55,
+      "exists": true
+    },
+    "pirate_mast3grp_32_g_4_0": {
+      "name": "pirate_mast3grp_32_g_4_0",
+      "x": -16,
+      "y": 44,
+      "exists": true
+    },
+    "pirate_mast3grp_32_h_4_0": {
+      "name": "pirate_mast3grp_32_h_4_0",
+      "x": -31,
+      "y": -18,
+      "exists": false
+    },
+    "pirate_mast3grp_32_e_4_1": {
+      "name": "pirate_mast3grp_32_e_4_1",
+      "x": 52,
+      "y": 73,
+      "exists": true
+    },
+    "pirate_mast3grp_32_f_4_1": {
+      "name": "pirate_mast3grp_32_f_4_1",
+      "x": 8,
+      "y": 54,
+      "exists": true
+    },
+    "pirate_mast3grp_32_g_4_1": {
+      "name": "pirate_mast3grp_32_g_4_1",
+      "x": -16,
+      "y": 43,
+      "exists": true
+    },
+    "pirate_mast3grp_32_h_4_1": {
+      "name": "pirate_mast3grp_32_h_4_1",
+      "x": -31,
+      "y": -18,
+      "exists": true
+    },
+    "pirate_mast3grp_64_a_4_0": {
+      "name": "pirate_mast3grp_64_a_4_0",
+      "x": 108,
+      "y": 163,
+      "exists": true
+    },
+    "pirate_mast3grp_64_b_4_0": {
+      "name": "pirate_mast3grp_64_b_4_0",
+      "x": 15,
+      "y": 157,
+      "exists": true
+    },
+    "pirate_mast3grp_64_c_4_0": {
+      "name": "pirate_mast3grp_64_c_4_0",
+      "x": -32,
+      "y": 96,
+      "exists": true
+    },
+    "pirate_mast3grp_64_d_4_0": {
+      "name": "pirate_mast3grp_64_d_4_0",
+      "x": -64,
+      "y": 82,
+      "exists": true
+    },
+    "pirate_mast3grp_64_e_4_0": {
+      "name": "pirate_mast3grp_64_e_4_0",
+      "x": 108,
+      "y": 150,
+      "exists": true
+    },
+    "pirate_mast3grp_64_f_4_0": {
+      "name": "pirate_mast3grp_64_f_4_0",
+      "x": 15,
+      "y": 111,
+      "exists": true
+    },
+    "pirate_mast3grp_64_g_4_0": {
+      "name": "pirate_mast3grp_64_g_4_0",
+      "x": -32,
+      "y": 89,
+      "exists": true
+    },
+    "pirate_mast3grp_64_h_4_0": {
+      "name": "pirate_mast3grp_64_h_4_0",
+      "x": -64,
+      "y": -29,
+      "exists": true
+    },
+    "pirate_mast3grp_64_e_4_1": {
+      "name": "pirate_mast3grp_64_e_4_1",
+      "x": 108,
+      "y": 150,
+      "exists": true
+    },
+    "pirate_mast3grp_64_f_4_1": {
+      "name": "pirate_mast3grp_64_f_4_1",
+      "x": 15,
+      "y": 111,
+      "exists": true
+    },
+    "pirate_mast3grp_64_g_4_1": {
+      "name": "pirate_mast3grp_64_g_4_1",
+      "x": -32,
+      "y": 89,
+      "exists": true
+    },
+    "pirate_mast3grp_64_h_4_1": {
+      "name": "pirate_mast3grp_64_h_4_1",
+      "x": -64,
+      "y": -29,
+      "exists": true
+    },
+    "pirate_mast3grp_32_a_6_0": {
+      "name": "pirate_mast3grp_32_a_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_a_4_0",
+      "x": 56,
+      "y": 81,
+      "exists": false
+    },
+    "pirate_mast3grp_32_b_6_0": {
+      "name": "pirate_mast3grp_32_b_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_b_4_0",
+      "x": 46,
+      "y": 79,
+      "exists": false
+    },
+    "pirate_mast3grp_32_c_6_0": {
+      "name": "pirate_mast3grp_32_c_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_c_4_0",
+      "x": -16,
+      "y": 47,
+      "exists": false
+    },
+    "pirate_mast3grp_32_d_6_0": {
+      "name": "pirate_mast3grp_32_d_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_d_4_0",
+      "x": -32,
+      "y": 41,
+      "exists": false
+    },
+    "pirate_mast3grp_32_e_6_0": {
+      "name": "pirate_mast3grp_32_e_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_e_4_0",
+      "x": 52,
+      "y": 73,
+      "exists": false
+    },
+    "pirate_mast3grp_32_f_6_0": {
+      "name": "pirate_mast3grp_32_f_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_f_4_0",
+      "x": 8,
+      "y": 55,
+      "exists": false
+    },
+    "pirate_mast3grp_32_g_6_0": {
+      "name": "pirate_mast3grp_32_g_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_g_4_0",
+      "x": -16,
+      "y": 44,
+      "exists": false
+    },
+    "pirate_mast3grp_32_h_6_0": {
+      "name": "pirate_mast3grp_32_h_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_h_4_0",
+      "x": -31,
+      "y": -18,
+      "exists": false
+    },
+    "pirate_mast3grp_32_e_6_1": {
+      "name": "pirate_mast3grp_32_e_6_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_e_4_1",
+      "x": 52,
+      "y": 73,
+      "exists": false
+    },
+    "pirate_mast3grp_32_f_6_1": {
+      "name": "pirate_mast3grp_32_f_6_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_f_4_1",
+      "x": 8,
+      "y": 54,
+      "exists": false
+    },
+    "pirate_mast3grp_32_g_6_1": {
+      "name": "pirate_mast3grp_32_g_6_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_g_4_1",
+      "x": -16,
+      "y": 43,
+      "exists": false
+    },
+    "pirate_mast3grp_32_h_6_1": {
+      "name": "pirate_mast3grp_32_h_6_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_32_h_4_1",
+      "x": -31,
+      "y": -18,
+      "exists": false
+    },
+    "pirate_mast3grp_64_a_6_0": {
+      "name": "pirate_mast3grp_64_a_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_a_4_0",
+      "x": 108,
+      "y": 163,
+      "exists": false
+    },
+    "pirate_mast3grp_64_b_6_0": {
+      "name": "pirate_mast3grp_64_b_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_b_4_0",
+      "x": 15,
+      "y": 157,
+      "exists": false
+    },
+    "pirate_mast3grp_64_c_6_0": {
+      "name": "pirate_mast3grp_64_c_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_c_4_0",
+      "x": -32,
+      "y": 96,
+      "exists": false
+    },
+    "pirate_mast3grp_64_d_6_0": {
+      "name": "pirate_mast3grp_64_d_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_d_4_0",
+      "x": -64,
+      "y": 82,
+      "exists": false
+    },
+    "pirate_mast3grp_64_e_6_0": {
+      "name": "pirate_mast3grp_64_e_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_e_4_0",
+      "x": 108,
+      "y": 150,
+      "exists": false
+    },
+    "pirate_mast3grp_64_f_6_0": {
+      "name": "pirate_mast3grp_64_f_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_f_4_0",
+      "x": 15,
+      "y": 111,
+      "exists": false
+    },
+    "pirate_mast3grp_64_g_6_0": {
+      "name": "pirate_mast3grp_64_g_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_g_4_0",
+      "x": -32,
+      "y": 89,
+      "exists": false
+    },
+    "pirate_mast3grp_64_h_6_0": {
+      "name": "pirate_mast3grp_64_h_6_0",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_h_4_0",
+      "x": -64,
+      "y": -29,
+      "exists": false
+    },
+    "pirate_mast3grp_64_e_6_1": {
+      "name": "pirate_mast3grp_64_e_6_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_e_4_1",
+      "x": 108,
+      "y": 150,
+      "exists": false
+    },
+    "pirate_mast3grp_64_f_6_1": {
+      "name": "pirate_mast3grp_64_f_6_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_f_4_1",
+      "x": 15,
+      "y": 111,
+      "exists": false
+    },
+    "pirate_mast3grp_64_g_6_1": {
+      "name": "pirate_mast3grp_64_g_6_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_g_4_1",
+      "x": -32,
+      "y": 89,
+      "exists": false
+    },
+    "pirate_mast3grp_64_h_6_1": {
+      "name": "pirate_mast3grp_64_h_6_1",
+      "flipH": 1,
+      "source": "pirate_mast3grp_64_h_4_1",
+      "x": -64,
+      "y": -29,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 4.7
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {},
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 8,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            },
+            {
+              "layerId": 7,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 2000
+        },
+        {
+          "layerId": 4,
+          "z": -1000
+        },
+        {
+          "layerId": 5
+        },
+        {
+          "layerId": 6,
+          "z": 1000
+        },
+        {
+          "layerId": 7,
+          "z": 2000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 8,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            },
+            {
+              "layerId": 7,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 2000
+        },
+        {
+          "layerId": 4,
+          "z": -1000
+        },
+        {
+          "layerId": 5
+        },
+        {
+          "layerId": 6,
+          "z": 1000
+        },
+        {
+          "layerId": 7,
+          "z": 2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_guild_customized",
+    "type": "pirate_mast3grp",
+    "visualization": "furniture_guild_customized"
+  }
+}

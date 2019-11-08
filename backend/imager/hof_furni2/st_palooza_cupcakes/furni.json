@@ -1,0 +1,108 @@
+{
+  "assets": {
+    "st_palooza_cupcakes_64_sd_4_0": {
+      "name": "st_palooza_cupcakes_64_sd_4_0",
+      "x": 24,
+      "y": 11,
+      "exists": true
+    },
+    "st_palooza_cupcakes_64_a_4_0": {
+      "name": "st_palooza_cupcakes_64_a_4_0",
+      "x": 24,
+      "y": 26,
+      "exists": true
+    },
+    "st_palooza_cupcakes_32_sd_4_0": {
+      "name": "st_palooza_cupcakes_32_sd_4_0",
+      "x": 12,
+      "y": 6,
+      "exists": true
+    },
+    "st_palooza_cupcakes_32_a_4_0": {
+      "name": "st_palooza_cupcakes_32_a_4_0",
+      "x": 13,
+      "y": 15,
+      "exists": true
+    },
+    "st_palooza_cupcakes_icon_a": {
+      "name": "st_palooza_cupcakes_icon_a",
+      "x": 12,
+      "y": 17,
+      "exists": true
+    },
+    "st_palooza_cupcakes_64_sd_2_0": {
+      "name": "st_palooza_cupcakes_64_sd_2_0",
+      "flipH": 1,
+      "source": "st_palooza_cupcakes_64_sd_4_0",
+      "x": 24,
+      "y": 11,
+      "exists": false
+    },
+    "st_palooza_cupcakes_64_a_2_0": {
+      "name": "st_palooza_cupcakes_64_a_2_0",
+      "flipH": 1,
+      "source": "st_palooza_cupcakes_64_a_4_0",
+      "x": 24,
+      "y": 26,
+      "exists": false
+    },
+    "st_palooza_cupcakes_32_sd_2_0": {
+      "name": "st_palooza_cupcakes_32_sd_2_0",
+      "flipH": 1,
+      "source": "st_palooza_cupcakes_32_sd_4_0",
+      "x": 12,
+      "y": 6,
+      "exists": false
+    },
+    "st_palooza_cupcakes_32_a_2_0": {
+      "name": "st_palooza_cupcakes_32_a_2_0",
+      "flipH": 1,
+      "source": "st_palooza_cupcakes_32_a_4_0",
+      "x": 13,
+      "y": 15,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "st_palooza_cupcakes",
+    "visualization": "furniture_static"
+  }
+}

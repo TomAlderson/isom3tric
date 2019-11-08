@@ -1,0 +1,129 @@
+{
+  "assets": {
+    "olympics_c16_cadorack_64_sd_2_0": {
+      "name": "olympics_c16_cadorack_64_sd_2_0",
+      "x": 23,
+      "y": 12,
+      "exists": true
+    },
+    "olympics_c16_cadorack_64_a_2_0": {
+      "name": "olympics_c16_cadorack_64_a_2_0",
+      "x": 26,
+      "y": 60,
+      "exists": true
+    },
+    "olympics_c16_cadorack_64_a_2_1": {
+      "name": "olympics_c16_cadorack_64_a_2_1",
+      "x": 26,
+      "y": 59,
+      "exists": true
+    },
+    "olympics_c16_cadorack_icon_a": {
+      "name": "olympics_c16_cadorack_icon_a",
+      "x": 12,
+      "y": 13,
+      "exists": true
+    },
+    "olympics_c16_cadorack_64_sd_4_0": {
+      "name": "olympics_c16_cadorack_64_sd_4_0",
+      "flipH": 1,
+      "source": "olympics_c16_cadorack_64_sd_2_0",
+      "x": 23,
+      "y": 12,
+      "exists": false
+    },
+    "olympics_c16_cadorack_64_a_4_0": {
+      "name": "olympics_c16_cadorack_64_a_4_0",
+      "flipH": 1,
+      "source": "olympics_c16_cadorack_64_a_2_0",
+      "x": 26,
+      "y": 60,
+      "exists": false
+    },
+    "olympics_c16_cadorack_64_a_4_1": {
+      "name": "olympics_c16_cadorack_64_a_4_1",
+      "flipH": 1,
+      "source": "olympics_c16_cadorack_64_a_2_1",
+      "x": 26,
+      "y": 59,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.5
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "olympics_c16_cadorack",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,871 @@
+{
+  "assets": {
+    "fball_flag_grp_32_a_0_0": {
+      "name": "fball_flag_grp_32_a_0_0",
+      "x": 3,
+      "y": 55,
+      "exists": true
+    },
+    "fball_flag_grp_32_b_0_0": {
+      "name": "fball_flag_grp_32_b_0_0",
+      "x": -1,
+      "y": 57,
+      "exists": true
+    },
+    "fball_flag_grp_32_b_0_1": {
+      "name": "fball_flag_grp_32_b_0_1",
+      "x": -1,
+      "y": 56,
+      "exists": true
+    },
+    "fball_flag_grp_32_b_0_2": {
+      "name": "fball_flag_grp_32_b_0_2",
+      "x": -1,
+      "y": 54,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_0_3": {
+      "name": "fball_flag_grp_32_b_0_3",
+      "x": -1,
+      "y": 53,
+      "exists": true
+    },
+    "fball_flag_grp_32_b_0_4": {
+      "name": "fball_flag_grp_32_b_0_4",
+      "x": -1,
+      "y": 53,
+      "exists": true
+    },
+    "fball_flag_grp_32_c_0_0": {
+      "name": "fball_flag_grp_32_c_0_0",
+      "x": -1,
+      "y": 55,
+      "exists": true
+    },
+    "fball_flag_grp_32_c_0_1": {
+      "name": "fball_flag_grp_32_c_0_1",
+      "x": -1,
+      "y": 55,
+      "exists": true
+    },
+    "fball_flag_grp_32_c_0_2": {
+      "name": "fball_flag_grp_32_c_0_2",
+      "x": -1,
+      "y": 53,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_0_3": {
+      "name": "fball_flag_grp_32_c_0_3",
+      "x": -1,
+      "y": 53,
+      "exists": true
+    },
+    "fball_flag_grp_32_c_0_4": {
+      "name": "fball_flag_grp_32_c_0_4",
+      "x": -1,
+      "y": 53,
+      "exists": true
+    },
+    "fball_flag_grp_32_a_2_0": {
+      "name": "fball_flag_grp_32_a_2_0",
+      "x": -6,
+      "y": 50,
+      "exists": true
+    },
+    "fball_flag_grp_64_a_0_0": {
+      "name": "fball_flag_grp_64_a_0_0",
+      "x": 6,
+      "y": 108,
+      "exists": true
+    },
+    "fball_flag_grp_64_b_0_0": {
+      "name": "fball_flag_grp_64_b_0_0",
+      "x": -2,
+      "y": 113,
+      "exists": true
+    },
+    "fball_flag_grp_64_b_0_1": {
+      "name": "fball_flag_grp_64_b_0_1",
+      "x": -2,
+      "y": 110,
+      "exists": true
+    },
+    "fball_flag_grp_64_b_0_2": {
+      "name": "fball_flag_grp_64_b_0_2",
+      "x": -2,
+      "y": 106,
+      "exists": true
+    },
+    "fball_flag_grp_64_b_0_3": {
+      "name": "fball_flag_grp_64_b_0_3",
+      "x": -2,
+      "y": 104,
+      "exists": true
+    },
+    "fball_flag_grp_64_b_0_4": {
+      "name": "fball_flag_grp_64_b_0_4",
+      "x": -2,
+      "y": 104,
+      "exists": true
+    },
+    "fball_flag_grp_64_c_0_0": {
+      "name": "fball_flag_grp_64_c_0_0",
+      "x": -2,
+      "y": 110,
+      "exists": true
+    },
+    "fball_flag_grp_64_c_0_1": {
+      "name": "fball_flag_grp_64_c_0_1",
+      "x": -2,
+      "y": 108,
+      "exists": true
+    },
+    "fball_flag_grp_64_c_0_2": {
+      "name": "fball_flag_grp_64_c_0_2",
+      "x": -2,
+      "y": 104,
+      "exists": true
+    },
+    "fball_flag_grp_64_c_0_3": {
+      "name": "fball_flag_grp_64_c_0_3",
+      "x": -2,
+      "y": 104,
+      "exists": true
+    },
+    "fball_flag_grp_64_c_0_4": {
+      "name": "fball_flag_grp_64_c_0_4",
+      "x": -2,
+      "y": 104,
+      "exists": true
+    },
+    "fball_flag_grp_64_a_2_0": {
+      "name": "fball_flag_grp_64_a_2_0",
+      "x": -18,
+      "y": 96,
+      "exists": true
+    },
+    "fball_flag_grp_icon_a": {
+      "name": "fball_flag_grp_icon_a",
+      "x": 8,
+      "y": 13,
+      "exists": true
+    },
+    "fball_flag_grp_icon_b": {
+      "name": "fball_flag_grp_icon_b",
+      "x": 4,
+      "y": 12,
+      "exists": true
+    },
+    "fball_flag_grp_icon_c": {
+      "name": "fball_flag_grp_icon_c",
+      "x": 4,
+      "y": 11,
+      "exists": true
+    },
+    "fball_flag_grp_32_b_2_0": {
+      "name": "fball_flag_grp_32_b_2_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_b_0_0",
+      "x": 11,
+      "y": 52,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_2_1": {
+      "name": "fball_flag_grp_32_b_2_1",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_b_0_1",
+      "x": 11,
+      "y": 51,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_2_2": {
+      "name": "fball_flag_grp_32_b_2_2",
+      "flipH": 1,
+      "source": "fball_flag_grp_icon_b",
+      "x": 11,
+      "y": 49,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_2_3": {
+      "name": "fball_flag_grp_32_b_2_3",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_b_0_3",
+      "x": 11,
+      "y": 48,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_2_4": {
+      "name": "fball_flag_grp_32_b_2_4",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_b_0_4",
+      "x": 11,
+      "y": 48,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_2_0": {
+      "name": "fball_flag_grp_32_c_2_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_c_0_0",
+      "x": 11,
+      "y": 50,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_2_1": {
+      "name": "fball_flag_grp_32_c_2_1",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_c_0_1",
+      "x": 11,
+      "y": 50,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_2_2": {
+      "name": "fball_flag_grp_32_c_2_2",
+      "flipH": 1,
+      "source": "fball_flag_grp_icon_c",
+      "x": 11,
+      "y": 48,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_2_3": {
+      "name": "fball_flag_grp_32_c_2_3",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_c_0_3",
+      "x": 11,
+      "y": 48,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_2_4": {
+      "name": "fball_flag_grp_32_c_2_4",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_c_0_4",
+      "x": 11,
+      "y": 48,
+      "exists": false
+    },
+    "fball_flag_grp_32_a_4_0": {
+      "name": "fball_flag_grp_32_a_4_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_a_2_0",
+      "x": 4,
+      "y": 44,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_4_0": {
+      "name": "fball_flag_grp_32_b_4_0",
+      "source": "fball_flag_grp_32_b_0_0",
+      "x": 1,
+      "y": 46,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_4_1": {
+      "name": "fball_flag_grp_32_b_4_1",
+      "source": "fball_flag_grp_32_b_0_1",
+      "x": 1,
+      "y": 45,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_4_2": {
+      "name": "fball_flag_grp_32_b_4_2",
+      "source": "fball_flag_grp_icon_b",
+      "x": 1,
+      "y": 43,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_4_3": {
+      "name": "fball_flag_grp_32_b_4_3",
+      "source": "fball_flag_grp_32_b_0_3",
+      "x": 1,
+      "y": 42,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_4_4": {
+      "name": "fball_flag_grp_32_b_4_4",
+      "source": "fball_flag_grp_32_b_0_4",
+      "x": 1,
+      "y": 42,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_4_0": {
+      "name": "fball_flag_grp_32_c_4_0",
+      "source": "fball_flag_grp_32_c_0_0",
+      "x": 1,
+      "y": 44,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_4_1": {
+      "name": "fball_flag_grp_32_c_4_1",
+      "source": "fball_flag_grp_32_c_0_1",
+      "x": 1,
+      "y": 44,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_4_2": {
+      "name": "fball_flag_grp_32_c_4_2",
+      "source": "fball_flag_grp_icon_c",
+      "x": 1,
+      "y": 42,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_4_3": {
+      "name": "fball_flag_grp_32_c_4_3",
+      "source": "fball_flag_grp_32_c_0_3",
+      "x": 1,
+      "y": 42,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_4_4": {
+      "name": "fball_flag_grp_32_c_4_4",
+      "source": "fball_flag_grp_32_c_0_4",
+      "x": 1,
+      "y": 42,
+      "exists": false
+    },
+    "fball_flag_grp_32_a_6_0": {
+      "name": "fball_flag_grp_32_a_6_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_a_0_0",
+      "x": -7,
+      "y": 49,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_6_0": {
+      "name": "fball_flag_grp_32_b_6_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_b_0_0",
+      "x": -11,
+      "y": 51,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_6_1": {
+      "name": "fball_flag_grp_32_b_6_1",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_b_0_1",
+      "x": -11,
+      "y": 50,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_6_2": {
+      "name": "fball_flag_grp_32_b_6_2",
+      "flipH": 1,
+      "source": "fball_flag_grp_icon_b",
+      "x": -11,
+      "y": 48,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_6_3": {
+      "name": "fball_flag_grp_32_b_6_3",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_b_0_3",
+      "x": -11,
+      "y": 47,
+      "exists": false
+    },
+    "fball_flag_grp_32_b_6_4": {
+      "name": "fball_flag_grp_32_b_6_4",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_b_0_4",
+      "x": -11,
+      "y": 47,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_6_0": {
+      "name": "fball_flag_grp_32_c_6_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_c_0_0",
+      "x": -11,
+      "y": 49,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_6_1": {
+      "name": "fball_flag_grp_32_c_6_1",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_c_0_1",
+      "x": -11,
+      "y": 49,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_6_2": {
+      "name": "fball_flag_grp_32_c_6_2",
+      "flipH": 1,
+      "source": "fball_flag_grp_icon_c",
+      "x": -11,
+      "y": 47,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_6_3": {
+      "name": "fball_flag_grp_32_c_6_3",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_c_0_3",
+      "x": -11,
+      "y": 47,
+      "exists": false
+    },
+    "fball_flag_grp_32_c_6_4": {
+      "name": "fball_flag_grp_32_c_6_4",
+      "flipH": 1,
+      "source": "fball_flag_grp_32_c_0_4",
+      "x": -11,
+      "y": 47,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_2_0": {
+      "name": "fball_flag_grp_64_b_2_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_b_0_0",
+      "x": 24,
+      "y": 101,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_2_1": {
+      "name": "fball_flag_grp_64_b_2_1",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_b_0_1",
+      "x": 24,
+      "y": 98,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_2_2": {
+      "name": "fball_flag_grp_64_b_2_2",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_b_0_2",
+      "x": 24,
+      "y": 94,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_2_3": {
+      "name": "fball_flag_grp_64_b_2_3",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_b_0_3",
+      "x": 24,
+      "y": 92,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_2_4": {
+      "name": "fball_flag_grp_64_b_2_4",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_b_0_4",
+      "x": 24,
+      "y": 92,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_2_0": {
+      "name": "fball_flag_grp_64_c_2_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_c_0_0",
+      "x": 24,
+      "y": 98,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_2_1": {
+      "name": "fball_flag_grp_64_c_2_1",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_c_0_1",
+      "x": 24,
+      "y": 96,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_2_2": {
+      "name": "fball_flag_grp_64_c_2_2",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_c_0_2",
+      "x": 24,
+      "y": 92,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_2_3": {
+      "name": "fball_flag_grp_64_c_2_3",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_c_0_3",
+      "x": 24,
+      "y": 92,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_2_4": {
+      "name": "fball_flag_grp_64_c_2_4",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_c_0_4",
+      "x": 24,
+      "y": 92,
+      "exists": false
+    },
+    "fball_flag_grp_64_a_4_0": {
+      "name": "fball_flag_grp_64_a_4_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_a_2_0",
+      "x": 6,
+      "y": 84,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_4_0": {
+      "name": "fball_flag_grp_64_b_4_0",
+      "source": "fball_flag_grp_64_b_0_0",
+      "x": 0,
+      "y": 89,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_4_1": {
+      "name": "fball_flag_grp_64_b_4_1",
+      "source": "fball_flag_grp_64_b_0_1",
+      "x": 0,
+      "y": 86,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_4_2": {
+      "name": "fball_flag_grp_64_b_4_2",
+      "source": "fball_flag_grp_64_b_0_2",
+      "x": 0,
+      "y": 82,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_4_3": {
+      "name": "fball_flag_grp_64_b_4_3",
+      "source": "fball_flag_grp_64_b_0_3",
+      "x": 0,
+      "y": 80,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_4_4": {
+      "name": "fball_flag_grp_64_b_4_4",
+      "source": "fball_flag_grp_64_b_0_4",
+      "x": 0,
+      "y": 80,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_4_0": {
+      "name": "fball_flag_grp_64_c_4_0",
+      "source": "fball_flag_grp_64_c_0_0",
+      "x": 0,
+      "y": 86,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_4_1": {
+      "name": "fball_flag_grp_64_c_4_1",
+      "source": "fball_flag_grp_64_c_0_1",
+      "x": 0,
+      "y": 84,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_4_2": {
+      "name": "fball_flag_grp_64_c_4_2",
+      "source": "fball_flag_grp_64_c_0_2",
+      "x": 0,
+      "y": 80,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_4_3": {
+      "name": "fball_flag_grp_64_c_4_3",
+      "source": "fball_flag_grp_64_c_0_3",
+      "x": 0,
+      "y": 80,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_4_4": {
+      "name": "fball_flag_grp_64_c_4_4",
+      "source": "fball_flag_grp_64_c_0_4",
+      "x": 0,
+      "y": 80,
+      "exists": false
+    },
+    "fball_flag_grp_64_a_6_0": {
+      "name": "fball_flag_grp_64_a_6_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_a_0_0",
+      "x": -19,
+      "y": 98,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_6_0": {
+      "name": "fball_flag_grp_64_b_6_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_b_0_0",
+      "x": -27,
+      "y": 103,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_6_1": {
+      "name": "fball_flag_grp_64_b_6_1",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_b_0_1",
+      "x": -27,
+      "y": 100,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_6_2": {
+      "name": "fball_flag_grp_64_b_6_2",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_b_0_2",
+      "x": -27,
+      "y": 96,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_6_3": {
+      "name": "fball_flag_grp_64_b_6_3",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_b_0_3",
+      "x": -27,
+      "y": 94,
+      "exists": false
+    },
+    "fball_flag_grp_64_b_6_4": {
+      "name": "fball_flag_grp_64_b_6_4",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_b_0_4",
+      "x": -27,
+      "y": 94,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_6_0": {
+      "name": "fball_flag_grp_64_c_6_0",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_c_0_0",
+      "x": -27,
+      "y": 100,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_6_1": {
+      "name": "fball_flag_grp_64_c_6_1",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_c_0_1",
+      "x": -27,
+      "y": 98,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_6_2": {
+      "name": "fball_flag_grp_64_c_6_2",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_c_0_2",
+      "x": -27,
+      "y": 94,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_6_3": {
+      "name": "fball_flag_grp_64_c_6_3",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_c_0_3",
+      "x": -27,
+      "y": 94,
+      "exists": false
+    },
+    "fball_flag_grp_64_c_6_4": {
+      "name": "fball_flag_grp_64_c_6_4",
+      "flipH": 1,
+      "source": "fball_flag_grp_64_c_0_4",
+      "x": -27,
+      "y": 94,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.000001
+    },
+    "directions": [
+      0,
+      90,
+      270,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 3,
+      "size": 1,
+      "directions": {},
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_guild_customized",
+    "type": "fball_flag_grp",
+    "visualization": "furniture_guild_customized"
+  }
+}

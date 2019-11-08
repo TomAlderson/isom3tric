@@ -1,0 +1,211 @@
+{
+  "assets": {
+    "cubie_decklight_b_32_a_2_0": {
+      "name": "cubie_decklight_b_32_a_2_0",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    },
+    "cubie_decklight_b_32_b_2_0": {
+      "name": "cubie_decklight_b_32_b_2_0",
+      "x": 11,
+      "y": 1,
+      "exists": true
+    },
+    "cubie_decklight_b_32_b_2_1": {
+      "name": "cubie_decklight_b_32_b_2_1",
+      "x": 18,
+      "y": 26,
+      "exists": true
+    },
+    "cubie_decklight_b_64_a_2_0": {
+      "name": "cubie_decklight_b_64_a_2_0",
+      "x": 28,
+      "y": 24,
+      "exists": true
+    },
+    "cubie_decklight_b_64_b_2_0": {
+      "name": "cubie_decklight_b_64_b_2_0",
+      "x": 23,
+      "y": 0,
+      "exists": false
+    },
+    "cubie_decklight_b_64_b_2_1": {
+      "name": "cubie_decklight_b_64_b_2_1",
+      "x": 38,
+      "y": 52,
+      "exists": true
+    },
+    "cubie_decklight_b_icon_a": {
+      "name": "cubie_decklight_b_icon_a",
+      "x": 12,
+      "y": 11,
+      "exists": true
+    },
+    "cubie_decklight_b_32_a_4_0": {
+      "name": "cubie_decklight_b_32_a_4_0",
+      "flipH": 1,
+      "source": "cubie_decklight_b_32_a_2_0",
+      "x": 14,
+      "y": 13,
+      "exists": false
+    },
+    "cubie_decklight_b_32_b_4_0": {
+      "name": "cubie_decklight_b_32_b_4_0",
+      "flipH": 1,
+      "source": "cubie_decklight_b_32_b_2_0",
+      "x": 11,
+      "y": 1,
+      "exists": false
+    },
+    "cubie_decklight_b_32_b_4_1": {
+      "name": "cubie_decklight_b_32_b_4_1",
+      "flipH": 1,
+      "source": "cubie_decklight_b_32_b_2_1",
+      "x": 18,
+      "y": 26,
+      "exists": false
+    },
+    "cubie_decklight_b_64_a_4_0": {
+      "name": "cubie_decklight_b_64_a_4_0",
+      "flipH": 1,
+      "source": "cubie_decklight_b_64_a_2_0",
+      "x": 28,
+      "y": 24,
+      "exists": false
+    },
+    "cubie_decklight_b_64_b_4_0": {
+      "name": "cubie_decklight_b_64_b_4_0",
+      "flipH": 1,
+      "source": "cubie_decklight_b_64_b_2_0",
+      "x": 23,
+      "y": 0,
+      "exists": false
+    },
+    "cubie_decklight_b_64_b_4_1": {
+      "name": "cubie_decklight_b_64_b_4_1",
+      "flipH": 1,
+      "source": "cubie_decklight_b_64_b_2_1",
+      "x": 38,
+      "y": 52,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1.6,
+      "y": 0.2,
+      "z": 0.8
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "cubie_decklight_b",
+    "visualization": "furniture_animated"
+  }
+}

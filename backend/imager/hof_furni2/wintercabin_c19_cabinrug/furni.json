@@ -1,0 +1,72 @@
+{
+  "assets": {
+    "wintercabin_c19_cabinrug_64_a_0_0": {
+      "name": "wintercabin_c19_cabinrug_64_a_0_0",
+      "x": 96,
+      "y": 17,
+      "exists": true
+    },
+    "wintercabin_c19_cabinrug_icon_a": {
+      "name": "wintercabin_c19_cabinrug_icon_a",
+      "x": 14,
+      "y": 7,
+      "exists": true
+    },
+    "wintercabin_c19_cabinrug_64_a_2_0": {
+      "name": "wintercabin_c19_cabinrug_64_a_2_0",
+      "flipH": 1,
+      "source": "wintercabin_c19_cabinrug_64_a_0_0",
+      "x": 96,
+      "y": 17,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 4,
+      "y": 3,
+      "z": 0.1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "wintercabin_c19_cabinrug",
+    "visualization": "furniture_animated"
+  }
+}

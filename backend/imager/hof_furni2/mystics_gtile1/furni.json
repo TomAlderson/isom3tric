@@ -1,0 +1,915 @@
+{
+  "assets": {
+    "mystics_gtile1_32_a_0_0": {
+      "name": "mystics_gtile1_32_a_0_0",
+      "x": 16,
+      "y": 9,
+      "exists": true
+    },
+    "mystics_gtile1_32_b_0_0": {
+      "name": "mystics_gtile1_32_b_0_0",
+      "x": -5,
+      "y": -5,
+      "exists": false
+    },
+    "mystics_gtile1_32_b_0_1": {
+      "name": "mystics_gtile1_32_b_0_1",
+      "x": 6,
+      "y": 25,
+      "exists": true
+    },
+    "mystics_gtile1_32_c_0_0": {
+      "name": "mystics_gtile1_32_c_0_0",
+      "x": -1,
+      "y": -8,
+      "exists": true
+    },
+    "mystics_gtile1_32_c_0_1": {
+      "name": "mystics_gtile1_32_c_0_1",
+      "x": 20,
+      "y": 132,
+      "exists": true
+    },
+    "mystics_gtile1_32_c_0_2": {
+      "name": "mystics_gtile1_32_c_0_2",
+      "x": 18,
+      "y": 132,
+      "exists": true
+    },
+    "mystics_gtile1_32_c_0_3": {
+      "name": "mystics_gtile1_32_c_0_3",
+      "x": 17,
+      "y": 130,
+      "exists": true
+    },
+    "mystics_gtile1_32_c_0_4": {
+      "name": "mystics_gtile1_32_c_0_4",
+      "x": 17,
+      "y": 130,
+      "exists": true
+    },
+    "mystics_gtile1_32_c_0_5": {
+      "name": "mystics_gtile1_32_c_0_5",
+      "x": 15,
+      "y": 127,
+      "exists": true
+    },
+    "mystics_gtile1_32_c_0_6": {
+      "name": "mystics_gtile1_32_c_0_6",
+      "x": 12,
+      "y": 122,
+      "exists": true
+    },
+    "mystics_gtile1_32_d_0_0": {
+      "name": "mystics_gtile1_32_d_0_0",
+      "x": -1,
+      "y": -8,
+      "exists": false
+    },
+    "mystics_gtile1_32_d_0_1": {
+      "name": "mystics_gtile1_32_d_0_1",
+      "x": 60,
+      "y": 132,
+      "exists": true
+    },
+    "mystics_gtile1_32_d_0_2": {
+      "name": "mystics_gtile1_32_d_0_2",
+      "x": 63,
+      "y": 130,
+      "exists": true
+    },
+    "mystics_gtile1_32_d_0_3": {
+      "name": "mystics_gtile1_32_d_0_3",
+      "x": 61,
+      "y": 132,
+      "exists": true
+    },
+    "mystics_gtile1_32_d_0_4": {
+      "name": "mystics_gtile1_32_d_0_4",
+      "x": 61,
+      "y": 132,
+      "exists": true
+    },
+    "mystics_gtile1_32_d_0_5": {
+      "name": "mystics_gtile1_32_d_0_5",
+      "x": 60,
+      "y": 128,
+      "exists": true
+    },
+    "mystics_gtile1_32_d_0_6": {
+      "name": "mystics_gtile1_32_d_0_6",
+      "x": 58,
+      "y": 124,
+      "exists": true
+    },
+    "mystics_gtile1_32_e_0_0": {
+      "name": "mystics_gtile1_32_e_0_0",
+      "x": -1,
+      "y": -8,
+      "exists": false
+    },
+    "mystics_gtile1_32_e_0_1": {
+      "name": "mystics_gtile1_32_e_0_1",
+      "x": 39,
+      "y": 136,
+      "exists": true
+    },
+    "mystics_gtile1_32_e_0_2": {
+      "name": "mystics_gtile1_32_e_0_2",
+      "x": 40,
+      "y": 136,
+      "exists": true
+    },
+    "mystics_gtile1_32_e_0_3": {
+      "name": "mystics_gtile1_32_e_0_3",
+      "x": 38,
+      "y": 136,
+      "exists": true
+    },
+    "mystics_gtile1_32_e_0_4": {
+      "name": "mystics_gtile1_32_e_0_4",
+      "x": 38,
+      "y": 136,
+      "exists": true
+    },
+    "mystics_gtile1_32_e_0_5": {
+      "name": "mystics_gtile1_32_e_0_5",
+      "x": 37,
+      "y": 133,
+      "exists": true
+    },
+    "mystics_gtile1_32_e_0_6": {
+      "name": "mystics_gtile1_32_e_0_6",
+      "x": 35,
+      "y": 128,
+      "exists": true
+    },
+    "mystics_gtile1_64_a_0_0": {
+      "name": "mystics_gtile1_64_a_0_0",
+      "x": 31,
+      "y": 17,
+      "exists": true
+    },
+    "mystics_gtile1_64_b_0_0": {
+      "name": "mystics_gtile1_64_b_0_0",
+      "x": -11,
+      "y": -10,
+      "exists": false
+    },
+    "mystics_gtile1_64_b_0_1": {
+      "name": "mystics_gtile1_64_b_0_1",
+      "x": 15,
+      "y": 50,
+      "exists": true
+    },
+    "mystics_gtile1_64_c_0_0": {
+      "name": "mystics_gtile1_64_c_0_0",
+      "x": -2,
+      "y": -15,
+      "exists": false
+    },
+    "mystics_gtile1_64_c_0_1": {
+      "name": "mystics_gtile1_64_c_0_1",
+      "x": 14,
+      "y": 242,
+      "exists": true
+    },
+    "mystics_gtile1_64_c_0_2": {
+      "name": "mystics_gtile1_64_c_0_2",
+      "x": 9,
+      "y": 243,
+      "exists": true
+    },
+    "mystics_gtile1_64_c_0_3": {
+      "name": "mystics_gtile1_64_c_0_3",
+      "x": 6,
+      "y": 240,
+      "exists": true
+    },
+    "mystics_gtile1_64_c_0_4": {
+      "name": "mystics_gtile1_64_c_0_4",
+      "x": 6,
+      "y": 240,
+      "exists": true
+    },
+    "mystics_gtile1_64_c_0_5": {
+      "name": "mystics_gtile1_64_c_0_5",
+      "x": 3,
+      "y": 236,
+      "exists": true
+    },
+    "mystics_gtile1_64_c_0_6": {
+      "name": "mystics_gtile1_64_c_0_6",
+      "x": -1,
+      "y": 230,
+      "exists": true
+    },
+    "mystics_gtile1_64_d_0_0": {
+      "name": "mystics_gtile1_64_d_0_0",
+      "x": -2,
+      "y": -15,
+      "exists": false
+    },
+    "mystics_gtile1_64_d_0_1": {
+      "name": "mystics_gtile1_64_d_0_1",
+      "x": 89,
+      "y": 243,
+      "exists": true
+    },
+    "mystics_gtile1_64_d_0_2": {
+      "name": "mystics_gtile1_64_d_0_2",
+      "x": 95,
+      "y": 240,
+      "exists": true
+    },
+    "mystics_gtile1_64_d_0_3": {
+      "name": "mystics_gtile1_64_d_0_3",
+      "x": 92,
+      "y": 242,
+      "exists": true
+    },
+    "mystics_gtile1_64_d_0_4": {
+      "name": "mystics_gtile1_64_d_0_4",
+      "x": 92,
+      "y": 242,
+      "exists": true
+    },
+    "mystics_gtile1_64_d_0_5": {
+      "name": "mystics_gtile1_64_d_0_5",
+      "x": 90,
+      "y": 239,
+      "exists": true
+    },
+    "mystics_gtile1_64_d_0_6": {
+      "name": "mystics_gtile1_64_d_0_6",
+      "x": 88,
+      "y": 234,
+      "exists": true
+    },
+    "mystics_gtile1_64_e_0_0": {
+      "name": "mystics_gtile1_64_e_0_0",
+      "x": -2,
+      "y": -15,
+      "exists": false
+    },
+    "mystics_gtile1_64_e_0_1": {
+      "name": "mystics_gtile1_64_e_0_1",
+      "x": 48,
+      "y": 251,
+      "exists": true
+    },
+    "mystics_gtile1_64_e_0_2": {
+      "name": "mystics_gtile1_64_e_0_2",
+      "x": 50,
+      "y": 251,
+      "exists": true
+    },
+    "mystics_gtile1_64_e_0_3": {
+      "name": "mystics_gtile1_64_e_0_3",
+      "x": 46,
+      "y": 252,
+      "exists": true
+    },
+    "mystics_gtile1_64_e_0_4": {
+      "name": "mystics_gtile1_64_e_0_4",
+      "x": 46,
+      "y": 252,
+      "exists": true
+    },
+    "mystics_gtile1_64_e_0_5": {
+      "name": "mystics_gtile1_64_e_0_5",
+      "x": 44,
+      "y": 248,
+      "exists": true
+    },
+    "mystics_gtile1_64_e_0_6": {
+      "name": "mystics_gtile1_64_e_0_6",
+      "x": 41,
+      "y": 242,
+      "exists": true
+    },
+    "mystics_gtile1_icon_a": {
+      "name": "mystics_gtile1_icon_a",
+      "x": 14,
+      "y": 9,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.1
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  0,
+                  2,
+                  0,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  2,
+                  0,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  2,
+                  0,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  2,
+                  0,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  3,
+                  0,
+                  2,
+                  0,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "ignoreMouse": 1,
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "ignoreMouse": 1,
+          "z": 500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  0,
+                  2,
+                  0,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  2,
+                  0,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  2,
+                  0,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  2,
+                  0,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  3,
+                  0,
+                  2,
+                  0,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "ignoreMouse": 1,
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "ignoreMouse": 1,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "mystics_gtile1",
+    "visualization": "furniture_animated"
+  }
+}

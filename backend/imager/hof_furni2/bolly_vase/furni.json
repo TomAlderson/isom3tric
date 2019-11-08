@@ -1,0 +1,146 @@
+{
+  "assets": {
+    "bolly_vase_64_a_0_0": {
+      "name": "bolly_vase_64_a_0_0",
+      "x": 25,
+      "y": 79,
+      "exists": true
+    },
+    "bolly_vase_64_a_6_0": {
+      "name": "bolly_vase_64_a_6_0",
+      "x": 22,
+      "y": 79,
+      "exists": true
+    },
+    "bolly_vase_64_a_0_1": {
+      "name": "bolly_vase_64_a_0_1",
+      "x": 25,
+      "y": 79,
+      "exists": true
+    },
+    "bolly_vase_64_a_6_1": {
+      "name": "bolly_vase_64_a_6_1",
+      "x": 22,
+      "y": 79,
+      "exists": true
+    },
+    "bolly_vase_64_sd_0_0": {
+      "name": "bolly_vase_64_sd_0_0",
+      "x": 12,
+      "y": 5,
+      "exists": true
+    },
+    "bolly_vase_64_sd_6_0": {
+      "name": "bolly_vase_64_sd_6_0",
+      "source": "bolly_vase_64_sd_0_0",
+      "x": 12,
+      "y": 5,
+      "exists": false
+    },
+    "bolly_vase_icon_a": {
+      "name": "bolly_vase_icon_a",
+      "x": 9,
+      "y": 16,
+      "exists": true
+    },
+    "bolly_vase_32_a_0_0": {
+      "name": "bolly_vase_32_a_0_0",
+      "x": 12,
+      "y": 41,
+      "exists": true
+    },
+    "bolly_vase_32_a_6_0": {
+      "name": "bolly_vase_32_a_6_0",
+      "flipH": 1,
+      "source": "bolly_vase_32_a_0_0",
+      "x": 12,
+      "y": 41,
+      "exists": false
+    },
+    "bolly_vase_32_sd_0_0": {
+      "name": "bolly_vase_32_sd_0_0",
+      "x": 5,
+      "y": 1,
+      "exists": true
+    },
+    "bolly_vase_32_sd_6_0": {
+      "name": "bolly_vase_32_sd_6_0",
+      "source": "bolly_vase_32_sd_0_0",
+      "x": 5,
+      "y": 1,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "bolly_vase",
+    "visualization": "furniture_animated"
+  }
+}

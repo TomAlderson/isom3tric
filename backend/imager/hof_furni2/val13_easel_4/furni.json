@@ -1,0 +1,226 @@
+{
+  "assets": {
+    "val13_easel_4_32_sd_2_0": {
+      "name": "val13_easel_4_32_sd_2_0",
+      "x": 7,
+      "y": 0,
+      "exists": true
+    },
+    "val13_easel_4_32_a_2_0": {
+      "name": "val13_easel_4_32_a_2_0",
+      "x": 18,
+      "y": 44,
+      "exists": true
+    },
+    "val13_easel_4_64_sd_2_0": {
+      "name": "val13_easel_4_64_sd_2_0",
+      "x": 13,
+      "y": 1,
+      "exists": true
+    },
+    "val13_easel_4_64_a_2_0": {
+      "name": "val13_easel_4_64_a_2_0",
+      "x": 31,
+      "y": 84,
+      "exists": true
+    },
+    "val13_easel_4_icon_a": {
+      "name": "val13_easel_4_icon_a",
+      "x": 7,
+      "y": 13,
+      "exists": true
+    },
+    "val13_easel_4_32_a_2_1": {
+      "name": "val13_easel_4_32_a_2_1",
+      "source": "val13_easel_4_32_a_2_0",
+      "x": 18,
+      "y": 46,
+      "exists": false
+    },
+    "val13_easel_4_32_a_2_2": {
+      "name": "val13_easel_4_32_a_2_2",
+      "source": "val13_easel_4_32_a_2_0",
+      "x": 18,
+      "y": 45,
+      "exists": false
+    },
+    "val13_easel_4_64_a_2_1": {
+      "name": "val13_easel_4_64_a_2_1",
+      "source": "val13_easel_4_64_a_2_0",
+      "x": 31,
+      "y": 87,
+      "exists": false
+    },
+    "val13_easel_4_64_a_2_2": {
+      "name": "val13_easel_4_64_a_2_2",
+      "source": "val13_easel_4_64_a_2_0",
+      "x": 31,
+      "y": 85,
+      "exists": false
+    },
+    "val13_easel_4_32_sd_0_0": {
+      "name": "val13_easel_4_32_sd_0_0",
+      "flipH": 1,
+      "source": "val13_easel_4_32_sd_2_0",
+      "x": 7,
+      "y": 0,
+      "exists": false
+    },
+    "val13_easel_4_32_a_0_0": {
+      "name": "val13_easel_4_32_a_0_0",
+      "flipH": 1,
+      "source": "val13_easel_4_32_a_2_0",
+      "x": 18,
+      "y": 44,
+      "exists": false
+    },
+    "val13_easel_4_64_sd_0_0": {
+      "name": "val13_easel_4_64_sd_0_0",
+      "flipH": 1,
+      "source": "val13_easel_4_64_sd_2_0",
+      "x": 13,
+      "y": 1,
+      "exists": false
+    },
+    "val13_easel_4_64_a_0_0": {
+      "name": "val13_easel_4_64_a_0_0",
+      "flipH": 1,
+      "source": "val13_easel_4_64_a_2_0",
+      "x": 31,
+      "y": 84,
+      "exists": false
+    },
+    "val13_easel_4_32_a_0_1": {
+      "name": "val13_easel_4_32_a_0_1",
+      "flipH": 1,
+      "source": "val13_easel_4_32_a_2_0",
+      "x": 18,
+      "y": 46,
+      "exists": false
+    },
+    "val13_easel_4_32_a_0_2": {
+      "name": "val13_easel_4_32_a_0_2",
+      "flipH": 1,
+      "source": "val13_easel_4_32_a_2_0",
+      "x": 18,
+      "y": 45,
+      "exists": false
+    },
+    "val13_easel_4_64_a_0_1": {
+      "name": "val13_easel_4_64_a_0_1",
+      "flipH": 1,
+      "source": "val13_easel_4_64_a_2_0",
+      "x": 31,
+      "y": 87,
+      "exists": false
+    },
+    "val13_easel_4_64_a_0_2": {
+      "name": "val13_easel_4_64_a_0_2",
+      "flipH": 1,
+      "source": "val13_easel_4_64_a_2_0",
+      "x": 31,
+      "y": 85,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  0,
+                  2,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  0,
+                  2,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "val13_easel_4",
+    "visualization": "furniture_animated"
+  }
+}

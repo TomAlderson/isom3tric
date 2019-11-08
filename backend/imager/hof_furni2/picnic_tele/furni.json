@@ -1,0 +1,128 @@
+{
+  "assets": {
+    "picnic_tele_icon_a": {
+      "name": "picnic_tele_icon_a",
+      "x": 10,
+      "y": 19,
+      "exists": true
+    },
+    "picnic_tele_32_a_4_0": {
+      "name": "picnic_tele_32_a_4_0",
+      "x": 21,
+      "y": 60,
+      "exists": true
+    },
+    "picnic_tele_32_b_4_0": {
+      "name": "picnic_tele_32_b_4_0",
+      "x": 19,
+      "y": 60,
+      "exists": true
+    },
+    "picnic_tele_64_a_4_0": {
+      "name": "picnic_tele_64_a_4_0",
+      "x": 39,
+      "y": 116,
+      "exists": true
+    },
+    "picnic_tele_64_b_4_0": {
+      "name": "picnic_tele_64_b_4_0",
+      "x": 31,
+      "y": 116,
+      "exists": true
+    },
+    "picnic_tele_32_a_2_0": {
+      "name": "picnic_tele_32_a_2_0",
+      "flipH": 1,
+      "source": "picnic_tele_32_a_4_0",
+      "x": 21,
+      "y": 60,
+      "exists": false
+    },
+    "picnic_tele_32_b_2_0": {
+      "name": "picnic_tele_32_b_2_0",
+      "flipH": 1,
+      "source": "picnic_tele_32_b_4_0",
+      "x": 19,
+      "y": 60,
+      "exists": false
+    },
+    "picnic_tele_64_a_2_0": {
+      "name": "picnic_tele_64_a_2_0",
+      "flipH": 1,
+      "source": "picnic_tele_64_a_4_0",
+      "x": 39,
+      "y": 116,
+      "exists": false
+    },
+    "picnic_tele_64_b_2_0": {
+      "name": "picnic_tele_64_b_2_0",
+      "flipH": 1,
+      "source": "picnic_tele_64_b_4_0",
+      "x": 31,
+      "y": 116,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -100
+        },
+        {
+          "layerId": 1,
+          "z": 100
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -100
+        },
+        {
+          "layerId": 1,
+          "z": 100
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "picnic_tele",
+    "visualization": "furniture_animated"
+  }
+}

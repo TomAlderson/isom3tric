@@ -1,0 +1,150 @@
+{
+  "assets": {
+    "country_fnc1_64_a_0_0": {
+      "name": "country_fnc1_64_a_0_0",
+      "x": 23,
+      "y": 49,
+      "exists": true
+    },
+    "country_fnc1_64_a_2_0": {
+      "name": "country_fnc1_64_a_2_0",
+      "flipH": 1,
+      "source": "country_fnc1_64_a_0_0",
+      "x": 23,
+      "y": 49,
+      "exists": false
+    },
+    "country_fnc1_64_b_0_0": {
+      "name": "country_fnc1_64_b_0_0",
+      "x": -18,
+      "y": 40,
+      "exists": true
+    },
+    "country_fnc1_64_b_2_0": {
+      "name": "country_fnc1_64_b_2_0",
+      "flipH": 1,
+      "source": "country_fnc1_64_b_0_0",
+      "x": -18,
+      "y": 40,
+      "exists": false
+    },
+    "country_fnc1_64_sd_0_0": {
+      "name": "country_fnc1_64_sd_0_0",
+      "x": 18,
+      "y": 8,
+      "exists": true
+    },
+    "country_fnc1_64_sd_2_0": {
+      "name": "country_fnc1_64_sd_2_0",
+      "flipH": 1,
+      "source": "country_fnc1_64_sd_0_0",
+      "x": 18,
+      "y": 8,
+      "exists": false
+    },
+    "country_fnc1_icon_a": {
+      "name": "country_fnc1_icon_a",
+      "x": 15,
+      "y": 14,
+      "exists": true
+    },
+    "country_fnc1_32_a_0_0": {
+      "name": "country_fnc1_32_a_0_0",
+      "x": 12,
+      "y": 25,
+      "exists": true
+    },
+    "country_fnc1_32_a_2_0": {
+      "name": "country_fnc1_32_a_2_0",
+      "flipH": 1,
+      "source": "country_fnc1_32_a_0_0",
+      "x": 12,
+      "y": 25,
+      "exists": false
+    },
+    "country_fnc1_32_b_0_0": {
+      "name": "country_fnc1_32_b_0_0",
+      "x": -7,
+      "y": 20,
+      "exists": true
+    },
+    "country_fnc1_32_b_2_0": {
+      "name": "country_fnc1_32_b_2_0",
+      "flipH": 1,
+      "source": "country_fnc1_32_b_0_0",
+      "x": -7,
+      "y": 20,
+      "exists": false
+    },
+    "country_fnc1_32_sd_0_0": {
+      "name": "country_fnc1_32_sd_0_0",
+      "x": 11,
+      "y": 2,
+      "exists": true
+    },
+    "country_fnc1_32_sd_2_0": {
+      "name": "country_fnc1_32_sd_2_0",
+      "flipH": 1,
+      "source": "country_fnc1_32_sd_0_0",
+      "x": 11,
+      "y": 2,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "country_fnc1",
+    "visualization": "furniture_static"
+  }
+}

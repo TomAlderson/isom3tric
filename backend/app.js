@@ -5,21 +5,19 @@ const mongoose = require("mongoose");
 require("dotenv").config();
 
 const userRoutes = require("./routes/user");
+const imagerRoutes = require("./routes/imager");
 
 const app = express();
 
 mongoose
-  .connect(
-    process.env.DATABASE_URL,
-    {
-        useNewUrlParser: true,
-        useUnifiedTopology: true
-    },
-  )
+  .connect(process.env.DATABASE_URL, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true
+  })
   .then(() => {
     console.log("Connected to database!");
   })
-  .catch((error) => {
+  .catch(error => {
     console.log("Connection failed!");
     console.log("Error: ", error);
   });
@@ -42,5 +40,6 @@ app.use((req, res, next) => {
 });
 
 app.use("/api/user", userRoutes);
+app.use("/api/avatar", imagerRoutes);
 
 module.exports = app;

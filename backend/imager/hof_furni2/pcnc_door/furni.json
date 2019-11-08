@@ -1,0 +1,129 @@
+{
+  "assets": {
+    "pcnc_door_32_sd_0_0": {
+      "name": "pcnc_door_32_sd_0_0",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "pcnc_door_32_a_0_0": {
+      "name": "pcnc_door_32_a_0_0",
+      "x": 18,
+      "y": 54,
+      "exists": true
+    },
+    "pcnc_door_32_b_0_0": {
+      "name": "pcnc_door_32_b_0_0",
+      "x": 43,
+      "y": 211,
+      "exists": true
+    },
+    "pcnc_door_32_c_0_0": {
+      "name": "pcnc_door_32_c_0_0",
+      "x": 0,
+      "y": 86,
+      "exists": true
+    },
+    "pcnc_door_64_sd_0_0": {
+      "name": "pcnc_door_64_sd_0_0",
+      "x": 27,
+      "y": 29,
+      "exists": true
+    },
+    "pcnc_door_64_a_0_0": {
+      "name": "pcnc_door_64_a_0_0",
+      "x": 33,
+      "y": 109,
+      "exists": true
+    },
+    "pcnc_door_64_b_0_0": {
+      "name": "pcnc_door_64_b_0_0",
+      "x": 84,
+      "y": 423,
+      "exists": true
+    },
+    "pcnc_door_64_c_0_0": {
+      "name": "pcnc_door_64_c_0_0",
+      "x": 0,
+      "y": 173,
+      "exists": true
+    },
+    "pcnc_door_icon_a": {
+      "name": "pcnc_door_icon_a",
+      "x": 9,
+      "y": 12,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0.000001
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 1700
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 4500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 1700
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 4500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "pcnc_door",
+    "visualization": "furniture_static"
+  }
+}

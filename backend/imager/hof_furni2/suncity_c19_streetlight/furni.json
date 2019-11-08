@@ -1,0 +1,181 @@
+{
+  "assets": {
+    "suncity_c19_streetlight_64_sd_0_0": {
+      "name": "suncity_c19_streetlight_64_sd_0_0",
+      "x": 7,
+      "y": 3,
+      "exists": true
+    },
+    "suncity_c19_streetlight_64_a_0_0": {
+      "name": "suncity_c19_streetlight_64_a_0_0",
+      "x": 14,
+      "y": 148,
+      "exists": true
+    },
+    "suncity_c19_streetlight_64_b_0_0": {
+      "name": "suncity_c19_streetlight_64_b_0_0",
+      "x": 16,
+      "y": 115,
+      "exists": true
+    },
+    "suncity_c19_streetlight_64_b_0_1": {
+      "name": "suncity_c19_streetlight_64_b_0_1",
+      "x": 16,
+      "y": 115,
+      "exists": true
+    },
+    "suncity_c19_streetlight_64_c_0_0": {
+      "name": "suncity_c19_streetlight_64_c_0_0",
+      "x": 23,
+      "y": 125,
+      "exists": true
+    },
+    "suncity_c19_streetlight_icon_a": {
+      "name": "suncity_c19_streetlight_icon_a",
+      "x": 3,
+      "y": 14,
+      "exists": true
+    },
+    "suncity_c19_streetlight_64_sd_2_0": {
+      "name": "suncity_c19_streetlight_64_sd_2_0",
+      "flipH": 1,
+      "source": "suncity_c19_streetlight_64_sd_0_0",
+      "x": 7,
+      "y": 3,
+      "exists": false
+    },
+    "suncity_c19_streetlight_64_a_2_0": {
+      "name": "suncity_c19_streetlight_64_a_2_0",
+      "flipH": 1,
+      "source": "suncity_c19_streetlight_64_a_0_0",
+      "x": 14,
+      "y": 148,
+      "exists": false
+    },
+    "suncity_c19_streetlight_64_b_2_0": {
+      "name": "suncity_c19_streetlight_64_b_2_0",
+      "flipH": 1,
+      "source": "suncity_c19_streetlight_64_b_0_0",
+      "x": 16,
+      "y": 115,
+      "exists": false
+    },
+    "suncity_c19_streetlight_64_b_2_1": {
+      "name": "suncity_c19_streetlight_64_b_2_1",
+      "flipH": 1,
+      "source": "suncity_c19_streetlight_64_b_0_1",
+      "x": 16,
+      "y": 115,
+      "exists": false
+    },
+    "suncity_c19_streetlight_64_c_2_0": {
+      "name": "suncity_c19_streetlight_64_c_2_0",
+      "flipH": 1,
+      "source": "suncity_c19_streetlight_64_c_0_0",
+      "x": 23,
+      "y": 125,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY",
+          "z": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "suncity_c19_streetlight",
+    "visualization": "furniture_animated"
+  }
+}

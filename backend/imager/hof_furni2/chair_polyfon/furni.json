@@ -1,0 +1,238 @@
+{
+  "assets": {
+    "chair_polyfon_64_a_0_0": {
+      "name": "chair_polyfon_64_a_0_0",
+      "x": 25,
+      "y": 46,
+      "exists": true
+    },
+    "chair_polyfon_64_a_2_0": {
+      "name": "chair_polyfon_64_a_2_0",
+      "x": 25,
+      "y": 55,
+      "exists": true
+    },
+    "chair_polyfon_64_a_4_0": {
+      "name": "chair_polyfon_64_a_4_0",
+      "flipH": 1,
+      "source": "chair_polyfon_64_a_2_0",
+      "x": 25,
+      "y": 55,
+      "exists": false
+    },
+    "chair_polyfon_64_a_6_0": {
+      "name": "chair_polyfon_64_a_6_0",
+      "flipH": 1,
+      "source": "chair_polyfon_64_a_0_0",
+      "x": 25,
+      "y": 46,
+      "exists": false
+    },
+    "chair_polyfon_64_b_0_0": {
+      "name": "chair_polyfon_64_b_0_0",
+      "x": 26,
+      "y": 23,
+      "exists": true
+    },
+    "chair_polyfon_64_b_2_0": {
+      "name": "chair_polyfon_64_b_2_0",
+      "x": 25,
+      "y": 29,
+      "exists": true
+    },
+    "chair_polyfon_64_b_4_0": {
+      "name": "chair_polyfon_64_b_4_0",
+      "flipH": 1,
+      "source": "chair_polyfon_64_b_2_0",
+      "x": 25,
+      "y": 29,
+      "exists": false
+    },
+    "chair_polyfon_64_b_6_0": {
+      "name": "chair_polyfon_64_b_6_0",
+      "flipH": 1,
+      "source": "chair_polyfon_64_b_0_0",
+      "x": 26,
+      "y": 23,
+      "exists": false
+    },
+    "chair_polyfon_64_sd_0_0": {
+      "name": "chair_polyfon_64_sd_0_0",
+      "x": 28,
+      "y": 14,
+      "exists": true
+    },
+    "chair_polyfon_64_sd_2_0": {
+      "name": "chair_polyfon_64_sd_2_0",
+      "source": "chair_polyfon_64_sd_0_0",
+      "x": 28,
+      "y": 14,
+      "exists": false
+    },
+    "chair_polyfon_64_sd_4_0": {
+      "name": "chair_polyfon_64_sd_4_0",
+      "source": "chair_polyfon_64_sd_0_0",
+      "x": 28,
+      "y": 14,
+      "exists": false
+    },
+    "chair_polyfon_64_sd_6_0": {
+      "name": "chair_polyfon_64_sd_6_0",
+      "source": "chair_polyfon_64_sd_0_0",
+      "x": 28,
+      "y": 14,
+      "exists": false
+    },
+    "chair_polyfon_icon_a": {
+      "name": "chair_polyfon_icon_a",
+      "x": 10,
+      "y": 13,
+      "exists": true
+    },
+    "chair_polyfon_32_a_0_0": {
+      "name": "chair_polyfon_32_a_0_0",
+      "x": 14,
+      "y": 22,
+      "exists": true
+    },
+    "chair_polyfon_32_a_2_0": {
+      "name": "chair_polyfon_32_a_2_0",
+      "x": 13,
+      "y": 27,
+      "exists": true
+    },
+    "chair_polyfon_32_a_4_0": {
+      "name": "chair_polyfon_32_a_4_0",
+      "flipH": 1,
+      "source": "chair_polyfon_32_a_2_0",
+      "x": 13,
+      "y": 27,
+      "exists": false
+    },
+    "chair_polyfon_32_a_6_0": {
+      "name": "chair_polyfon_32_a_6_0",
+      "flipH": 1,
+      "source": "chair_polyfon_32_a_0_0",
+      "x": 14,
+      "y": 22,
+      "exists": false
+    },
+    "chair_polyfon_32_b_0_0": {
+      "name": "chair_polyfon_32_b_0_0",
+      "x": 15,
+      "y": 12,
+      "exists": true
+    },
+    "chair_polyfon_32_b_2_0": {
+      "name": "chair_polyfon_32_b_2_0",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "chair_polyfon_32_b_4_0": {
+      "name": "chair_polyfon_32_b_4_0",
+      "flipH": 1,
+      "source": "chair_polyfon_32_b_2_0",
+      "x": 13,
+      "y": 14,
+      "exists": false
+    },
+    "chair_polyfon_32_b_6_0": {
+      "name": "chair_polyfon_32_b_6_0",
+      "flipH": 1,
+      "source": "chair_polyfon_32_b_0_0",
+      "x": 15,
+      "y": 12,
+      "exists": false
+    },
+    "chair_polyfon_32_sd_0_0": {
+      "name": "chair_polyfon_32_sd_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": true
+    },
+    "chair_polyfon_32_sd_2_0": {
+      "name": "chair_polyfon_32_sd_2_0",
+      "source": "chair_polyfon_32_sd_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": false
+    },
+    "chair_polyfon_32_sd_4_0": {
+      "name": "chair_polyfon_32_sd_4_0",
+      "source": "chair_polyfon_32_sd_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": false
+    },
+    "chair_polyfon_32_sd_6_0": {
+      "name": "chair_polyfon_32_sd_6_0",
+      "source": "chair_polyfon_32_sd_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": -31
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": -31
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "chair_polyfon",
+    "visualization": "furniture_static"
+  }
+}

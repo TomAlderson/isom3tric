@@ -1,0 +1,766 @@
+{
+  "assets": {
+    "wildwest_tree_64_a_4_0": {
+      "name": "wildwest_tree_64_a_4_0",
+      "x": 68,
+      "y": 193,
+      "exists": true
+    },
+    "wildwest_tree_64_b_4_0": {
+      "name": "wildwest_tree_64_b_4_0",
+      "x": 10,
+      "y": 38,
+      "exists": false
+    },
+    "wildwest_tree_64_b_4_1": {
+      "name": "wildwest_tree_64_b_4_1",
+      "x": 18,
+      "y": 23,
+      "exists": true
+    },
+    "wildwest_tree_64_b_4_2": {
+      "name": "wildwest_tree_64_b_4_2",
+      "x": 16,
+      "y": 28,
+      "exists": true
+    },
+    "wildwest_tree_64_b_4_3": {
+      "name": "wildwest_tree_64_b_4_3",
+      "x": 12,
+      "y": 34,
+      "exists": true
+    },
+    "wildwest_tree_64_b_4_4": {
+      "name": "wildwest_tree_64_b_4_4",
+      "x": 6,
+      "y": 42,
+      "exists": true
+    },
+    "wildwest_tree_64_b_4_5": {
+      "name": "wildwest_tree_64_b_4_5",
+      "x": 1,
+      "y": 49,
+      "exists": true
+    },
+    "wildwest_tree_64_b_4_6": {
+      "name": "wildwest_tree_64_b_4_6",
+      "x": -8,
+      "y": 53,
+      "exists": true
+    },
+    "wildwest_tree_32_a_4_0": {
+      "name": "wildwest_tree_32_a_4_0",
+      "x": 34,
+      "y": 96,
+      "exists": true
+    },
+    "wildwest_tree_32_b_4_0": {
+      "name": "wildwest_tree_32_b_4_0",
+      "x": 6,
+      "y": 19,
+      "exists": true
+    },
+    "wildwest_tree_32_b_4_1": {
+      "name": "wildwest_tree_32_b_4_1",
+      "x": 9,
+      "y": 11,
+      "exists": true
+    },
+    "wildwest_tree_32_b_4_2": {
+      "name": "wildwest_tree_32_b_4_2",
+      "x": 9,
+      "y": 13,
+      "exists": true
+    },
+    "wildwest_tree_32_b_4_3": {
+      "name": "wildwest_tree_32_b_4_3",
+      "x": 6,
+      "y": 16,
+      "exists": true
+    },
+    "wildwest_tree_32_b_4_4": {
+      "name": "wildwest_tree_32_b_4_4",
+      "x": 4,
+      "y": 20,
+      "exists": true
+    },
+    "wildwest_tree_32_b_4_5": {
+      "name": "wildwest_tree_32_b_4_5",
+      "x": 1,
+      "y": 24,
+      "exists": true
+    },
+    "wildwest_tree_32_b_4_6": {
+      "name": "wildwest_tree_32_b_4_6",
+      "x": -4,
+      "y": 26,
+      "exists": true
+    },
+    "wildwest_tree_icon_a": {
+      "name": "wildwest_tree_icon_a",
+      "x": 10,
+      "y": 13,
+      "exists": true
+    },
+    "wildwest_tree_64_a_2_0": {
+      "name": "wildwest_tree_64_a_2_0",
+      "flipH": 1,
+      "source": "wildwest_tree_64_a_4_0",
+      "x": 68,
+      "y": 193,
+      "exists": false
+    },
+    "wildwest_tree_64_b_2_0": {
+      "name": "wildwest_tree_64_b_2_0",
+      "flipH": 1,
+      "source": "wildwest_tree_64_b_4_0",
+      "x": 10,
+      "y": 38,
+      "exists": false
+    },
+    "wildwest_tree_64_b_2_1": {
+      "name": "wildwest_tree_64_b_2_1",
+      "flipH": 1,
+      "source": "wildwest_tree_64_b_4_1",
+      "x": 18,
+      "y": 23,
+      "exists": false
+    },
+    "wildwest_tree_64_b_2_2": {
+      "name": "wildwest_tree_64_b_2_2",
+      "flipH": 1,
+      "source": "wildwest_tree_64_b_4_2",
+      "x": 16,
+      "y": 28,
+      "exists": false
+    },
+    "wildwest_tree_64_b_2_3": {
+      "name": "wildwest_tree_64_b_2_3",
+      "flipH": 1,
+      "source": "wildwest_tree_64_b_4_3",
+      "x": 12,
+      "y": 34,
+      "exists": false
+    },
+    "wildwest_tree_64_b_2_4": {
+      "name": "wildwest_tree_64_b_2_4",
+      "flipH": 1,
+      "source": "wildwest_tree_64_b_4_4",
+      "x": 6,
+      "y": 42,
+      "exists": false
+    },
+    "wildwest_tree_64_b_2_5": {
+      "name": "wildwest_tree_64_b_2_5",
+      "flipH": 1,
+      "source": "wildwest_tree_64_b_4_5",
+      "x": 1,
+      "y": 49,
+      "exists": false
+    },
+    "wildwest_tree_64_b_2_6": {
+      "name": "wildwest_tree_64_b_2_6",
+      "flipH": 1,
+      "source": "wildwest_tree_64_b_4_6",
+      "x": -8,
+      "y": 53,
+      "exists": false
+    },
+    "wildwest_tree_32_a_2_0": {
+      "name": "wildwest_tree_32_a_2_0",
+      "flipH": 1,
+      "source": "wildwest_tree_32_a_4_0",
+      "x": 34,
+      "y": 96,
+      "exists": false
+    },
+    "wildwest_tree_32_b_2_0": {
+      "name": "wildwest_tree_32_b_2_0",
+      "flipH": 1,
+      "source": "wildwest_tree_32_b_4_0",
+      "x": 6,
+      "y": 19,
+      "exists": false
+    },
+    "wildwest_tree_32_b_2_1": {
+      "name": "wildwest_tree_32_b_2_1",
+      "flipH": 1,
+      "source": "wildwest_tree_32_b_4_1",
+      "x": 9,
+      "y": 11,
+      "exists": false
+    },
+    "wildwest_tree_32_b_2_2": {
+      "name": "wildwest_tree_32_b_2_2",
+      "flipH": 1,
+      "source": "wildwest_tree_32_b_4_2",
+      "x": 9,
+      "y": 13,
+      "exists": false
+    },
+    "wildwest_tree_32_b_2_3": {
+      "name": "wildwest_tree_32_b_2_3",
+      "flipH": 1,
+      "source": "wildwest_tree_32_b_4_3",
+      "x": 6,
+      "y": 16,
+      "exists": false
+    },
+    "wildwest_tree_32_b_2_4": {
+      "name": "wildwest_tree_32_b_2_4",
+      "flipH": 1,
+      "source": "wildwest_tree_32_b_4_4",
+      "x": 4,
+      "y": 20,
+      "exists": false
+    },
+    "wildwest_tree_32_b_2_5": {
+      "name": "wildwest_tree_32_b_2_5",
+      "flipH": 1,
+      "source": "wildwest_tree_32_b_4_5",
+      "x": 1,
+      "y": 24,
+      "exists": false
+    },
+    "wildwest_tree_32_b_2_6": {
+      "name": "wildwest_tree_32_b_2_6",
+      "flipH": 1,
+      "source": "wildwest_tree_32_b_4_6",
+      "x": -4,
+      "y": 26,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  1,
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  5,
+                  5,
+                  5,
+                  6,
+                  6,
+                  6,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  1,
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  5,
+                  5,
+                  5,
+                  6,
+                  6,
+                  6,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "wildwest_tree",
+    "visualization": "furniture_animated"
+  }
+}

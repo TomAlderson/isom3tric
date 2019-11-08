@@ -1,0 +1,92 @@
+{
+  "assets": {
+    "storieshero_poster_64_a_4_0": {
+      "name": "storieshero_poster_64_a_4_0",
+      "x": 16,
+      "y": 41,
+      "exists": true
+    },
+    "storieshero_poster_32_a_4_0": {
+      "name": "storieshero_poster_32_a_4_0",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "storieshero_poster_64_a_2_0": {
+      "name": "storieshero_poster_64_a_2_0",
+      "flipH": 1,
+      "source": "storieshero_poster_64_a_4_0",
+      "x": 16,
+      "y": 41,
+      "exists": false
+    },
+    "storieshero_poster_32_a_2_0": {
+      "name": "storieshero_poster_32_a_2_0",
+      "flipH": 1,
+      "source": "storieshero_poster_32_a_4_0",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "storieshero_poster_icon_a": {
+      "name": "storieshero_poster_icon_a",
+      "x": 6,
+      "y": 16,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 0.2,
+      "z": 2
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "storieshero_poster",
+    "visualization": "furniture_static"
+  }
+}

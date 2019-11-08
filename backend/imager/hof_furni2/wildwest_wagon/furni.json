@@ -1,0 +1,832 @@
+{
+  "assets": {
+    "wildwest_wagon_64_sd_4_0": {
+      "name": "wildwest_wagon_64_sd_4_0",
+      "x": 65,
+      "y": 16,
+      "exists": true
+    },
+    "wildwest_wagon_64_a_4_0": {
+      "name": "wildwest_wagon_64_a_4_0",
+      "x": 32,
+      "y": 136,
+      "exists": true
+    },
+    "wildwest_wagon_64_b_4_0": {
+      "name": "wildwest_wagon_64_b_4_0",
+      "x": -10,
+      "y": 56,
+      "exists": true
+    },
+    "wildwest_wagon_64_c_4_0": {
+      "name": "wildwest_wagon_64_c_4_0",
+      "x": 85,
+      "y": 129,
+      "exists": true
+    },
+    "wildwest_wagon_64_d_4_0": {
+      "name": "wildwest_wagon_64_d_4_0",
+      "x": 40,
+      "y": 132,
+      "exists": true
+    },
+    "wildwest_wagon_64_e_4_0": {
+      "name": "wildwest_wagon_64_e_4_0",
+      "x": -2,
+      "y": 41,
+      "exists": true
+    },
+    "wildwest_wagon_64_a_4_1": {
+      "name": "wildwest_wagon_64_a_4_1",
+      "x": 32,
+      "y": 136,
+      "exists": true
+    },
+    "wildwest_wagon_64_b_4_1": {
+      "name": "wildwest_wagon_64_b_4_1",
+      "x": -10,
+      "y": 56,
+      "exists": true
+    },
+    "wildwest_wagon_64_c_4_1": {
+      "name": "wildwest_wagon_64_c_4_1",
+      "x": 85,
+      "y": 129,
+      "exists": true
+    },
+    "wildwest_wagon_64_d_4_1": {
+      "name": "wildwest_wagon_64_d_4_1",
+      "x": 40,
+      "y": 132,
+      "exists": true
+    },
+    "wildwest_wagon_64_e_4_1": {
+      "name": "wildwest_wagon_64_e_4_1",
+      "x": -2,
+      "y": 41,
+      "exists": true
+    },
+    "wildwest_wagon_64_a_0_0": {
+      "name": "wildwest_wagon_64_a_0_0",
+      "x": -73,
+      "y": 19,
+      "exists": false
+    },
+    "wildwest_wagon_64_b_0_0": {
+      "name": "wildwest_wagon_64_b_0_0",
+      "x": -24,
+      "y": 59,
+      "exists": true
+    },
+    "wildwest_wagon_64_c_0_0": {
+      "name": "wildwest_wagon_64_c_0_0",
+      "x": 77,
+      "y": 74,
+      "exists": true
+    },
+    "wildwest_wagon_64_d_0_0": {
+      "name": "wildwest_wagon_64_d_0_0",
+      "x": 38,
+      "y": 51,
+      "exists": true
+    },
+    "wildwest_wagon_64_e_0_0": {
+      "name": "wildwest_wagon_64_e_0_0",
+      "x": 73,
+      "y": 122,
+      "exists": true
+    },
+    "wildwest_wagon_64_a_0_1": {
+      "name": "wildwest_wagon_64_a_0_1",
+      "x": -73,
+      "y": 19,
+      "exists": true
+    },
+    "wildwest_wagon_64_b_0_1": {
+      "name": "wildwest_wagon_64_b_0_1",
+      "x": -24,
+      "y": 59,
+      "exists": true
+    },
+    "wildwest_wagon_64_c_0_1": {
+      "name": "wildwest_wagon_64_c_0_1",
+      "x": 77,
+      "y": 74,
+      "exists": true
+    },
+    "wildwest_wagon_64_d_0_1": {
+      "name": "wildwest_wagon_64_d_0_1",
+      "x": 38,
+      "y": 51,
+      "exists": true
+    },
+    "wildwest_wagon_64_e_0_1": {
+      "name": "wildwest_wagon_64_e_0_1",
+      "x": 73,
+      "y": 122,
+      "exists": true
+    },
+    "wildwest_wagon_32_sd_0_0": {
+      "name": "wildwest_wagon_32_sd_0_0",
+      "x": 33,
+      "y": 8,
+      "exists": true
+    },
+    "wildwest_wagon_32_a_4_0": {
+      "name": "wildwest_wagon_32_a_4_0",
+      "x": 16,
+      "y": 68,
+      "exists": true
+    },
+    "wildwest_wagon_32_b_4_0": {
+      "name": "wildwest_wagon_32_b_4_0",
+      "x": -16,
+      "y": 23,
+      "exists": true
+    },
+    "wildwest_wagon_32_c_4_0": {
+      "name": "wildwest_wagon_32_c_4_0",
+      "x": 43,
+      "y": 66,
+      "exists": true
+    },
+    "wildwest_wagon_32_d_4_0": {
+      "name": "wildwest_wagon_32_d_4_0",
+      "x": 22,
+      "y": 66,
+      "exists": true
+    },
+    "wildwest_wagon_32_e_4_0": {
+      "name": "wildwest_wagon_32_e_4_0",
+      "x": 0,
+      "y": 21,
+      "exists": true
+    },
+    "wildwest_wagon_32_a_4_1": {
+      "name": "wildwest_wagon_32_a_4_1",
+      "x": 16,
+      "y": 68,
+      "exists": true
+    },
+    "wildwest_wagon_32_b_4_1": {
+      "name": "wildwest_wagon_32_b_4_1",
+      "x": -16,
+      "y": 23,
+      "exists": true
+    },
+    "wildwest_wagon_32_c_4_1": {
+      "name": "wildwest_wagon_32_c_4_1",
+      "x": 43,
+      "y": 66,
+      "exists": true
+    },
+    "wildwest_wagon_32_d_4_1": {
+      "name": "wildwest_wagon_32_d_4_1",
+      "x": 22,
+      "y": 66,
+      "exists": true
+    },
+    "wildwest_wagon_32_e_4_1": {
+      "name": "wildwest_wagon_32_e_4_1",
+      "x": 0,
+      "y": 21,
+      "exists": false
+    },
+    "wildwest_wagon_32_a_0_0": {
+      "name": "wildwest_wagon_32_a_0_0",
+      "x": -35,
+      "y": 8,
+      "exists": false
+    },
+    "wildwest_wagon_32_b_0_0": {
+      "name": "wildwest_wagon_32_b_0_0",
+      "x": -15,
+      "y": 30,
+      "exists": true
+    },
+    "wildwest_wagon_32_c_0_0": {
+      "name": "wildwest_wagon_32_c_0_0",
+      "x": 39,
+      "y": 37,
+      "exists": true
+    },
+    "wildwest_wagon_32_d_0_0": {
+      "name": "wildwest_wagon_32_d_0_0",
+      "x": 17,
+      "y": 26,
+      "exists": true
+    },
+    "wildwest_wagon_32_e_0_0": {
+      "name": "wildwest_wagon_32_e_0_0",
+      "x": 37,
+      "y": 61,
+      "exists": true
+    },
+    "wildwest_wagon_32_a_0_1": {
+      "name": "wildwest_wagon_32_a_0_1",
+      "x": -35,
+      "y": 8,
+      "exists": false
+    },
+    "wildwest_wagon_32_b_0_1": {
+      "name": "wildwest_wagon_32_b_0_1",
+      "x": -15,
+      "y": 30,
+      "exists": true
+    },
+    "wildwest_wagon_32_c_0_1": {
+      "name": "wildwest_wagon_32_c_0_1",
+      "x": 39,
+      "y": 37,
+      "exists": true
+    },
+    "wildwest_wagon_32_d_0_1": {
+      "name": "wildwest_wagon_32_d_0_1",
+      "x": 17,
+      "y": 26,
+      "exists": true
+    },
+    "wildwest_wagon_32_e_0_1": {
+      "name": "wildwest_wagon_32_e_0_1",
+      "x": 37,
+      "y": 61,
+      "exists": true
+    },
+    "wildwest_wagon_icon_a": {
+      "name": "wildwest_wagon_icon_a",
+      "x": 14,
+      "y": 12,
+      "exists": true
+    },
+    "wildwest_wagon_64_a_6_0": {
+      "name": "wildwest_wagon_64_a_6_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_a_0_0",
+      "x": -73,
+      "y": 19,
+      "exists": false
+    },
+    "wildwest_wagon_64_b_6_0": {
+      "name": "wildwest_wagon_64_b_6_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_b_0_0",
+      "x": -24,
+      "y": 59,
+      "exists": false
+    },
+    "wildwest_wagon_64_c_6_0": {
+      "name": "wildwest_wagon_64_c_6_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_c_0_0",
+      "x": 77,
+      "y": 74,
+      "exists": false
+    },
+    "wildwest_wagon_64_d_6_0": {
+      "name": "wildwest_wagon_64_d_6_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_d_0_0",
+      "x": 38,
+      "y": 51,
+      "exists": false
+    },
+    "wildwest_wagon_64_e_6_0": {
+      "name": "wildwest_wagon_64_e_6_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_e_0_0",
+      "x": 73,
+      "y": 122,
+      "exists": false
+    },
+    "wildwest_wagon_64_a_6_1": {
+      "name": "wildwest_wagon_64_a_6_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_a_0_1",
+      "x": -73,
+      "y": 19,
+      "exists": false
+    },
+    "wildwest_wagon_64_b_6_1": {
+      "name": "wildwest_wagon_64_b_6_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_b_0_1",
+      "x": -24,
+      "y": 59,
+      "exists": false
+    },
+    "wildwest_wagon_64_c_6_1": {
+      "name": "wildwest_wagon_64_c_6_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_c_0_1",
+      "x": 77,
+      "y": 74,
+      "exists": false
+    },
+    "wildwest_wagon_64_d_6_1": {
+      "name": "wildwest_wagon_64_d_6_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_d_0_1",
+      "x": 38,
+      "y": 51,
+      "exists": false
+    },
+    "wildwest_wagon_64_e_6_1": {
+      "name": "wildwest_wagon_64_e_6_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_e_0_1",
+      "x": 73,
+      "y": 122,
+      "exists": false
+    },
+    "wildwest_wagon_32_sd_6_0": {
+      "name": "wildwest_wagon_32_sd_6_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_sd_0_0",
+      "x": 33,
+      "y": 8,
+      "exists": false
+    },
+    "wildwest_wagon_32_a_6_0": {
+      "name": "wildwest_wagon_32_a_6_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_a_0_0",
+      "x": -35,
+      "y": 8,
+      "exists": false
+    },
+    "wildwest_wagon_32_b_6_0": {
+      "name": "wildwest_wagon_32_b_6_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_b_0_0",
+      "x": -15,
+      "y": 30,
+      "exists": false
+    },
+    "wildwest_wagon_32_c_6_0": {
+      "name": "wildwest_wagon_32_c_6_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_c_0_0",
+      "x": 39,
+      "y": 37,
+      "exists": false
+    },
+    "wildwest_wagon_32_d_6_0": {
+      "name": "wildwest_wagon_32_d_6_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_d_0_0",
+      "x": 17,
+      "y": 26,
+      "exists": false
+    },
+    "wildwest_wagon_32_e_6_0": {
+      "name": "wildwest_wagon_32_e_6_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_e_0_0",
+      "x": 37,
+      "y": 61,
+      "exists": false
+    },
+    "wildwest_wagon_32_a_6_1": {
+      "name": "wildwest_wagon_32_a_6_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_a_0_1",
+      "x": -35,
+      "y": 8,
+      "exists": false
+    },
+    "wildwest_wagon_32_b_6_1": {
+      "name": "wildwest_wagon_32_b_6_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_b_0_1",
+      "x": -15,
+      "y": 30,
+      "exists": false
+    },
+    "wildwest_wagon_32_c_6_1": {
+      "name": "wildwest_wagon_32_c_6_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_c_0_1",
+      "x": 39,
+      "y": 37,
+      "exists": false
+    },
+    "wildwest_wagon_32_d_6_1": {
+      "name": "wildwest_wagon_32_d_6_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_d_0_1",
+      "x": 17,
+      "y": 26,
+      "exists": false
+    },
+    "wildwest_wagon_32_e_6_1": {
+      "name": "wildwest_wagon_32_e_6_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_e_0_1",
+      "x": 37,
+      "y": 61,
+      "exists": false
+    },
+    "wildwest_wagon_64_sd_2_0": {
+      "name": "wildwest_wagon_64_sd_2_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_sd_4_0",
+      "x": 65,
+      "y": 16,
+      "exists": false
+    },
+    "wildwest_wagon_64_a_2_0": {
+      "name": "wildwest_wagon_64_a_2_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_a_4_0",
+      "x": 32,
+      "y": 136,
+      "exists": false
+    },
+    "wildwest_wagon_64_b_2_0": {
+      "name": "wildwest_wagon_64_b_2_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_b_4_0",
+      "x": -10,
+      "y": 56,
+      "exists": false
+    },
+    "wildwest_wagon_64_c_2_0": {
+      "name": "wildwest_wagon_64_c_2_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_c_4_0",
+      "x": 85,
+      "y": 129,
+      "exists": false
+    },
+    "wildwest_wagon_64_d_2_0": {
+      "name": "wildwest_wagon_64_d_2_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_d_4_0",
+      "x": 40,
+      "y": 132,
+      "exists": false
+    },
+    "wildwest_wagon_64_e_2_0": {
+      "name": "wildwest_wagon_64_e_2_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_e_4_0",
+      "x": -2,
+      "y": 41,
+      "exists": false
+    },
+    "wildwest_wagon_64_a_2_1": {
+      "name": "wildwest_wagon_64_a_2_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_a_4_1",
+      "x": 32,
+      "y": 136,
+      "exists": false
+    },
+    "wildwest_wagon_64_b_2_1": {
+      "name": "wildwest_wagon_64_b_2_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_b_4_1",
+      "x": -10,
+      "y": 56,
+      "exists": false
+    },
+    "wildwest_wagon_64_c_2_1": {
+      "name": "wildwest_wagon_64_c_2_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_c_4_1",
+      "x": 85,
+      "y": 129,
+      "exists": false
+    },
+    "wildwest_wagon_64_d_2_1": {
+      "name": "wildwest_wagon_64_d_2_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_d_4_1",
+      "x": 40,
+      "y": 132,
+      "exists": false
+    },
+    "wildwest_wagon_64_e_2_1": {
+      "name": "wildwest_wagon_64_e_2_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_64_e_4_1",
+      "x": -2,
+      "y": 41,
+      "exists": false
+    },
+    "wildwest_wagon_32_a_2_0": {
+      "name": "wildwest_wagon_32_a_2_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_a_4_0",
+      "x": 16,
+      "y": 68,
+      "exists": false
+    },
+    "wildwest_wagon_32_b_2_0": {
+      "name": "wildwest_wagon_32_b_2_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_b_4_0",
+      "x": -16,
+      "y": 23,
+      "exists": false
+    },
+    "wildwest_wagon_32_c_2_0": {
+      "name": "wildwest_wagon_32_c_2_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_c_4_0",
+      "x": 43,
+      "y": 66,
+      "exists": false
+    },
+    "wildwest_wagon_32_d_2_0": {
+      "name": "wildwest_wagon_32_d_2_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_d_4_0",
+      "x": 22,
+      "y": 66,
+      "exists": false
+    },
+    "wildwest_wagon_32_e_2_0": {
+      "name": "wildwest_wagon_32_e_2_0",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_e_4_0",
+      "x": 0,
+      "y": 21,
+      "exists": false
+    },
+    "wildwest_wagon_32_a_2_1": {
+      "name": "wildwest_wagon_32_a_2_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_a_4_1",
+      "x": 16,
+      "y": 68,
+      "exists": false
+    },
+    "wildwest_wagon_32_b_2_1": {
+      "name": "wildwest_wagon_32_b_2_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_b_4_1",
+      "x": -16,
+      "y": 23,
+      "exists": false
+    },
+    "wildwest_wagon_32_c_2_1": {
+      "name": "wildwest_wagon_32_c_2_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_c_4_1",
+      "x": 43,
+      "y": 66,
+      "exists": false
+    },
+    "wildwest_wagon_32_d_2_1": {
+      "name": "wildwest_wagon_32_d_2_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_d_4_1",
+      "x": 22,
+      "y": 66,
+      "exists": false
+    },
+    "wildwest_wagon_32_e_2_1": {
+      "name": "wildwest_wagon_32_e_2_1",
+      "flipH": 1,
+      "source": "wildwest_wagon_32_e_4_1",
+      "x": 0,
+      "y": 21,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 2.5
+    },
+    "directions": [
+      0,
+      180,
+      270,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 2000
+        },
+        {
+          "layerId": 4,
+          "z": 2100
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 2000
+        },
+        {
+          "layerId": 4,
+          "z": 2100
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "wildwest_wagon",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "assets": {
+    "gaming_c18_cubelight_64_sd_0_0": {
+      "name": "gaming_c18_cubelight_64_sd_0_0",
+      "x": 28,
+      "y": 15,
+      "exists": true
+    },
+    "gaming_c18_cubelight_64_a_0_0": {
+      "name": "gaming_c18_cubelight_64_a_0_0",
+      "x": 28,
+      "y": 263,
+      "exists": true
+    },
+    "gaming_c18_cubelight_64_b_0_0": {
+      "name": "gaming_c18_cubelight_64_b_0_0",
+      "x": 27,
+      "y": 214,
+      "exists": true
+    },
+    "gaming_c18_cubelight_64_c_0_0": {
+      "name": "gaming_c18_cubelight_64_c_0_0",
+      "x": 56,
+      "y": 240,
+      "exists": true
+    },
+    "gaming_c18_cubelight_64_c_0_1": {
+      "name": "gaming_c18_cubelight_64_c_0_1",
+      "x": 2,
+      "y": 235,
+      "exists": true
+    },
+    "gaming_c18_cubelight_icon_a": {
+      "name": "gaming_c18_cubelight_icon_a",
+      "x": 12,
+      "y": 14,
+      "exists": true
+    },
+    "gaming_c18_cubelight_64_sd_2_0": {
+      "name": "gaming_c18_cubelight_64_sd_2_0",
+      "flipH": 1,
+      "source": "gaming_c18_cubelight_64_sd_0_0",
+      "x": 28,
+      "y": 15,
+      "exists": false
+    },
+    "gaming_c18_cubelight_64_a_2_0": {
+      "name": "gaming_c18_cubelight_64_a_2_0",
+      "flipH": 1,
+      "source": "gaming_c18_cubelight_64_a_0_0",
+      "x": 28,
+      "y": 263,
+      "exists": false
+    },
+    "gaming_c18_cubelight_64_b_2_0": {
+      "name": "gaming_c18_cubelight_64_b_2_0",
+      "flipH": 1,
+      "source": "gaming_c18_cubelight_64_b_0_0",
+      "x": 27,
+      "y": 214,
+      "exists": false
+    },
+    "gaming_c18_cubelight_64_c_2_0": {
+      "name": "gaming_c18_cubelight_64_c_2_0",
+      "flipH": 1,
+      "source": "gaming_c18_cubelight_64_c_0_0",
+      "x": 56,
+      "y": 240,
+      "exists": false
+    },
+    "gaming_c18_cubelight_64_c_2_1": {
+      "name": "gaming_c18_cubelight_64_c_2_1",
+      "flipH": 1,
+      "source": "gaming_c18_cubelight_64_c_0_1",
+      "x": 2,
+      "y": 235,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "gaming_c18_cubelight",
+    "visualization": "furniture_animated"
+  }
+}

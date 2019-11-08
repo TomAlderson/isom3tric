@@ -1,0 +1,977 @@
+{
+  "assets": {
+    "matic_cont_alien_32_a_0_0": {
+      "name": "matic_cont_alien_32_a_0_0",
+      "x": 21,
+      "y": 40,
+      "exists": true
+    },
+    "matic_cont_alien_32_b_0_0": {
+      "name": "matic_cont_alien_32_b_0_0",
+      "x": 12,
+      "y": 31,
+      "exists": true
+    },
+    "matic_cont_alien_32_c_0_0": {
+      "name": "matic_cont_alien_32_c_0_0",
+      "x": 10,
+      "y": 36,
+      "exists": true
+    },
+    "matic_cont_alien_32_c_0_1": {
+      "name": "matic_cont_alien_32_c_0_1",
+      "x": 10,
+      "y": 38,
+      "exists": true
+    },
+    "matic_cont_alien_32_c_0_2": {
+      "name": "matic_cont_alien_32_c_0_2",
+      "x": 10,
+      "y": 35,
+      "exists": true
+    },
+    "matic_cont_alien_32_c_0_3": {
+      "name": "matic_cont_alien_32_c_0_3",
+      "x": 10,
+      "y": 37,
+      "exists": true
+    },
+    "matic_cont_alien_32_c_0_4": {
+      "name": "matic_cont_alien_32_c_0_4",
+      "x": 10,
+      "y": 36,
+      "exists": true
+    },
+    "matic_cont_alien_32_c_0_5": {
+      "name": "matic_cont_alien_32_c_0_5",
+      "x": 10,
+      "y": 38,
+      "exists": true
+    },
+    "matic_cont_alien_32_c_0_6": {
+      "name": "matic_cont_alien_32_c_0_6",
+      "x": 10,
+      "y": 36,
+      "exists": true
+    },
+    "matic_cont_alien_32_c_0_7": {
+      "name": "matic_cont_alien_32_c_0_7",
+      "x": 10,
+      "y": 37,
+      "exists": true
+    },
+    "matic_cont_alien_32_c_0_8": {
+      "name": "matic_cont_alien_32_c_0_8",
+      "x": 10,
+      "y": 37,
+      "exists": true
+    },
+    "matic_cont_alien_32_c_0_9": {
+      "name": "matic_cont_alien_32_c_0_9",
+      "x": 10,
+      "y": 36,
+      "exists": true
+    },
+    "matic_cont_alien_32_c_0_10": {
+      "name": "matic_cont_alien_32_c_0_10",
+      "x": 10,
+      "y": 35,
+      "exists": true
+    },
+    "matic_cont_alien_32_d_0_0": {
+      "name": "matic_cont_alien_32_d_0_0",
+      "x": 15,
+      "y": 50,
+      "exists": true
+    },
+    "matic_cont_alien_32_e_0_0": {
+      "name": "matic_cont_alien_32_e_0_0",
+      "x": 18,
+      "y": 36,
+      "exists": true
+    },
+    "matic_cont_alien_32_e_0_1": {
+      "name": "matic_cont_alien_32_e_0_1",
+      "x": 18,
+      "y": 36,
+      "exists": true
+    },
+    "matic_cont_alien_32_e_0_2": {
+      "name": "matic_cont_alien_32_e_0_2",
+      "x": 18,
+      "y": 36,
+      "exists": true
+    },
+    "matic_cont_alien_32_f_0_0": {
+      "name": "matic_cont_alien_32_f_0_0",
+      "x": -3,
+      "y": 1,
+      "exists": true
+    },
+    "matic_cont_alien_32_f_0_1": {
+      "name": "matic_cont_alien_32_f_0_1",
+      "x": -3,
+      "y": 1,
+      "exists": true
+    },
+    "matic_cont_alien_32_f_0_2": {
+      "name": "matic_cont_alien_32_f_0_2",
+      "x": -3,
+      "y": 1,
+      "exists": true
+    },
+    "matic_cont_alien_32_f_0_3": {
+      "name": "matic_cont_alien_32_f_0_3",
+      "x": -3,
+      "y": 1,
+      "exists": true
+    },
+    "matic_cont_alien_64_a_0_0": {
+      "name": "matic_cont_alien_64_a_0_0",
+      "x": 38,
+      "y": 81,
+      "exists": true
+    },
+    "matic_cont_alien_64_b_0_0": {
+      "name": "matic_cont_alien_64_b_0_0",
+      "x": 21,
+      "y": 59,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_0": {
+      "name": "matic_cont_alien_64_c_0_0",
+      "x": 19,
+      "y": 72,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_1": {
+      "name": "matic_cont_alien_64_c_0_1",
+      "x": 19,
+      "y": 76,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_2": {
+      "name": "matic_cont_alien_64_c_0_2",
+      "x": 19,
+      "y": 76,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_3": {
+      "name": "matic_cont_alien_64_c_0_3",
+      "x": 19,
+      "y": 73,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_4": {
+      "name": "matic_cont_alien_64_c_0_4",
+      "x": 19,
+      "y": 73,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_5": {
+      "name": "matic_cont_alien_64_c_0_5",
+      "x": 19,
+      "y": 73,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_6": {
+      "name": "matic_cont_alien_64_c_0_6",
+      "x": 19,
+      "y": 76,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_7": {
+      "name": "matic_cont_alien_64_c_0_7",
+      "x": 19,
+      "y": 70,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_8": {
+      "name": "matic_cont_alien_64_c_0_8",
+      "x": 19,
+      "y": 74,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_9": {
+      "name": "matic_cont_alien_64_c_0_9",
+      "x": 19,
+      "y": 74,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_10": {
+      "name": "matic_cont_alien_64_c_0_10",
+      "x": 19,
+      "y": 70,
+      "exists": true
+    },
+    "matic_cont_alien_64_c_0_11": {
+      "name": "matic_cont_alien_64_c_0_11",
+      "x": 19,
+      "y": 72,
+      "exists": true
+    },
+    "matic_cont_alien_64_d_0_0": {
+      "name": "matic_cont_alien_64_d_0_0",
+      "x": 28,
+      "y": 99,
+      "exists": true
+    },
+    "matic_cont_alien_64_e_0_0": {
+      "name": "matic_cont_alien_64_e_0_0",
+      "x": 32,
+      "y": 70,
+      "exists": true
+    },
+    "matic_cont_alien_64_e_0_1": {
+      "name": "matic_cont_alien_64_e_0_1",
+      "x": 32,
+      "y": 70,
+      "exists": true
+    },
+    "matic_cont_alien_64_e_0_2": {
+      "name": "matic_cont_alien_64_e_0_2",
+      "x": 32,
+      "y": 70,
+      "exists": true
+    },
+    "matic_cont_alien_64_f_0_0": {
+      "name": "matic_cont_alien_64_f_0_0",
+      "x": -7,
+      "y": 2,
+      "exists": true
+    },
+    "matic_cont_alien_64_f_0_1": {
+      "name": "matic_cont_alien_64_f_0_1",
+      "x": -7,
+      "y": 2,
+      "exists": true
+    },
+    "matic_cont_alien_64_f_0_2": {
+      "name": "matic_cont_alien_64_f_0_2",
+      "x": -7,
+      "y": 2,
+      "exists": true
+    },
+    "matic_cont_alien_64_f_0_3": {
+      "name": "matic_cont_alien_64_f_0_3",
+      "x": -7,
+      "y": 2,
+      "exists": true
+    },
+    "matic_cont_alien_icon_a": {
+      "name": "matic_cont_alien_icon_a",
+      "x": 8,
+      "y": 13,
+      "exists": true
+    },
+    "matic_cont_alien_32_b_0_1": {
+      "name": "matic_cont_alien_32_b_0_1",
+      "source": "matic_cont_alien_32_b_0_0",
+      "x": 12,
+      "y": 32,
+      "exists": false
+    },
+    "matic_cont_alien_32_b_0_2": {
+      "name": "matic_cont_alien_32_b_0_2",
+      "source": "matic_cont_alien_32_b_0_0",
+      "x": 12,
+      "y": 33,
+      "exists": false
+    },
+    "matic_cont_alien_64_b_0_1": {
+      "name": "matic_cont_alien_64_b_0_1",
+      "source": "matic_cont_alien_64_b_0_0",
+      "x": 21,
+      "y": 60,
+      "exists": false
+    },
+    "matic_cont_alien_64_b_0_2": {
+      "name": "matic_cont_alien_64_b_0_2",
+      "source": "matic_cont_alien_64_b_0_0",
+      "x": 21,
+      "y": 61,
+      "exists": false
+    },
+    "matic_cont_alien_32_a_2_0": {
+      "name": "matic_cont_alien_32_a_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_a_0_0",
+      "x": 21,
+      "y": 40,
+      "exists": false
+    },
+    "matic_cont_alien_32_b_2_0": {
+      "name": "matic_cont_alien_32_b_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_b_0_0",
+      "x": 12,
+      "y": 31,
+      "exists": false
+    },
+    "matic_cont_alien_32_c_2_0": {
+      "name": "matic_cont_alien_32_c_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_c_0_0",
+      "x": 10,
+      "y": 36,
+      "exists": false
+    },
+    "matic_cont_alien_32_c_2_1": {
+      "name": "matic_cont_alien_32_c_2_1",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_c_0_1",
+      "x": 10,
+      "y": 38,
+      "exists": false
+    },
+    "matic_cont_alien_32_c_2_2": {
+      "name": "matic_cont_alien_32_c_2_2",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_c_0_2",
+      "x": 10,
+      "y": 35,
+      "exists": false
+    },
+    "matic_cont_alien_32_c_2_3": {
+      "name": "matic_cont_alien_32_c_2_3",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_c_0_3",
+      "x": 10,
+      "y": 37,
+      "exists": false
+    },
+    "matic_cont_alien_32_c_2_4": {
+      "name": "matic_cont_alien_32_c_2_4",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_c_0_4",
+      "x": 10,
+      "y": 36,
+      "exists": false
+    },
+    "matic_cont_alien_32_c_2_5": {
+      "name": "matic_cont_alien_32_c_2_5",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_c_0_5",
+      "x": 10,
+      "y": 38,
+      "exists": false
+    },
+    "matic_cont_alien_32_c_2_6": {
+      "name": "matic_cont_alien_32_c_2_6",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_c_0_6",
+      "x": 10,
+      "y": 36,
+      "exists": false
+    },
+    "matic_cont_alien_32_c_2_7": {
+      "name": "matic_cont_alien_32_c_2_7",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_c_0_7",
+      "x": 10,
+      "y": 37,
+      "exists": false
+    },
+    "matic_cont_alien_32_c_2_8": {
+      "name": "matic_cont_alien_32_c_2_8",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_c_0_8",
+      "x": 10,
+      "y": 37,
+      "exists": false
+    },
+    "matic_cont_alien_32_c_2_9": {
+      "name": "matic_cont_alien_32_c_2_9",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_c_0_9",
+      "x": 10,
+      "y": 36,
+      "exists": false
+    },
+    "matic_cont_alien_32_c_2_10": {
+      "name": "matic_cont_alien_32_c_2_10",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_c_0_10",
+      "x": 10,
+      "y": 35,
+      "exists": false
+    },
+    "matic_cont_alien_32_d_2_0": {
+      "name": "matic_cont_alien_32_d_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_d_0_0",
+      "x": 15,
+      "y": 50,
+      "exists": false
+    },
+    "matic_cont_alien_32_e_2_0": {
+      "name": "matic_cont_alien_32_e_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_e_0_0",
+      "x": 18,
+      "y": 36,
+      "exists": false
+    },
+    "matic_cont_alien_32_e_2_1": {
+      "name": "matic_cont_alien_32_e_2_1",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_e_0_1",
+      "x": 18,
+      "y": 36,
+      "exists": false
+    },
+    "matic_cont_alien_32_e_2_2": {
+      "name": "matic_cont_alien_32_e_2_2",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_e_0_2",
+      "x": 18,
+      "y": 36,
+      "exists": false
+    },
+    "matic_cont_alien_32_f_2_0": {
+      "name": "matic_cont_alien_32_f_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_f_0_0",
+      "x": -3,
+      "y": 1,
+      "exists": false
+    },
+    "matic_cont_alien_32_f_2_1": {
+      "name": "matic_cont_alien_32_f_2_1",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_f_0_1",
+      "x": -3,
+      "y": 1,
+      "exists": false
+    },
+    "matic_cont_alien_32_f_2_2": {
+      "name": "matic_cont_alien_32_f_2_2",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_f_0_2",
+      "x": -3,
+      "y": 1,
+      "exists": false
+    },
+    "matic_cont_alien_32_f_2_3": {
+      "name": "matic_cont_alien_32_f_2_3",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_f_0_3",
+      "x": -3,
+      "y": 1,
+      "exists": false
+    },
+    "matic_cont_alien_64_a_2_0": {
+      "name": "matic_cont_alien_64_a_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_a_0_0",
+      "x": 38,
+      "y": 81,
+      "exists": false
+    },
+    "matic_cont_alien_64_b_2_0": {
+      "name": "matic_cont_alien_64_b_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_b_0_0",
+      "x": 21,
+      "y": 59,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_0": {
+      "name": "matic_cont_alien_64_c_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_0",
+      "x": 19,
+      "y": 72,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_1": {
+      "name": "matic_cont_alien_64_c_2_1",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_1",
+      "x": 19,
+      "y": 76,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_2": {
+      "name": "matic_cont_alien_64_c_2_2",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_2",
+      "x": 19,
+      "y": 76,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_3": {
+      "name": "matic_cont_alien_64_c_2_3",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_3",
+      "x": 19,
+      "y": 73,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_4": {
+      "name": "matic_cont_alien_64_c_2_4",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_4",
+      "x": 19,
+      "y": 73,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_5": {
+      "name": "matic_cont_alien_64_c_2_5",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_5",
+      "x": 19,
+      "y": 73,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_6": {
+      "name": "matic_cont_alien_64_c_2_6",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_6",
+      "x": 19,
+      "y": 76,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_7": {
+      "name": "matic_cont_alien_64_c_2_7",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_7",
+      "x": 19,
+      "y": 70,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_8": {
+      "name": "matic_cont_alien_64_c_2_8",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_8",
+      "x": 19,
+      "y": 74,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_9": {
+      "name": "matic_cont_alien_64_c_2_9",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_9",
+      "x": 19,
+      "y": 74,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_10": {
+      "name": "matic_cont_alien_64_c_2_10",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_10",
+      "x": 19,
+      "y": 70,
+      "exists": false
+    },
+    "matic_cont_alien_64_c_2_11": {
+      "name": "matic_cont_alien_64_c_2_11",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_c_0_11",
+      "x": 19,
+      "y": 72,
+      "exists": false
+    },
+    "matic_cont_alien_64_d_2_0": {
+      "name": "matic_cont_alien_64_d_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_d_0_0",
+      "x": 28,
+      "y": 99,
+      "exists": false
+    },
+    "matic_cont_alien_64_e_2_0": {
+      "name": "matic_cont_alien_64_e_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_e_0_0",
+      "x": 32,
+      "y": 70,
+      "exists": false
+    },
+    "matic_cont_alien_64_e_2_1": {
+      "name": "matic_cont_alien_64_e_2_1",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_e_0_1",
+      "x": 32,
+      "y": 70,
+      "exists": false
+    },
+    "matic_cont_alien_64_e_2_2": {
+      "name": "matic_cont_alien_64_e_2_2",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_e_0_2",
+      "x": 32,
+      "y": 70,
+      "exists": false
+    },
+    "matic_cont_alien_64_f_2_0": {
+      "name": "matic_cont_alien_64_f_2_0",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_f_0_0",
+      "x": -7,
+      "y": 2,
+      "exists": false
+    },
+    "matic_cont_alien_64_f_2_1": {
+      "name": "matic_cont_alien_64_f_2_1",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_f_0_1",
+      "x": -7,
+      "y": 2,
+      "exists": false
+    },
+    "matic_cont_alien_64_f_2_2": {
+      "name": "matic_cont_alien_64_f_2_2",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_f_0_2",
+      "x": -7,
+      "y": 2,
+      "exists": false
+    },
+    "matic_cont_alien_64_f_2_3": {
+      "name": "matic_cont_alien_64_f_2_3",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_f_0_3",
+      "x": -7,
+      "y": 2,
+      "exists": false
+    },
+    "matic_cont_alien_32_b_2_1": {
+      "name": "matic_cont_alien_32_b_2_1",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_b_0_0",
+      "x": 12,
+      "y": 32,
+      "exists": false
+    },
+    "matic_cont_alien_32_b_2_2": {
+      "name": "matic_cont_alien_32_b_2_2",
+      "flipH": 1,
+      "source": "matic_cont_alien_32_b_0_0",
+      "x": 12,
+      "y": 33,
+      "exists": false
+    },
+    "matic_cont_alien_64_b_2_1": {
+      "name": "matic_cont_alien_64_b_2_1",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_b_0_0",
+      "x": 21,
+      "y": 60,
+      "exists": false
+    },
+    "matic_cont_alien_64_b_2_2": {
+      "name": "matic_cont_alien_64_b_2_2",
+      "flipH": 1,
+      "source": "matic_cont_alien_64_b_0_0",
+      "x": 21,
+      "y": 61,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ],
+                [
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  2,
+                  1,
+                  1,
+                  2,
+                  2,
+                  1,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ],
+                [
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  2,
+                  3,
+                  3,
+                  2,
+                  2,
+                  3,
+                  3
+                ],
+                [
+                  0,
+                  1,
+                  0,
+                  1,
+                  1,
+                  0,
+                  2,
+                  2,
+                  1,
+                  0,
+                  2,
+                  0,
+                  3,
+                  3,
+                  2,
+                  2,
+                  1,
+                  0,
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3
+        },
+        {
+          "layerId": 4
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ],
+                [
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  2,
+                  1,
+                  1,
+                  2,
+                  2,
+                  1,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ],
+                [
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  2,
+                  3,
+                  3,
+                  2,
+                  2,
+                  3,
+                  3
+                ],
+                [
+                  0,
+                  1,
+                  0,
+                  1,
+                  1,
+                  0,
+                  2,
+                  2,
+                  1,
+                  0,
+                  2,
+                  0,
+                  3,
+                  3,
+                  2,
+                  2,
+                  1,
+                  0,
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3
+        },
+        {
+          "layerId": 4
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "matic_cont_alien",
+    "visualization": "furniture_animated"
+  }
+}

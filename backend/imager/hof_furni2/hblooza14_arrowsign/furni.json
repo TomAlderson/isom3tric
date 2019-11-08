@@ -1,0 +1,100 @@
+{
+  "assets": {
+    "hblooza14_arrowsign_64_sd_0_0": {
+      "name": "hblooza14_arrowsign_64_sd_0_0",
+      "x": 7,
+      "y": -2,
+      "exists": false
+    },
+    "hblooza14_arrowsign_64_a_0_0": {
+      "name": "hblooza14_arrowsign_64_a_0_0",
+      "x": 22,
+      "y": 144,
+      "exists": true
+    },
+    "hblooza14_arrowsign_64_sd_6_0": {
+      "name": "hblooza14_arrowsign_64_sd_6_0",
+      "x": 7,
+      "y": -2,
+      "exists": true
+    },
+    "hblooza14_arrowsign_64_a_6_0": {
+      "name": "hblooza14_arrowsign_64_a_6_0",
+      "x": 31,
+      "y": 143,
+      "exists": true
+    },
+    "hblooza14_arrowsign_32_sd_0_0": {
+      "name": "hblooza14_arrowsign_32_sd_0_0",
+      "x": 4,
+      "y": -1,
+      "exists": true
+    },
+    "hblooza14_arrowsign_32_a_0_0": {
+      "name": "hblooza14_arrowsign_32_a_0_0",
+      "x": 12,
+      "y": 72,
+      "exists": true
+    },
+    "hblooza14_arrowsign_32_sd_6_0": {
+      "name": "hblooza14_arrowsign_32_sd_6_0",
+      "x": 4,
+      "y": -1,
+      "exists": false
+    },
+    "hblooza14_arrowsign_32_a_6_0": {
+      "name": "hblooza14_arrowsign_32_a_6_0",
+      "x": 15,
+      "y": 72,
+      "exists": true
+    },
+    "hblooza14_arrowsign_icon_a": {
+      "name": "hblooza14_arrowsign_icon_a",
+      "x": 5,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 5
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "hblooza14_arrowsign",
+    "visualization": "furniture_static"
+  }
+}

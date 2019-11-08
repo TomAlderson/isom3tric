@@ -1,0 +1,924 @@
+{
+  "assets": {
+    "jp_rare_64_a_0_0": {
+      "name": "jp_rare_64_a_0_0",
+      "x": 64,
+      "y": 95,
+      "exists": true
+    },
+    "jp_rare_64_a_0_1": {
+      "name": "jp_rare_64_a_0_1",
+      "source": "jp_rare_64_a_0_0",
+      "x": 64,
+      "y": 95,
+      "exists": false
+    },
+    "jp_rare_64_a_6_0": {
+      "name": "jp_rare_64_a_6_0",
+      "flipH": 1,
+      "source": "jp_rare_64_a_0_0",
+      "x": 64,
+      "y": 95,
+      "exists": false
+    },
+    "jp_rare_64_a_6_1": {
+      "name": "jp_rare_64_a_6_1",
+      "flipH": 1,
+      "source": "jp_rare_64_a_0_0",
+      "x": 64,
+      "y": 95,
+      "exists": false
+    },
+    "jp_rare_64_b_0_0": {
+      "name": "jp_rare_64_b_0_0",
+      "source": "jp_rare_64_b_0_1",
+      "x": 17,
+      "y": 66,
+      "exists": false
+    },
+    "jp_rare_64_b_0_1": {
+      "name": "jp_rare_64_b_0_1",
+      "x": 17,
+      "y": 66,
+      "exists": true
+    },
+    "jp_rare_64_b_0_2": {
+      "name": "jp_rare_64_b_0_2",
+      "x": 24,
+      "y": 42,
+      "exists": true
+    },
+    "jp_rare_64_b_0_3": {
+      "name": "jp_rare_64_b_0_3",
+      "x": 14,
+      "y": 66,
+      "exists": true
+    },
+    "jp_rare_64_b_6_0": {
+      "name": "jp_rare_64_b_6_0",
+      "flipH": 1,
+      "source": "jp_rare_64_b_0_1",
+      "x": 17,
+      "y": 66,
+      "exists": false
+    },
+    "jp_rare_64_b_6_1": {
+      "name": "jp_rare_64_b_6_1",
+      "flipH": 1,
+      "source": "jp_rare_64_b_0_1",
+      "x": 17,
+      "y": 66,
+      "exists": false
+    },
+    "jp_rare_64_b_6_2": {
+      "name": "jp_rare_64_b_6_2",
+      "flipH": 1,
+      "source": "jp_rare_64_b_0_2",
+      "x": 24,
+      "y": 42,
+      "exists": false
+    },
+    "jp_rare_64_b_6_3": {
+      "name": "jp_rare_64_b_6_3",
+      "flipH": 1,
+      "source": "jp_rare_64_b_0_3",
+      "x": 14,
+      "y": 66,
+      "exists": false
+    },
+    "jp_rare_64_c_0_0": {
+      "name": "jp_rare_64_c_0_0",
+      "x": 18,
+      "y": 73,
+      "exists": true
+    },
+    "jp_rare_64_c_0_1": {
+      "name": "jp_rare_64_c_0_1",
+      "x": 18,
+      "y": 73,
+      "exists": true
+    },
+    "jp_rare_64_c_0_2": {
+      "name": "jp_rare_64_c_0_2",
+      "x": 18,
+      "y": 73,
+      "exists": true
+    },
+    "jp_rare_64_c_0_3": {
+      "name": "jp_rare_64_c_0_3",
+      "x": 18,
+      "y": 73,
+      "exists": true
+    },
+    "jp_rare_64_c_0_4": {
+      "name": "jp_rare_64_c_0_4",
+      "x": 21,
+      "y": 73,
+      "exists": true
+    },
+    "jp_rare_64_c_0_5": {
+      "name": "jp_rare_64_c_0_5",
+      "x": 25,
+      "y": 73,
+      "exists": true
+    },
+    "jp_rare_64_c_0_6": {
+      "name": "jp_rare_64_c_0_6",
+      "x": 26,
+      "y": 74,
+      "exists": true
+    },
+    "jp_rare_64_c_0_7": {
+      "name": "jp_rare_64_c_0_7",
+      "x": 26,
+      "y": 74,
+      "exists": true
+    },
+    "jp_rare_64_c_0_8": {
+      "name": "jp_rare_64_c_0_8",
+      "x": 26,
+      "y": 74,
+      "exists": true
+    },
+    "jp_rare_64_c_6_0": {
+      "name": "jp_rare_64_c_6_0",
+      "flipH": 1,
+      "source": "jp_rare_64_c_0_0",
+      "x": 18,
+      "y": 73,
+      "exists": false
+    },
+    "jp_rare_64_c_6_1": {
+      "name": "jp_rare_64_c_6_1",
+      "flipH": 1,
+      "source": "jp_rare_64_c_0_1",
+      "x": 18,
+      "y": 73,
+      "exists": false
+    },
+    "jp_rare_64_c_6_2": {
+      "name": "jp_rare_64_c_6_2",
+      "flipH": 1,
+      "source": "jp_rare_64_c_0_2",
+      "x": 18,
+      "y": 73,
+      "exists": false
+    },
+    "jp_rare_64_c_6_3": {
+      "name": "jp_rare_64_c_6_3",
+      "flipH": 1,
+      "source": "jp_rare_64_c_0_3",
+      "x": 18,
+      "y": 73,
+      "exists": false
+    },
+    "jp_rare_64_c_6_4": {
+      "name": "jp_rare_64_c_6_4",
+      "flipH": 1,
+      "source": "jp_rare_64_c_0_4",
+      "x": 21,
+      "y": 73,
+      "exists": false
+    },
+    "jp_rare_64_c_6_5": {
+      "name": "jp_rare_64_c_6_5",
+      "flipH": 1,
+      "source": "jp_rare_64_c_0_5",
+      "x": 25,
+      "y": 73,
+      "exists": false
+    },
+    "jp_rare_64_c_6_6": {
+      "name": "jp_rare_64_c_6_6",
+      "flipH": 1,
+      "source": "jp_rare_64_c_0_6",
+      "x": 26,
+      "y": 74,
+      "exists": false
+    },
+    "jp_rare_64_c_6_7": {
+      "name": "jp_rare_64_c_6_7",
+      "flipH": 1,
+      "source": "jp_rare_64_c_0_7",
+      "x": 26,
+      "y": 74,
+      "exists": false
+    },
+    "jp_rare_64_c_6_8": {
+      "name": "jp_rare_64_c_6_8",
+      "flipH": 1,
+      "source": "jp_rare_64_c_0_8",
+      "x": 26,
+      "y": 74,
+      "exists": false
+    },
+    "jp_rare_64_d_0_0": {
+      "name": "jp_rare_64_d_0_0",
+      "x": 58,
+      "y": 74,
+      "exists": true
+    },
+    "jp_rare_64_d_0_1": {
+      "name": "jp_rare_64_d_0_1",
+      "source": "jp_rare_64_d_0_0",
+      "x": 58,
+      "y": 74,
+      "exists": false
+    },
+    "jp_rare_64_d_6_0": {
+      "name": "jp_rare_64_d_6_0",
+      "flipH": 1,
+      "source": "jp_rare_64_d_0_0",
+      "x": 58,
+      "y": 74,
+      "exists": false
+    },
+    "jp_rare_64_d_6_1": {
+      "name": "jp_rare_64_d_6_1",
+      "flipH": 1,
+      "source": "jp_rare_64_d_0_0",
+      "x": 58,
+      "y": 74,
+      "exists": false
+    },
+    "jp_rare_icon_a": {
+      "name": "jp_rare_icon_a",
+      "x": 14,
+      "y": 15,
+      "exists": true
+    },
+    "jp_rare_32_a_0_0": {
+      "name": "jp_rare_32_a_0_0",
+      "x": 32,
+      "y": 47,
+      "exists": true
+    },
+    "jp_rare_32_a_0_1": {
+      "name": "jp_rare_32_a_0_1",
+      "source": "jp_rare_32_a_0_0",
+      "x": 32,
+      "y": 47,
+      "exists": false
+    },
+    "jp_rare_32_a_6_0": {
+      "name": "jp_rare_32_a_6_0",
+      "flipH": 1,
+      "source": "jp_rare_32_a_0_0",
+      "x": 32,
+      "y": 47,
+      "exists": false
+    },
+    "jp_rare_32_a_6_1": {
+      "name": "jp_rare_32_a_6_1",
+      "flipH": 1,
+      "source": "jp_rare_32_a_0_0",
+      "x": 32,
+      "y": 47,
+      "exists": false
+    },
+    "jp_rare_32_b_0_0": {
+      "name": "jp_rare_32_b_0_0",
+      "source": "jp_rare_32_b_0_1",
+      "x": 8,
+      "y": 33,
+      "exists": false
+    },
+    "jp_rare_32_b_0_1": {
+      "name": "jp_rare_32_b_0_1",
+      "x": 8,
+      "y": 33,
+      "exists": true
+    },
+    "jp_rare_32_b_0_2": {
+      "name": "jp_rare_32_b_0_2",
+      "x": 12,
+      "y": 20,
+      "exists": true
+    },
+    "jp_rare_32_b_0_3": {
+      "name": "jp_rare_32_b_0_3",
+      "x": 7,
+      "y": 33,
+      "exists": true
+    },
+    "jp_rare_32_b_6_0": {
+      "name": "jp_rare_32_b_6_0",
+      "flipH": 1,
+      "source": "jp_rare_32_b_0_1",
+      "x": 8,
+      "y": 33,
+      "exists": false
+    },
+    "jp_rare_32_b_6_1": {
+      "name": "jp_rare_32_b_6_1",
+      "flipH": 1,
+      "source": "jp_rare_32_b_0_1",
+      "x": 8,
+      "y": 33,
+      "exists": false
+    },
+    "jp_rare_32_b_6_2": {
+      "name": "jp_rare_32_b_6_2",
+      "flipH": 1,
+      "source": "jp_rare_32_b_0_2",
+      "x": 12,
+      "y": 20,
+      "exists": false
+    },
+    "jp_rare_32_b_6_3": {
+      "name": "jp_rare_32_b_6_3",
+      "flipH": 1,
+      "source": "jp_rare_32_b_0_3",
+      "x": 7,
+      "y": 33,
+      "exists": false
+    },
+    "jp_rare_32_c_0_0": {
+      "name": "jp_rare_32_c_0_0",
+      "x": 10,
+      "y": 37,
+      "exists": true
+    },
+    "jp_rare_32_c_0_1": {
+      "name": "jp_rare_32_c_0_1",
+      "x": 8,
+      "y": 36,
+      "exists": true
+    },
+    "jp_rare_32_c_0_2": {
+      "name": "jp_rare_32_c_0_2",
+      "x": 8,
+      "y": 36,
+      "exists": true
+    },
+    "jp_rare_32_c_0_3": {
+      "name": "jp_rare_32_c_0_3",
+      "x": 8,
+      "y": 36,
+      "exists": true
+    },
+    "jp_rare_32_c_0_4": {
+      "name": "jp_rare_32_c_0_4",
+      "x": 10,
+      "y": 36,
+      "exists": true
+    },
+    "jp_rare_32_c_0_5": {
+      "name": "jp_rare_32_c_0_5",
+      "x": 11,
+      "y": 36,
+      "exists": true
+    },
+    "jp_rare_32_c_0_6": {
+      "name": "jp_rare_32_c_0_6",
+      "x": 12,
+      "y": 36,
+      "exists": true
+    },
+    "jp_rare_32_c_0_7": {
+      "name": "jp_rare_32_c_0_7",
+      "x": 12,
+      "y": 36,
+      "exists": true
+    },
+    "jp_rare_32_c_0_8": {
+      "name": "jp_rare_32_c_0_8",
+      "x": 11,
+      "y": 36,
+      "exists": true
+    },
+    "jp_rare_32_c_6_0": {
+      "name": "jp_rare_32_c_6_0",
+      "flipH": 1,
+      "source": "jp_rare_32_c_0_0",
+      "x": 10,
+      "y": 37,
+      "exists": false
+    },
+    "jp_rare_32_c_6_1": {
+      "name": "jp_rare_32_c_6_1",
+      "flipH": 1,
+      "source": "jp_rare_32_c_0_1",
+      "x": 8,
+      "y": 36,
+      "exists": false
+    },
+    "jp_rare_32_c_6_2": {
+      "name": "jp_rare_32_c_6_2",
+      "flipH": 1,
+      "source": "jp_rare_32_c_0_2",
+      "x": 8,
+      "y": 36,
+      "exists": false
+    },
+    "jp_rare_32_c_6_3": {
+      "name": "jp_rare_32_c_6_3",
+      "flipH": 1,
+      "source": "jp_rare_32_c_0_3",
+      "x": 8,
+      "y": 36,
+      "exists": false
+    },
+    "jp_rare_32_c_6_4": {
+      "name": "jp_rare_32_c_6_4",
+      "flipH": 1,
+      "source": "jp_rare_32_c_0_4",
+      "x": 10,
+      "y": 36,
+      "exists": false
+    },
+    "jp_rare_32_c_6_5": {
+      "name": "jp_rare_32_c_6_5",
+      "flipH": 1,
+      "source": "jp_rare_32_c_0_5",
+      "x": 11,
+      "y": 36,
+      "exists": false
+    },
+    "jp_rare_32_c_6_6": {
+      "name": "jp_rare_32_c_6_6",
+      "flipH": 1,
+      "source": "jp_rare_32_c_0_6",
+      "x": 12,
+      "y": 36,
+      "exists": false
+    },
+    "jp_rare_32_c_6_7": {
+      "name": "jp_rare_32_c_6_7",
+      "flipH": 1,
+      "source": "jp_rare_32_c_0_7",
+      "x": 12,
+      "y": 36,
+      "exists": false
+    },
+    "jp_rare_32_c_6_8": {
+      "name": "jp_rare_32_c_6_8",
+      "flipH": 1,
+      "source": "jp_rare_32_c_0_8",
+      "x": 11,
+      "y": 36,
+      "exists": false
+    },
+    "jp_rare_32_d_0_0": {
+      "name": "jp_rare_32_d_0_0",
+      "x": -11,
+      "y": 24,
+      "exists": true
+    },
+    "jp_rare_32_d_0_1": {
+      "name": "jp_rare_32_d_0_1",
+      "source": "jp_rare_32_d_0_0",
+      "x": -11,
+      "y": 24,
+      "exists": false
+    },
+    "jp_rare_32_d_6_0": {
+      "name": "jp_rare_32_d_6_0",
+      "flipH": 1,
+      "source": "jp_rare_32_d_0_0",
+      "x": -11,
+      "y": 24,
+      "exists": false
+    },
+    "jp_rare_32_d_6_1": {
+      "name": "jp_rare_32_d_6_1",
+      "flipH": 1,
+      "source": "jp_rare_32_d_0_0",
+      "x": -11,
+      "y": 24,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  2,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  5,
+                  6,
+                  5,
+                  6,
+                  5,
+                  6,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  2,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  5,
+                  6,
+                  5,
+                  6,
+                  5,
+                  6,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "jp_rare",
+    "visualization": "furniture_animated"
+  }
+}

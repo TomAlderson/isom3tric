@@ -1,0 +1,881 @@
+{
+  "assets": {
+    "america_r17_beaver_64_sd_4_0": {
+      "name": "america_r17_beaver_64_sd_4_0",
+      "x": 22,
+      "y": 9,
+      "exists": true
+    },
+    "america_r17_beaver_64_a_4_0": {
+      "name": "america_r17_beaver_64_a_4_0",
+      "x": 27,
+      "y": 6,
+      "exists": true
+    },
+    "america_r17_beaver_64_b_4_0": {
+      "name": "america_r17_beaver_64_b_4_0",
+      "x": -13,
+      "y": 29,
+      "exists": true
+    },
+    "america_r17_beaver_64_b_4_1": {
+      "name": "america_r17_beaver_64_b_4_1",
+      "x": -12,
+      "y": 29,
+      "exists": true
+    },
+    "america_r17_beaver_64_b_4_2": {
+      "name": "america_r17_beaver_64_b_4_2",
+      "x": -15,
+      "y": 23,
+      "exists": true
+    },
+    "america_r17_beaver_64_b_4_3": {
+      "name": "america_r17_beaver_64_b_4_3",
+      "x": -14,
+      "y": 16,
+      "exists": true
+    },
+    "america_r17_beaver_64_c_4_0": {
+      "name": "america_r17_beaver_64_c_4_0",
+      "x": 25,
+      "y": 24,
+      "exists": true
+    },
+    "america_r17_beaver_64_d_4_0": {
+      "name": "america_r17_beaver_64_d_4_0",
+      "x": 22,
+      "y": 21,
+      "exists": true
+    },
+    "america_r17_beaver_64_d_4_1": {
+      "name": "america_r17_beaver_64_d_4_1",
+      "x": 22,
+      "y": 21,
+      "exists": true
+    },
+    "america_r17_beaver_64_d_4_2": {
+      "name": "america_r17_beaver_64_d_4_2",
+      "x": 21,
+      "y": 20,
+      "exists": true
+    },
+    "america_r17_beaver_64_d_4_3": {
+      "name": "america_r17_beaver_64_d_4_3",
+      "x": 21,
+      "y": 20,
+      "exists": true
+    },
+    "america_r17_beaver_64_d_4_4": {
+      "name": "america_r17_beaver_64_d_4_4",
+      "x": 23,
+      "y": 20,
+      "exists": true
+    },
+    "america_r17_beaver_64_d_4_5": {
+      "name": "america_r17_beaver_64_d_4_5",
+      "x": 26,
+      "y": 20,
+      "exists": true
+    },
+    "america_r17_beaver_64_d_4_6": {
+      "name": "america_r17_beaver_64_d_4_6",
+      "x": 33,
+      "y": 20,
+      "exists": true
+    },
+    "america_r17_beaver_64_d_4_7": {
+      "name": "america_r17_beaver_64_d_4_7",
+      "x": 37,
+      "y": 20,
+      "exists": true
+    },
+    "america_r17_beaver_64_e_4_0": {
+      "name": "america_r17_beaver_64_e_4_0",
+      "x": 31,
+      "y": 13,
+      "exists": true
+    },
+    "america_r17_beaver_icon_a": {
+      "name": "america_r17_beaver_icon_a",
+      "x": 10,
+      "y": 8,
+      "exists": false
+    },
+    "america_r17_beaver_64_sd_2_0": {
+      "name": "america_r17_beaver_64_sd_2_0",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_sd_4_0",
+      "x": 22,
+      "y": 9,
+      "exists": false
+    },
+    "america_r17_beaver_64_a_2_0": {
+      "name": "america_r17_beaver_64_a_2_0",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_a_4_0",
+      "x": 27,
+      "y": 6,
+      "exists": false
+    },
+    "america_r17_beaver_64_b_2_0": {
+      "name": "america_r17_beaver_64_b_2_0",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_b_4_0",
+      "x": -13,
+      "y": 29,
+      "exists": false
+    },
+    "america_r17_beaver_64_b_2_1": {
+      "name": "america_r17_beaver_64_b_2_1",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_b_4_1",
+      "x": -12,
+      "y": 29,
+      "exists": false
+    },
+    "america_r17_beaver_64_b_2_2": {
+      "name": "america_r17_beaver_64_b_2_2",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_b_4_2",
+      "x": -15,
+      "y": 23,
+      "exists": false
+    },
+    "america_r17_beaver_64_b_2_3": {
+      "name": "america_r17_beaver_64_b_2_3",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_b_4_3",
+      "x": -14,
+      "y": 16,
+      "exists": false
+    },
+    "america_r17_beaver_64_c_2_0": {
+      "name": "america_r17_beaver_64_c_2_0",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_c_4_0",
+      "x": 25,
+      "y": 24,
+      "exists": false
+    },
+    "america_r17_beaver_64_d_2_0": {
+      "name": "america_r17_beaver_64_d_2_0",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_d_4_0",
+      "x": 22,
+      "y": 21,
+      "exists": false
+    },
+    "america_r17_beaver_64_d_2_1": {
+      "name": "america_r17_beaver_64_d_2_1",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_d_4_1",
+      "x": 22,
+      "y": 21,
+      "exists": false
+    },
+    "america_r17_beaver_64_d_2_2": {
+      "name": "america_r17_beaver_64_d_2_2",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_d_4_2",
+      "x": 21,
+      "y": 20,
+      "exists": false
+    },
+    "america_r17_beaver_64_d_2_3": {
+      "name": "america_r17_beaver_64_d_2_3",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_d_4_3",
+      "x": 21,
+      "y": 20,
+      "exists": false
+    },
+    "america_r17_beaver_64_d_2_4": {
+      "name": "america_r17_beaver_64_d_2_4",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_d_4_4",
+      "x": 23,
+      "y": 20,
+      "exists": false
+    },
+    "america_r17_beaver_64_d_2_5": {
+      "name": "america_r17_beaver_64_d_2_5",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_d_4_5",
+      "x": 26,
+      "y": 20,
+      "exists": false
+    },
+    "america_r17_beaver_64_d_2_6": {
+      "name": "america_r17_beaver_64_d_2_6",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_d_4_6",
+      "x": 33,
+      "y": 20,
+      "exists": false
+    },
+    "america_r17_beaver_64_d_2_7": {
+      "name": "america_r17_beaver_64_d_2_7",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_d_4_7",
+      "x": 37,
+      "y": 20,
+      "exists": false
+    },
+    "america_r17_beaver_64_e_2_0": {
+      "name": "america_r17_beaver_64_e_2_0",
+      "flipH": 1,
+      "source": "america_r17_beaver_64_e_4_0",
+      "x": 31,
+      "y": 13,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  2,
+                  2,
+                  3,
+                  2,
+                  2,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  4,
+                  5,
+                  6,
+                  7,
+                  2,
+                  2,
+                  2,
+                  2,
+                  3,
+                  2,
+                  3,
+                  2,
+                  2,
+                  2,
+                  2,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  2,
+                  2,
+                  2,
+                  2,
+                  3,
+                  2,
+                  2,
+                  2,
+                  2,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  2,
+                  2,
+                  3,
+                  2,
+                  2,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  4,
+                  5,
+                  6,
+                  7,
+                  2,
+                  2,
+                  2,
+                  2,
+                  3,
+                  2,
+                  3,
+                  2,
+                  2,
+                  2,
+                  2,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  2,
+                  2,
+                  2,
+                  2,
+                  3,
+                  2,
+                  2,
+                  2,
+                  2,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "america_r17_beaver",
+    "visualization": "furniture_animated"
+  }
+}

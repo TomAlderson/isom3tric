@@ -1,0 +1,138 @@
+{
+  "assets": {
+    "tray_glasstower_32_a_2_0": {
+      "name": "tray_glasstower_32_a_2_0",
+      "x": 18,
+      "y": 64,
+      "exists": true
+    },
+    "tray_glasstower_32_a_2_1": {
+      "name": "tray_glasstower_32_a_2_1",
+      "x": 18,
+      "y": 64,
+      "exists": true
+    },
+    "tray_glasstower_32_a_4_0": {
+      "name": "tray_glasstower_32_a_4_0",
+      "flipH": 1,
+      "source": "tray_glasstower_32_a_2_0",
+      "x": 18,
+      "y": 64,
+      "exists": false
+    },
+    "tray_glasstower_32_a_4_1": {
+      "name": "tray_glasstower_32_a_4_1",
+      "flipH": 1,
+      "source": "tray_glasstower_32_a_2_1",
+      "x": 18,
+      "y": 64,
+      "exists": false
+    },
+    "tray_glasstower_32_sd_2_0": {
+      "name": "tray_glasstower_32_sd_2_0",
+      "x": 17,
+      "y": 7,
+      "exists": true
+    },
+    "tray_glasstower_32_sd_4_0": {
+      "name": "tray_glasstower_32_sd_4_0",
+      "flipH": 1,
+      "source": "tray_glasstower_32_sd_2_0",
+      "x": 17,
+      "y": 7,
+      "exists": false
+    },
+    "tray_glasstower_64_a_2_0": {
+      "name": "tray_glasstower_64_a_2_0",
+      "x": 37,
+      "y": 122,
+      "exists": true
+    },
+    "tray_glasstower_64_a_2_1": {
+      "name": "tray_glasstower_64_a_2_1",
+      "x": 37,
+      "y": 122,
+      "exists": true
+    },
+    "tray_glasstower_64_a_4_0": {
+      "name": "tray_glasstower_64_a_4_0",
+      "flipH": 1,
+      "source": "tray_glasstower_64_a_2_0",
+      "x": 37,
+      "y": 122,
+      "exists": false
+    },
+    "tray_glasstower_64_a_4_1": {
+      "name": "tray_glasstower_64_a_4_1",
+      "flipH": 1,
+      "source": "tray_glasstower_64_a_2_1",
+      "x": 37,
+      "y": 122,
+      "exists": false
+    },
+    "tray_glasstower_64_sd_2_0": {
+      "name": "tray_glasstower_64_sd_2_0",
+      "x": 33,
+      "y": 13,
+      "exists": true
+    },
+    "tray_glasstower_64_sd_4_0": {
+      "name": "tray_glasstower_64_sd_4_0",
+      "flipH": 1,
+      "source": "tray_glasstower_64_sd_2_0",
+      "x": 33,
+      "y": 13,
+      "exists": false
+    },
+    "tray_glasstower_icon_a": {
+      "name": "tray_glasstower_icon_a",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "tray_glasstower",
+    "visualization": "furniture_static"
+  }
+}

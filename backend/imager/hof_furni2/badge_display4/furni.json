@@ -1,0 +1,198 @@
+{
+  "assets": {
+    "badge_display4_32_a_4_0": {
+      "name": "badge_display4_32_a_4_0",
+      "x": 16,
+      "y": 25,
+      "exists": true
+    },
+    "badge_display4_32_b_4_0": {
+      "name": "badge_display4_32_b_4_0",
+      "x": 10,
+      "y": 21,
+      "exists": false
+    },
+    "badge_display4_32_b_2_0": {
+      "name": "badge_display4_32_b_2_0",
+      "x": 10,
+      "y": 21,
+      "exists": true
+    },
+    "badge_display4_32_c_4_0": {
+      "name": "badge_display4_32_c_4_0",
+      "x": 16,
+      "y": 37,
+      "exists": true
+    },
+    "badge_display4_32_d_4_0": {
+      "name": "badge_display4_32_d_4_0",
+      "x": 14,
+      "y": 46,
+      "exists": true
+    },
+    "badge_display4_64_a_4_0": {
+      "name": "badge_display4_64_a_4_0",
+      "x": 31,
+      "y": 52,
+      "exists": true
+    },
+    "badge_display4_64_b_4_0": {
+      "name": "badge_display4_64_b_4_0",
+      "x": 20,
+      "y": 44,
+      "exists": true
+    },
+    "badge_display4_64_b_2_0": {
+      "name": "badge_display4_64_b_2_0",
+      "x": 20,
+      "y": 44,
+      "exists": false
+    },
+    "badge_display4_64_c_4_0": {
+      "name": "badge_display4_64_c_4_0",
+      "x": 31,
+      "y": 74,
+      "exists": true
+    },
+    "badge_display4_64_d_4_0": {
+      "name": "badge_display4_64_d_4_0",
+      "x": 27,
+      "y": 93,
+      "exists": true
+    },
+    "badge_display4_icon_a": {
+      "name": "badge_display4_icon_a",
+      "x": 12,
+      "y": 14,
+      "exists": true
+    },
+    "badge_display4_32_a_2_0": {
+      "name": "badge_display4_32_a_2_0",
+      "flipH": 1,
+      "source": "badge_display4_32_a_4_0",
+      "x": 16,
+      "y": 25,
+      "exists": false
+    },
+    "badge_display4_32_c_2_0": {
+      "name": "badge_display4_32_c_2_0",
+      "flipH": 1,
+      "source": "badge_display4_32_c_4_0",
+      "x": 16,
+      "y": 37,
+      "exists": false
+    },
+    "badge_display4_32_d_2_0": {
+      "name": "badge_display4_32_d_2_0",
+      "source": "badge_display4_32_d_4_0",
+      "x": 14,
+      "y": 46,
+      "exists": false
+    },
+    "badge_display4_64_a_2_0": {
+      "name": "badge_display4_64_a_2_0",
+      "flipH": 1,
+      "source": "badge_display4_64_a_4_0",
+      "x": 31,
+      "y": 52,
+      "exists": false
+    },
+    "badge_display4_64_c_2_0": {
+      "name": "badge_display4_64_c_2_0",
+      "flipH": 1,
+      "source": "badge_display4_64_c_4_0",
+      "x": 31,
+      "y": 74,
+      "exists": false
+    },
+    "badge_display4_64_d_2_0": {
+      "name": "badge_display4_64_d_2_0",
+      "source": "badge_display4_64_d_4_0",
+      "x": 27,
+      "y": 93,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.8
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "COPY",
+          "z": 2
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "alpha": 180,
+          "ignoreMouse": 1,
+          "z": 3
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 2
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "alpha": 180,
+          "ignoreMouse": 1,
+          "z": 3
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_badge_display",
+    "type": "badge_display4",
+    "visualization": "furniture_badge_display"
+  }
+}

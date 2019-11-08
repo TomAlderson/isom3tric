@@ -1,0 +1,987 @@
+{
+  "assets": {
+    "hween_c15_shinycarpet_64_a_0_0": {
+      "name": "hween_c15_shinycarpet_64_a_0_0",
+      "x": 82,
+      "y": 10,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_b_0_0": {
+      "name": "hween_c15_shinycarpet_64_b_0_0",
+      "x": -40,
+      "y": -67,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_b_0_1": {
+      "name": "hween_c15_shinycarpet_64_b_0_1",
+      "x": 103,
+      "y": 31,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_b_0_2": {
+      "name": "hween_c15_shinycarpet_64_b_0_2",
+      "x": 103,
+      "y": 31,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_b_0_3": {
+      "name": "hween_c15_shinycarpet_64_b_0_3",
+      "x": 103,
+      "y": 31,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_c_0_0": {
+      "name": "hween_c15_shinycarpet_64_c_0_0",
+      "x": 33,
+      "y": 0,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_c_0_1": {
+      "name": "hween_c15_shinycarpet_64_c_0_1",
+      "x": 33,
+      "y": 0,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_c_0_2": {
+      "name": "hween_c15_shinycarpet_64_c_0_2",
+      "x": 34,
+      "y": 2,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_c_0_3": {
+      "name": "hween_c15_shinycarpet_64_c_0_3",
+      "x": 35,
+      "y": 7,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_c_0_4": {
+      "name": "hween_c15_shinycarpet_64_c_0_4",
+      "x": 36,
+      "y": 14,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_c_0_5": {
+      "name": "hween_c15_shinycarpet_64_c_0_5",
+      "x": 38,
+      "y": 26,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_c_0_6": {
+      "name": "hween_c15_shinycarpet_64_c_0_6",
+      "x": 40,
+      "y": 39,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_c_0_7": {
+      "name": "hween_c15_shinycarpet_64_c_0_7",
+      "x": 41,
+      "y": 42,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_d_0_0": {
+      "name": "hween_c15_shinycarpet_64_d_0_0",
+      "x": 8,
+      "y": -12,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_d_0_1": {
+      "name": "hween_c15_shinycarpet_64_d_0_1",
+      "x": 8,
+      "y": -12,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_d_0_2": {
+      "name": "hween_c15_shinycarpet_64_d_0_2",
+      "x": 9,
+      "y": -10,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_d_0_3": {
+      "name": "hween_c15_shinycarpet_64_d_0_3",
+      "x": 10,
+      "y": -5,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_d_0_4": {
+      "name": "hween_c15_shinycarpet_64_d_0_4",
+      "x": 11,
+      "y": 2,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_d_0_5": {
+      "name": "hween_c15_shinycarpet_64_d_0_5",
+      "x": 13,
+      "y": 14,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_d_0_6": {
+      "name": "hween_c15_shinycarpet_64_d_0_6",
+      "x": 15,
+      "y": 27,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_d_0_7": {
+      "name": "hween_c15_shinycarpet_64_d_0_7",
+      "x": 16,
+      "y": 30,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_e_0_0": {
+      "name": "hween_c15_shinycarpet_64_e_0_0",
+      "x": 76,
+      "y": -22,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_e_0_1": {
+      "name": "hween_c15_shinycarpet_64_e_0_1",
+      "x": 76,
+      "y": -22,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_e_0_2": {
+      "name": "hween_c15_shinycarpet_64_e_0_2",
+      "x": 77,
+      "y": -20,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_e_0_3": {
+      "name": "hween_c15_shinycarpet_64_e_0_3",
+      "x": 78,
+      "y": -15,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_e_0_4": {
+      "name": "hween_c15_shinycarpet_64_e_0_4",
+      "x": 79,
+      "y": -8,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_e_0_5": {
+      "name": "hween_c15_shinycarpet_64_e_0_5",
+      "x": 81,
+      "y": 4,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_e_0_6": {
+      "name": "hween_c15_shinycarpet_64_e_0_6",
+      "x": 83,
+      "y": 17,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_e_0_7": {
+      "name": "hween_c15_shinycarpet_64_e_0_7",
+      "x": 84,
+      "y": 20,
+      "exists": true
+    },
+    "hween_c15_shinycarpet_64_f_0_0": {
+      "name": "hween_c15_shinycarpet_64_f_0_0",
+      "x": -32,
+      "y": -64,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_f_0_1": {
+      "name": "hween_c15_shinycarpet_64_f_0_1",
+      "x": -32,
+      "y": -64,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_f_0_2": {
+      "name": "hween_c15_shinycarpet_64_f_0_2",
+      "x": -31,
+      "y": -62,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_f_0_3": {
+      "name": "hween_c15_shinycarpet_64_f_0_3",
+      "x": -30,
+      "y": -57,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_f_0_4": {
+      "name": "hween_c15_shinycarpet_64_f_0_4",
+      "x": -29,
+      "y": -50,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_f_0_5": {
+      "name": "hween_c15_shinycarpet_64_f_0_5",
+      "x": -27,
+      "y": -38,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_f_0_6": {
+      "name": "hween_c15_shinycarpet_64_f_0_6",
+      "x": -25,
+      "y": -25,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_f_0_7": {
+      "name": "hween_c15_shinycarpet_64_f_0_7",
+      "x": -24,
+      "y": -22,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_g_0_0": {
+      "name": "hween_c15_shinycarpet_64_g_0_0",
+      "x": -78,
+      "y": -41,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_g_0_1": {
+      "name": "hween_c15_shinycarpet_64_g_0_1",
+      "x": -78,
+      "y": -41,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_g_0_2": {
+      "name": "hween_c15_shinycarpet_64_g_0_2",
+      "x": -77,
+      "y": -39,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_g_0_3": {
+      "name": "hween_c15_shinycarpet_64_g_0_3",
+      "x": -76,
+      "y": -34,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_g_0_4": {
+      "name": "hween_c15_shinycarpet_64_g_0_4",
+      "x": -75,
+      "y": -27,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_g_0_5": {
+      "name": "hween_c15_shinycarpet_64_g_0_5",
+      "x": -73,
+      "y": -15,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_g_0_6": {
+      "name": "hween_c15_shinycarpet_64_g_0_6",
+      "x": -71,
+      "y": -2,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_g_0_7": {
+      "name": "hween_c15_shinycarpet_64_g_0_7",
+      "x": -70,
+      "y": 1,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_h_0_0": {
+      "name": "hween_c15_shinycarpet_64_h_0_0",
+      "x": 23,
+      "y": -69,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_h_0_1": {
+      "name": "hween_c15_shinycarpet_64_h_0_1",
+      "x": 23,
+      "y": -69,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_h_0_2": {
+      "name": "hween_c15_shinycarpet_64_h_0_2",
+      "x": 24,
+      "y": -67,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_h_0_3": {
+      "name": "hween_c15_shinycarpet_64_h_0_3",
+      "x": 25,
+      "y": -62,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_h_0_4": {
+      "name": "hween_c15_shinycarpet_64_h_0_4",
+      "x": 26,
+      "y": -55,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_h_0_5": {
+      "name": "hween_c15_shinycarpet_64_h_0_5",
+      "x": 28,
+      "y": -43,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_h_0_6": {
+      "name": "hween_c15_shinycarpet_64_h_0_6",
+      "x": 30,
+      "y": -30,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_h_0_7": {
+      "name": "hween_c15_shinycarpet_64_h_0_7",
+      "x": 31,
+      "y": -27,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_i_0_0": {
+      "name": "hween_c15_shinycarpet_64_i_0_0",
+      "x": -39,
+      "y": -28,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_i_0_1": {
+      "name": "hween_c15_shinycarpet_64_i_0_1",
+      "x": -39,
+      "y": -28,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_i_0_2": {
+      "name": "hween_c15_shinycarpet_64_i_0_2",
+      "x": -38,
+      "y": -26,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_i_0_3": {
+      "name": "hween_c15_shinycarpet_64_i_0_3",
+      "x": -37,
+      "y": -21,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_i_0_4": {
+      "name": "hween_c15_shinycarpet_64_i_0_4",
+      "x": -36,
+      "y": -14,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_i_0_5": {
+      "name": "hween_c15_shinycarpet_64_i_0_5",
+      "x": -34,
+      "y": -2,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_i_0_6": {
+      "name": "hween_c15_shinycarpet_64_i_0_6",
+      "x": -32,
+      "y": 11,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_i_0_7": {
+      "name": "hween_c15_shinycarpet_64_i_0_7",
+      "x": -31,
+      "y": 14,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_j_0_0": {
+      "name": "hween_c15_shinycarpet_64_j_0_0",
+      "x": -64,
+      "y": -48,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_j_0_1": {
+      "name": "hween_c15_shinycarpet_64_j_0_1",
+      "x": -64,
+      "y": -48,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_j_0_2": {
+      "name": "hween_c15_shinycarpet_64_j_0_2",
+      "x": -63,
+      "y": -46,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_j_0_3": {
+      "name": "hween_c15_shinycarpet_64_j_0_3",
+      "x": -62,
+      "y": -41,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_j_0_4": {
+      "name": "hween_c15_shinycarpet_64_j_0_4",
+      "x": -61,
+      "y": -34,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_j_0_5": {
+      "name": "hween_c15_shinycarpet_64_j_0_5",
+      "x": -59,
+      "y": -22,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_j_0_6": {
+      "name": "hween_c15_shinycarpet_64_j_0_6",
+      "x": -57,
+      "y": -9,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_j_0_7": {
+      "name": "hween_c15_shinycarpet_64_j_0_7",
+      "x": -56,
+      "y": -6,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_k_0_0": {
+      "name": "hween_c15_shinycarpet_64_k_0_0",
+      "x": 78,
+      "y": -41,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_k_0_1": {
+      "name": "hween_c15_shinycarpet_64_k_0_1",
+      "x": 78,
+      "y": -41,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_k_0_2": {
+      "name": "hween_c15_shinycarpet_64_k_0_2",
+      "x": 79,
+      "y": -39,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_k_0_3": {
+      "name": "hween_c15_shinycarpet_64_k_0_3",
+      "x": 80,
+      "y": -34,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_k_0_4": {
+      "name": "hween_c15_shinycarpet_64_k_0_4",
+      "x": 81,
+      "y": -27,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_k_0_5": {
+      "name": "hween_c15_shinycarpet_64_k_0_5",
+      "x": 83,
+      "y": -15,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_k_0_6": {
+      "name": "hween_c15_shinycarpet_64_k_0_6",
+      "x": 85,
+      "y": -2,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_64_k_0_7": {
+      "name": "hween_c15_shinycarpet_64_k_0_7",
+      "x": 86,
+      "y": 1,
+      "exists": false
+    },
+    "hween_c15_shinycarpet_icon_a": {
+      "name": "hween_c15_shinycarpet_icon_a",
+      "x": 14,
+      "y": 7,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3,
+      "y": 3,
+      "z": 0.0001
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 11,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            },
+            {
+              "layerId": 7,
+              "frameSequence": []
+            },
+            {
+              "layerId": 8,
+              "frameSequence": []
+            },
+            {
+              "layerId": 9,
+              "frameSequence": []
+            },
+            {
+              "layerId": 10,
+              "frameSequence": []
+            },
+            {
+              "layerId": 11,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3,
+                  2,
+                  1,
+                  1,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  3,
+                  2,
+                  2,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  3,
+                  2,
+                  2,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 10,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 11,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 2,
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "z": 2000
+        },
+        {
+          "layerId": 5,
+          "z": 3500
+        },
+        {
+          "layerId": 6,
+          "z": 2500
+        },
+        {
+          "layerId": 7,
+          "z": 4500
+        },
+        {
+          "layerId": 8,
+          "z": 1500
+        },
+        {
+          "layerId": 9,
+          "z": 2500
+        },
+        {
+          "layerId": 10,
+          "z": 2500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween_c15_shinycarpet",
+    "visualization": "furniture_animated"
+  }
+}

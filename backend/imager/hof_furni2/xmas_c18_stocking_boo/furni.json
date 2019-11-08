@@ -1,0 +1,254 @@
+{
+  "assets": {
+    "xmas_c18_stocking_boo_icon_a": {
+      "name": "xmas_c18_stocking_boo_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    },
+    "xmas_c18_stocking_boo_64_sd_0_0": {
+      "name": "xmas_c18_stocking_boo_64_sd_0_0",
+      "x": 19,
+      "y": 9,
+      "exists": true
+    },
+    "xmas_c18_stocking_boo_64_a_0_0": {
+      "name": "xmas_c18_stocking_boo_64_a_0_0",
+      "x": 21,
+      "y": 66,
+      "exists": true
+    },
+    "xmas_c18_stocking_boo_64_a_0_1": {
+      "name": "xmas_c18_stocking_boo_64_a_0_1",
+      "x": 21,
+      "y": 66,
+      "exists": true
+    },
+    "xmas_c18_stocking_boo_64_a_0_2": {
+      "name": "xmas_c18_stocking_boo_64_a_0_2",
+      "x": 21,
+      "y": 65,
+      "exists": true
+    },
+    "xmas_c18_stocking_boo_64_a_0_3": {
+      "name": "xmas_c18_stocking_boo_64_a_0_3",
+      "x": 21,
+      "y": 67,
+      "exists": true
+    },
+    "xmas_c18_stocking_boo_64_a_0_4": {
+      "name": "xmas_c18_stocking_boo_64_a_0_4",
+      "x": 21,
+      "y": 68,
+      "exists": true
+    },
+    "xmas_c18_stocking_boo_64_sd_2_0": {
+      "name": "xmas_c18_stocking_boo_64_sd_2_0",
+      "flipH": 1,
+      "source": "xmas_c18_stocking_boo_64_sd_0_0",
+      "x": 19,
+      "y": 9,
+      "exists": false
+    },
+    "xmas_c18_stocking_boo_64_a_2_0": {
+      "name": "xmas_c18_stocking_boo_64_a_2_0",
+      "flipH": 1,
+      "source": "xmas_c18_stocking_boo_64_a_0_0",
+      "x": 21,
+      "y": 66,
+      "exists": false
+    },
+    "xmas_c18_stocking_boo_64_a_2_1": {
+      "name": "xmas_c18_stocking_boo_64_a_2_1",
+      "flipH": 1,
+      "source": "xmas_c18_stocking_boo_64_a_0_1",
+      "x": 21,
+      "y": 66,
+      "exists": false
+    },
+    "xmas_c18_stocking_boo_64_a_2_2": {
+      "name": "xmas_c18_stocking_boo_64_a_2_2",
+      "flipH": 1,
+      "source": "xmas_c18_stocking_boo_64_a_0_2",
+      "x": 21,
+      "y": 65,
+      "exists": false
+    },
+    "xmas_c18_stocking_boo_64_a_2_3": {
+      "name": "xmas_c18_stocking_boo_64_a_2_3",
+      "flipH": 1,
+      "source": "xmas_c18_stocking_boo_64_a_0_3",
+      "x": 21,
+      "y": 67,
+      "exists": false
+    },
+    "xmas_c18_stocking_boo_64_a_2_4": {
+      "name": "xmas_c18_stocking_boo_64_a_2_4",
+      "flipH": 1,
+      "source": "xmas_c18_stocking_boo_64_a_0_4",
+      "x": 21,
+      "y": 68,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  2,
+                  2,
+                  3,
+                  4,
+                  4,
+                  2,
+                  2,
+                  3,
+                  3,
+                  4,
+                  4
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "xmas_c18_stocking_boo",
+    "visualization": "furniture_animated"
+  }
+}

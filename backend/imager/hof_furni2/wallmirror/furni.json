@@ -1,0 +1,124 @@
+{
+  "assets": {
+    "wallmirror_64_a_2_0": {
+      "name": "wallmirror_64_a_2_0",
+      "x": 17,
+      "y": 30,
+      "exists": true
+    },
+    "wallmirror_64_a_4_0": {
+      "name": "wallmirror_64_a_4_0",
+      "flipH": 1,
+      "source": "wallmirror_64_a_2_0",
+      "x": 17,
+      "y": 30,
+      "exists": false
+    },
+    "wallmirror_32_a_2_0": {
+      "name": "wallmirror_32_a_2_0",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    },
+    "wallmirror_32_a_4_0": {
+      "name": "wallmirror_32_a_4_0",
+      "flipH": 1,
+      "source": "wallmirror_32_a_2_0",
+      "x": 9,
+      "y": 15,
+      "exists": false
+    },
+    "wallmirror_icon_a": {
+      "name": "wallmirror_icon_a",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1.0625,
+      "y": 0.2,
+      "z": 1.7813
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "wallmirror",
+    "visualization": "furniture_animated"
+  }
+}

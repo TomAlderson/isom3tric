@@ -1,0 +1,1541 @@
+{
+  "assets": {
+    "scifidoor_32_a_2_0": {
+      "name": "scifidoor_32_a_2_0",
+      "flipH": 1,
+      "source": "scifidoor_32_a_4_0",
+      "x": 8,
+      "y": 8,
+      "exists": false
+    },
+    "scifidoor_32_a_4_0": {
+      "name": "scifidoor_32_a_4_0",
+      "x": 8,
+      "y": 8,
+      "exists": true
+    },
+    "scifidoor_32_b_2_0": {
+      "name": "scifidoor_32_b_2_0",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_0",
+      "x": 8,
+      "y": 32,
+      "exists": false
+    },
+    "scifidoor_32_b_2_1": {
+      "name": "scifidoor_32_b_2_1",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_1",
+      "x": 8,
+      "y": 33,
+      "exists": false
+    },
+    "scifidoor_32_b_2_10": {
+      "name": "scifidoor_32_b_2_10",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_10",
+      "x": 8,
+      "y": 15,
+      "exists": false
+    },
+    "scifidoor_32_b_2_11": {
+      "name": "scifidoor_32_b_2_11",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_11",
+      "x": 8,
+      "y": 13,
+      "exists": false
+    },
+    "scifidoor_32_b_2_12": {
+      "name": "scifidoor_32_b_2_12",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_12",
+      "x": 8,
+      "y": 11,
+      "exists": false
+    },
+    "scifidoor_32_b_2_13": {
+      "name": "scifidoor_32_b_2_13",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_13",
+      "x": 8,
+      "y": 9,
+      "exists": false
+    },
+    "scifidoor_32_b_2_14": {
+      "name": "scifidoor_32_b_2_14",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": false
+    },
+    "scifidoor_32_b_2_15": {
+      "name": "scifidoor_32_b_2_15",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": false
+    },
+    "scifidoor_32_b_2_16": {
+      "name": "scifidoor_32_b_2_16",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": false
+    },
+    "scifidoor_32_b_2_17": {
+      "name": "scifidoor_32_b_2_17",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": false
+    },
+    "scifidoor_32_b_2_18": {
+      "name": "scifidoor_32_b_2_18",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": false
+    },
+    "scifidoor_32_b_2_19": {
+      "name": "scifidoor_32_b_2_19",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": false
+    },
+    "scifidoor_32_b_2_2": {
+      "name": "scifidoor_32_b_2_2",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_2",
+      "x": 8,
+      "y": 31,
+      "exists": false
+    },
+    "scifidoor_32_b_2_3": {
+      "name": "scifidoor_32_b_2_3",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_3",
+      "x": 8,
+      "y": 29,
+      "exists": false
+    },
+    "scifidoor_32_b_2_4": {
+      "name": "scifidoor_32_b_2_4",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_4",
+      "x": 8,
+      "y": 27,
+      "exists": false
+    },
+    "scifidoor_32_b_2_5": {
+      "name": "scifidoor_32_b_2_5",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_5",
+      "x": 8,
+      "y": 25,
+      "exists": false
+    },
+    "scifidoor_32_b_2_6": {
+      "name": "scifidoor_32_b_2_6",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_6",
+      "x": 8,
+      "y": 23,
+      "exists": false
+    },
+    "scifidoor_32_b_2_7": {
+      "name": "scifidoor_32_b_2_7",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_7",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "scifidoor_32_b_2_8": {
+      "name": "scifidoor_32_b_2_8",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_8",
+      "x": 8,
+      "y": 19,
+      "exists": false
+    },
+    "scifidoor_32_b_2_9": {
+      "name": "scifidoor_32_b_2_9",
+      "flipH": 1,
+      "source": "scifidoor_32_b_4_9",
+      "x": 8,
+      "y": 17,
+      "exists": false
+    },
+    "scifidoor_32_b_4_0": {
+      "name": "scifidoor_32_b_4_0",
+      "x": 8,
+      "y": 32,
+      "exists": true
+    },
+    "scifidoor_32_b_4_1": {
+      "name": "scifidoor_32_b_4_1",
+      "x": 8,
+      "y": 33,
+      "exists": true
+    },
+    "scifidoor_32_b_4_10": {
+      "name": "scifidoor_32_b_4_10",
+      "x": 8,
+      "y": 15,
+      "exists": true
+    },
+    "scifidoor_32_b_4_11": {
+      "name": "scifidoor_32_b_4_11",
+      "x": 8,
+      "y": 13,
+      "exists": true
+    },
+    "scifidoor_32_b_4_12": {
+      "name": "scifidoor_32_b_4_12",
+      "x": 8,
+      "y": 11,
+      "exists": true
+    },
+    "scifidoor_32_b_4_13": {
+      "name": "scifidoor_32_b_4_13",
+      "x": 8,
+      "y": 9,
+      "exists": true
+    },
+    "scifidoor_32_b_4_14": {
+      "name": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": true
+    },
+    "scifidoor_32_b_4_15": {
+      "name": "scifidoor_32_b_4_15",
+      "source": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": false
+    },
+    "scifidoor_32_b_4_16": {
+      "name": "scifidoor_32_b_4_16",
+      "source": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": false
+    },
+    "scifidoor_32_b_4_17": {
+      "name": "scifidoor_32_b_4_17",
+      "source": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": false
+    },
+    "scifidoor_32_b_4_18": {
+      "name": "scifidoor_32_b_4_18",
+      "source": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": false
+    },
+    "scifidoor_32_b_4_19": {
+      "name": "scifidoor_32_b_4_19",
+      "source": "scifidoor_32_b_4_14",
+      "x": 8,
+      "y": 7,
+      "exists": false
+    },
+    "scifidoor_32_b_4_2": {
+      "name": "scifidoor_32_b_4_2",
+      "x": 8,
+      "y": 31,
+      "exists": true
+    },
+    "scifidoor_32_b_4_3": {
+      "name": "scifidoor_32_b_4_3",
+      "x": 8,
+      "y": 29,
+      "exists": true
+    },
+    "scifidoor_32_b_4_4": {
+      "name": "scifidoor_32_b_4_4",
+      "x": 8,
+      "y": 27,
+      "exists": true
+    },
+    "scifidoor_32_b_4_5": {
+      "name": "scifidoor_32_b_4_5",
+      "x": 8,
+      "y": 25,
+      "exists": true
+    },
+    "scifidoor_32_b_4_6": {
+      "name": "scifidoor_32_b_4_6",
+      "x": 8,
+      "y": 23,
+      "exists": true
+    },
+    "scifidoor_32_b_4_7": {
+      "name": "scifidoor_32_b_4_7",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "scifidoor_32_b_4_8": {
+      "name": "scifidoor_32_b_4_8",
+      "x": 8,
+      "y": 19,
+      "exists": true
+    },
+    "scifidoor_32_b_4_9": {
+      "name": "scifidoor_32_b_4_9",
+      "x": 8,
+      "y": 17,
+      "exists": true
+    },
+    "scifidoor_32_c_2_0": {
+      "name": "scifidoor_32_c_2_0",
+      "flipH": 1,
+      "source": "scifidoor_32_c_4_0",
+      "x": -1,
+      "y": 29,
+      "exists": false
+    },
+    "scifidoor_32_c_2_1": {
+      "name": "scifidoor_32_c_2_1",
+      "flipH": 1,
+      "source": "scifidoor_32_c_4_1",
+      "x": -1,
+      "y": 29,
+      "exists": false
+    },
+    "scifidoor_32_c_4_0": {
+      "name": "scifidoor_32_c_4_0",
+      "x": -1,
+      "y": 29,
+      "exists": true
+    },
+    "scifidoor_32_c_4_1": {
+      "name": "scifidoor_32_c_4_1",
+      "x": -1,
+      "y": 29,
+      "exists": true
+    },
+    "scifidoor_32_d_2_0": {
+      "name": "scifidoor_32_d_2_0",
+      "flipH": 1,
+      "source": "scifidoor_32_d_4_0",
+      "x": 8,
+      "y": 35,
+      "exists": false
+    },
+    "scifidoor_32_d_2_1": {
+      "name": "scifidoor_32_d_2_1",
+      "flipH": 1,
+      "source": "scifidoor_32_d_4_1",
+      "x": 8,
+      "y": 35,
+      "exists": false
+    },
+    "scifidoor_32_d_4_0": {
+      "name": "scifidoor_32_d_4_0",
+      "x": 8,
+      "y": 35,
+      "exists": true
+    },
+    "scifidoor_32_d_4_1": {
+      "name": "scifidoor_32_d_4_1",
+      "x": 8,
+      "y": 35,
+      "exists": false
+    },
+    "scifidoor_32_e_2_0": {
+      "name": "scifidoor_32_e_2_0",
+      "flipH": 1,
+      "source": "scifidoor_32_e_4_0",
+      "x": 12,
+      "y": 5,
+      "exists": false
+    },
+    "scifidoor_32_e_4_0": {
+      "name": "scifidoor_32_e_4_0",
+      "x": 12,
+      "y": 5,
+      "exists": true
+    },
+    "scifidoor_64_a_2_0": {
+      "name": "scifidoor_64_a_2_0",
+      "flipH": 1,
+      "source": "scifidoor_64_a_4_0",
+      "x": 13,
+      "y": 14,
+      "exists": false
+    },
+    "scifidoor_64_a_4_0": {
+      "name": "scifidoor_64_a_4_0",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "scifidoor_64_b_2_0": {
+      "name": "scifidoor_64_b_2_0",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_0",
+      "x": 16,
+      "y": 67,
+      "exists": false
+    },
+    "scifidoor_64_b_2_1": {
+      "name": "scifidoor_64_b_2_1",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_1",
+      "x": 16,
+      "y": 69,
+      "exists": false
+    },
+    "scifidoor_64_b_2_10": {
+      "name": "scifidoor_64_b_2_10",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_10",
+      "x": 16,
+      "y": 42,
+      "exists": false
+    },
+    "scifidoor_64_b_2_11": {
+      "name": "scifidoor_64_b_2_11",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_11",
+      "x": 16,
+      "y": 39,
+      "exists": false
+    },
+    "scifidoor_64_b_2_12": {
+      "name": "scifidoor_64_b_2_12",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_12",
+      "x": 16,
+      "y": 36,
+      "exists": false
+    },
+    "scifidoor_64_b_2_13": {
+      "name": "scifidoor_64_b_2_13",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_13",
+      "x": 16,
+      "y": 33,
+      "exists": false
+    },
+    "scifidoor_64_b_2_14": {
+      "name": "scifidoor_64_b_2_14",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_14",
+      "x": 16,
+      "y": 30,
+      "exists": false
+    },
+    "scifidoor_64_b_2_15": {
+      "name": "scifidoor_64_b_2_15",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_15",
+      "x": 16,
+      "y": 27,
+      "exists": false
+    },
+    "scifidoor_64_b_2_16": {
+      "name": "scifidoor_64_b_2_16",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_16",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "scifidoor_64_b_2_17": {
+      "name": "scifidoor_64_b_2_17",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_17",
+      "x": 16,
+      "y": 21,
+      "exists": false
+    },
+    "scifidoor_64_b_2_18": {
+      "name": "scifidoor_64_b_2_18",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_18",
+      "x": 16,
+      "y": 18,
+      "exists": false
+    },
+    "scifidoor_64_b_2_19": {
+      "name": "scifidoor_64_b_2_19",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_19",
+      "x": 16,
+      "y": 15,
+      "exists": false
+    },
+    "scifidoor_64_b_2_2": {
+      "name": "scifidoor_64_b_2_2",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_2",
+      "x": 16,
+      "y": 66,
+      "exists": false
+    },
+    "scifidoor_64_b_2_3": {
+      "name": "scifidoor_64_b_2_3",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_3",
+      "x": 16,
+      "y": 63,
+      "exists": false
+    },
+    "scifidoor_64_b_2_4": {
+      "name": "scifidoor_64_b_2_4",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_4",
+      "x": 16,
+      "y": 60,
+      "exists": false
+    },
+    "scifidoor_64_b_2_5": {
+      "name": "scifidoor_64_b_2_5",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_5",
+      "x": 16,
+      "y": 57,
+      "exists": false
+    },
+    "scifidoor_64_b_2_6": {
+      "name": "scifidoor_64_b_2_6",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_6",
+      "x": 16,
+      "y": 54,
+      "exists": false
+    },
+    "scifidoor_64_b_2_7": {
+      "name": "scifidoor_64_b_2_7",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_7",
+      "x": 16,
+      "y": 51,
+      "exists": false
+    },
+    "scifidoor_64_b_2_8": {
+      "name": "scifidoor_64_b_2_8",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_8",
+      "x": 16,
+      "y": 48,
+      "exists": false
+    },
+    "scifidoor_64_b_2_9": {
+      "name": "scifidoor_64_b_2_9",
+      "flipH": 1,
+      "source": "scifidoor_64_b_4_9",
+      "x": 16,
+      "y": 45,
+      "exists": false
+    },
+    "scifidoor_64_b_4_0": {
+      "name": "scifidoor_64_b_4_0",
+      "x": 16,
+      "y": 67,
+      "exists": true
+    },
+    "scifidoor_64_b_4_1": {
+      "name": "scifidoor_64_b_4_1",
+      "x": 16,
+      "y": 69,
+      "exists": true
+    },
+    "scifidoor_64_b_4_10": {
+      "name": "scifidoor_64_b_4_10",
+      "x": 16,
+      "y": 42,
+      "exists": true
+    },
+    "scifidoor_64_b_4_11": {
+      "name": "scifidoor_64_b_4_11",
+      "x": 16,
+      "y": 39,
+      "exists": true
+    },
+    "scifidoor_64_b_4_12": {
+      "name": "scifidoor_64_b_4_12",
+      "x": 16,
+      "y": 36,
+      "exists": true
+    },
+    "scifidoor_64_b_4_13": {
+      "name": "scifidoor_64_b_4_13",
+      "x": 16,
+      "y": 33,
+      "exists": true
+    },
+    "scifidoor_64_b_4_14": {
+      "name": "scifidoor_64_b_4_14",
+      "x": 16,
+      "y": 30,
+      "exists": true
+    },
+    "scifidoor_64_b_4_15": {
+      "name": "scifidoor_64_b_4_15",
+      "x": 16,
+      "y": 27,
+      "exists": true
+    },
+    "scifidoor_64_b_4_16": {
+      "name": "scifidoor_64_b_4_16",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "scifidoor_64_b_4_17": {
+      "name": "scifidoor_64_b_4_17",
+      "x": 16,
+      "y": 21,
+      "exists": true
+    },
+    "scifidoor_64_b_4_18": {
+      "name": "scifidoor_64_b_4_18",
+      "x": 16,
+      "y": 18,
+      "exists": true
+    },
+    "scifidoor_64_b_4_19": {
+      "name": "scifidoor_64_b_4_19",
+      "x": 16,
+      "y": 15,
+      "exists": true
+    },
+    "scifidoor_64_b_4_2": {
+      "name": "scifidoor_64_b_4_2",
+      "x": 16,
+      "y": 66,
+      "exists": true
+    },
+    "scifidoor_64_b_4_3": {
+      "name": "scifidoor_64_b_4_3",
+      "x": 16,
+      "y": 63,
+      "exists": true
+    },
+    "scifidoor_64_b_4_4": {
+      "name": "scifidoor_64_b_4_4",
+      "x": 16,
+      "y": 60,
+      "exists": true
+    },
+    "scifidoor_64_b_4_5": {
+      "name": "scifidoor_64_b_4_5",
+      "x": 16,
+      "y": 57,
+      "exists": true
+    },
+    "scifidoor_64_b_4_6": {
+      "name": "scifidoor_64_b_4_6",
+      "x": 16,
+      "y": 54,
+      "exists": true
+    },
+    "scifidoor_64_b_4_7": {
+      "name": "scifidoor_64_b_4_7",
+      "x": 16,
+      "y": 51,
+      "exists": true
+    },
+    "scifidoor_64_b_4_8": {
+      "name": "scifidoor_64_b_4_8",
+      "x": 16,
+      "y": 48,
+      "exists": true
+    },
+    "scifidoor_64_b_4_9": {
+      "name": "scifidoor_64_b_4_9",
+      "x": 16,
+      "y": 45,
+      "exists": true
+    },
+    "scifidoor_64_c_2_0": {
+      "name": "scifidoor_64_c_2_0",
+      "flipH": 1,
+      "source": "scifidoor_64_c_4_0",
+      "x": -2,
+      "y": 58,
+      "exists": false
+    },
+    "scifidoor_64_c_2_1": {
+      "name": "scifidoor_64_c_2_1",
+      "flipH": 1,
+      "source": "scifidoor_64_c_4_1",
+      "x": -2,
+      "y": 58,
+      "exists": false
+    },
+    "scifidoor_64_c_4_0": {
+      "name": "scifidoor_64_c_4_0",
+      "x": -2,
+      "y": 58,
+      "exists": true
+    },
+    "scifidoor_64_c_4_1": {
+      "name": "scifidoor_64_c_4_1",
+      "x": -2,
+      "y": 58,
+      "exists": false
+    },
+    "scifidoor_64_d_2_0": {
+      "name": "scifidoor_64_d_2_0",
+      "flipH": 1,
+      "source": "scifidoor_64_d_4_0",
+      "x": 16,
+      "y": 72,
+      "exists": false
+    },
+    "scifidoor_64_d_2_1": {
+      "name": "scifidoor_64_d_2_1",
+      "flipH": 1,
+      "source": "scifidoor_64_d_4_1",
+      "x": 23,
+      "y": 77,
+      "exists": false
+    },
+    "scifidoor_64_d_4_0": {
+      "name": "scifidoor_64_d_4_0",
+      "x": 16,
+      "y": 72,
+      "exists": true
+    },
+    "scifidoor_64_d_4_1": {
+      "name": "scifidoor_64_d_4_1",
+      "x": 23,
+      "y": 77,
+      "exists": false
+    },
+    "scifidoor_64_e_2_0": {
+      "name": "scifidoor_64_e_2_0",
+      "flipH": 1,
+      "source": "scifidoor_64_e_4_0",
+      "x": 22,
+      "y": 11,
+      "exists": false
+    },
+    "scifidoor_64_e_4_0": {
+      "name": "scifidoor_64_e_4_0",
+      "x": 22,
+      "y": 11,
+      "exists": true
+    },
+    "scifidoor_icon_a": {
+      "name": "scifidoor_icon_a",
+      "x": 11,
+      "y": 15,
+      "exists": true
+    },
+    "scifidoor_icon_b": {
+      "name": "scifidoor_icon_b",
+      "x": 6,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "FFAAAA"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "FFEE66"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "AACCFF"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "99DD77"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": 333333
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "AAFFFF"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "FF99CC"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "4488FF"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "BB99FF"
+          }
+        ],
+        "11": [
+          {
+            "layerId": 1,
+            "color": "9c0247"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "FFAAAA"
+          },
+          {
+            "layerId": 2,
+            "color": "FFAAAA"
+          },
+          {
+            "layerId": 3,
+            "color": "FFAAAA"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "FFEE66"
+          },
+          {
+            "layerId": 2,
+            "color": "FFEE66"
+          },
+          {
+            "layerId": 3,
+            "color": "FFEE66"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "AACCFF"
+          },
+          {
+            "layerId": 2,
+            "color": "AACCFF"
+          },
+          {
+            "layerId": 3,
+            "color": "AACCFF"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "99DD77"
+          },
+          {
+            "layerId": 2,
+            "color": "99DD77"
+          },
+          {
+            "layerId": 3,
+            "color": "99DD77"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": 333333
+          },
+          {
+            "layerId": 2,
+            "color": 333333
+          },
+          {
+            "layerId": 3,
+            "color": 333333
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "AAFFFF"
+          },
+          {
+            "layerId": 2,
+            "color": "AAFFFF"
+          },
+          {
+            "layerId": 3,
+            "color": "AAFFFF"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "FF99CC"
+          },
+          {
+            "layerId": 2,
+            "color": "FF99CC"
+          },
+          {
+            "layerId": 3,
+            "color": "FF99CC"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "4488FF"
+          },
+          {
+            "layerId": 2,
+            "color": "4488FF"
+          },
+          {
+            "layerId": 3,
+            "color": "4488FF"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "BB99FF"
+          },
+          {
+            "layerId": 2,
+            "color": "BB99FF"
+          },
+          {
+            "layerId": 3,
+            "color": "BB99FF"
+          }
+        ],
+        "11": [
+          {
+            "layerId": 1,
+            "color": "9c0247"
+          },
+          {
+            "layerId": 2,
+            "color": "9c0247"
+          },
+          {
+            "layerId": 3,
+            "color": "9c0247"
+          }
+        ]
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  14
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  13,
+                  12,
+                  11,
+                  10,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -400
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "FFAAAA"
+          },
+          {
+            "layerId": 2,
+            "color": "FFAAAA"
+          },
+          {
+            "layerId": 3,
+            "color": "FFAAAA"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "FFEE66"
+          },
+          {
+            "layerId": 2,
+            "color": "FFEE66"
+          },
+          {
+            "layerId": 3,
+            "color": "FFEE66"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "AACCFF"
+          },
+          {
+            "layerId": 2,
+            "color": "AACCFF"
+          },
+          {
+            "layerId": 3,
+            "color": "AACCFF"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "99DD77"
+          },
+          {
+            "layerId": 2,
+            "color": "99DD77"
+          },
+          {
+            "layerId": 3,
+            "color": "99DD77"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": 333333
+          },
+          {
+            "layerId": 2,
+            "color": 333333
+          },
+          {
+            "layerId": 3,
+            "color": 333333
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "AAFFFF"
+          },
+          {
+            "layerId": 2,
+            "color": "AAFFFF"
+          },
+          {
+            "layerId": 3,
+            "color": "AAFFFF"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "FF99CC"
+          },
+          {
+            "layerId": 2,
+            "color": "FF99CC"
+          },
+          {
+            "layerId": 3,
+            "color": "FF99CC"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "4488FF"
+          },
+          {
+            "layerId": 2,
+            "color": "4488FF"
+          },
+          {
+            "layerId": 3,
+            "color": "4488FF"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "BB99FF"
+          },
+          {
+            "layerId": 2,
+            "color": "BB99FF"
+          },
+          {
+            "layerId": 3,
+            "color": "BB99FF"
+          }
+        ],
+        "11": [
+          {
+            "layerId": 1,
+            "color": "9c0247"
+          },
+          {
+            "layerId": 2,
+            "color": "9c0247"
+          },
+          {
+            "layerId": 3,
+            "color": "9c0247"
+          }
+        ]
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  19
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  18,
+                  17,
+                  16,
+                  15,
+                  14,
+                  13,
+                  12,
+                  11,
+                  10,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -400
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "scifidoor",
+    "visualization": "furniture_animated"
+  }
+}

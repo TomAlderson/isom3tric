@@ -1,0 +1,121 @@
+{
+  "assets": {
+    "hween_c16_webs_64_a_0_0": {
+      "name": "hween_c16_webs_64_a_0_0",
+      "x": 31,
+      "y": 39,
+      "exists": true
+    },
+    "hween_c16_webs_64_a_2_0": {
+      "name": "hween_c16_webs_64_a_2_0",
+      "x": 1,
+      "y": 39,
+      "exists": true
+    },
+    "hween_c16_webs_64_a_4_0": {
+      "name": "hween_c16_webs_64_a_4_0",
+      "x": 31,
+      "y": 39,
+      "exists": true
+    },
+    "hween_c16_webs_64_a_0_1": {
+      "name": "hween_c16_webs_64_a_0_1",
+      "x": 27,
+      "y": 42,
+      "exists": true
+    },
+    "hween_c16_webs_64_a_2_1": {
+      "name": "hween_c16_webs_64_a_2_1",
+      "x": 33,
+      "y": 37,
+      "exists": true
+    },
+    "hween_c16_webs_64_a_4_1": {
+      "name": "hween_c16_webs_64_a_4_1",
+      "x": 23,
+      "y": 37,
+      "exists": true
+    },
+    "hween_c16_webs_icon_a": {
+      "name": "hween_c16_webs_icon_a",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween_c16_webs",
+    "visualization": "furniture_animated"
+  }
+}

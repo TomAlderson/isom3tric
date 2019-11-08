@@ -1,0 +1,389 @@
+{
+  "assets": {
+    "xmas_c19_box6b_icon_a": {
+      "name": "xmas_c19_box6b_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_sd_0_0": {
+      "name": "xmas_c19_box6b_64_sd_0_0",
+      "x": 28,
+      "y": 14,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_a_0_0": {
+      "name": "xmas_c19_box6b_64_a_0_0",
+      "x": 28,
+      "y": 46,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_b_0_0": {
+      "name": "xmas_c19_box6b_64_b_0_0",
+      "x": 35,
+      "y": 52,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_c_0_0": {
+      "name": "xmas_c19_box6b_64_c_0_0",
+      "x": 25,
+      "y": 53,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_c_2_0": {
+      "name": "xmas_c19_box6b_64_c_2_0",
+      "x": 26,
+      "y": 53,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_0": {
+      "name": "xmas_c19_box6b_64_d_0_0",
+      "x": -27,
+      "y": 28,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_1": {
+      "name": "xmas_c19_box6b_64_d_0_1",
+      "x": 20,
+      "y": 52,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_2": {
+      "name": "xmas_c19_box6b_64_d_0_2",
+      "x": 28,
+      "y": 54,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_3": {
+      "name": "xmas_c19_box6b_64_d_0_3",
+      "x": 28,
+      "y": 54,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_4": {
+      "name": "xmas_c19_box6b_64_d_0_4",
+      "x": 30,
+      "y": 55,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_5": {
+      "name": "xmas_c19_box6b_64_d_0_5",
+      "x": 30,
+      "y": 55,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_6": {
+      "name": "xmas_c19_box6b_64_d_0_6",
+      "x": 31,
+      "y": 38,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_7": {
+      "name": "xmas_c19_box6b_64_d_0_7",
+      "x": 31,
+      "y": 53,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_8": {
+      "name": "xmas_c19_box6b_64_d_0_8",
+      "x": 8,
+      "y": 53,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_9": {
+      "name": "xmas_c19_box6b_64_d_0_9",
+      "x": 34,
+      "y": 55,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_10": {
+      "name": "xmas_c19_box6b_64_d_0_10",
+      "x": 36,
+      "y": 56,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_11": {
+      "name": "xmas_c19_box6b_64_d_0_11",
+      "x": 37,
+      "y": 44,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_12": {
+      "name": "xmas_c19_box6b_64_d_0_12",
+      "x": 13,
+      "y": 4,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_0_13": {
+      "name": "xmas_c19_box6b_64_d_0_13",
+      "x": 25,
+      "y": 23,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_14": {
+      "name": "xmas_c19_box6b_64_d_0_14",
+      "x": 27,
+      "y": 25,
+      "exists": true
+    },
+    "xmas_c19_box6b_64_d_0_15": {
+      "name": "xmas_c19_box6b_64_d_0_15",
+      "x": 28,
+      "y": 26,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_sd_2_0": {
+      "name": "xmas_c19_box6b_64_sd_2_0",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_sd_0_0",
+      "x": 28,
+      "y": 14,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_a_2_0": {
+      "name": "xmas_c19_box6b_64_a_2_0",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_a_0_0",
+      "x": 28,
+      "y": 46,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_b_2_0": {
+      "name": "xmas_c19_box6b_64_b_2_0",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_b_0_0",
+      "x": 35,
+      "y": 52,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_0": {
+      "name": "xmas_c19_box6b_64_d_2_0",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_0",
+      "x": -27,
+      "y": 28,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_1": {
+      "name": "xmas_c19_box6b_64_d_2_1",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_1",
+      "x": 20,
+      "y": 52,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_2": {
+      "name": "xmas_c19_box6b_64_d_2_2",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_2",
+      "x": 28,
+      "y": 54,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_3": {
+      "name": "xmas_c19_box6b_64_d_2_3",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_3",
+      "x": 28,
+      "y": 54,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_4": {
+      "name": "xmas_c19_box6b_64_d_2_4",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_4",
+      "x": 30,
+      "y": 55,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_5": {
+      "name": "xmas_c19_box6b_64_d_2_5",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_5",
+      "x": 30,
+      "y": 55,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_6": {
+      "name": "xmas_c19_box6b_64_d_2_6",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_6",
+      "x": 31,
+      "y": 38,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_7": {
+      "name": "xmas_c19_box6b_64_d_2_7",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_7",
+      "x": 31,
+      "y": 53,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_8": {
+      "name": "xmas_c19_box6b_64_d_2_8",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_8",
+      "x": 8,
+      "y": 53,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_9": {
+      "name": "xmas_c19_box6b_64_d_2_9",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_9",
+      "x": 34,
+      "y": 55,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_10": {
+      "name": "xmas_c19_box6b_64_d_2_10",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_10",
+      "x": 36,
+      "y": 56,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_11": {
+      "name": "xmas_c19_box6b_64_d_2_11",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_11",
+      "x": 37,
+      "y": 44,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_12": {
+      "name": "xmas_c19_box6b_64_d_2_12",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_12",
+      "x": 13,
+      "y": 4,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_13": {
+      "name": "xmas_c19_box6b_64_d_2_13",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_13",
+      "x": 25,
+      "y": 23,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_14": {
+      "name": "xmas_c19_box6b_64_d_2_14",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_14",
+      "x": 27,
+      "y": 25,
+      "exists": false
+    },
+    "xmas_c19_box6b_64_d_2_15": {
+      "name": "xmas_c19_box6b_64_d_2_15",
+      "flipH": 1,
+      "source": "xmas_c19_box6b_64_d_0_15",
+      "x": 28,
+      "y": 26,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "xmas_c19_box6b",
+    "visualization": "furniture_animated"
+  }
+}

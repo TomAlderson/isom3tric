@@ -1,0 +1,207 @@
+{
+  "assets": {
+    "kuurna_red_table_icon_a": {
+      "name": "kuurna_red_table_icon_a",
+      "x": 16,
+      "y": 17,
+      "exists": true
+    },
+    "kuurna_red_table_64_sd_0_0": {
+      "name": "kuurna_red_table_64_sd_0_0",
+      "x": 58,
+      "y": 13,
+      "exists": true
+    },
+    "kuurna_red_table_64_a_0_0": {
+      "name": "kuurna_red_table_64_a_0_0",
+      "x": 26,
+      "y": 50,
+      "exists": true
+    },
+    "kuurna_red_table_64_b_0_0": {
+      "name": "kuurna_red_table_64_b_0_0",
+      "x": 54,
+      "y": 37,
+      "exists": true
+    },
+    "kuurna_red_table_64_c_0_0": {
+      "name": "kuurna_red_table_64_c_0_0",
+      "x": 26,
+      "y": 24,
+      "exists": true
+    },
+    "kuurna_red_table_32_sd_0_0": {
+      "name": "kuurna_red_table_32_sd_0_0",
+      "x": 28,
+      "y": 6,
+      "exists": true
+    },
+    "kuurna_red_table_32_a_0_0": {
+      "name": "kuurna_red_table_32_a_0_0",
+      "x": 14,
+      "y": 25,
+      "exists": true
+    },
+    "kuurna_red_table_32_b_0_0": {
+      "name": "kuurna_red_table_32_b_0_0",
+      "x": 28,
+      "y": 18,
+      "exists": true
+    },
+    "kuurna_red_table_32_c_0_0": {
+      "name": "kuurna_red_table_32_c_0_0",
+      "x": 13,
+      "y": 12,
+      "exists": true
+    },
+    "kuurna_red_table_2_a": {
+      "name": "kuurna_red_table_2_a",
+      "flipH": 1,
+      "source": "kuurna_red_table_icon_a",
+      "x": 16,
+      "y": 17,
+      "exists": false
+    },
+    "kuurna_red_table_64_sd_2_0": {
+      "name": "kuurna_red_table_64_sd_2_0",
+      "flipH": 1,
+      "source": "kuurna_red_table_64_sd_0_0",
+      "x": 58,
+      "y": 13,
+      "exists": false
+    },
+    "kuurna_red_table_64_a_2_0": {
+      "name": "kuurna_red_table_64_a_2_0",
+      "flipH": 1,
+      "source": "kuurna_red_table_64_a_0_0",
+      "x": 26,
+      "y": 50,
+      "exists": false
+    },
+    "kuurna_red_table_64_b_2_0": {
+      "name": "kuurna_red_table_64_b_2_0",
+      "flipH": 1,
+      "source": "kuurna_red_table_64_b_0_0",
+      "x": 54,
+      "y": 37,
+      "exists": false
+    },
+    "kuurna_red_table_64_c_2_0": {
+      "name": "kuurna_red_table_64_c_2_0",
+      "flipH": 1,
+      "source": "kuurna_red_table_64_c_0_0",
+      "x": 26,
+      "y": 24,
+      "exists": false
+    },
+    "kuurna_red_table_32_sd_2_0": {
+      "name": "kuurna_red_table_32_sd_2_0",
+      "flipH": 1,
+      "source": "kuurna_red_table_32_sd_0_0",
+      "x": 28,
+      "y": 6,
+      "exists": false
+    },
+    "kuurna_red_table_32_a_2_0": {
+      "name": "kuurna_red_table_32_a_2_0",
+      "flipH": 1,
+      "source": "kuurna_red_table_32_a_0_0",
+      "x": 14,
+      "y": 25,
+      "exists": false
+    },
+    "kuurna_red_table_32_b_2_0": {
+      "name": "kuurna_red_table_32_b_2_0",
+      "flipH": 1,
+      "source": "kuurna_red_table_32_b_0_0",
+      "x": 28,
+      "y": 18,
+      "exists": false
+    },
+    "kuurna_red_table_32_c_2_0": {
+      "name": "kuurna_red_table_32_c_2_0",
+      "flipH": 1,
+      "source": "kuurna_red_table_32_c_0_0",
+      "x": 13,
+      "y": 12,
+      "exists": false
+    },
+    "kuurna_red_table_0_a": {
+      "name": "kuurna_red_table_0_a",
+      "source": "kuurna_red_table_icon_a",
+      "x": 16,
+      "y": 17,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 1.2
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -200
+        },
+        {
+          "layerId": 1,
+          "z": 800
+        },
+        {
+          "layerId": 2,
+          "z": 1800
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -200
+        },
+        {
+          "layerId": 1,
+          "z": 800
+        },
+        {
+          "layerId": 2,
+          "z": 1800
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "kuurna_red_table",
+    "visualization": "furniture_static"
+  }
+}

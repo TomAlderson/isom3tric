@@ -1,0 +1,100 @@
+{
+  "assets": {
+    "vikings_chesspiece_64_sd_2_0": {
+      "name": "vikings_chesspiece_64_sd_2_0",
+      "x": 27,
+      "y": 15,
+      "exists": false
+    },
+    "vikings_chesspiece_64_a_2_0": {
+      "name": "vikings_chesspiece_64_a_2_0",
+      "x": 30,
+      "y": 118,
+      "exists": true
+    },
+    "vikings_chesspiece_64_sd_4_0": {
+      "name": "vikings_chesspiece_64_sd_4_0",
+      "x": 27,
+      "y": 15,
+      "exists": true
+    },
+    "vikings_chesspiece_64_a_4_0": {
+      "name": "vikings_chesspiece_64_a_4_0",
+      "x": 43,
+      "y": 118,
+      "exists": true
+    },
+    "vikings_chesspiece_32_sd_2_0": {
+      "name": "vikings_chesspiece_32_sd_2_0",
+      "x": 13,
+      "y": 7,
+      "exists": false
+    },
+    "vikings_chesspiece_32_a_2_0": {
+      "name": "vikings_chesspiece_32_a_2_0",
+      "x": 16,
+      "y": 60,
+      "exists": true
+    },
+    "vikings_chesspiece_32_sd_4_0": {
+      "name": "vikings_chesspiece_32_sd_4_0",
+      "x": 13,
+      "y": 7,
+      "exists": true
+    },
+    "vikings_chesspiece_32_a_4_0": {
+      "name": "vikings_chesspiece_32_a_4_0",
+      "x": 19,
+      "y": 60,
+      "exists": true
+    },
+    "vikings_chesspiece_icon_a": {
+      "name": "vikings_chesspiece_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "vikings_chesspiece",
+    "visualization": "furniture_static"
+  }
+}

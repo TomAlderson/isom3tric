@@ -1,0 +1,170 @@
+{
+  "assets": {
+    "xmas13_throne_32_a_2_0": {
+      "name": "xmas13_throne_32_a_2_0",
+      "x": 40,
+      "y": 90,
+      "exists": true
+    },
+    "xmas13_throne_32_b_2_0": {
+      "name": "xmas13_throne_32_b_2_0",
+      "x": 19,
+      "y": 37,
+      "exists": true
+    },
+    "xmas13_throne_32_c_2_0": {
+      "name": "xmas13_throne_32_c_2_0",
+      "x": 40,
+      "y": 90,
+      "exists": true
+    },
+    "xmas13_throne_64_a_2_0": {
+      "name": "xmas13_throne_64_a_2_0",
+      "x": 76,
+      "y": 178,
+      "exists": true
+    },
+    "xmas13_throne_64_b_2_0": {
+      "name": "xmas13_throne_64_b_2_0",
+      "x": 33,
+      "y": 72,
+      "exists": true
+    },
+    "xmas13_throne_64_c_2_0": {
+      "name": "xmas13_throne_64_c_2_0",
+      "x": 77,
+      "y": 179,
+      "exists": true
+    },
+    "xmas13_throne_icon_a": {
+      "name": "xmas13_throne_icon_a",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "xmas13_throne_32_a_4_0": {
+      "name": "xmas13_throne_32_a_4_0",
+      "flipH": 1,
+      "source": "xmas13_throne_32_a_2_0",
+      "x": 40,
+      "y": 90,
+      "exists": false
+    },
+    "xmas13_throne_32_b_4_0": {
+      "name": "xmas13_throne_32_b_4_0",
+      "flipH": 1,
+      "source": "xmas13_throne_32_b_2_0",
+      "x": 19,
+      "y": 37,
+      "exists": false
+    },
+    "xmas13_throne_32_c_4_0": {
+      "name": "xmas13_throne_32_c_4_0",
+      "flipH": 1,
+      "source": "xmas13_throne_32_c_2_0",
+      "x": 40,
+      "y": 90,
+      "exists": false
+    },
+    "xmas13_throne_64_a_4_0": {
+      "name": "xmas13_throne_64_a_4_0",
+      "flipH": 1,
+      "source": "xmas13_throne_64_a_2_0",
+      "x": 76,
+      "y": 178,
+      "exists": false
+    },
+    "xmas13_throne_64_b_4_0": {
+      "name": "xmas13_throne_64_b_4_0",
+      "flipH": 1,
+      "source": "xmas13_throne_64_b_2_0",
+      "x": 33,
+      "y": 72,
+      "exists": false
+    },
+    "xmas13_throne_64_c_4_0": {
+      "name": "xmas13_throne_64_c_4_0",
+      "flipH": 1,
+      "source": "xmas13_throne_64_c_2_0",
+      "x": 77,
+      "y": 179,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.2
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY",
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "alpha": 100,
+          "ignoreMouse": 1,
+          "z": 500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY",
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "alpha": 100,
+          "ignoreMouse": 1,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "xmas13_throne",
+    "visualization": "furniture_static"
+  }
+}

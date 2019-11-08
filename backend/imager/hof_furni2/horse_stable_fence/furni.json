@@ -1,0 +1,298 @@
+{
+  "assets": {
+    "horse_stable_fence_64_sd_4_0": {
+      "name": "horse_stable_fence_64_sd_4_0",
+      "x": 52,
+      "y": 12,
+      "exists": true
+    },
+    "horse_stable_fence_64_b_4_0": {
+      "name": "horse_stable_fence_64_b_4_0",
+      "x": 52,
+      "y": 27,
+      "exists": true
+    },
+    "horse_stable_fence_64_a_4_0": {
+      "name": "horse_stable_fence_64_a_4_0",
+      "x": 17,
+      "y": 56,
+      "exists": true
+    },
+    "horse_stable_fence_64_b_4_1": {
+      "name": "horse_stable_fence_64_b_4_1",
+      "x": 52,
+      "y": 72,
+      "exists": true
+    },
+    "horse_stable_fence_64_a_4_1": {
+      "name": "horse_stable_fence_64_a_4_1",
+      "x": 17,
+      "y": 104,
+      "exists": true
+    },
+    "horse_stable_fence_32_sd_4_0": {
+      "name": "horse_stable_fence_32_sd_4_0",
+      "x": 26,
+      "y": 7,
+      "exists": true
+    },
+    "horse_stable_fence_32_b_4_0": {
+      "name": "horse_stable_fence_32_b_4_0",
+      "x": 27,
+      "y": 15,
+      "exists": true
+    },
+    "horse_stable_fence_32_a_4_0": {
+      "name": "horse_stable_fence_32_a_4_0",
+      "x": 9,
+      "y": 30,
+      "exists": true
+    },
+    "horse_stable_fence_32_b_4_1": {
+      "name": "horse_stable_fence_32_b_4_1",
+      "x": 27,
+      "y": 36,
+      "exists": true
+    },
+    "horse_stable_fence_32_a_4_1": {
+      "name": "horse_stable_fence_32_a_4_1",
+      "x": 9,
+      "y": 52,
+      "exists": true
+    },
+    "horse_stable_fence_icon_a": {
+      "name": "horse_stable_fence_icon_a",
+      "x": 14,
+      "y": 15,
+      "exists": true
+    },
+    "horse_stable_fence_64_sd_2_0": {
+      "name": "horse_stable_fence_64_sd_2_0",
+      "flipH": 1,
+      "source": "horse_stable_fence_64_sd_4_0",
+      "x": 52,
+      "y": 12,
+      "exists": false
+    },
+    "horse_stable_fence_64_b_2_0": {
+      "name": "horse_stable_fence_64_b_2_0",
+      "flipH": 1,
+      "source": "horse_stable_fence_64_b_4_0",
+      "x": 52,
+      "y": 27,
+      "exists": false
+    },
+    "horse_stable_fence_64_a_2_0": {
+      "name": "horse_stable_fence_64_a_2_0",
+      "flipH": 1,
+      "source": "horse_stable_fence_64_a_4_0",
+      "x": 17,
+      "y": 56,
+      "exists": false
+    },
+    "horse_stable_fence_64_b_2_1": {
+      "name": "horse_stable_fence_64_b_2_1",
+      "flipH": 1,
+      "source": "horse_stable_fence_64_b_4_1",
+      "x": 52,
+      "y": 72,
+      "exists": false
+    },
+    "horse_stable_fence_64_a_2_1": {
+      "name": "horse_stable_fence_64_a_2_1",
+      "flipH": 1,
+      "source": "horse_stable_fence_64_a_4_1",
+      "x": 17,
+      "y": 104,
+      "exists": false
+    },
+    "horse_stable_fence_32_sd_2_0": {
+      "name": "horse_stable_fence_32_sd_2_0",
+      "flipH": 1,
+      "source": "horse_stable_fence_32_sd_4_0",
+      "x": 26,
+      "y": 7,
+      "exists": false
+    },
+    "horse_stable_fence_32_b_2_0": {
+      "name": "horse_stable_fence_32_b_2_0",
+      "flipH": 1,
+      "source": "horse_stable_fence_32_b_4_0",
+      "x": 27,
+      "y": 15,
+      "exists": false
+    },
+    "horse_stable_fence_32_a_2_0": {
+      "name": "horse_stable_fence_32_a_2_0",
+      "flipH": 1,
+      "source": "horse_stable_fence_32_a_4_0",
+      "x": 9,
+      "y": 30,
+      "exists": false
+    },
+    "horse_stable_fence_32_b_2_1": {
+      "name": "horse_stable_fence_32_b_2_1",
+      "flipH": 1,
+      "source": "horse_stable_fence_32_b_4_1",
+      "x": 27,
+      "y": 36,
+      "exists": false
+    },
+    "horse_stable_fence_32_a_2_1": {
+      "name": "horse_stable_fence_32_a_2_1",
+      "flipH": 1,
+      "source": "horse_stable_fence_32_a_4_1",
+      "x": 9,
+      "y": 52,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "horse_stable_fence",
+    "visualization": "furniture_animated"
+  }
+}

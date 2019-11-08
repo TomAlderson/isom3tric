@@ -1,0 +1,1364 @@
+{
+  "assets": {
+    "ktchn_stove_64_a_0_0": {
+      "name": "ktchn_stove_64_a_0_0",
+      "x": 34,
+      "y": 52,
+      "exists": true
+    },
+    "ktchn_stove_64_a_2_0": {
+      "name": "ktchn_stove_64_a_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_64_a_0_0",
+      "x": 34,
+      "y": 52,
+      "exists": false
+    },
+    "ktchn_stove_64_b_0_0": {
+      "name": "ktchn_stove_64_b_0_0",
+      "x": 22,
+      "y": 40,
+      "exists": true
+    },
+    "ktchn_stove_64_b_0_1": {
+      "name": "ktchn_stove_64_b_0_1",
+      "x": 22,
+      "y": 48,
+      "exists": true
+    },
+    "ktchn_stove_64_b_0_2": {
+      "name": "ktchn_stove_64_b_0_2",
+      "x": 22,
+      "y": 40,
+      "exists": true
+    },
+    "ktchn_stove_64_b_0_3": {
+      "name": "ktchn_stove_64_b_0_3",
+      "x": 22,
+      "y": 60,
+      "exists": true
+    },
+    "ktchn_stove_64_b_0_4": {
+      "name": "ktchn_stove_64_b_0_4",
+      "x": 22,
+      "y": 60,
+      "exists": true
+    },
+    "ktchn_stove_64_b_2_0": {
+      "name": "ktchn_stove_64_b_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_64_b_0_0",
+      "x": 22,
+      "y": 40,
+      "exists": false
+    },
+    "ktchn_stove_64_b_2_1": {
+      "name": "ktchn_stove_64_b_2_1",
+      "flipH": 1,
+      "source": "ktchn_stove_64_b_0_1",
+      "x": 22,
+      "y": 48,
+      "exists": false
+    },
+    "ktchn_stove_64_b_2_2": {
+      "name": "ktchn_stove_64_b_2_2",
+      "flipH": 1,
+      "source": "ktchn_stove_64_b_0_2",
+      "x": 22,
+      "y": 40,
+      "exists": false
+    },
+    "ktchn_stove_64_b_2_3": {
+      "name": "ktchn_stove_64_b_2_3",
+      "flipH": 1,
+      "source": "ktchn_stove_64_b_0_3",
+      "x": 22,
+      "y": 60,
+      "exists": false
+    },
+    "ktchn_stove_64_b_2_4": {
+      "name": "ktchn_stove_64_b_2_4",
+      "flipH": 1,
+      "source": "ktchn_stove_64_b_0_4",
+      "x": 22,
+      "y": 60,
+      "exists": false
+    },
+    "ktchn_stove_64_c_0_0": {
+      "name": "ktchn_stove_64_c_0_0",
+      "x": 2,
+      "y": 50,
+      "exists": false
+    },
+    "ktchn_stove_64_c_0_1": {
+      "name": "ktchn_stove_64_c_0_1",
+      "x": 22,
+      "y": 52,
+      "exists": true
+    },
+    "ktchn_stove_64_c_0_2": {
+      "name": "ktchn_stove_64_c_0_2",
+      "x": 22,
+      "y": 52,
+      "exists": true
+    },
+    "ktchn_stove_64_c_0_3": {
+      "name": "ktchn_stove_64_c_0_3",
+      "x": 22,
+      "y": 52,
+      "exists": true
+    },
+    "ktchn_stove_64_c_0_4": {
+      "name": "ktchn_stove_64_c_0_4",
+      "x": 22,
+      "y": 52,
+      "exists": true
+    },
+    "ktchn_stove_64_c_0_5": {
+      "name": "ktchn_stove_64_c_0_5",
+      "x": 15,
+      "y": 69,
+      "exists": true
+    },
+    "ktchn_stove_64_c_0_6": {
+      "name": "ktchn_stove_64_c_0_6",
+      "x": 15,
+      "y": 69,
+      "exists": true
+    },
+    "ktchn_stove_64_c_0_7": {
+      "name": "ktchn_stove_64_c_0_7",
+      "x": 15,
+      "y": 69,
+      "exists": true
+    },
+    "ktchn_stove_64_c_0_8": {
+      "name": "ktchn_stove_64_c_0_8",
+      "x": 15,
+      "y": 69,
+      "exists": true
+    },
+    "ktchn_stove_64_c_2_0": {
+      "name": "ktchn_stove_64_c_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_64_c_0_0",
+      "x": 2,
+      "y": 50,
+      "exists": false
+    },
+    "ktchn_stove_64_c_2_1": {
+      "name": "ktchn_stove_64_c_2_1",
+      "flipH": 1,
+      "source": "ktchn_stove_64_c_0_1",
+      "x": 22,
+      "y": 52,
+      "exists": false
+    },
+    "ktchn_stove_64_c_2_2": {
+      "name": "ktchn_stove_64_c_2_2",
+      "flipH": 1,
+      "source": "ktchn_stove_64_c_0_2",
+      "x": 22,
+      "y": 52,
+      "exists": false
+    },
+    "ktchn_stove_64_c_2_3": {
+      "name": "ktchn_stove_64_c_2_3",
+      "flipH": 1,
+      "source": "ktchn_stove_64_c_0_3",
+      "x": 22,
+      "y": 52,
+      "exists": false
+    },
+    "ktchn_stove_64_c_2_4": {
+      "name": "ktchn_stove_64_c_2_4",
+      "flipH": 1,
+      "source": "ktchn_stove_64_c_0_4",
+      "x": 22,
+      "y": 52,
+      "exists": false
+    },
+    "ktchn_stove_64_c_2_5": {
+      "name": "ktchn_stove_64_c_2_5",
+      "flipH": 1,
+      "source": "ktchn_stove_64_c_0_5",
+      "x": 15,
+      "y": 69,
+      "exists": false
+    },
+    "ktchn_stove_64_c_2_6": {
+      "name": "ktchn_stove_64_c_2_6",
+      "flipH": 1,
+      "source": "ktchn_stove_64_c_0_6",
+      "x": 15,
+      "y": 69,
+      "exists": false
+    },
+    "ktchn_stove_64_c_2_7": {
+      "name": "ktchn_stove_64_c_2_7",
+      "flipH": 1,
+      "source": "ktchn_stove_64_c_0_7",
+      "x": 15,
+      "y": 69,
+      "exists": false
+    },
+    "ktchn_stove_64_c_2_8": {
+      "name": "ktchn_stove_64_c_2_8",
+      "flipH": 1,
+      "source": "ktchn_stove_64_c_0_8",
+      "x": 15,
+      "y": 69,
+      "exists": false
+    },
+    "ktchn_stove_64_d_0_0": {
+      "name": "ktchn_stove_64_d_0_0",
+      "x": 1,
+      "y": 36,
+      "exists": true
+    },
+    "ktchn_stove_64_d_2_0": {
+      "name": "ktchn_stove_64_d_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_64_d_0_0",
+      "x": 1,
+      "y": 36,
+      "exists": false
+    },
+    "ktchn_stove_64_e_0_0": {
+      "name": "ktchn_stove_64_e_0_0",
+      "x": -6,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_64_e_0_1": {
+      "name": "ktchn_stove_64_e_0_1",
+      "x": -6,
+      "y": 33,
+      "exists": true
+    },
+    "ktchn_stove_64_e_0_2": {
+      "name": "ktchn_stove_64_e_0_2",
+      "x": -6,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_64_e_0_3": {
+      "name": "ktchn_stove_64_e_0_3",
+      "x": -6,
+      "y": 33,
+      "exists": true
+    },
+    "ktchn_stove_64_e_0_4": {
+      "name": "ktchn_stove_64_e_0_4",
+      "x": -6,
+      "y": 33,
+      "exists": true
+    },
+    "ktchn_stove_64_e_2_0": {
+      "name": "ktchn_stove_64_e_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_64_e_0_0",
+      "x": -6,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_64_e_2_1": {
+      "name": "ktchn_stove_64_e_2_1",
+      "flipH": 1,
+      "source": "ktchn_stove_64_e_0_1",
+      "x": -6,
+      "y": 33,
+      "exists": false
+    },
+    "ktchn_stove_64_e_2_2": {
+      "name": "ktchn_stove_64_e_2_2",
+      "flipH": 1,
+      "source": "ktchn_stove_64_e_0_2",
+      "x": -6,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_64_e_2_3": {
+      "name": "ktchn_stove_64_e_2_3",
+      "flipH": 1,
+      "source": "ktchn_stove_64_e_0_3",
+      "x": -6,
+      "y": 33,
+      "exists": false
+    },
+    "ktchn_stove_64_e_2_4": {
+      "name": "ktchn_stove_64_e_2_4",
+      "flipH": 1,
+      "source": "ktchn_stove_64_e_0_4",
+      "x": -6,
+      "y": 33,
+      "exists": false
+    },
+    "ktchn_stove_64_f_0_0": {
+      "name": "ktchn_stove_64_f_0_0",
+      "x": -34,
+      "y": 36,
+      "exists": false
+    },
+    "ktchn_stove_64_f_0_1": {
+      "name": "ktchn_stove_64_f_0_1",
+      "x": -23,
+      "y": 52,
+      "exists": true
+    },
+    "ktchn_stove_64_f_0_2": {
+      "name": "ktchn_stove_64_f_0_2",
+      "x": -23,
+      "y": 52,
+      "exists": true
+    },
+    "ktchn_stove_64_f_0_3": {
+      "name": "ktchn_stove_64_f_0_3",
+      "x": -23,
+      "y": 52,
+      "exists": true
+    },
+    "ktchn_stove_64_f_0_4": {
+      "name": "ktchn_stove_64_f_0_4",
+      "x": -23,
+      "y": 52,
+      "exists": true
+    },
+    "ktchn_stove_64_f_0_5": {
+      "name": "ktchn_stove_64_f_0_5",
+      "x": -20,
+      "y": 44,
+      "exists": true
+    },
+    "ktchn_stove_64_f_0_6": {
+      "name": "ktchn_stove_64_f_0_6",
+      "x": -20,
+      "y": 44,
+      "exists": true
+    },
+    "ktchn_stove_64_f_0_7": {
+      "name": "ktchn_stove_64_f_0_7",
+      "x": -20,
+      "y": 44,
+      "exists": true
+    },
+    "ktchn_stove_64_f_0_8": {
+      "name": "ktchn_stove_64_f_0_8",
+      "x": -20,
+      "y": 44,
+      "exists": true
+    },
+    "ktchn_stove_64_f_2_0": {
+      "name": "ktchn_stove_64_f_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_64_f_0_0",
+      "x": -34,
+      "y": 36,
+      "exists": false
+    },
+    "ktchn_stove_64_f_2_1": {
+      "name": "ktchn_stove_64_f_2_1",
+      "flipH": 1,
+      "source": "ktchn_stove_64_f_0_1",
+      "x": -23,
+      "y": 52,
+      "exists": false
+    },
+    "ktchn_stove_64_f_2_2": {
+      "name": "ktchn_stove_64_f_2_2",
+      "flipH": 1,
+      "source": "ktchn_stove_64_f_0_2",
+      "x": -23,
+      "y": 52,
+      "exists": false
+    },
+    "ktchn_stove_64_f_2_3": {
+      "name": "ktchn_stove_64_f_2_3",
+      "flipH": 1,
+      "source": "ktchn_stove_64_f_0_3",
+      "x": -23,
+      "y": 52,
+      "exists": false
+    },
+    "ktchn_stove_64_f_2_4": {
+      "name": "ktchn_stove_64_f_2_4",
+      "flipH": 1,
+      "source": "ktchn_stove_64_f_0_4",
+      "x": -23,
+      "y": 52,
+      "exists": false
+    },
+    "ktchn_stove_64_f_2_5": {
+      "name": "ktchn_stove_64_f_2_5",
+      "flipH": 1,
+      "source": "ktchn_stove_64_f_0_5",
+      "x": -20,
+      "y": 44,
+      "exists": false
+    },
+    "ktchn_stove_64_f_2_6": {
+      "name": "ktchn_stove_64_f_2_6",
+      "flipH": 1,
+      "source": "ktchn_stove_64_f_0_6",
+      "x": -20,
+      "y": 44,
+      "exists": false
+    },
+    "ktchn_stove_64_f_2_7": {
+      "name": "ktchn_stove_64_f_2_7",
+      "flipH": 1,
+      "source": "ktchn_stove_64_f_0_7",
+      "x": -20,
+      "y": 44,
+      "exists": false
+    },
+    "ktchn_stove_64_f_2_8": {
+      "name": "ktchn_stove_64_f_2_8",
+      "flipH": 1,
+      "source": "ktchn_stove_64_f_0_8",
+      "x": -20,
+      "y": 44,
+      "exists": false
+    },
+    "ktchn_stove_64_sd_0_0": {
+      "name": "ktchn_stove_64_sd_0_0",
+      "x": 31,
+      "y": 14,
+      "exists": true
+    },
+    "ktchn_stove_64_sd_2_0": {
+      "name": "ktchn_stove_64_sd_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_64_sd_0_0",
+      "x": 31,
+      "y": 14,
+      "exists": false
+    },
+    "ktchn_stove_icon_a": {
+      "name": "ktchn_stove_icon_a",
+      "x": 15,
+      "y": 13,
+      "exists": true
+    },
+    "ktchn_stove_32_a_0_0": {
+      "name": "ktchn_stove_32_a_0_0",
+      "x": 16,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_32_a_2_0": {
+      "name": "ktchn_stove_32_a_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_32_a_0_0",
+      "x": 16,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_32_b_0_0": {
+      "name": "ktchn_stove_32_b_0_0",
+      "x": 8,
+      "y": 19,
+      "exists": true
+    },
+    "ktchn_stove_32_b_0_1": {
+      "name": "ktchn_stove_32_b_0_1",
+      "x": 8,
+      "y": 22,
+      "exists": true
+    },
+    "ktchn_stove_32_b_0_2": {
+      "name": "ktchn_stove_32_b_0_2",
+      "x": 8,
+      "y": 19,
+      "exists": true
+    },
+    "ktchn_stove_32_b_0_3": {
+      "name": "ktchn_stove_32_b_0_3",
+      "x": 8,
+      "y": 29,
+      "exists": true
+    },
+    "ktchn_stove_32_b_0_4": {
+      "name": "ktchn_stove_32_b_0_4",
+      "x": 8,
+      "y": 29,
+      "exists": true
+    },
+    "ktchn_stove_32_b_2_0": {
+      "name": "ktchn_stove_32_b_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_32_b_0_0",
+      "x": 8,
+      "y": 19,
+      "exists": false
+    },
+    "ktchn_stove_32_b_2_1": {
+      "name": "ktchn_stove_32_b_2_1",
+      "flipH": 1,
+      "source": "ktchn_stove_32_b_0_1",
+      "x": 8,
+      "y": 22,
+      "exists": false
+    },
+    "ktchn_stove_32_b_2_2": {
+      "name": "ktchn_stove_32_b_2_2",
+      "flipH": 1,
+      "source": "ktchn_stove_32_b_0_2",
+      "x": 8,
+      "y": 19,
+      "exists": false
+    },
+    "ktchn_stove_32_b_2_3": {
+      "name": "ktchn_stove_32_b_2_3",
+      "flipH": 1,
+      "source": "ktchn_stove_32_b_0_3",
+      "x": 8,
+      "y": 29,
+      "exists": false
+    },
+    "ktchn_stove_32_b_2_4": {
+      "name": "ktchn_stove_32_b_2_4",
+      "flipH": 1,
+      "source": "ktchn_stove_32_b_0_4",
+      "x": 8,
+      "y": 29,
+      "exists": false
+    },
+    "ktchn_stove_32_c_0_0": {
+      "name": "ktchn_stove_32_c_0_0",
+      "x": -2,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_32_c_0_1": {
+      "name": "ktchn_stove_32_c_0_1",
+      "x": 10,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_32_c_0_2": {
+      "name": "ktchn_stove_32_c_0_2",
+      "x": 10,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_32_c_0_3": {
+      "name": "ktchn_stove_32_c_0_3",
+      "x": 10,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_32_c_0_4": {
+      "name": "ktchn_stove_32_c_0_4",
+      "x": 10,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_32_c_0_5": {
+      "name": "ktchn_stove_32_c_0_5",
+      "x": 6,
+      "y": 34,
+      "exists": true
+    },
+    "ktchn_stove_32_c_0_6": {
+      "name": "ktchn_stove_32_c_0_6",
+      "x": 6,
+      "y": 34,
+      "exists": true
+    },
+    "ktchn_stove_32_c_0_7": {
+      "name": "ktchn_stove_32_c_0_7",
+      "x": 6,
+      "y": 34,
+      "exists": true
+    },
+    "ktchn_stove_32_c_0_8": {
+      "name": "ktchn_stove_32_c_0_8",
+      "x": 6,
+      "y": 34,
+      "exists": true
+    },
+    "ktchn_stove_32_c_2_0": {
+      "name": "ktchn_stove_32_c_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_32_c_0_0",
+      "x": -2,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_32_c_2_1": {
+      "name": "ktchn_stove_32_c_2_1",
+      "flipH": 1,
+      "source": "ktchn_stove_32_c_0_1",
+      "x": 10,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_32_c_2_2": {
+      "name": "ktchn_stove_32_c_2_2",
+      "flipH": 1,
+      "source": "ktchn_stove_32_c_0_2",
+      "x": 10,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_32_c_2_3": {
+      "name": "ktchn_stove_32_c_2_3",
+      "flipH": 1,
+      "source": "ktchn_stove_32_c_0_3",
+      "x": 10,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_32_c_2_4": {
+      "name": "ktchn_stove_32_c_2_4",
+      "flipH": 1,
+      "source": "ktchn_stove_32_c_0_4",
+      "x": 10,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_32_c_2_5": {
+      "name": "ktchn_stove_32_c_2_5",
+      "flipH": 1,
+      "source": "ktchn_stove_32_c_0_5",
+      "x": 6,
+      "y": 34,
+      "exists": false
+    },
+    "ktchn_stove_32_c_2_6": {
+      "name": "ktchn_stove_32_c_2_6",
+      "flipH": 1,
+      "source": "ktchn_stove_32_c_0_6",
+      "x": 6,
+      "y": 34,
+      "exists": false
+    },
+    "ktchn_stove_32_c_2_7": {
+      "name": "ktchn_stove_32_c_2_7",
+      "flipH": 1,
+      "source": "ktchn_stove_32_c_0_7",
+      "x": 6,
+      "y": 34,
+      "exists": false
+    },
+    "ktchn_stove_32_c_2_8": {
+      "name": "ktchn_stove_32_c_2_8",
+      "flipH": 1,
+      "source": "ktchn_stove_32_c_0_8",
+      "x": 6,
+      "y": 34,
+      "exists": false
+    },
+    "ktchn_stove_32_d_0_0": {
+      "name": "ktchn_stove_32_d_0_0",
+      "x": 0,
+      "y": 18,
+      "exists": true
+    },
+    "ktchn_stove_32_d_2_0": {
+      "name": "ktchn_stove_32_d_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_32_d_0_0",
+      "x": 0,
+      "y": 18,
+      "exists": false
+    },
+    "ktchn_stove_32_e_0_0": {
+      "name": "ktchn_stove_32_e_0_0",
+      "x": -5,
+      "y": 13,
+      "exists": true
+    },
+    "ktchn_stove_32_e_0_1": {
+      "name": "ktchn_stove_32_e_0_1",
+      "x": -5,
+      "y": 15,
+      "exists": true
+    },
+    "ktchn_stove_32_e_0_2": {
+      "name": "ktchn_stove_32_e_0_2",
+      "x": -5,
+      "y": 13,
+      "exists": true
+    },
+    "ktchn_stove_32_e_0_3": {
+      "name": "ktchn_stove_32_e_0_3",
+      "x": -5,
+      "y": 15,
+      "exists": true
+    },
+    "ktchn_stove_32_e_0_4": {
+      "name": "ktchn_stove_32_e_0_4",
+      "x": -5,
+      "y": 15,
+      "exists": true
+    },
+    "ktchn_stove_32_e_2_0": {
+      "name": "ktchn_stove_32_e_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_32_e_0_0",
+      "x": -5,
+      "y": 13,
+      "exists": false
+    },
+    "ktchn_stove_32_e_2_1": {
+      "name": "ktchn_stove_32_e_2_1",
+      "flipH": 1,
+      "source": "ktchn_stove_32_e_0_1",
+      "x": -5,
+      "y": 15,
+      "exists": false
+    },
+    "ktchn_stove_32_e_2_2": {
+      "name": "ktchn_stove_32_e_2_2",
+      "flipH": 1,
+      "source": "ktchn_stove_32_e_0_2",
+      "x": -5,
+      "y": 13,
+      "exists": false
+    },
+    "ktchn_stove_32_e_2_3": {
+      "name": "ktchn_stove_32_e_2_3",
+      "flipH": 1,
+      "source": "ktchn_stove_32_e_0_3",
+      "x": -5,
+      "y": 15,
+      "exists": false
+    },
+    "ktchn_stove_32_e_2_4": {
+      "name": "ktchn_stove_32_e_2_4",
+      "flipH": 1,
+      "source": "ktchn_stove_32_e_0_4",
+      "x": -5,
+      "y": 15,
+      "exists": false
+    },
+    "ktchn_stove_32_f_0_0": {
+      "name": "ktchn_stove_32_f_0_0",
+      "x": -17,
+      "y": 19,
+      "exists": false
+    },
+    "ktchn_stove_32_f_0_1": {
+      "name": "ktchn_stove_32_f_0_1",
+      "x": -13,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_32_f_0_2": {
+      "name": "ktchn_stove_32_f_0_2",
+      "x": -13,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_32_f_0_3": {
+      "name": "ktchn_stove_32_f_0_3",
+      "x": -13,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_32_f_0_4": {
+      "name": "ktchn_stove_32_f_0_4",
+      "x": -13,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_stove_32_f_0_5": {
+      "name": "ktchn_stove_32_f_0_5",
+      "x": -11,
+      "y": 21,
+      "exists": true
+    },
+    "ktchn_stove_32_f_0_6": {
+      "name": "ktchn_stove_32_f_0_6",
+      "x": -11,
+      "y": 21,
+      "exists": true
+    },
+    "ktchn_stove_32_f_0_7": {
+      "name": "ktchn_stove_32_f_0_7",
+      "x": -11,
+      "y": 22,
+      "exists": true
+    },
+    "ktchn_stove_32_f_0_8": {
+      "name": "ktchn_stove_32_f_0_8",
+      "x": -11,
+      "y": 21,
+      "exists": true
+    },
+    "ktchn_stove_32_f_2_0": {
+      "name": "ktchn_stove_32_f_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_32_f_0_0",
+      "x": -17,
+      "y": 19,
+      "exists": false
+    },
+    "ktchn_stove_32_f_2_1": {
+      "name": "ktchn_stove_32_f_2_1",
+      "flipH": 1,
+      "source": "ktchn_stove_32_f_0_1",
+      "x": -13,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_32_f_2_2": {
+      "name": "ktchn_stove_32_f_2_2",
+      "flipH": 1,
+      "source": "ktchn_stove_32_f_0_2",
+      "x": -13,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_32_f_2_3": {
+      "name": "ktchn_stove_32_f_2_3",
+      "flipH": 1,
+      "source": "ktchn_stove_32_f_0_3",
+      "x": -13,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_32_f_2_4": {
+      "name": "ktchn_stove_32_f_2_4",
+      "flipH": 1,
+      "source": "ktchn_stove_32_f_0_4",
+      "x": -13,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_stove_32_f_2_5": {
+      "name": "ktchn_stove_32_f_2_5",
+      "flipH": 1,
+      "source": "ktchn_stove_32_f_0_5",
+      "x": -11,
+      "y": 21,
+      "exists": false
+    },
+    "ktchn_stove_32_f_2_6": {
+      "name": "ktchn_stove_32_f_2_6",
+      "flipH": 1,
+      "source": "ktchn_stove_32_f_0_6",
+      "x": -11,
+      "y": 21,
+      "exists": false
+    },
+    "ktchn_stove_32_f_2_7": {
+      "name": "ktchn_stove_32_f_2_7",
+      "flipH": 1,
+      "source": "ktchn_stove_32_f_0_7",
+      "x": -11,
+      "y": 22,
+      "exists": false
+    },
+    "ktchn_stove_32_f_2_8": {
+      "name": "ktchn_stove_32_f_2_8",
+      "flipH": 1,
+      "source": "ktchn_stove_32_f_0_8",
+      "x": -11,
+      "y": 21,
+      "exists": false
+    },
+    "ktchn_stove_32_sd_0_0": {
+      "name": "ktchn_stove_32_sd_0_0",
+      "x": 14,
+      "y": 6,
+      "exists": true
+    },
+    "ktchn_stove_32_sd_2_0": {
+      "name": "ktchn_stove_32_sd_2_0",
+      "flipH": 1,
+      "source": "ktchn_stove_32_sd_0_0",
+      "x": 14,
+      "y": 6,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 3,
+          "z": 1000
+        },
+        {
+          "layerId": 4,
+          "z": 1000
+        },
+        {
+          "layerId": 5,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 3,
+          "z": 1000
+        },
+        {
+          "layerId": 4,
+          "z": 1000
+        },
+        {
+          "layerId": 5,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "ktchn_stove",
+    "visualization": "furniture_animated"
+  }
+}

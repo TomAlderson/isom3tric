@@ -1,0 +1,95 @@
+{
+  "assets": {
+    "clothing_bazaarmale_64_a_0_0": {
+      "name": "clothing_bazaarmale_64_a_0_0",
+      "x": 18,
+      "y": 90,
+      "exists": true
+    },
+    "clothing_bazaarmale_64_a_0_1": {
+      "name": "clothing_bazaarmale_64_a_0_1",
+      "x": 0,
+      "y": 0,
+      "exists": true
+    },
+    "clothing_bazaarmale_icon_a": {
+      "name": "clothing_bazaarmale_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "clothing_bazaarmale_64_a_6_0": {
+      "name": "clothing_bazaarmale_64_a_6_0",
+      "flipH": 1,
+      "source": "clothing_bazaarmale_64_a_0_0",
+      "x": 18,
+      "y": 90,
+      "exists": false
+    },
+    "clothing_bazaarmale_64_a_6_1": {
+      "name": "clothing_bazaarmale_64_a_6_1",
+      "flipH": 1,
+      "source": "clothing_bazaarmale_64_a_0_1",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_purchasable_clothing",
+    "type": "clothing_bazaarmale",
+    "visualization": "furniture_animated"
+  }
+}

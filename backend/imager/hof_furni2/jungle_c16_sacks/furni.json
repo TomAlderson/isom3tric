@@ -1,0 +1,203 @@
+{
+  "assets": {
+    "jungle_c16_sacks_64_b_0_0": {
+      "name": "jungle_c16_sacks_64_b_0_0",
+      "x": 19,
+      "y": 11,
+      "exists": true
+    },
+    "jungle_c16_sacks_64_a_0_0": {
+      "name": "jungle_c16_sacks_64_a_0_0",
+      "x": 19,
+      "y": 36,
+      "exists": true
+    },
+    "jungle_c16_sacks_64_b_0_1": {
+      "name": "jungle_c16_sacks_64_b_0_1",
+      "x": 23,
+      "y": 13,
+      "exists": true
+    },
+    "jungle_c16_sacks_64_a_0_1": {
+      "name": "jungle_c16_sacks_64_a_0_1",
+      "x": 23,
+      "y": 25,
+      "exists": true
+    },
+    "jungle_c16_sacks_64_b_0_2": {
+      "name": "jungle_c16_sacks_64_b_0_2",
+      "x": 24,
+      "y": 11,
+      "exists": true
+    },
+    "jungle_c16_sacks_64_a_0_2": {
+      "name": "jungle_c16_sacks_64_a_0_2",
+      "x": 24,
+      "y": 45,
+      "exists": true
+    },
+    "jungle_c16_sacks_icon_a": {
+      "name": "jungle_c16_sacks_icon_a",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "jungle_c16_sacks_64_b_6_0": {
+      "name": "jungle_c16_sacks_64_b_6_0",
+      "flipH": 1,
+      "source": "jungle_c16_sacks_64_b_0_0",
+      "x": 19,
+      "y": 11,
+      "exists": false
+    },
+    "jungle_c16_sacks_64_a_6_0": {
+      "name": "jungle_c16_sacks_64_a_6_0",
+      "flipH": 1,
+      "source": "jungle_c16_sacks_64_a_0_0",
+      "x": 19,
+      "y": 36,
+      "exists": false
+    },
+    "jungle_c16_sacks_64_b_6_1": {
+      "name": "jungle_c16_sacks_64_b_6_1",
+      "flipH": 1,
+      "source": "jungle_c16_sacks_64_b_0_1",
+      "x": 23,
+      "y": 13,
+      "exists": false
+    },
+    "jungle_c16_sacks_64_a_6_1": {
+      "name": "jungle_c16_sacks_64_a_6_1",
+      "flipH": 1,
+      "source": "jungle_c16_sacks_64_a_0_1",
+      "x": 23,
+      "y": 25,
+      "exists": false
+    },
+    "jungle_c16_sacks_64_b_6_2": {
+      "name": "jungle_c16_sacks_64_b_6_2",
+      "flipH": 1,
+      "source": "jungle_c16_sacks_64_b_0_2",
+      "x": 24,
+      "y": 11,
+      "exists": false
+    },
+    "jungle_c16_sacks_64_a_6_2": {
+      "name": "jungle_c16_sacks_64_a_6_2",
+      "flipH": 1,
+      "source": "jungle_c16_sacks_64_a_0_2",
+      "x": 24,
+      "y": 45,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "alpha": 70,
+          "z": -10
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "jungle_c16_sacks",
+    "visualization": "furniture_animated"
+  }
+}

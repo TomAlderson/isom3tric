@@ -1,0 +1,470 @@
+{
+  "assets": {
+    "tokyo_c18_bigbillboard_64_sd_2_0": {
+      "name": "tokyo_c18_bigbillboard_64_sd_2_0",
+      "x": 51,
+      "y": 9,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_0": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_0",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_1": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_1",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_2": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_2",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_3": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_3",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_4": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_4",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_5": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_5",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_6": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_6",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_7": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_7",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_8": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_8",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_9": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_9",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_10": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_10",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_2_11": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_11",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_12": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_12",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_13": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_13",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_14": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_14",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_2_15": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_15",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_16": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_16",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_a_2_17": {
+      "name": "tokyo_c18_bigbillboard_64_a_2_17",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_b_2_0": {
+      "name": "tokyo_c18_bigbillboard_64_b_2_0",
+      "x": 44,
+      "y": 259,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_c_2_0": {
+      "name": "tokyo_c18_bigbillboard_64_c_2_0",
+      "x": 43,
+      "y": 259,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_d_2_0": {
+      "name": "tokyo_c18_bigbillboard_64_d_2_0",
+      "x": 51,
+      "y": 265,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_d_2_1": {
+      "name": "tokyo_c18_bigbillboard_64_d_2_1",
+      "x": 51,
+      "y": 265,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_icon_a": {
+      "name": "tokyo_c18_bigbillboard_icon_a",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    },
+    "tokyo_c18_bigbillboard_64_sd_4_0": {
+      "name": "tokyo_c18_bigbillboard_64_sd_4_0",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_sd_2_0",
+      "x": 51,
+      "y": 9,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_0": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_0",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_0",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_1": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_1",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_1",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_2": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_2",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_2",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_3": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_3",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_3",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_4": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_4",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_4",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_5": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_5",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_5",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_6": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_6",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_6",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_7": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_7",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_7",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_8": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_8",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_8",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_9": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_9",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_9",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_10": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_10",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_10",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_11": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_11",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_11",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_12": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_12",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_12",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_13": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_13",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_13",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_14": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_14",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_14",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_15": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_15",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_15",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_16": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_16",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_16",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_a_4_17": {
+      "name": "tokyo_c18_bigbillboard_64_a_4_17",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_a_2_17",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_b_4_0": {
+      "name": "tokyo_c18_bigbillboard_64_b_4_0",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_b_2_0",
+      "x": 44,
+      "y": 259,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_c_4_0": {
+      "name": "tokyo_c18_bigbillboard_64_c_4_0",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_c_2_0",
+      "x": 43,
+      "y": 259,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_d_4_0": {
+      "name": "tokyo_c18_bigbillboard_64_d_4_0",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_d_2_0",
+      "x": 51,
+      "y": 265,
+      "exists": false
+    },
+    "tokyo_c18_bigbillboard_64_d_4_1": {
+      "name": "tokyo_c18_bigbillboard_64_d_4_1",
+      "flipH": 1,
+      "source": "tokyo_c18_bigbillboard_64_d_2_1",
+      "x": 51,
+      "y": 265,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY",
+          "z": 2000
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "alpha": 20,
+          "z": 2000
+        },
+        {
+          "layerId": 2,
+          "alpha": 20,
+          "z": 2000
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "alpha": 50,
+          "z": 2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "tokyo_c18_bigbillboard",
+    "visualization": "furniture_animated"
+  }
+}

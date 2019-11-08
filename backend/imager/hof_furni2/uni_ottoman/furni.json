@@ -1,0 +1,424 @@
+{
+  "assets": {
+    "uni_ottoman_64_sd_4_0": {
+      "name": "uni_ottoman_64_sd_4_0",
+      "x": 23,
+      "y": 12,
+      "exists": true
+    },
+    "uni_ottoman_64_a_4_0": {
+      "name": "uni_ottoman_64_a_4_0",
+      "x": 25,
+      "y": 43,
+      "exists": true
+    },
+    "uni_ottoman_64_b_4_0": {
+      "name": "uni_ottoman_64_b_4_0",
+      "x": -4,
+      "y": 29,
+      "exists": true
+    },
+    "uni_ottoman_64_a_4_1": {
+      "name": "uni_ottoman_64_a_4_1",
+      "x": 25,
+      "y": 43,
+      "exists": true
+    },
+    "uni_ottoman_64_b_4_1": {
+      "name": "uni_ottoman_64_b_4_1",
+      "x": -4,
+      "y": 29,
+      "exists": true
+    },
+    "uni_ottoman_32_sd_4_0": {
+      "name": "uni_ottoman_32_sd_4_0",
+      "x": 12,
+      "y": 5,
+      "exists": true
+    },
+    "uni_ottoman_32_a_4_0": {
+      "name": "uni_ottoman_32_a_4_0",
+      "x": 14,
+      "y": 22,
+      "exists": true
+    },
+    "uni_ottoman_32_b_4_0": {
+      "name": "uni_ottoman_32_b_4_0",
+      "x": -2,
+      "y": 15,
+      "exists": true
+    },
+    "uni_ottoman_32_a_4_1": {
+      "name": "uni_ottoman_32_a_4_1",
+      "x": 14,
+      "y": 22,
+      "exists": true
+    },
+    "uni_ottoman_32_b_4_1": {
+      "name": "uni_ottoman_32_b_4_1",
+      "x": -2,
+      "y": 15,
+      "exists": true
+    },
+    "uni_ottoman_icon_a": {
+      "name": "uni_ottoman_icon_a",
+      "x": 13,
+      "y": 11,
+      "exists": true
+    },
+    "uni_ottoman_64_sd_0_0": {
+      "name": "uni_ottoman_64_sd_0_0",
+      "source": "uni_ottoman_64_sd_4_0",
+      "x": 23,
+      "y": 12,
+      "exists": false
+    },
+    "uni_ottoman_64_a_0_0": {
+      "name": "uni_ottoman_64_a_0_0",
+      "source": "uni_ottoman_64_a_4_0",
+      "x": 25,
+      "y": 43,
+      "exists": false
+    },
+    "uni_ottoman_64_b_0_0": {
+      "name": "uni_ottoman_64_b_0_0",
+      "source": "uni_ottoman_64_b_4_0",
+      "x": -4,
+      "y": 29,
+      "exists": false
+    },
+    "uni_ottoman_64_a_0_1": {
+      "name": "uni_ottoman_64_a_0_1",
+      "source": "uni_ottoman_64_a_4_1",
+      "x": 25,
+      "y": 43,
+      "exists": false
+    },
+    "uni_ottoman_64_b_0_1": {
+      "name": "uni_ottoman_64_b_0_1",
+      "source": "uni_ottoman_64_b_4_1",
+      "x": -4,
+      "y": 29,
+      "exists": false
+    },
+    "uni_ottoman_32_sd_0_0": {
+      "name": "uni_ottoman_32_sd_0_0",
+      "source": "uni_ottoman_32_sd_4_0",
+      "x": 12,
+      "y": 5,
+      "exists": false
+    },
+    "uni_ottoman_32_a_0_0": {
+      "name": "uni_ottoman_32_a_0_0",
+      "source": "uni_ottoman_32_a_4_0",
+      "x": 14,
+      "y": 22,
+      "exists": false
+    },
+    "uni_ottoman_32_b_0_0": {
+      "name": "uni_ottoman_32_b_0_0",
+      "source": "uni_ottoman_32_b_4_0",
+      "x": -2,
+      "y": 15,
+      "exists": false
+    },
+    "uni_ottoman_32_a_0_1": {
+      "name": "uni_ottoman_32_a_0_1",
+      "source": "uni_ottoman_32_a_4_1",
+      "x": 14,
+      "y": 22,
+      "exists": false
+    },
+    "uni_ottoman_32_b_0_1": {
+      "name": "uni_ottoman_32_b_0_1",
+      "source": "uni_ottoman_32_b_4_1",
+      "x": -2,
+      "y": 15,
+      "exists": false
+    },
+    "uni_ottoman_64_sd_2_0": {
+      "name": "uni_ottoman_64_sd_2_0",
+      "x": 59,
+      "y": 12,
+      "exists": true
+    },
+    "uni_ottoman_64_a_2_0": {
+      "name": "uni_ottoman_64_a_2_0",
+      "x": 31,
+      "y": 43,
+      "exists": true
+    },
+    "uni_ottoman_64_b_2_0": {
+      "name": "uni_ottoman_64_b_2_0",
+      "x": 61,
+      "y": 29,
+      "exists": true
+    },
+    "uni_ottoman_64_a_2_1": {
+      "name": "uni_ottoman_64_a_2_1",
+      "x": 31,
+      "y": 43,
+      "exists": true
+    },
+    "uni_ottoman_64_b_2_1": {
+      "name": "uni_ottoman_64_b_2_1",
+      "x": 61,
+      "y": 29,
+      "exists": true
+    },
+    "uni_ottoman_32_sd_2_0": {
+      "name": "uni_ottoman_32_sd_2_0",
+      "x": 27,
+      "y": 5,
+      "exists": true
+    },
+    "uni_ottoman_32_a_2_0": {
+      "name": "uni_ottoman_32_a_2_0",
+      "x": 16,
+      "y": 22,
+      "exists": true
+    },
+    "uni_ottoman_32_b_2_0": {
+      "name": "uni_ottoman_32_b_2_0",
+      "x": 31,
+      "y": 15,
+      "exists": true
+    },
+    "uni_ottoman_32_a_2_1": {
+      "name": "uni_ottoman_32_a_2_1",
+      "x": 16,
+      "y": 22,
+      "exists": true
+    },
+    "uni_ottoman_32_b_2_1": {
+      "name": "uni_ottoman_32_b_2_1",
+      "x": 31,
+      "y": 15,
+      "exists": true
+    },
+    "uni_ottoman_64_sd_6_0": {
+      "name": "uni_ottoman_64_sd_6_0",
+      "source": "uni_ottoman_64_sd_2_0",
+      "x": 59,
+      "y": 12,
+      "exists": false
+    },
+    "uni_ottoman_64_a_6_0": {
+      "name": "uni_ottoman_64_a_6_0",
+      "source": "uni_ottoman_64_a_2_0",
+      "x": 31,
+      "y": 43,
+      "exists": false
+    },
+    "uni_ottoman_64_b_6_0": {
+      "name": "uni_ottoman_64_b_6_0",
+      "source": "uni_ottoman_64_b_2_0",
+      "x": 61,
+      "y": 29,
+      "exists": false
+    },
+    "uni_ottoman_64_a_6_1": {
+      "name": "uni_ottoman_64_a_6_1",
+      "source": "uni_ottoman_64_a_2_1",
+      "x": 31,
+      "y": 43,
+      "exists": false
+    },
+    "uni_ottoman_64_b_6_1": {
+      "name": "uni_ottoman_64_b_6_1",
+      "source": "uni_ottoman_64_b_2_1",
+      "x": 61,
+      "y": 29,
+      "exists": false
+    },
+    "uni_ottoman_32_sd_6_0": {
+      "name": "uni_ottoman_32_sd_6_0",
+      "source": "uni_ottoman_32_sd_2_0",
+      "x": 27,
+      "y": 5,
+      "exists": false
+    },
+    "uni_ottoman_32_a_6_0": {
+      "name": "uni_ottoman_32_a_6_0",
+      "source": "uni_ottoman_32_a_2_0",
+      "x": 16,
+      "y": 22,
+      "exists": false
+    },
+    "uni_ottoman_32_b_6_0": {
+      "name": "uni_ottoman_32_b_6_0",
+      "source": "uni_ottoman_32_b_2_0",
+      "x": 31,
+      "y": 15,
+      "exists": false
+    },
+    "uni_ottoman_32_a_6_1": {
+      "name": "uni_ottoman_32_a_6_1",
+      "source": "uni_ottoman_32_a_2_1",
+      "x": 16,
+      "y": 22,
+      "exists": false
+    },
+    "uni_ottoman_32_b_6_1": {
+      "name": "uni_ottoman_32_b_6_1",
+      "source": "uni_ottoman_32_b_2_1",
+      "x": 31,
+      "y": 15,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1.4
+    },
+    "directions": [
+      180,
+      270,
+      90,
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "uni_ottoman",
+    "visualization": "furniture_animated"
+  }
+}

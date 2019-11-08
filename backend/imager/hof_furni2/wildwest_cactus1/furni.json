@@ -1,0 +1,166 @@
+{
+  "assets": {
+    "wildwest_cactus1_64_sd_0_0": {
+      "name": "wildwest_cactus1_64_sd_0_0",
+      "x": 22,
+      "y": 5,
+      "exists": true
+    },
+    "wildwest_cactus1_64_a_0_0": {
+      "name": "wildwest_cactus1_64_a_0_0",
+      "x": 27,
+      "y": 44,
+      "exists": true
+    },
+    "wildwest_cactus1_64_a_0_1": {
+      "name": "wildwest_cactus1_64_a_0_1",
+      "x": 30,
+      "y": 41,
+      "exists": true
+    },
+    "wildwest_cactus1_32_sd_0_0": {
+      "name": "wildwest_cactus1_32_sd_0_0",
+      "x": 11,
+      "y": 1,
+      "exists": true
+    },
+    "wildwest_cactus1_32_a_0_0": {
+      "name": "wildwest_cactus1_32_a_0_0",
+      "x": 14,
+      "y": 23,
+      "exists": true
+    },
+    "wildwest_cactus1_32_a_0_1": {
+      "name": "wildwest_cactus1_32_a_0_1",
+      "x": 16,
+      "y": 22,
+      "exists": false
+    },
+    "wildwest_cactus1_icon_a": {
+      "name": "wildwest_cactus1_icon_a",
+      "x": 14,
+      "y": 12,
+      "exists": true
+    },
+    "wildwest_cactus1_64_sd_6_0": {
+      "name": "wildwest_cactus1_64_sd_6_0",
+      "flipH": 1,
+      "source": "wildwest_cactus1_64_sd_0_0",
+      "x": 22,
+      "y": 5,
+      "exists": false
+    },
+    "wildwest_cactus1_64_a_6_0": {
+      "name": "wildwest_cactus1_64_a_6_0",
+      "flipH": 1,
+      "source": "wildwest_cactus1_64_a_0_0",
+      "x": 27,
+      "y": 44,
+      "exists": false
+    },
+    "wildwest_cactus1_64_a_6_1": {
+      "name": "wildwest_cactus1_64_a_6_1",
+      "flipH": 1,
+      "source": "wildwest_cactus1_64_a_0_1",
+      "x": 30,
+      "y": 41,
+      "exists": false
+    },
+    "wildwest_cactus1_32_sd_6_0": {
+      "name": "wildwest_cactus1_32_sd_6_0",
+      "flipH": 1,
+      "source": "wildwest_cactus1_32_sd_0_0",
+      "x": 11,
+      "y": 1,
+      "exists": false
+    },
+    "wildwest_cactus1_32_a_6_0": {
+      "name": "wildwest_cactus1_32_a_6_0",
+      "flipH": 1,
+      "source": "wildwest_cactus1_32_a_0_0",
+      "x": 14,
+      "y": 23,
+      "exists": false
+    },
+    "wildwest_cactus1_32_a_6_1": {
+      "name": "wildwest_cactus1_32_a_6_1",
+      "flipH": 1,
+      "source": "wildwest_cactus1_32_a_0_1",
+      "x": 16,
+      "y": 22,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "wildwest_cactus1",
+    "visualization": "furniture_animated"
+  }
+}

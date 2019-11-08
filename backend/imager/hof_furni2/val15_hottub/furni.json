@@ -1,0 +1,834 @@
+{
+  "assets": {
+    "val15_hottub_64_a_4_0": {
+      "name": "val15_hottub_64_a_4_0",
+      "x": 34,
+      "y": 54,
+      "exists": true
+    },
+    "val15_hottub_64_b_4_0": {
+      "name": "val15_hottub_64_b_4_0",
+      "x": 57,
+      "y": 51,
+      "exists": true
+    },
+    "val15_hottub_64_c_4_0": {
+      "name": "val15_hottub_64_c_4_0",
+      "x": 59,
+      "y": 29,
+      "exists": true
+    },
+    "val15_hottub_64_d_4_0": {
+      "name": "val15_hottub_64_d_4_0",
+      "x": 32,
+      "y": 14,
+      "exists": true
+    },
+    "val15_hottub_64_e_4_0": {
+      "name": "val15_hottub_64_e_4_0",
+      "x": 23,
+      "y": 37,
+      "exists": true
+    },
+    "val15_hottub_64_e_4_1": {
+      "name": "val15_hottub_64_e_4_1",
+      "x": 23,
+      "y": 37,
+      "exists": true
+    },
+    "val15_hottub_64_e_4_2": {
+      "name": "val15_hottub_64_e_4_2",
+      "x": 23,
+      "y": 35,
+      "exists": true
+    },
+    "val15_hottub_64_e_4_3": {
+      "name": "val15_hottub_64_e_4_3",
+      "x": 21,
+      "y": 36,
+      "exists": true
+    },
+    "val15_hottub_64_e_4_4": {
+      "name": "val15_hottub_64_e_4_4",
+      "x": 19,
+      "y": 35,
+      "exists": true
+    },
+    "val15_hottub_64_e_4_5": {
+      "name": "val15_hottub_64_e_4_5",
+      "x": 15,
+      "y": 37,
+      "exists": true
+    },
+    "val15_hottub_64_e_4_6": {
+      "name": "val15_hottub_64_e_4_6",
+      "x": 17,
+      "y": 36,
+      "exists": true
+    },
+    "val15_hottub_64_e_4_7": {
+      "name": "val15_hottub_64_e_4_7",
+      "x": 19,
+      "y": 36,
+      "exists": true
+    },
+    "val15_hottub_64_f_4_0": {
+      "name": "val15_hottub_64_f_4_0",
+      "x": 45,
+      "y": 33,
+      "exists": true
+    },
+    "val15_hottub_64_f_4_1": {
+      "name": "val15_hottub_64_f_4_1",
+      "x": 45,
+      "y": 33,
+      "exists": true
+    },
+    "val15_hottub_64_f_4_2": {
+      "name": "val15_hottub_64_f_4_2",
+      "x": 30,
+      "y": 33,
+      "exists": true
+    },
+    "val15_hottub_64_f_4_3": {
+      "name": "val15_hottub_64_f_4_3",
+      "x": 45,
+      "y": 31,
+      "exists": true
+    },
+    "val15_hottub_64_f_4_4": {
+      "name": "val15_hottub_64_f_4_4",
+      "x": 45,
+      "y": 32,
+      "exists": true
+    },
+    "val15_hottub_64_f_4_5": {
+      "name": "val15_hottub_64_f_4_5",
+      "x": 45,
+      "y": 33,
+      "exists": true
+    },
+    "val15_hottub_64_f_4_6": {
+      "name": "val15_hottub_64_f_4_6",
+      "x": 29,
+      "y": 32,
+      "exists": true
+    },
+    "val15_hottub_64_f_4_7": {
+      "name": "val15_hottub_64_f_4_7",
+      "x": 45,
+      "y": 33,
+      "exists": true
+    },
+    "val15_hottub_64_g_4_0": {
+      "name": "val15_hottub_64_g_4_0",
+      "x": 31,
+      "y": 42,
+      "exists": true
+    },
+    "val15_hottub_64_g_4_1": {
+      "name": "val15_hottub_64_g_4_1",
+      "x": 31,
+      "y": 42,
+      "exists": true
+    },
+    "val15_hottub_64_g_4_2": {
+      "name": "val15_hottub_64_g_4_2",
+      "x": 31,
+      "y": 42,
+      "exists": true
+    },
+    "val15_hottub_64_g_4_3": {
+      "name": "val15_hottub_64_g_4_3",
+      "x": 31,
+      "y": 42,
+      "exists": true
+    },
+    "val15_hottub_64_g_4_4": {
+      "name": "val15_hottub_64_g_4_4",
+      "x": 31,
+      "y": 42,
+      "exists": true
+    },
+    "val15_hottub_64_h_4_0": {
+      "name": "val15_hottub_64_h_4_0",
+      "x": 36,
+      "y": 36,
+      "exists": true
+    },
+    "val15_hottub_64_h_4_1": {
+      "name": "val15_hottub_64_h_4_1",
+      "x": 40,
+      "y": 36,
+      "exists": true
+    },
+    "val15_hottub_64_h_4_2": {
+      "name": "val15_hottub_64_h_4_2",
+      "x": 42,
+      "y": 37,
+      "exists": true
+    },
+    "val15_hottub_64_h_4_3": {
+      "name": "val15_hottub_64_h_4_3",
+      "x": 42,
+      "y": 37,
+      "exists": true
+    },
+    "val15_hottub_64_h_4_4": {
+      "name": "val15_hottub_64_h_4_4",
+      "x": 34,
+      "y": 36,
+      "exists": true
+    },
+    "val15_hottub_64_i_4_0": {
+      "name": "val15_hottub_64_i_4_0",
+      "x": 37,
+      "y": 86,
+      "exists": true
+    },
+    "val15_hottub_64_i_4_1": {
+      "name": "val15_hottub_64_i_4_1",
+      "x": 37,
+      "y": 95,
+      "exists": true
+    },
+    "val15_hottub_64_i_4_2": {
+      "name": "val15_hottub_64_i_4_2",
+      "x": 37,
+      "y": 100,
+      "exists": true
+    },
+    "val15_hottub_64_i_4_3": {
+      "name": "val15_hottub_64_i_4_3",
+      "x": 37,
+      "y": 102,
+      "exists": true
+    },
+    "val15_hottub_64_i_4_4": {
+      "name": "val15_hottub_64_i_4_4",
+      "x": 37,
+      "y": 105,
+      "exists": true
+    },
+    "val15_hottub_64_i_4_5": {
+      "name": "val15_hottub_64_i_4_5",
+      "x": 37,
+      "y": 103,
+      "exists": true
+    },
+    "val15_hottub_64_i_4_6": {
+      "name": "val15_hottub_64_i_4_6",
+      "x": 37,
+      "y": 80,
+      "exists": true
+    },
+    "val15_hottub_64_j_4_0": {
+      "name": "val15_hottub_64_j_4_0",
+      "x": 50,
+      "y": 55,
+      "exists": true
+    },
+    "val15_hottub_64_j_4_1": {
+      "name": "val15_hottub_64_j_4_1",
+      "x": 50,
+      "y": 57,
+      "exists": true
+    },
+    "val15_hottub_64_j_4_2": {
+      "name": "val15_hottub_64_j_4_2",
+      "x": 50,
+      "y": 63,
+      "exists": true
+    },
+    "val15_hottub_64_j_4_3": {
+      "name": "val15_hottub_64_j_4_3",
+      "x": 49,
+      "y": 61,
+      "exists": true
+    },
+    "val15_hottub_64_j_4_4": {
+      "name": "val15_hottub_64_j_4_4",
+      "x": 50,
+      "y": 58,
+      "exists": true
+    },
+    "val15_hottub_64_j_4_5": {
+      "name": "val15_hottub_64_j_4_5",
+      "x": 50,
+      "y": 54,
+      "exists": true
+    },
+    "val15_hottub_64_j_4_6": {
+      "name": "val15_hottub_64_j_4_6",
+      "x": 50,
+      "y": 53,
+      "exists": true
+    },
+    "val15_hottub_icon_a": {
+      "name": "val15_hottub_icon_a",
+      "x": 12,
+      "y": 12,
+      "exists": true
+    },
+    "val15_hottub_64_a_2_0": {
+      "name": "val15_hottub_64_a_2_0",
+      "flipH": 1,
+      "source": "val15_hottub_64_a_4_0",
+      "x": 34,
+      "y": 54,
+      "exists": false
+    },
+    "val15_hottub_64_b_2_0": {
+      "name": "val15_hottub_64_b_2_0",
+      "flipH": 1,
+      "source": "val15_hottub_64_b_4_0",
+      "x": 57,
+      "y": 51,
+      "exists": false
+    },
+    "val15_hottub_64_c_2_0": {
+      "name": "val15_hottub_64_c_2_0",
+      "flipH": 1,
+      "source": "val15_hottub_64_c_4_0",
+      "x": 59,
+      "y": 29,
+      "exists": false
+    },
+    "val15_hottub_64_d_2_0": {
+      "name": "val15_hottub_64_d_2_0",
+      "flipH": 1,
+      "source": "val15_hottub_64_d_4_0",
+      "x": 32,
+      "y": 14,
+      "exists": false
+    },
+    "val15_hottub_64_e_2_0": {
+      "name": "val15_hottub_64_e_2_0",
+      "flipH": 1,
+      "source": "val15_hottub_64_e_4_0",
+      "x": 23,
+      "y": 37,
+      "exists": false
+    },
+    "val15_hottub_64_e_2_1": {
+      "name": "val15_hottub_64_e_2_1",
+      "flipH": 1,
+      "source": "val15_hottub_64_e_4_1",
+      "x": 23,
+      "y": 37,
+      "exists": false
+    },
+    "val15_hottub_64_e_2_2": {
+      "name": "val15_hottub_64_e_2_2",
+      "flipH": 1,
+      "source": "val15_hottub_64_e_4_2",
+      "x": 23,
+      "y": 35,
+      "exists": false
+    },
+    "val15_hottub_64_e_2_3": {
+      "name": "val15_hottub_64_e_2_3",
+      "flipH": 1,
+      "source": "val15_hottub_64_e_4_3",
+      "x": 21,
+      "y": 36,
+      "exists": false
+    },
+    "val15_hottub_64_e_2_4": {
+      "name": "val15_hottub_64_e_2_4",
+      "flipH": 1,
+      "source": "val15_hottub_64_e_4_4",
+      "x": 19,
+      "y": 35,
+      "exists": false
+    },
+    "val15_hottub_64_e_2_5": {
+      "name": "val15_hottub_64_e_2_5",
+      "flipH": 1,
+      "source": "val15_hottub_64_e_4_5",
+      "x": 15,
+      "y": 37,
+      "exists": false
+    },
+    "val15_hottub_64_e_2_6": {
+      "name": "val15_hottub_64_e_2_6",
+      "flipH": 1,
+      "source": "val15_hottub_64_e_4_6",
+      "x": 17,
+      "y": 36,
+      "exists": false
+    },
+    "val15_hottub_64_e_2_7": {
+      "name": "val15_hottub_64_e_2_7",
+      "flipH": 1,
+      "source": "val15_hottub_64_e_4_7",
+      "x": 19,
+      "y": 36,
+      "exists": false
+    },
+    "val15_hottub_64_f_2_0": {
+      "name": "val15_hottub_64_f_2_0",
+      "flipH": 1,
+      "source": "val15_hottub_64_f_4_0",
+      "x": 45,
+      "y": 33,
+      "exists": false
+    },
+    "val15_hottub_64_f_2_1": {
+      "name": "val15_hottub_64_f_2_1",
+      "flipH": 1,
+      "source": "val15_hottub_64_f_4_1",
+      "x": 45,
+      "y": 33,
+      "exists": false
+    },
+    "val15_hottub_64_f_2_2": {
+      "name": "val15_hottub_64_f_2_2",
+      "flipH": 1,
+      "source": "val15_hottub_64_f_4_2",
+      "x": 30,
+      "y": 33,
+      "exists": false
+    },
+    "val15_hottub_64_f_2_3": {
+      "name": "val15_hottub_64_f_2_3",
+      "flipH": 1,
+      "source": "val15_hottub_64_f_4_3",
+      "x": 45,
+      "y": 31,
+      "exists": false
+    },
+    "val15_hottub_64_f_2_4": {
+      "name": "val15_hottub_64_f_2_4",
+      "flipH": 1,
+      "source": "val15_hottub_64_f_4_4",
+      "x": 45,
+      "y": 32,
+      "exists": false
+    },
+    "val15_hottub_64_f_2_5": {
+      "name": "val15_hottub_64_f_2_5",
+      "flipH": 1,
+      "source": "val15_hottub_64_f_4_5",
+      "x": 45,
+      "y": 33,
+      "exists": false
+    },
+    "val15_hottub_64_f_2_6": {
+      "name": "val15_hottub_64_f_2_6",
+      "flipH": 1,
+      "source": "val15_hottub_64_f_4_6",
+      "x": 29,
+      "y": 32,
+      "exists": false
+    },
+    "val15_hottub_64_f_2_7": {
+      "name": "val15_hottub_64_f_2_7",
+      "flipH": 1,
+      "source": "val15_hottub_64_f_4_7",
+      "x": 45,
+      "y": 33,
+      "exists": false
+    },
+    "val15_hottub_64_g_2_0": {
+      "name": "val15_hottub_64_g_2_0",
+      "flipH": 1,
+      "source": "val15_hottub_64_g_4_0",
+      "x": 31,
+      "y": 42,
+      "exists": false
+    },
+    "val15_hottub_64_g_2_1": {
+      "name": "val15_hottub_64_g_2_1",
+      "flipH": 1,
+      "source": "val15_hottub_64_g_4_1",
+      "x": 31,
+      "y": 42,
+      "exists": false
+    },
+    "val15_hottub_64_g_2_2": {
+      "name": "val15_hottub_64_g_2_2",
+      "flipH": 1,
+      "source": "val15_hottub_64_g_4_2",
+      "x": 31,
+      "y": 42,
+      "exists": false
+    },
+    "val15_hottub_64_g_2_3": {
+      "name": "val15_hottub_64_g_2_3",
+      "flipH": 1,
+      "source": "val15_hottub_64_g_4_3",
+      "x": 31,
+      "y": 42,
+      "exists": false
+    },
+    "val15_hottub_64_g_2_4": {
+      "name": "val15_hottub_64_g_2_4",
+      "flipH": 1,
+      "source": "val15_hottub_64_g_4_4",
+      "x": 31,
+      "y": 42,
+      "exists": false
+    },
+    "val15_hottub_64_h_2_0": {
+      "name": "val15_hottub_64_h_2_0",
+      "flipH": 1,
+      "source": "val15_hottub_64_h_4_0",
+      "x": 36,
+      "y": 36,
+      "exists": false
+    },
+    "val15_hottub_64_h_2_1": {
+      "name": "val15_hottub_64_h_2_1",
+      "flipH": 1,
+      "source": "val15_hottub_64_h_4_1",
+      "x": 40,
+      "y": 36,
+      "exists": false
+    },
+    "val15_hottub_64_h_2_2": {
+      "name": "val15_hottub_64_h_2_2",
+      "flipH": 1,
+      "source": "val15_hottub_64_h_4_2",
+      "x": 42,
+      "y": 37,
+      "exists": false
+    },
+    "val15_hottub_64_h_2_3": {
+      "name": "val15_hottub_64_h_2_3",
+      "flipH": 1,
+      "source": "val15_hottub_64_h_4_3",
+      "x": 42,
+      "y": 37,
+      "exists": false
+    },
+    "val15_hottub_64_h_2_4": {
+      "name": "val15_hottub_64_h_2_4",
+      "flipH": 1,
+      "source": "val15_hottub_64_h_4_4",
+      "x": 34,
+      "y": 36,
+      "exists": false
+    },
+    "val15_hottub_64_i_2_0": {
+      "name": "val15_hottub_64_i_2_0",
+      "flipH": 1,
+      "source": "val15_hottub_64_i_4_0",
+      "x": 37,
+      "y": 86,
+      "exists": false
+    },
+    "val15_hottub_64_i_2_1": {
+      "name": "val15_hottub_64_i_2_1",
+      "flipH": 1,
+      "source": "val15_hottub_64_i_4_1",
+      "x": 37,
+      "y": 95,
+      "exists": false
+    },
+    "val15_hottub_64_i_2_2": {
+      "name": "val15_hottub_64_i_2_2",
+      "flipH": 1,
+      "source": "val15_hottub_64_i_4_2",
+      "x": 37,
+      "y": 100,
+      "exists": false
+    },
+    "val15_hottub_64_i_2_3": {
+      "name": "val15_hottub_64_i_2_3",
+      "flipH": 1,
+      "source": "val15_hottub_64_i_4_3",
+      "x": 37,
+      "y": 102,
+      "exists": false
+    },
+    "val15_hottub_64_i_2_4": {
+      "name": "val15_hottub_64_i_2_4",
+      "flipH": 1,
+      "source": "val15_hottub_64_i_4_4",
+      "x": 37,
+      "y": 105,
+      "exists": false
+    },
+    "val15_hottub_64_i_2_5": {
+      "name": "val15_hottub_64_i_2_5",
+      "flipH": 1,
+      "source": "val15_hottub_64_i_4_5",
+      "x": 37,
+      "y": 103,
+      "exists": false
+    },
+    "val15_hottub_64_i_2_6": {
+      "name": "val15_hottub_64_i_2_6",
+      "flipH": 1,
+      "source": "val15_hottub_64_i_4_6",
+      "x": 37,
+      "y": 80,
+      "exists": false
+    },
+    "val15_hottub_64_j_2_0": {
+      "name": "val15_hottub_64_j_2_0",
+      "flipH": 1,
+      "source": "val15_hottub_64_j_4_0",
+      "x": 50,
+      "y": 55,
+      "exists": false
+    },
+    "val15_hottub_64_j_2_1": {
+      "name": "val15_hottub_64_j_2_1",
+      "flipH": 1,
+      "source": "val15_hottub_64_j_4_1",
+      "x": 50,
+      "y": 57,
+      "exists": false
+    },
+    "val15_hottub_64_j_2_2": {
+      "name": "val15_hottub_64_j_2_2",
+      "flipH": 1,
+      "source": "val15_hottub_64_j_4_2",
+      "x": 50,
+      "y": 63,
+      "exists": false
+    },
+    "val15_hottub_64_j_2_3": {
+      "name": "val15_hottub_64_j_2_3",
+      "flipH": 1,
+      "source": "val15_hottub_64_j_4_3",
+      "x": 49,
+      "y": 61,
+      "exists": false
+    },
+    "val15_hottub_64_j_2_4": {
+      "name": "val15_hottub_64_j_2_4",
+      "flipH": 1,
+      "source": "val15_hottub_64_j_4_4",
+      "x": 50,
+      "y": 58,
+      "exists": false
+    },
+    "val15_hottub_64_j_2_5": {
+      "name": "val15_hottub_64_j_2_5",
+      "flipH": 1,
+      "source": "val15_hottub_64_j_4_5",
+      "x": 50,
+      "y": 54,
+      "exists": false
+    },
+    "val15_hottub_64_j_2_6": {
+      "name": "val15_hottub_64_j_2_6",
+      "flipH": 1,
+      "source": "val15_hottub_64_j_4_6",
+      "x": 50,
+      "y": 53,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 10,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 900
+        },
+        {
+          "layerId": 2,
+          "z": 1500
+        },
+        {
+          "layerId": 3,
+          "z": 2500
+        },
+        {
+          "layerId": 4
+        },
+        {
+          "layerId": 5,
+          "z": 900
+        },
+        {
+          "layerId": 6
+        },
+        {
+          "layerId": 7,
+          "z": 900
+        },
+        {
+          "layerId": 8,
+          "z": 1500
+        },
+        {
+          "layerId": 9,
+          "z": 2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "val15_hottub",
+    "visualization": "furniture_animated"
+  }
+}

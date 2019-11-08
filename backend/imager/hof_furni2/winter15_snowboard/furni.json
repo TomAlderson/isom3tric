@@ -1,0 +1,470 @@
+{
+  "assets": {
+    "winter15_snowboard_64_a_4_0": {
+      "name": "winter15_snowboard_64_a_4_0",
+      "x": 30,
+      "y": 102,
+      "exists": true
+    },
+    "winter15_snowboard_64_b_4_0": {
+      "name": "winter15_snowboard_64_b_4_0",
+      "x": 2,
+      "y": 99,
+      "exists": false
+    },
+    "winter15_snowboard_64_b_4_1": {
+      "name": "winter15_snowboard_64_b_4_1",
+      "x": 3,
+      "y": 100,
+      "exists": false
+    },
+    "winter15_snowboard_64_b_4_2": {
+      "name": "winter15_snowboard_64_b_4_2",
+      "x": 4,
+      "y": 101,
+      "exists": false
+    },
+    "winter15_snowboard_64_b_4_3": {
+      "name": "winter15_snowboard_64_b_4_3",
+      "x": 5,
+      "y": 102,
+      "exists": false
+    },
+    "winter15_snowboard_64_b_4_4": {
+      "name": "winter15_snowboard_64_b_4_4",
+      "x": 7,
+      "y": 104,
+      "exists": false
+    },
+    "winter15_snowboard_64_b_4_5": {
+      "name": "winter15_snowboard_64_b_4_5",
+      "x": 9,
+      "y": 106,
+      "exists": false
+    },
+    "winter15_snowboard_64_c_4_0": {
+      "name": "winter15_snowboard_64_c_4_0",
+      "x": 20,
+      "y": 31,
+      "exists": true
+    },
+    "winter15_snowboard_64_c_4_1": {
+      "name": "winter15_snowboard_64_c_4_1",
+      "x": 21,
+      "y": 32,
+      "exists": true
+    },
+    "winter15_snowboard_64_c_4_2": {
+      "name": "winter15_snowboard_64_c_4_2",
+      "x": 22,
+      "y": 33,
+      "exists": true
+    },
+    "winter15_snowboard_64_c_4_3": {
+      "name": "winter15_snowboard_64_c_4_3",
+      "x": 23,
+      "y": 34,
+      "exists": true
+    },
+    "winter15_snowboard_64_c_4_4": {
+      "name": "winter15_snowboard_64_c_4_4",
+      "x": 25,
+      "y": 36,
+      "exists": true
+    },
+    "winter15_snowboard_64_c_4_5": {
+      "name": "winter15_snowboard_64_c_4_5",
+      "x": 27,
+      "y": 38,
+      "exists": true
+    },
+    "winter15_snowboard_64_d_4_0": {
+      "name": "winter15_snowboard_64_d_4_0",
+      "x": -16,
+      "y": 28,
+      "exists": false
+    },
+    "winter15_snowboard_64_d_4_1": {
+      "name": "winter15_snowboard_64_d_4_1",
+      "x": -15,
+      "y": 29,
+      "exists": false
+    },
+    "winter15_snowboard_64_d_4_2": {
+      "name": "winter15_snowboard_64_d_4_2",
+      "x": -14,
+      "y": 30,
+      "exists": false
+    },
+    "winter15_snowboard_64_d_4_3": {
+      "name": "winter15_snowboard_64_d_4_3",
+      "x": -13,
+      "y": 31,
+      "exists": false
+    },
+    "winter15_snowboard_64_d_4_4": {
+      "name": "winter15_snowboard_64_d_4_4",
+      "x": -11,
+      "y": 33,
+      "exists": false
+    },
+    "winter15_snowboard_64_d_4_5": {
+      "name": "winter15_snowboard_64_d_4_5",
+      "x": -9,
+      "y": 35,
+      "exists": false
+    },
+    "winter15_snowboard_icon_a": {
+      "name": "winter15_snowboard_icon_a",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    },
+    "winter15_snowboard_64_a_2_0": {
+      "name": "winter15_snowboard_64_a_2_0",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_a_4_0",
+      "x": 30,
+      "y": 102,
+      "exists": false
+    },
+    "winter15_snowboard_64_b_2_0": {
+      "name": "winter15_snowboard_64_b_2_0",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_b_4_0",
+      "x": 2,
+      "y": 99,
+      "exists": false
+    },
+    "winter15_snowboard_64_b_2_1": {
+      "name": "winter15_snowboard_64_b_2_1",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_b_4_1",
+      "x": 3,
+      "y": 100,
+      "exists": false
+    },
+    "winter15_snowboard_64_b_2_2": {
+      "name": "winter15_snowboard_64_b_2_2",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_b_4_2",
+      "x": 4,
+      "y": 101,
+      "exists": false
+    },
+    "winter15_snowboard_64_b_2_3": {
+      "name": "winter15_snowboard_64_b_2_3",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_b_4_3",
+      "x": 5,
+      "y": 102,
+      "exists": false
+    },
+    "winter15_snowboard_64_b_2_4": {
+      "name": "winter15_snowboard_64_b_2_4",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_b_4_4",
+      "x": 7,
+      "y": 104,
+      "exists": false
+    },
+    "winter15_snowboard_64_b_2_5": {
+      "name": "winter15_snowboard_64_b_2_5",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_b_4_5",
+      "x": 9,
+      "y": 106,
+      "exists": false
+    },
+    "winter15_snowboard_64_c_2_0": {
+      "name": "winter15_snowboard_64_c_2_0",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_c_4_0",
+      "x": 20,
+      "y": 31,
+      "exists": false
+    },
+    "winter15_snowboard_64_c_2_1": {
+      "name": "winter15_snowboard_64_c_2_1",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_c_4_1",
+      "x": 21,
+      "y": 32,
+      "exists": false
+    },
+    "winter15_snowboard_64_c_2_2": {
+      "name": "winter15_snowboard_64_c_2_2",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_c_4_2",
+      "x": 22,
+      "y": 33,
+      "exists": false
+    },
+    "winter15_snowboard_64_c_2_3": {
+      "name": "winter15_snowboard_64_c_2_3",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_c_4_3",
+      "x": 23,
+      "y": 34,
+      "exists": false
+    },
+    "winter15_snowboard_64_c_2_4": {
+      "name": "winter15_snowboard_64_c_2_4",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_c_4_4",
+      "x": 25,
+      "y": 36,
+      "exists": false
+    },
+    "winter15_snowboard_64_c_2_5": {
+      "name": "winter15_snowboard_64_c_2_5",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_c_4_5",
+      "x": 27,
+      "y": 38,
+      "exists": false
+    },
+    "winter15_snowboard_64_d_2_0": {
+      "name": "winter15_snowboard_64_d_2_0",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_d_4_0",
+      "x": -16,
+      "y": 28,
+      "exists": false
+    },
+    "winter15_snowboard_64_d_2_1": {
+      "name": "winter15_snowboard_64_d_2_1",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_d_4_1",
+      "x": -15,
+      "y": 29,
+      "exists": false
+    },
+    "winter15_snowboard_64_d_2_2": {
+      "name": "winter15_snowboard_64_d_2_2",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_d_4_2",
+      "x": -14,
+      "y": 30,
+      "exists": false
+    },
+    "winter15_snowboard_64_d_2_3": {
+      "name": "winter15_snowboard_64_d_2_3",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_d_4_3",
+      "x": -13,
+      "y": 31,
+      "exists": false
+    },
+    "winter15_snowboard_64_d_2_4": {
+      "name": "winter15_snowboard_64_d_2_4",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_d_4_4",
+      "x": -11,
+      "y": 33,
+      "exists": false
+    },
+    "winter15_snowboard_64_d_2_5": {
+      "name": "winter15_snowboard_64_d_2_5",
+      "flipH": 1,
+      "source": "winter15_snowboard_64_d_4_5",
+      "x": -9,
+      "y": 35,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.001
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "winter15_snowboard",
+    "visualization": "furniture_animated"
+  }
+}

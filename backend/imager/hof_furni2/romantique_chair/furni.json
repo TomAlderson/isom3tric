@@ -1,0 +1,404 @@
+{
+  "assets": {
+    "romantique_chair_64_a_0_0": {
+      "name": "romantique_chair_64_a_0_0",
+      "x": 28,
+      "y": 45,
+      "exists": true
+    },
+    "romantique_chair_64_a_2_0": {
+      "name": "romantique_chair_64_a_2_0",
+      "flipH": 1,
+      "source": "romantique_chair_64_a_4_0",
+      "x": 29,
+      "y": 57,
+      "exists": false
+    },
+    "romantique_chair_64_a_4_0": {
+      "name": "romantique_chair_64_a_4_0",
+      "x": 29,
+      "y": 57,
+      "exists": true
+    },
+    "romantique_chair_64_a_6_0": {
+      "name": "romantique_chair_64_a_6_0",
+      "flipH": 1,
+      "source": "romantique_chair_64_a_0_0",
+      "x": 28,
+      "y": 45,
+      "exists": false
+    },
+    "romantique_chair_64_b_0_0": {
+      "name": "romantique_chair_64_b_0_0",
+      "x": 27,
+      "y": 36,
+      "exists": true
+    },
+    "romantique_chair_64_b_2_0": {
+      "name": "romantique_chair_64_b_2_0",
+      "flipH": 1,
+      "source": "romantique_chair_64_b_4_0",
+      "x": -9,
+      "y": 40,
+      "exists": false
+    },
+    "romantique_chair_64_b_4_0": {
+      "name": "romantique_chair_64_b_4_0",
+      "x": -9,
+      "y": 40,
+      "exists": true
+    },
+    "romantique_chair_64_b_6_0": {
+      "name": "romantique_chair_64_b_6_0",
+      "flipH": 1,
+      "source": "romantique_chair_64_b_0_0",
+      "x": 27,
+      "y": 36,
+      "exists": false
+    },
+    "romantique_chair_64_c_0_0": {
+      "name": "romantique_chair_64_c_0_0",
+      "x": 28,
+      "y": 41,
+      "exists": true
+    },
+    "romantique_chair_64_c_2_0": {
+      "name": "romantique_chair_64_c_2_0",
+      "flipH": 1,
+      "source": "romantique_chair_64_c_4_0",
+      "x": -5,
+      "y": 45,
+      "exists": false
+    },
+    "romantique_chair_64_c_4_0": {
+      "name": "romantique_chair_64_c_4_0",
+      "x": -5,
+      "y": 45,
+      "exists": true
+    },
+    "romantique_chair_64_c_6_0": {
+      "name": "romantique_chair_64_c_6_0",
+      "flipH": 1,
+      "source": "romantique_chair_64_c_0_0",
+      "x": 28,
+      "y": 41,
+      "exists": false
+    },
+    "romantique_chair_64_sd_0_0": {
+      "name": "romantique_chair_64_sd_0_0",
+      "x": 30,
+      "y": 15,
+      "exists": true
+    },
+    "romantique_chair_64_sd_2_0": {
+      "name": "romantique_chair_64_sd_2_0",
+      "source": "romantique_chair_64_sd_0_0",
+      "x": 30,
+      "y": 15,
+      "exists": false
+    },
+    "romantique_chair_64_sd_4_0": {
+      "name": "romantique_chair_64_sd_4_0",
+      "source": "romantique_chair_64_sd_0_0",
+      "x": 30,
+      "y": 15,
+      "exists": false
+    },
+    "romantique_chair_64_sd_6_0": {
+      "name": "romantique_chair_64_sd_6_0",
+      "source": "romantique_chair_64_sd_0_0",
+      "x": 30,
+      "y": 15,
+      "exists": false
+    },
+    "romantique_chair_icon_a": {
+      "name": "romantique_chair_icon_a",
+      "x": 12,
+      "y": 15,
+      "exists": true
+    },
+    "romantique_chair_icon_b": {
+      "name": "romantique_chair_icon_b",
+      "x": -5,
+      "y": 7,
+      "exists": true
+    },
+    "romantique_chair_32_a_0_0": {
+      "name": "romantique_chair_32_a_0_0",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "romantique_chair_32_a_2_0": {
+      "name": "romantique_chair_32_a_2_0",
+      "flipH": 1,
+      "source": "romantique_chair_32_a_4_0",
+      "x": 16,
+      "y": 30,
+      "exists": false
+    },
+    "romantique_chair_32_a_4_0": {
+      "name": "romantique_chair_32_a_4_0",
+      "x": 16,
+      "y": 30,
+      "exists": true
+    },
+    "romantique_chair_32_a_6_0": {
+      "name": "romantique_chair_32_a_6_0",
+      "flipH": 1,
+      "source": "romantique_chair_32_a_0_0",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "romantique_chair_32_b_0_0": {
+      "name": "romantique_chair_32_b_0_0",
+      "x": 15,
+      "y": 18,
+      "exists": true
+    },
+    "romantique_chair_32_b_2_0": {
+      "name": "romantique_chair_32_b_2_0",
+      "flipH": 1,
+      "source": "romantique_chair_32_b_4_0",
+      "x": -5,
+      "y": 20,
+      "exists": false
+    },
+    "romantique_chair_32_b_4_0": {
+      "name": "romantique_chair_32_b_4_0",
+      "x": -5,
+      "y": 20,
+      "exists": true
+    },
+    "romantique_chair_32_b_6_0": {
+      "name": "romantique_chair_32_b_6_0",
+      "flipH": 1,
+      "source": "romantique_chair_32_b_0_0",
+      "x": 15,
+      "y": 18,
+      "exists": false
+    },
+    "romantique_chair_32_c_0_0": {
+      "name": "romantique_chair_32_c_0_0",
+      "x": 16,
+      "y": 22,
+      "exists": true
+    },
+    "romantique_chair_32_c_2_0": {
+      "name": "romantique_chair_32_c_2_0",
+      "flipH": 1,
+      "source": "romantique_chair_32_c_4_0",
+      "x": -1,
+      "y": 24,
+      "exists": false
+    },
+    "romantique_chair_32_c_4_0": {
+      "name": "romantique_chair_32_c_4_0",
+      "x": -1,
+      "y": 24,
+      "exists": true
+    },
+    "romantique_chair_32_c_6_0": {
+      "name": "romantique_chair_32_c_6_0",
+      "flipH": 1,
+      "source": "romantique_chair_32_c_0_0",
+      "x": 16,
+      "y": 22,
+      "exists": false
+    },
+    "romantique_chair_32_sd_0_0": {
+      "name": "romantique_chair_32_sd_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": true
+    },
+    "romantique_chair_32_sd_2_0": {
+      "name": "romantique_chair_32_sd_2_0",
+      "source": "romantique_chair_32_sd_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": false
+    },
+    "romantique_chair_32_sd_4_0": {
+      "name": "romantique_chair_32_sd_4_0",
+      "source": "romantique_chair_32_sd_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": false
+    },
+    "romantique_chair_32_sd_6_0": {
+      "name": "romantique_chair_32_sd_6_0",
+      "source": "romantique_chair_32_sd_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "FF8B8B"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "A1DC67"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "5BD1D2"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "FFC924"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "323C46"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "FF8B8B"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "A1DC67"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "5BD1D2"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "FFC924"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "323C46"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 100
+        },
+        {
+          "layerId": 2,
+          "z": 102
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "FF8B8B"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "A1DC67"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "5BD1D2"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "FFC924"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "323C46"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 100
+        },
+        {
+          "layerId": 2,
+          "z": 102
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "romantique_chair",
+    "visualization": "furniture_static"
+  }
+}

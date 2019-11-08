@@ -1,0 +1,150 @@
+{
+  "assets": {
+    "urban_fence_32_a_0_0": {
+      "name": "urban_fence_32_a_0_0",
+      "x": 7,
+      "y": 53,
+      "exists": true
+    },
+    "urban_fence_32_a_2_0": {
+      "name": "urban_fence_32_a_2_0",
+      "x": 10,
+      "y": 53,
+      "exists": true
+    },
+    "urban_fence_32_b_0_0": {
+      "name": "urban_fence_32_b_0_0",
+      "x": 6,
+      "y": 47,
+      "exists": true
+    },
+    "urban_fence_32_b_2_0": {
+      "name": "urban_fence_32_b_2_0",
+      "x": 4,
+      "y": 47,
+      "exists": true
+    },
+    "urban_fence_32_c_0_0": {
+      "name": "urban_fence_32_c_0_0",
+      "x": 26,
+      "y": 42,
+      "exists": true
+    },
+    "urban_fence_32_c_2_0": {
+      "name": "urban_fence_32_c_2_0",
+      "x": -9,
+      "y": 42,
+      "exists": true
+    },
+    "urban_fence_32_d_0_0": {
+      "name": "urban_fence_32_d_0_0",
+      "x": 20,
+      "y": 41,
+      "exists": true
+    },
+    "urban_fence_32_d_2_0": {
+      "name": "urban_fence_32_d_2_0",
+      "x": -9,
+      "y": 41,
+      "exists": true
+    },
+    "urban_fence_64_a_0_0": {
+      "name": "urban_fence_64_a_0_0",
+      "x": 14,
+      "y": 107,
+      "exists": true
+    },
+    "urban_fence_64_a_2_0": {
+      "name": "urban_fence_64_a_2_0",
+      "x": 21,
+      "y": 107,
+      "exists": true
+    },
+    "urban_fence_64_b_0_0": {
+      "name": "urban_fence_64_b_0_0",
+      "x": 14,
+      "y": 99,
+      "exists": true
+    },
+    "urban_fence_64_b_2_0": {
+      "name": "urban_fence_64_b_2_0",
+      "x": 12,
+      "y": 99,
+      "exists": true
+    },
+    "urban_fence_64_c_0_0": {
+      "name": "urban_fence_64_c_0_0",
+      "x": 52,
+      "y": 86,
+      "exists": true
+    },
+    "urban_fence_64_c_2_0": {
+      "name": "urban_fence_64_c_2_0",
+      "x": -14,
+      "y": 86,
+      "exists": true
+    },
+    "urban_fence_64_d_0_0": {
+      "name": "urban_fence_64_d_0_0",
+      "x": 43,
+      "y": 85,
+      "exists": true
+    },
+    "urban_fence_64_d_2_0": {
+      "name": "urban_fence_64_d_2_0",
+      "x": -14,
+      "y": 85,
+      "exists": true
+    },
+    "urban_fence_icon_a": {
+      "name": "urban_fence_icon_a",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "urban_fence",
+    "visualization": "furniture_static"
+  }
+}

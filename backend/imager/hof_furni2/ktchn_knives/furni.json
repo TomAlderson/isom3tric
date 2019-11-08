@@ -1,0 +1,340 @@
+{
+  "assets": {
+    "ktchn_knives_icon_a": {
+      "name": "ktchn_knives_icon_a",
+      "x": 15,
+      "y": 13,
+      "exists": true
+    },
+    "ktchn_knives_64_a_2_0": {
+      "name": "ktchn_knives_64_a_2_0",
+      "x": 31,
+      "y": 21,
+      "exists": true
+    },
+    "ktchn_knives_64_b_2_0": {
+      "name": "ktchn_knives_64_b_2_0",
+      "x": 31,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_knives_64_b_2_1": {
+      "name": "ktchn_knives_64_b_2_1",
+      "x": 31,
+      "y": 26,
+      "exists": true
+    },
+    "ktchn_knives_64_b_2_2": {
+      "name": "ktchn_knives_64_b_2_2",
+      "x": 31,
+      "y": 29,
+      "exists": true
+    },
+    "ktchn_knives_64_b_2_3": {
+      "name": "ktchn_knives_64_b_2_3",
+      "x": 31,
+      "y": 28,
+      "exists": true
+    },
+    "ktchn_knives_64_a_4_0": {
+      "name": "ktchn_knives_64_a_4_0",
+      "flipH": 1,
+      "source": "ktchn_knives_64_a_2_0",
+      "x": 31,
+      "y": 21,
+      "exists": false
+    },
+    "ktchn_knives_64_b_4_0": {
+      "name": "ktchn_knives_64_b_4_0",
+      "flipH": 1,
+      "source": "ktchn_knives_64_b_2_0",
+      "x": 31,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_knives_64_b_4_1": {
+      "name": "ktchn_knives_64_b_4_1",
+      "flipH": 1,
+      "source": "ktchn_knives_64_b_2_1",
+      "x": 31,
+      "y": 26,
+      "exists": false
+    },
+    "ktchn_knives_64_b_4_2": {
+      "name": "ktchn_knives_64_b_4_2",
+      "flipH": 1,
+      "source": "ktchn_knives_64_b_2_2",
+      "x": 31,
+      "y": 29,
+      "exists": false
+    },
+    "ktchn_knives_64_b_4_3": {
+      "name": "ktchn_knives_64_b_4_3",
+      "flipH": 1,
+      "source": "ktchn_knives_64_b_2_3",
+      "x": 31,
+      "y": 28,
+      "exists": false
+    },
+    "ktchn_knives_32_a_2_0": {
+      "name": "ktchn_knives_32_a_2_0",
+      "x": 17,
+      "y": 8,
+      "exists": true
+    },
+    "ktchn_knives_32_b_2_0": {
+      "name": "ktchn_knives_32_b_2_0",
+      "x": 17,
+      "y": 12,
+      "exists": true
+    },
+    "ktchn_knives_32_b_2_1": {
+      "name": "ktchn_knives_32_b_2_1",
+      "x": 17,
+      "y": 12,
+      "exists": true
+    },
+    "ktchn_knives_32_b_2_2": {
+      "name": "ktchn_knives_32_b_2_2",
+      "x": 17,
+      "y": 13,
+      "exists": true
+    },
+    "ktchn_knives_32_b_2_3": {
+      "name": "ktchn_knives_32_b_2_3",
+      "x": 17,
+      "y": 13,
+      "exists": true
+    },
+    "ktchn_knives_32_a_4_0": {
+      "name": "ktchn_knives_32_a_4_0",
+      "flipH": 1,
+      "source": "ktchn_knives_32_a_2_0",
+      "x": 17,
+      "y": 8,
+      "exists": false
+    },
+    "ktchn_knives_32_b_4_0": {
+      "name": "ktchn_knives_32_b_4_0",
+      "flipH": 1,
+      "source": "ktchn_knives_32_b_2_0",
+      "x": 17,
+      "y": 12,
+      "exists": false
+    },
+    "ktchn_knives_32_b_4_1": {
+      "name": "ktchn_knives_32_b_4_1",
+      "flipH": 1,
+      "source": "ktchn_knives_32_b_2_1",
+      "x": 17,
+      "y": 12,
+      "exists": false
+    },
+    "ktchn_knives_32_b_4_2": {
+      "name": "ktchn_knives_32_b_4_2",
+      "flipH": 1,
+      "source": "ktchn_knives_32_b_2_2",
+      "x": 17,
+      "y": 13,
+      "exists": false
+    },
+    "ktchn_knives_32_b_4_3": {
+      "name": "ktchn_knives_32_b_4_3",
+      "flipH": 1,
+      "source": "ktchn_knives_32_b_2_3",
+      "x": 17,
+      "y": 13,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "alpha": 41,
+          "z": -1510
+        },
+        {
+          "layerId": 1,
+          "z": -1500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "alpha": 41,
+          "z": -1510
+        },
+        {
+          "layerId": 1,
+          "z": -1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "ktchn_knives",
+    "visualization": "furniture_animated"
+  }
+}

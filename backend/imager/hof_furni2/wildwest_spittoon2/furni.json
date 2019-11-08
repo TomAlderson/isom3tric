@@ -1,0 +1,542 @@
+{
+  "assets": {
+    "wildwest_spittoon2_64_sd_4_0": {
+      "name": "wildwest_spittoon2_64_sd_4_0",
+      "x": 7,
+      "y": 2,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_a_4_0": {
+      "name": "wildwest_spittoon2_64_a_4_0",
+      "x": 17,
+      "y": 1,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_a_4_1": {
+      "name": "wildwest_spittoon2_64_a_4_1",
+      "x": 4,
+      "y": -4,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_b_4_0": {
+      "name": "wildwest_spittoon2_64_b_4_0",
+      "x": 14,
+      "y": 33,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_b_4_1": {
+      "name": "wildwest_spittoon2_64_b_4_1",
+      "x": 17,
+      "y": 34,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_b_4_2": {
+      "name": "wildwest_spittoon2_64_b_4_2",
+      "x": 11,
+      "y": 34,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_c_4_0": {
+      "name": "wildwest_spittoon2_64_c_4_0",
+      "x": 7,
+      "y": 25,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_c_4_1": {
+      "name": "wildwest_spittoon2_64_c_4_1",
+      "x": 20,
+      "y": 26,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_c_4_2": {
+      "name": "wildwest_spittoon2_64_c_4_2",
+      "x": 24,
+      "y": 30,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_c_4_3": {
+      "name": "wildwest_spittoon2_64_c_4_3",
+      "x": 9,
+      "y": 26,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_c_4_4": {
+      "name": "wildwest_spittoon2_64_c_4_4",
+      "x": 7,
+      "y": 26,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_c_4_5": {
+      "name": "wildwest_spittoon2_64_c_4_5",
+      "x": 8,
+      "y": 25,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_sd_4_0": {
+      "name": "wildwest_spittoon2_32_sd_4_0",
+      "x": 4,
+      "y": 1,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_a_4_0": {
+      "name": "wildwest_spittoon2_32_a_4_0",
+      "x": 7,
+      "y": 0,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_a_4_1": {
+      "name": "wildwest_spittoon2_32_a_4_1",
+      "x": 3,
+      "y": 6,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_b_4_0": {
+      "name": "wildwest_spittoon2_32_b_4_0",
+      "x": 7,
+      "y": 17,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_b_4_1": {
+      "name": "wildwest_spittoon2_32_b_4_1",
+      "x": 8,
+      "y": 17,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_b_4_2": {
+      "name": "wildwest_spittoon2_32_b_4_2",
+      "x": 6,
+      "y": 17,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_c_4_0": {
+      "name": "wildwest_spittoon2_32_c_4_0",
+      "x": 4,
+      "y": 13,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_c_4_1": {
+      "name": "wildwest_spittoon2_32_c_4_1",
+      "x": 11,
+      "y": 14,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_c_4_2": {
+      "name": "wildwest_spittoon2_32_c_4_2",
+      "x": 3,
+      "y": 15,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_c_4_3": {
+      "name": "wildwest_spittoon2_32_c_4_3",
+      "x": 6,
+      "y": 15,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_c_4_4": {
+      "name": "wildwest_spittoon2_32_c_4_4",
+      "x": 4,
+      "y": 14,
+      "exists": true
+    },
+    "wildwest_spittoon2_32_c_4_5": {
+      "name": "wildwest_spittoon2_32_c_4_5",
+      "x": 4,
+      "y": 13,
+      "exists": true
+    },
+    "wildwest_spittoon2_icon_a": {
+      "name": "wildwest_spittoon2_icon_a",
+      "x": 6,
+      "y": 9,
+      "exists": true
+    },
+    "wildwest_spittoon2_64_sd_2_0": {
+      "name": "wildwest_spittoon2_64_sd_2_0",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_sd_4_0",
+      "x": 7,
+      "y": 2,
+      "exists": false
+    },
+    "wildwest_spittoon2_64_a_2_0": {
+      "name": "wildwest_spittoon2_64_a_2_0",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_a_4_0",
+      "x": 17,
+      "y": 1,
+      "exists": false
+    },
+    "wildwest_spittoon2_64_a_2_1": {
+      "name": "wildwest_spittoon2_64_a_2_1",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_a_4_1",
+      "x": 4,
+      "y": -4,
+      "exists": false
+    },
+    "wildwest_spittoon2_64_b_2_0": {
+      "name": "wildwest_spittoon2_64_b_2_0",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_b_4_0",
+      "x": 14,
+      "y": 33,
+      "exists": false
+    },
+    "wildwest_spittoon2_64_b_2_1": {
+      "name": "wildwest_spittoon2_64_b_2_1",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_b_4_1",
+      "x": 17,
+      "y": 34,
+      "exists": false
+    },
+    "wildwest_spittoon2_64_b_2_2": {
+      "name": "wildwest_spittoon2_64_b_2_2",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_b_4_2",
+      "x": 11,
+      "y": 34,
+      "exists": false
+    },
+    "wildwest_spittoon2_64_c_2_0": {
+      "name": "wildwest_spittoon2_64_c_2_0",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_c_4_0",
+      "x": 7,
+      "y": 25,
+      "exists": false
+    },
+    "wildwest_spittoon2_64_c_2_1": {
+      "name": "wildwest_spittoon2_64_c_2_1",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_c_4_1",
+      "x": 20,
+      "y": 26,
+      "exists": false
+    },
+    "wildwest_spittoon2_64_c_2_2": {
+      "name": "wildwest_spittoon2_64_c_2_2",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_c_4_2",
+      "x": 24,
+      "y": 30,
+      "exists": false
+    },
+    "wildwest_spittoon2_64_c_2_3": {
+      "name": "wildwest_spittoon2_64_c_2_3",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_c_4_3",
+      "x": 9,
+      "y": 26,
+      "exists": false
+    },
+    "wildwest_spittoon2_64_c_2_4": {
+      "name": "wildwest_spittoon2_64_c_2_4",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_c_4_4",
+      "x": 7,
+      "y": 26,
+      "exists": false
+    },
+    "wildwest_spittoon2_64_c_2_5": {
+      "name": "wildwest_spittoon2_64_c_2_5",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_64_c_4_5",
+      "x": 8,
+      "y": 25,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_sd_2_0": {
+      "name": "wildwest_spittoon2_32_sd_2_0",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_sd_4_0",
+      "x": 4,
+      "y": 1,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_a_2_0": {
+      "name": "wildwest_spittoon2_32_a_2_0",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_a_4_0",
+      "x": 7,
+      "y": 0,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_a_2_1": {
+      "name": "wildwest_spittoon2_32_a_2_1",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_a_4_1",
+      "x": 3,
+      "y": 6,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_b_2_0": {
+      "name": "wildwest_spittoon2_32_b_2_0",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_b_4_0",
+      "x": 7,
+      "y": 17,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_b_2_1": {
+      "name": "wildwest_spittoon2_32_b_2_1",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_b_4_1",
+      "x": 8,
+      "y": 17,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_b_2_2": {
+      "name": "wildwest_spittoon2_32_b_2_2",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_b_4_2",
+      "x": 6,
+      "y": 17,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_c_2_0": {
+      "name": "wildwest_spittoon2_32_c_2_0",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_c_4_0",
+      "x": 4,
+      "y": 13,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_c_2_1": {
+      "name": "wildwest_spittoon2_32_c_2_1",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_c_4_1",
+      "x": 11,
+      "y": 14,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_c_2_2": {
+      "name": "wildwest_spittoon2_32_c_2_2",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_c_4_2",
+      "x": 3,
+      "y": 15,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_c_2_3": {
+      "name": "wildwest_spittoon2_32_c_2_3",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_c_4_3",
+      "x": 6,
+      "y": 15,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_c_2_4": {
+      "name": "wildwest_spittoon2_32_c_2_4",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_c_4_4",
+      "x": 4,
+      "y": 14,
+      "exists": false
+    },
+    "wildwest_spittoon2_32_c_2_5": {
+      "name": "wildwest_spittoon2_32_c_2_5",
+      "flipH": 1,
+      "source": "wildwest_spittoon2_32_c_4_5",
+      "x": 4,
+      "y": 13,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.8
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "wildwest_spittoon2",
+    "visualization": "furniture_animated"
+  }
+}

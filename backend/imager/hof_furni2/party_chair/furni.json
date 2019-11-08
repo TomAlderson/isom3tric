@@ -1,0 +1,856 @@
+{
+  "assets": {
+    "party_chair_64_a_0_0": {
+      "name": "party_chair_64_a_0_0",
+      "x": 13,
+      "y": 27,
+      "exists": true
+    },
+    "party_chair_64_a_2_0": {
+      "name": "party_chair_64_a_2_0",
+      "source": "party_chair_64_a_0_0",
+      "x": 13,
+      "y": 27,
+      "exists": false
+    },
+    "party_chair_64_a_4_0": {
+      "name": "party_chair_64_a_4_0",
+      "flipH": 1,
+      "source": "party_chair_64_a_0_0",
+      "x": 13,
+      "y": 27,
+      "exists": false
+    },
+    "party_chair_64_a_6_0": {
+      "name": "party_chair_64_a_6_0",
+      "flipH": 1,
+      "source": "party_chair_64_a_0_0",
+      "x": 13,
+      "y": 27,
+      "exists": false
+    },
+    "party_chair_64_b_0_0": {
+      "name": "party_chair_64_b_0_0",
+      "x": 16,
+      "y": 38,
+      "exists": true
+    },
+    "party_chair_64_b_0_1": {
+      "name": "party_chair_64_b_0_1",
+      "x": 16,
+      "y": 38,
+      "exists": true
+    },
+    "party_chair_64_b_2_0": {
+      "name": "party_chair_64_b_2_0",
+      "x": 16,
+      "y": 42,
+      "exists": true
+    },
+    "party_chair_64_b_2_1": {
+      "name": "party_chair_64_b_2_1",
+      "x": 16,
+      "y": 42,
+      "exists": true
+    },
+    "party_chair_64_b_4_0": {
+      "name": "party_chair_64_b_4_0",
+      "flipH": 1,
+      "source": "party_chair_64_b_2_0",
+      "x": 16,
+      "y": 42,
+      "exists": false
+    },
+    "party_chair_64_b_4_1": {
+      "name": "party_chair_64_b_4_1",
+      "flipH": 1,
+      "source": "party_chair_64_b_2_1",
+      "x": 16,
+      "y": 42,
+      "exists": false
+    },
+    "party_chair_64_b_6_0": {
+      "name": "party_chair_64_b_6_0",
+      "flipH": 1,
+      "source": "party_chair_64_b_0_0",
+      "x": 16,
+      "y": 38,
+      "exists": false
+    },
+    "party_chair_64_b_6_1": {
+      "name": "party_chair_64_b_6_1",
+      "flipH": 1,
+      "source": "party_chair_64_b_0_1",
+      "x": 16,
+      "y": 38,
+      "exists": false
+    },
+    "party_chair_64_c_0_0": {
+      "name": "party_chair_64_c_0_0",
+      "x": 23,
+      "y": 43,
+      "exists": true
+    },
+    "party_chair_64_c_0_1": {
+      "name": "party_chair_64_c_0_1",
+      "x": 22,
+      "y": 47,
+      "exists": true
+    },
+    "party_chair_64_c_2_0": {
+      "name": "party_chair_64_c_2_0",
+      "x": 23,
+      "y": 48,
+      "exists": true
+    },
+    "party_chair_64_c_2_1": {
+      "name": "party_chair_64_c_2_1",
+      "x": 22,
+      "y": 53,
+      "exists": true
+    },
+    "party_chair_64_c_4_0": {
+      "name": "party_chair_64_c_4_0",
+      "flipH": 1,
+      "source": "party_chair_64_c_2_0",
+      "x": 23,
+      "y": 48,
+      "exists": false
+    },
+    "party_chair_64_c_4_1": {
+      "name": "party_chair_64_c_4_1",
+      "flipH": 1,
+      "source": "party_chair_64_c_2_1",
+      "x": 22,
+      "y": 53,
+      "exists": false
+    },
+    "party_chair_64_c_6_0": {
+      "name": "party_chair_64_c_6_0",
+      "flipH": 1,
+      "source": "party_chair_64_c_0_0",
+      "x": 23,
+      "y": 43,
+      "exists": false
+    },
+    "party_chair_64_c_6_1": {
+      "name": "party_chair_64_c_6_1",
+      "flipH": 1,
+      "source": "party_chair_64_c_0_1",
+      "x": 22,
+      "y": 47,
+      "exists": false
+    },
+    "party_chair_64_d_0_0": {
+      "name": "party_chair_64_d_0_0",
+      "x": 17,
+      "y": 36,
+      "exists": true
+    },
+    "party_chair_64_d_0_1": {
+      "name": "party_chair_64_d_0_1",
+      "x": 17,
+      "y": 36,
+      "exists": true
+    },
+    "party_chair_64_d_2_0": {
+      "name": "party_chair_64_d_2_0",
+      "x": 17,
+      "y": 35,
+      "exists": true
+    },
+    "party_chair_64_d_2_1": {
+      "name": "party_chair_64_d_2_1",
+      "x": 17,
+      "y": 35,
+      "exists": true
+    },
+    "party_chair_64_d_4_0": {
+      "name": "party_chair_64_d_4_0",
+      "flipH": 1,
+      "source": "party_chair_64_d_2_0",
+      "x": 17,
+      "y": 35,
+      "exists": false
+    },
+    "party_chair_64_d_4_1": {
+      "name": "party_chair_64_d_4_1",
+      "flipH": 1,
+      "source": "party_chair_64_d_2_1",
+      "x": 17,
+      "y": 35,
+      "exists": false
+    },
+    "party_chair_64_d_6_0": {
+      "name": "party_chair_64_d_6_0",
+      "flipH": 1,
+      "source": "party_chair_64_d_0_0",
+      "x": 17,
+      "y": 36,
+      "exists": false
+    },
+    "party_chair_64_d_6_1": {
+      "name": "party_chair_64_d_6_1",
+      "flipH": 1,
+      "source": "party_chair_64_d_0_1",
+      "x": 17,
+      "y": 36,
+      "exists": false
+    },
+    "party_chair_64_e_0_0": {
+      "name": "party_chair_64_e_0_0",
+      "x": 23,
+      "y": 41,
+      "exists": true
+    },
+    "party_chair_64_e_0_1": {
+      "name": "party_chair_64_e_0_1",
+      "x": 17,
+      "y": 44,
+      "exists": true
+    },
+    "party_chair_64_e_2_0": {
+      "name": "party_chair_64_e_2_0",
+      "x": 23,
+      "y": 40,
+      "exists": true
+    },
+    "party_chair_64_e_2_1": {
+      "name": "party_chair_64_e_2_1",
+      "x": 18,
+      "y": 46,
+      "exists": true
+    },
+    "party_chair_64_e_4_0": {
+      "name": "party_chair_64_e_4_0",
+      "flipH": 1,
+      "source": "party_chair_64_e_2_0",
+      "x": 23,
+      "y": 40,
+      "exists": false
+    },
+    "party_chair_64_e_4_1": {
+      "name": "party_chair_64_e_4_1",
+      "flipH": 1,
+      "source": "party_chair_64_e_2_1",
+      "x": 18,
+      "y": 46,
+      "exists": false
+    },
+    "party_chair_64_e_6_0": {
+      "name": "party_chair_64_e_6_0",
+      "flipH": 1,
+      "source": "party_chair_64_e_0_0",
+      "x": 23,
+      "y": 41,
+      "exists": false
+    },
+    "party_chair_64_e_6_1": {
+      "name": "party_chair_64_e_6_1",
+      "flipH": 1,
+      "source": "party_chair_64_e_0_1",
+      "x": 17,
+      "y": 44,
+      "exists": false
+    },
+    "party_chair_64_sd_0_0": {
+      "name": "party_chair_64_sd_0_0",
+      "x": 17,
+      "y": 11,
+      "exists": true
+    },
+    "party_chair_64_sd_2_0": {
+      "name": "party_chair_64_sd_2_0",
+      "source": "party_chair_64_sd_0_0",
+      "x": 17,
+      "y": 11,
+      "exists": false
+    },
+    "party_chair_64_sd_4_0": {
+      "name": "party_chair_64_sd_4_0",
+      "flipH": 1,
+      "source": "party_chair_64_sd_0_0",
+      "x": 17,
+      "y": 11,
+      "exists": false
+    },
+    "party_chair_64_sd_6_0": {
+      "name": "party_chair_64_sd_6_0",
+      "flipH": 1,
+      "source": "party_chair_64_sd_0_0",
+      "x": 17,
+      "y": 11,
+      "exists": false
+    },
+    "party_chair_icon_a": {
+      "name": "party_chair_icon_a",
+      "x": 8,
+      "y": 13,
+      "exists": true
+    },
+    "party_chair_32_a_0_0": {
+      "name": "party_chair_32_a_0_0",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "party_chair_32_a_2_0": {
+      "name": "party_chair_32_a_2_0",
+      "source": "party_chair_32_a_0_0",
+      "x": 7,
+      "y": 14,
+      "exists": false
+    },
+    "party_chair_32_a_4_0": {
+      "name": "party_chair_32_a_4_0",
+      "flipH": 1,
+      "source": "party_chair_32_a_0_0",
+      "x": 7,
+      "y": 14,
+      "exists": false
+    },
+    "party_chair_32_a_6_0": {
+      "name": "party_chair_32_a_6_0",
+      "flipH": 1,
+      "source": "party_chair_32_a_0_0",
+      "x": 7,
+      "y": 14,
+      "exists": false
+    },
+    "party_chair_32_b_0_0": {
+      "name": "party_chair_32_b_0_0",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "party_chair_32_b_0_1": {
+      "name": "party_chair_32_b_0_1",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "party_chair_32_b_2_0": {
+      "name": "party_chair_32_b_2_0",
+      "x": 8,
+      "y": 22,
+      "exists": true
+    },
+    "party_chair_32_b_2_1": {
+      "name": "party_chair_32_b_2_1",
+      "x": 8,
+      "y": 22,
+      "exists": true
+    },
+    "party_chair_32_b_4_0": {
+      "name": "party_chair_32_b_4_0",
+      "flipH": 1,
+      "source": "party_chair_32_b_2_0",
+      "x": 8,
+      "y": 22,
+      "exists": false
+    },
+    "party_chair_32_b_4_1": {
+      "name": "party_chair_32_b_4_1",
+      "flipH": 1,
+      "source": "party_chair_32_b_2_1",
+      "x": 8,
+      "y": 22,
+      "exists": false
+    },
+    "party_chair_32_b_6_0": {
+      "name": "party_chair_32_b_6_0",
+      "flipH": 1,
+      "source": "party_chair_32_b_0_0",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "party_chair_32_b_6_1": {
+      "name": "party_chair_32_b_6_1",
+      "flipH": 1,
+      "source": "party_chair_32_b_0_1",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "party_chair_32_c_0_0": {
+      "name": "party_chair_32_c_0_0",
+      "x": 11,
+      "y": 21,
+      "exists": true
+    },
+    "party_chair_32_c_0_1": {
+      "name": "party_chair_32_c_0_1",
+      "x": 10,
+      "y": 23,
+      "exists": true
+    },
+    "party_chair_32_c_2_0": {
+      "name": "party_chair_32_c_2_0",
+      "x": 11,
+      "y": 24,
+      "exists": true
+    },
+    "party_chair_32_c_2_1": {
+      "name": "party_chair_32_c_2_1",
+      "x": 11,
+      "y": 26,
+      "exists": true
+    },
+    "party_chair_32_c_4_0": {
+      "name": "party_chair_32_c_4_0",
+      "flipH": 1,
+      "source": "party_chair_32_c_2_0",
+      "x": 11,
+      "y": 24,
+      "exists": false
+    },
+    "party_chair_32_c_4_1": {
+      "name": "party_chair_32_c_4_1",
+      "flipH": 1,
+      "source": "party_chair_32_c_2_1",
+      "x": 11,
+      "y": 26,
+      "exists": false
+    },
+    "party_chair_32_c_6_0": {
+      "name": "party_chair_32_c_6_0",
+      "flipH": 1,
+      "source": "party_chair_32_c_0_0",
+      "x": 11,
+      "y": 21,
+      "exists": false
+    },
+    "party_chair_32_c_6_1": {
+      "name": "party_chair_32_c_6_1",
+      "flipH": 1,
+      "source": "party_chair_32_c_0_1",
+      "x": 10,
+      "y": 23,
+      "exists": false
+    },
+    "party_chair_32_d_0_0": {
+      "name": "party_chair_32_d_0_0",
+      "x": 9,
+      "y": 20,
+      "exists": true
+    },
+    "party_chair_32_d_0_1": {
+      "name": "party_chair_32_d_0_1",
+      "x": 9,
+      "y": 20,
+      "exists": true
+    },
+    "party_chair_32_d_2_0": {
+      "name": "party_chair_32_d_2_0",
+      "x": 9,
+      "y": 19,
+      "exists": true
+    },
+    "party_chair_32_d_2_1": {
+      "name": "party_chair_32_d_2_1",
+      "x": 9,
+      "y": 19,
+      "exists": true
+    },
+    "party_chair_32_d_4_0": {
+      "name": "party_chair_32_d_4_0",
+      "flipH": 1,
+      "source": "party_chair_32_d_2_0",
+      "x": 9,
+      "y": 19,
+      "exists": false
+    },
+    "party_chair_32_d_4_1": {
+      "name": "party_chair_32_d_4_1",
+      "flipH": 1,
+      "source": "party_chair_32_d_2_1",
+      "x": 9,
+      "y": 19,
+      "exists": false
+    },
+    "party_chair_32_d_6_0": {
+      "name": "party_chair_32_d_6_0",
+      "flipH": 1,
+      "source": "party_chair_32_d_0_0",
+      "x": 9,
+      "y": 20,
+      "exists": false
+    },
+    "party_chair_32_d_6_1": {
+      "name": "party_chair_32_d_6_1",
+      "flipH": 1,
+      "source": "party_chair_32_d_0_1",
+      "x": 9,
+      "y": 20,
+      "exists": false
+    },
+    "party_chair_32_e_0_0": {
+      "name": "party_chair_32_e_0_0",
+      "x": 12,
+      "y": 23,
+      "exists": true
+    },
+    "party_chair_32_e_0_1": {
+      "name": "party_chair_32_e_0_1",
+      "x": 9,
+      "y": 23,
+      "exists": true
+    },
+    "party_chair_32_e_2_0": {
+      "name": "party_chair_32_e_2_0",
+      "x": 11,
+      "y": 20,
+      "exists": true
+    },
+    "party_chair_32_e_2_1": {
+      "name": "party_chair_32_e_2_1",
+      "x": 9,
+      "y": 23,
+      "exists": true
+    },
+    "party_chair_32_e_4_0": {
+      "name": "party_chair_32_e_4_0",
+      "flipH": 1,
+      "source": "party_chair_32_e_2_0",
+      "x": 11,
+      "y": 20,
+      "exists": false
+    },
+    "party_chair_32_e_4_1": {
+      "name": "party_chair_32_e_4_1",
+      "flipH": 1,
+      "source": "party_chair_32_e_2_1",
+      "x": 9,
+      "y": 23,
+      "exists": false
+    },
+    "party_chair_32_e_6_0": {
+      "name": "party_chair_32_e_6_0",
+      "flipH": 1,
+      "source": "party_chair_32_e_0_0",
+      "x": 12,
+      "y": 23,
+      "exists": false
+    },
+    "party_chair_32_sd_0_0": {
+      "name": "party_chair_32_sd_0_0",
+      "x": 9,
+      "y": 5,
+      "exists": true
+    },
+    "party_chair_32_sd_2_0": {
+      "name": "party_chair_32_sd_2_0",
+      "source": "party_chair_32_sd_0_0",
+      "x": 9,
+      "y": 5,
+      "exists": false
+    },
+    "party_chair_32_sd_4_0": {
+      "name": "party_chair_32_sd_4_0",
+      "flipH": 1,
+      "source": "party_chair_32_sd_0_0",
+      "x": 9,
+      "y": 5,
+      "exists": false
+    },
+    "party_chair_32_sd_6_0": {
+      "name": "party_chair_32_sd_6_0",
+      "flipH": 1,
+      "source": "party_chair_32_sd_0_0",
+      "x": 9,
+      "y": 5,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.4
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -10
+        },
+        {
+          "layerId": 1,
+          "alpha": 204,
+          "z": -9
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": -8
+        },
+        {
+          "layerId": 3,
+          "alpha": 217,
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": 501
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -10
+        },
+        {
+          "layerId": 1,
+          "alpha": 204,
+          "z": -9
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": -8
+        },
+        {
+          "layerId": 3,
+          "alpha": 217,
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": 501
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "party_chair",
+    "visualization": "furniture_animated"
+  }
+}

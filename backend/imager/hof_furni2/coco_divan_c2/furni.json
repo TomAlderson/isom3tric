@@ -1,0 +1,126 @@
+{
+  "assets": {
+    "coco_divan_c2_64_b_2_0": {
+      "name": "coco_divan_c2_64_b_2_0",
+      "x": 72,
+      "y": 32,
+      "exists": true
+    },
+    "coco_divan_c2_64_a_2_0": {
+      "name": "coco_divan_c2_64_a_2_0",
+      "x": 28,
+      "y": 57,
+      "exists": true
+    },
+    "coco_divan_c2_32_b_2_0": {
+      "name": "coco_divan_c2_32_b_2_0",
+      "x": 36,
+      "y": 16,
+      "exists": true
+    },
+    "coco_divan_c2_32_a_2_0": {
+      "name": "coco_divan_c2_32_a_2_0",
+      "x": 14,
+      "y": 29,
+      "exists": true
+    },
+    "coco_divan_c2_icon_a": {
+      "name": "coco_divan_c2_icon_a",
+      "x": 16,
+      "y": 130,
+      "exists": true
+    },
+    "coco_divan_c2_64_b_4_0": {
+      "name": "coco_divan_c2_64_b_4_0",
+      "flipH": 1,
+      "source": "coco_divan_c2_64_b_2_0",
+      "x": 72,
+      "y": 32,
+      "exists": false
+    },
+    "coco_divan_c2_64_a_4_0": {
+      "name": "coco_divan_c2_64_a_4_0",
+      "flipH": 1,
+      "source": "coco_divan_c2_64_a_2_0",
+      "x": 28,
+      "y": 57,
+      "exists": false
+    },
+    "coco_divan_c2_32_b_4_0": {
+      "name": "coco_divan_c2_32_b_4_0",
+      "flipH": 1,
+      "source": "coco_divan_c2_32_b_2_0",
+      "x": 36,
+      "y": 16,
+      "exists": false
+    },
+    "coco_divan_c2_32_a_4_0": {
+      "name": "coco_divan_c2_32_a_4_0",
+      "flipH": 1,
+      "source": "coco_divan_c2_32_a_2_0",
+      "x": 14,
+      "y": 29,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1.5
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "coco_divan_c2",
+    "visualization": "furniture_static"
+  }
+}

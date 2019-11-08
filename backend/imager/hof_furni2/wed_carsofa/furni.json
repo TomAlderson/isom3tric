@@ -1,0 +1,444 @@
+{
+  "assets": {
+    "wed_carsofa_32_sd_2_0": {
+      "name": "wed_carsofa_32_sd_2_0",
+      "x": 29,
+      "y": 0,
+      "exists": true
+    },
+    "wed_carsofa_32_a_2_0": {
+      "name": "wed_carsofa_32_a_2_0",
+      "x": 25,
+      "y": 23,
+      "exists": true
+    },
+    "wed_carsofa_32_b_2_0": {
+      "name": "wed_carsofa_32_b_2_0",
+      "x": 11,
+      "y": 52,
+      "exists": true
+    },
+    "wed_carsofa_32_c_2_0": {
+      "name": "wed_carsofa_32_c_2_0",
+      "x": 34,
+      "y": 42,
+      "exists": true
+    },
+    "wed_carsofa_32_d_2_0": {
+      "name": "wed_carsofa_32_d_2_0",
+      "x": 31,
+      "y": -8,
+      "exists": true
+    },
+    "wed_carsofa_32_sd_6_0": {
+      "name": "wed_carsofa_32_sd_6_0",
+      "x": 31,
+      "y": 0,
+      "exists": true
+    },
+    "wed_carsofa_32_a_6_0": {
+      "name": "wed_carsofa_32_a_6_0",
+      "x": 19,
+      "y": 19,
+      "exists": true
+    },
+    "wed_carsofa_32_b_6_0": {
+      "name": "wed_carsofa_32_b_6_0",
+      "x": 1,
+      "y": 27,
+      "exists": true
+    },
+    "wed_carsofa_32_c_6_0": {
+      "name": "wed_carsofa_32_c_6_0",
+      "x": 32,
+      "y": 38,
+      "exists": true
+    },
+    "wed_carsofa_32_d_6_0": {
+      "name": "wed_carsofa_32_d_6_0",
+      "x": 0,
+      "y": 46,
+      "exists": true
+    },
+    "wed_carsofa_64_sd_2_0": {
+      "name": "wed_carsofa_64_sd_2_0",
+      "x": 62,
+      "y": 2,
+      "exists": true
+    },
+    "wed_carsofa_64_a_2_0": {
+      "name": "wed_carsofa_64_a_2_0",
+      "x": 52,
+      "y": 46,
+      "exists": true
+    },
+    "wed_carsofa_64_b_2_0": {
+      "name": "wed_carsofa_64_b_2_0",
+      "x": 22,
+      "y": 103,
+      "exists": true
+    },
+    "wed_carsofa_64_c_2_0": {
+      "name": "wed_carsofa_64_c_2_0",
+      "x": 69,
+      "y": 84,
+      "exists": true
+    },
+    "wed_carsofa_64_d_2_0": {
+      "name": "wed_carsofa_64_d_2_0",
+      "x": 64,
+      "y": -16,
+      "exists": false
+    },
+    "wed_carsofa_64_sd_6_0": {
+      "name": "wed_carsofa_64_sd_6_0",
+      "x": 63,
+      "y": -4,
+      "exists": true
+    },
+    "wed_carsofa_64_a_6_0": {
+      "name": "wed_carsofa_64_a_6_0",
+      "x": 41,
+      "y": 39,
+      "exists": true
+    },
+    "wed_carsofa_64_b_6_0": {
+      "name": "wed_carsofa_64_b_6_0",
+      "x": 4,
+      "y": 54,
+      "exists": true
+    },
+    "wed_carsofa_64_c_6_0": {
+      "name": "wed_carsofa_64_c_6_0",
+      "x": 67,
+      "y": 76,
+      "exists": true
+    },
+    "wed_carsofa_64_d_6_0": {
+      "name": "wed_carsofa_64_d_6_0",
+      "x": 0,
+      "y": 92,
+      "exists": true
+    },
+    "wed_carsofa_icon_a": {
+      "name": "wed_carsofa_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "wed_carsofa_32_sd_4_0": {
+      "name": "wed_carsofa_32_sd_4_0",
+      "flipH": 1,
+      "source": "wed_carsofa_32_sd_2_0",
+      "x": 29,
+      "y": 0,
+      "exists": false
+    },
+    "wed_carsofa_32_a_4_0": {
+      "name": "wed_carsofa_32_a_4_0",
+      "flipH": 1,
+      "source": "wed_carsofa_32_a_2_0",
+      "x": 25,
+      "y": 23,
+      "exists": false
+    },
+    "wed_carsofa_32_b_4_0": {
+      "name": "wed_carsofa_32_b_4_0",
+      "flipH": 1,
+      "source": "wed_carsofa_32_b_2_0",
+      "x": 11,
+      "y": 52,
+      "exists": false
+    },
+    "wed_carsofa_32_c_4_0": {
+      "name": "wed_carsofa_32_c_4_0",
+      "flipH": 1,
+      "source": "wed_carsofa_32_c_2_0",
+      "x": 34,
+      "y": 42,
+      "exists": false
+    },
+    "wed_carsofa_32_d_4_0": {
+      "name": "wed_carsofa_32_d_4_0",
+      "flipH": 1,
+      "source": "wed_carsofa_32_d_2_0",
+      "x": 31,
+      "y": -8,
+      "exists": false
+    },
+    "wed_carsofa_32_sd_0_0": {
+      "name": "wed_carsofa_32_sd_0_0",
+      "flipH": 1,
+      "source": "wed_carsofa_32_sd_6_0",
+      "x": 31,
+      "y": 0,
+      "exists": false
+    },
+    "wed_carsofa_32_a_0_0": {
+      "name": "wed_carsofa_32_a_0_0",
+      "flipH": 1,
+      "source": "wed_carsofa_32_a_6_0",
+      "x": 19,
+      "y": 19,
+      "exists": false
+    },
+    "wed_carsofa_32_b_0_0": {
+      "name": "wed_carsofa_32_b_0_0",
+      "flipH": 1,
+      "source": "wed_carsofa_32_b_6_0",
+      "x": 1,
+      "y": 27,
+      "exists": false
+    },
+    "wed_carsofa_32_c_0_0": {
+      "name": "wed_carsofa_32_c_0_0",
+      "flipH": 1,
+      "source": "wed_carsofa_32_c_6_0",
+      "x": 32,
+      "y": 38,
+      "exists": false
+    },
+    "wed_carsofa_32_d_0_0": {
+      "name": "wed_carsofa_32_d_0_0",
+      "flipH": 1,
+      "source": "wed_carsofa_32_d_6_0",
+      "x": 0,
+      "y": 46,
+      "exists": false
+    },
+    "wed_carsofa_64_sd_4_0": {
+      "name": "wed_carsofa_64_sd_4_0",
+      "flipH": 1,
+      "source": "wed_carsofa_64_sd_2_0",
+      "x": 62,
+      "y": 2,
+      "exists": false
+    },
+    "wed_carsofa_64_a_4_0": {
+      "name": "wed_carsofa_64_a_4_0",
+      "flipH": 1,
+      "source": "wed_carsofa_64_a_2_0",
+      "x": 52,
+      "y": 46,
+      "exists": false
+    },
+    "wed_carsofa_64_b_4_0": {
+      "name": "wed_carsofa_64_b_4_0",
+      "flipH": 1,
+      "source": "wed_carsofa_64_b_2_0",
+      "x": 22,
+      "y": 103,
+      "exists": false
+    },
+    "wed_carsofa_64_c_4_0": {
+      "name": "wed_carsofa_64_c_4_0",
+      "flipH": 1,
+      "source": "wed_carsofa_64_c_2_0",
+      "x": 69,
+      "y": 84,
+      "exists": false
+    },
+    "wed_carsofa_64_d_4_0": {
+      "name": "wed_carsofa_64_d_4_0",
+      "flipH": 1,
+      "source": "wed_carsofa_64_d_2_0",
+      "x": 64,
+      "y": -16,
+      "exists": false
+    },
+    "wed_carsofa_64_sd_0_0": {
+      "name": "wed_carsofa_64_sd_0_0",
+      "flipH": 1,
+      "source": "wed_carsofa_64_sd_6_0",
+      "x": 63,
+      "y": -4,
+      "exists": false
+    },
+    "wed_carsofa_64_a_0_0": {
+      "name": "wed_carsofa_64_a_0_0",
+      "flipH": 1,
+      "source": "wed_carsofa_64_a_6_0",
+      "x": 41,
+      "y": 39,
+      "exists": false
+    },
+    "wed_carsofa_64_b_0_0": {
+      "name": "wed_carsofa_64_b_0_0",
+      "flipH": 1,
+      "source": "wed_carsofa_64_b_6_0",
+      "x": 4,
+      "y": 54,
+      "exists": false
+    },
+    "wed_carsofa_64_c_0_0": {
+      "name": "wed_carsofa_64_c_0_0",
+      "flipH": 1,
+      "source": "wed_carsofa_64_c_6_0",
+      "x": 67,
+      "y": 76,
+      "exists": false
+    },
+    "wed_carsofa_64_d_0_0": {
+      "name": "wed_carsofa_64_d_0_0",
+      "flipH": 1,
+      "source": "wed_carsofa_64_d_6_0",
+      "x": 0,
+      "y": 92,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1.2
+    },
+    "directions": [
+      0,
+      90,
+      270,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 2,
+          "z": 1500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 2,
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "wed_carsofa",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "assets": {
+    "winter15_iceskater_64_a_4_0": {
+      "name": "winter15_iceskater_64_a_4_0",
+      "x": 40,
+      "y": 104,
+      "exists": true
+    },
+    "winter15_iceskater_64_b_4_0": {
+      "name": "winter15_iceskater_64_b_4_0",
+      "x": -8,
+      "y": 94,
+      "exists": true
+    },
+    "winter15_iceskater_64_b_4_1": {
+      "name": "winter15_iceskater_64_b_4_1",
+      "x": -7,
+      "y": 95,
+      "exists": true
+    },
+    "winter15_iceskater_64_b_4_2": {
+      "name": "winter15_iceskater_64_b_4_2",
+      "x": -6,
+      "y": 96,
+      "exists": true
+    },
+    "winter15_iceskater_64_b_4_3": {
+      "name": "winter15_iceskater_64_b_4_3",
+      "x": -5,
+      "y": 97,
+      "exists": true
+    },
+    "winter15_iceskater_64_b_4_4": {
+      "name": "winter15_iceskater_64_b_4_4",
+      "x": -3,
+      "y": 99,
+      "exists": true
+    },
+    "winter15_iceskater_64_b_4_5": {
+      "name": "winter15_iceskater_64_b_4_5",
+      "x": -1,
+      "y": 101,
+      "exists": true
+    },
+    "winter15_iceskater_64_c_4_0": {
+      "name": "winter15_iceskater_64_c_4_0",
+      "x": 39,
+      "y": 67,
+      "exists": false
+    },
+    "winter15_iceskater_64_c_4_1": {
+      "name": "winter15_iceskater_64_c_4_1",
+      "x": 40,
+      "y": 68,
+      "exists": false
+    },
+    "winter15_iceskater_64_c_4_2": {
+      "name": "winter15_iceskater_64_c_4_2",
+      "x": 41,
+      "y": 69,
+      "exists": false
+    },
+    "winter15_iceskater_64_c_4_3": {
+      "name": "winter15_iceskater_64_c_4_3",
+      "x": 42,
+      "y": 70,
+      "exists": false
+    },
+    "winter15_iceskater_64_c_4_4": {
+      "name": "winter15_iceskater_64_c_4_4",
+      "x": 44,
+      "y": 72,
+      "exists": false
+    },
+    "winter15_iceskater_64_c_4_5": {
+      "name": "winter15_iceskater_64_c_4_5",
+      "x": 46,
+      "y": 74,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_4_0": {
+      "name": "winter15_iceskater_64_d_4_0",
+      "x": -27,
+      "y": 43,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_4_1": {
+      "name": "winter15_iceskater_64_d_4_1",
+      "x": -26,
+      "y": 44,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_4_2": {
+      "name": "winter15_iceskater_64_d_4_2",
+      "x": -25,
+      "y": 45,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_4_3": {
+      "name": "winter15_iceskater_64_d_4_3",
+      "x": -24,
+      "y": 46,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_4_4": {
+      "name": "winter15_iceskater_64_d_4_4",
+      "x": -22,
+      "y": 48,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_4_5": {
+      "name": "winter15_iceskater_64_d_4_5",
+      "x": -20,
+      "y": 50,
+      "exists": false
+    },
+    "winter15_iceskater_icon_a": {
+      "name": "winter15_iceskater_icon_a",
+      "x": 9,
+      "y": 13,
+      "exists": true
+    },
+    "winter15_iceskater_64_a_2_0": {
+      "name": "winter15_iceskater_64_a_2_0",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_a_4_0",
+      "x": 40,
+      "y": 104,
+      "exists": false
+    },
+    "winter15_iceskater_64_b_2_0": {
+      "name": "winter15_iceskater_64_b_2_0",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_b_4_0",
+      "x": -8,
+      "y": 94,
+      "exists": false
+    },
+    "winter15_iceskater_64_b_2_1": {
+      "name": "winter15_iceskater_64_b_2_1",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_b_4_1",
+      "x": -7,
+      "y": 95,
+      "exists": false
+    },
+    "winter15_iceskater_64_b_2_2": {
+      "name": "winter15_iceskater_64_b_2_2",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_b_4_2",
+      "x": -6,
+      "y": 96,
+      "exists": false
+    },
+    "winter15_iceskater_64_b_2_3": {
+      "name": "winter15_iceskater_64_b_2_3",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_b_4_3",
+      "x": -5,
+      "y": 97,
+      "exists": false
+    },
+    "winter15_iceskater_64_b_2_4": {
+      "name": "winter15_iceskater_64_b_2_4",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_b_4_4",
+      "x": -3,
+      "y": 99,
+      "exists": false
+    },
+    "winter15_iceskater_64_b_2_5": {
+      "name": "winter15_iceskater_64_b_2_5",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_b_4_5",
+      "x": -1,
+      "y": 101,
+      "exists": false
+    },
+    "winter15_iceskater_64_c_2_0": {
+      "name": "winter15_iceskater_64_c_2_0",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_c_4_0",
+      "x": 39,
+      "y": 67,
+      "exists": false
+    },
+    "winter15_iceskater_64_c_2_1": {
+      "name": "winter15_iceskater_64_c_2_1",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_c_4_1",
+      "x": 40,
+      "y": 68,
+      "exists": false
+    },
+    "winter15_iceskater_64_c_2_2": {
+      "name": "winter15_iceskater_64_c_2_2",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_c_4_2",
+      "x": 41,
+      "y": 69,
+      "exists": false
+    },
+    "winter15_iceskater_64_c_2_3": {
+      "name": "winter15_iceskater_64_c_2_3",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_c_4_3",
+      "x": 42,
+      "y": 70,
+      "exists": false
+    },
+    "winter15_iceskater_64_c_2_4": {
+      "name": "winter15_iceskater_64_c_2_4",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_c_4_4",
+      "x": 44,
+      "y": 72,
+      "exists": false
+    },
+    "winter15_iceskater_64_c_2_5": {
+      "name": "winter15_iceskater_64_c_2_5",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_c_4_5",
+      "x": 46,
+      "y": 74,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_2_0": {
+      "name": "winter15_iceskater_64_d_2_0",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_d_4_0",
+      "x": -27,
+      "y": 43,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_2_1": {
+      "name": "winter15_iceskater_64_d_2_1",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_d_4_1",
+      "x": -26,
+      "y": 44,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_2_2": {
+      "name": "winter15_iceskater_64_d_2_2",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_d_4_2",
+      "x": -25,
+      "y": 45,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_2_3": {
+      "name": "winter15_iceskater_64_d_2_3",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_d_4_3",
+      "x": -24,
+      "y": 46,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_2_4": {
+      "name": "winter15_iceskater_64_d_2_4",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_d_4_4",
+      "x": -22,
+      "y": 48,
+      "exists": false
+    },
+    "winter15_iceskater_64_d_2_5": {
+      "name": "winter15_iceskater_64_d_2_5",
+      "flipH": 1,
+      "source": "winter15_iceskater_64_d_4_5",
+      "x": -20,
+      "y": 50,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.001
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "winter15_iceskater",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "assets": {
+    "vikings_flag_g_64_sd_0_0": {
+      "name": "vikings_flag_g_64_sd_0_0",
+      "x": 20,
+      "y": 9,
+      "exists": true
+    },
+    "vikings_flag_g_64_a_0_0": {
+      "name": "vikings_flag_g_64_a_0_0",
+      "x": 46,
+      "y": 156,
+      "exists": true
+    },
+    "vikings_flag_g_32_sd_0_0": {
+      "name": "vikings_flag_g_32_sd_0_0",
+      "x": 11,
+      "y": 6,
+      "exists": true
+    },
+    "vikings_flag_g_32_a_0_0": {
+      "name": "vikings_flag_g_32_a_0_0",
+      "x": 23,
+      "y": 78,
+      "exists": true
+    },
+    "vikings_flag_g_icon_a": {
+      "name": "vikings_flag_g_icon_a",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    },
+    "vikings_flag_g_64_sd_2_0": {
+      "name": "vikings_flag_g_64_sd_2_0",
+      "flipH": 1,
+      "source": "vikings_flag_g_64_sd_0_0",
+      "x": 20,
+      "y": 9,
+      "exists": false
+    },
+    "vikings_flag_g_64_a_2_0": {
+      "name": "vikings_flag_g_64_a_2_0",
+      "flipH": 1,
+      "source": "vikings_flag_g_64_a_0_0",
+      "x": 46,
+      "y": 156,
+      "exists": false
+    },
+    "vikings_flag_g_32_sd_2_0": {
+      "name": "vikings_flag_g_32_sd_2_0",
+      "flipH": 1,
+      "source": "vikings_flag_g_32_sd_0_0",
+      "x": 11,
+      "y": 6,
+      "exists": false
+    },
+    "vikings_flag_g_32_a_2_0": {
+      "name": "vikings_flag_g_32_a_2_0",
+      "flipH": 1,
+      "source": "vikings_flag_g_32_a_0_0",
+      "x": 23,
+      "y": 78,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 4
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "vikings_flag_g",
+    "visualization": "furniture_static"
+  }
+}

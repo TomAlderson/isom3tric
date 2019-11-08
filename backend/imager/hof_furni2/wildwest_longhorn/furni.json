@@ -1,0 +1,118 @@
+{
+  "assets": {
+    "wildwest_longhorn_64_sd_0_0": {
+      "name": "wildwest_longhorn_64_sd_0_0",
+      "x": 35,
+      "y": 17,
+      "exists": true
+    },
+    "wildwest_longhorn_64_a_0_0": {
+      "name": "wildwest_longhorn_64_a_0_0",
+      "x": 36,
+      "y": 36,
+      "exists": true
+    },
+    "wildwest_longhorn_32_sd_0_0": {
+      "name": "wildwest_longhorn_32_sd_0_0",
+      "x": 17,
+      "y": 13,
+      "exists": true
+    },
+    "wildwest_longhorn_32_a_0_0": {
+      "name": "wildwest_longhorn_32_a_0_0",
+      "x": 18,
+      "y": 18,
+      "exists": true
+    },
+    "wildwest_longhorn_icon_a": {
+      "name": "wildwest_longhorn_icon_a",
+      "x": 14,
+      "y": 9,
+      "exists": true
+    },
+    "wildwest_longhorn_64_sd_2_0": {
+      "name": "wildwest_longhorn_64_sd_2_0",
+      "flipH": 1,
+      "source": "wildwest_longhorn_64_sd_0_0",
+      "x": 35,
+      "y": 17,
+      "exists": false
+    },
+    "wildwest_longhorn_64_a_2_0": {
+      "name": "wildwest_longhorn_64_a_2_0",
+      "flipH": 1,
+      "source": "wildwest_longhorn_64_a_0_0",
+      "x": 36,
+      "y": 36,
+      "exists": false
+    },
+    "wildwest_longhorn_32_sd_2_0": {
+      "name": "wildwest_longhorn_32_sd_2_0",
+      "flipH": 1,
+      "source": "wildwest_longhorn_32_sd_0_0",
+      "x": 17,
+      "y": 13,
+      "exists": false
+    },
+    "wildwest_longhorn_32_a_2_0": {
+      "name": "wildwest_longhorn_32_a_2_0",
+      "flipH": 1,
+      "source": "wildwest_longhorn_32_a_0_0",
+      "x": 18,
+      "y": 18,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "wildwest_longhorn",
+    "visualization": "furniture_static"
+  }
+}

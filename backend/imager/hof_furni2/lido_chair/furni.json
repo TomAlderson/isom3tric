@@ -1,0 +1,252 @@
+{
+  "assets": {
+    "lido_chair_32_sd_0_0": {
+      "name": "lido_chair_32_sd_0_0",
+      "x": 10,
+      "y": 5,
+      "exists": true
+    },
+    "lido_chair_32_a_0_0": {
+      "name": "lido_chair_32_a_0_0",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    },
+    "lido_chair_32_b_0_0": {
+      "name": "lido_chair_32_b_0_0",
+      "x": 13,
+      "y": 24,
+      "exists": true
+    },
+    "lido_chair_32_a_2_0": {
+      "name": "lido_chair_32_a_2_0",
+      "x": 10,
+      "y": 26,
+      "exists": true
+    },
+    "lido_chair_32_b_2_0": {
+      "name": "lido_chair_32_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": true
+    },
+    "lido_chair_64_sd_0_0": {
+      "name": "lido_chair_64_sd_0_0",
+      "x": 24,
+      "y": 12,
+      "exists": true
+    },
+    "lido_chair_64_a_0_0": {
+      "name": "lido_chair_64_a_0_0",
+      "x": 21,
+      "y": 28,
+      "exists": true
+    },
+    "lido_chair_64_b_0_0": {
+      "name": "lido_chair_64_b_0_0",
+      "x": 26,
+      "y": 43,
+      "exists": true
+    },
+    "lido_chair_64_a_2_0": {
+      "name": "lido_chair_64_a_2_0",
+      "x": 23,
+      "y": 49,
+      "exists": true
+    },
+    "lido_chair_icon_a": {
+      "name": "lido_chair_icon_a",
+      "x": 12,
+      "y": 14,
+      "exists": true
+    },
+    "lido_chair_32_sd_2_0": {
+      "name": "lido_chair_32_sd_2_0",
+      "flipH": 1,
+      "source": "lido_chair_32_sd_0_0",
+      "x": 12,
+      "y": 5,
+      "exists": false
+    },
+    "lido_chair_32_sd_4_0": {
+      "name": "lido_chair_32_sd_4_0",
+      "flipH": 1,
+      "source": "lido_chair_32_sd_0_0",
+      "x": 12,
+      "y": 5,
+      "exists": false
+    },
+    "lido_chair_32_a_4_0": {
+      "name": "lido_chair_32_a_4_0",
+      "flipH": 1,
+      "source": "lido_chair_32_a_2_0",
+      "x": 12,
+      "y": 26,
+      "exists": false
+    },
+    "lido_chair_32_b_4_0": {
+      "name": "lido_chair_32_b_4_0",
+      "flipH": 1,
+      "source": "lido_chair_32_b_2_0",
+      "x": 1,
+      "y": 0,
+      "exists": false
+    },
+    "lido_chair_32_sd_6_0": {
+      "name": "lido_chair_32_sd_6_0",
+      "flipH": 1,
+      "source": "lido_chair_32_sd_0_0",
+      "x": 12,
+      "y": 5,
+      "exists": false
+    },
+    "lido_chair_32_a_6_0": {
+      "name": "lido_chair_32_a_6_0",
+      "flipH": 1,
+      "source": "lido_chair_32_a_0_0",
+      "x": 11,
+      "y": 15,
+      "exists": false
+    },
+    "lido_chair_32_b_6_0": {
+      "name": "lido_chair_32_b_6_0",
+      "flipH": 1,
+      "source": "lido_chair_32_b_0_0",
+      "x": 15,
+      "y": 24,
+      "exists": false
+    },
+    "lido_chair_64_sd_2_0": {
+      "name": "lido_chair_64_sd_2_0",
+      "flipH": 1,
+      "source": "lido_chair_64_sd_0_0",
+      "x": 24,
+      "y": 12,
+      "exists": false
+    },
+    "lido_chair_64_b_2_0": {
+      "name": "lido_chair_64_b_2_0",
+      "x": 1,
+      "y": 0,
+      "exists": false
+    },
+    "lido_chair_64_sd_4_0": {
+      "name": "lido_chair_64_sd_4_0",
+      "flipH": 1,
+      "source": "lido_chair_64_sd_0_0",
+      "x": 24,
+      "y": 12,
+      "exists": false
+    },
+    "lido_chair_64_a_4_0": {
+      "name": "lido_chair_64_a_4_0",
+      "flipH": 1,
+      "source": "lido_chair_64_a_2_0",
+      "x": 23,
+      "y": 49,
+      "exists": false
+    },
+    "lido_chair_64_b_4_0": {
+      "name": "lido_chair_64_b_4_0",
+      "flipH": 1,
+      "source": "lido_chair_64_b_2_0",
+      "x": 1,
+      "y": 0,
+      "exists": false
+    },
+    "lido_chair_64_sd_6_0": {
+      "name": "lido_chair_64_sd_6_0",
+      "flipH": 1,
+      "source": "lido_chair_64_sd_0_0",
+      "x": 24,
+      "y": 12,
+      "exists": false
+    },
+    "lido_chair_64_a_6_0": {
+      "name": "lido_chair_64_a_6_0",
+      "flipH": 1,
+      "source": "lido_chair_64_a_0_0",
+      "x": 21,
+      "y": 28,
+      "exists": false
+    },
+    "lido_chair_64_b_6_0": {
+      "name": "lido_chair_64_b_6_0",
+      "flipH": 1,
+      "source": "lido_chair_64_b_0_0",
+      "x": 26,
+      "y": 43,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.2
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 50
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 50
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "lido_chair",
+    "visualization": "furniture_static"
+  }
+}

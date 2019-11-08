@@ -1,0 +1,446 @@
+{
+  "assets": {
+    "xmas08_wallpaper_64_a_2_0": {
+      "name": "xmas08_wallpaper_64_a_2_0",
+      "x": 21,
+      "y": 66,
+      "exists": true
+    },
+    "xmas08_wallpaper_64_b_2_0": {
+      "name": "xmas08_wallpaper_64_b_2_0",
+      "x": 20,
+      "y": 65,
+      "exists": true
+    },
+    "xmas08_wallpaper_64_b_2_1": {
+      "name": "xmas08_wallpaper_64_b_2_1",
+      "x": 20,
+      "y": 65,
+      "exists": true
+    },
+    "xmas08_wallpaper_64_b_2_2": {
+      "name": "xmas08_wallpaper_64_b_2_2",
+      "x": 20,
+      "y": 65,
+      "exists": true
+    },
+    "xmas08_wallpaper_64_b_2_3": {
+      "name": "xmas08_wallpaper_64_b_2_3",
+      "x": 20,
+      "y": 65,
+      "exists": true
+    },
+    "xmas08_wallpaper_64_b_2_4": {
+      "name": "xmas08_wallpaper_64_b_2_4",
+      "x": 20,
+      "y": 65,
+      "exists": true
+    },
+    "xmas08_wallpaper_64_b_2_5": {
+      "name": "xmas08_wallpaper_64_b_2_5",
+      "x": 20,
+      "y": 65,
+      "exists": true
+    },
+    "xmas08_wallpaper_64_a_4_0": {
+      "name": "xmas08_wallpaper_64_a_4_0",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_64_a_2_0",
+      "x": 21,
+      "y": 66,
+      "exists": false
+    },
+    "xmas08_wallpaper_64_b_4_0": {
+      "name": "xmas08_wallpaper_64_b_4_0",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_64_b_2_0",
+      "x": 20,
+      "y": 65,
+      "exists": false
+    },
+    "xmas08_wallpaper_64_b_4_1": {
+      "name": "xmas08_wallpaper_64_b_4_1",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_64_b_2_1",
+      "x": 20,
+      "y": 65,
+      "exists": false
+    },
+    "xmas08_wallpaper_64_b_4_2": {
+      "name": "xmas08_wallpaper_64_b_4_2",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_64_b_2_2",
+      "x": 20,
+      "y": 65,
+      "exists": false
+    },
+    "xmas08_wallpaper_64_b_4_3": {
+      "name": "xmas08_wallpaper_64_b_4_3",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_64_b_2_3",
+      "x": 20,
+      "y": 65,
+      "exists": false
+    },
+    "xmas08_wallpaper_64_b_4_4": {
+      "name": "xmas08_wallpaper_64_b_4_4",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_64_b_2_4",
+      "x": 20,
+      "y": 65,
+      "exists": false
+    },
+    "xmas08_wallpaper_64_b_4_5": {
+      "name": "xmas08_wallpaper_64_b_4_5",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_64_b_2_5",
+      "x": 20,
+      "y": 65,
+      "exists": false
+    },
+    "xmas08_wallpaper_32_a_2_0": {
+      "name": "xmas08_wallpaper_32_a_2_0",
+      "x": 11,
+      "y": 33,
+      "exists": true
+    },
+    "xmas08_wallpaper_32_b_2_0": {
+      "name": "xmas08_wallpaper_32_b_2_0",
+      "x": 10,
+      "y": 32,
+      "exists": true
+    },
+    "xmas08_wallpaper_32_b_2_1": {
+      "name": "xmas08_wallpaper_32_b_2_1",
+      "x": 10,
+      "y": 32,
+      "exists": true
+    },
+    "xmas08_wallpaper_32_b_2_2": {
+      "name": "xmas08_wallpaper_32_b_2_2",
+      "x": 10,
+      "y": 32,
+      "exists": true
+    },
+    "xmas08_wallpaper_32_b_2_3": {
+      "name": "xmas08_wallpaper_32_b_2_3",
+      "x": 10,
+      "y": 32,
+      "exists": true
+    },
+    "xmas08_wallpaper_32_b_2_4": {
+      "name": "xmas08_wallpaper_32_b_2_4",
+      "x": 10,
+      "y": 32,
+      "exists": true
+    },
+    "xmas08_wallpaper_32_b_2_5": {
+      "name": "xmas08_wallpaper_32_b_2_5",
+      "x": 10,
+      "y": 32,
+      "exists": true
+    },
+    "xmas08_wallpaper_32_a_4_0": {
+      "name": "xmas08_wallpaper_32_a_4_0",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_32_a_2_0",
+      "x": 11,
+      "y": 33,
+      "exists": false
+    },
+    "xmas08_wallpaper_32_b_4_0": {
+      "name": "xmas08_wallpaper_32_b_4_0",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_32_b_2_0",
+      "x": 10,
+      "y": 32,
+      "exists": false
+    },
+    "xmas08_wallpaper_32_b_4_1": {
+      "name": "xmas08_wallpaper_32_b_4_1",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_32_b_2_1",
+      "x": 10,
+      "y": 32,
+      "exists": false
+    },
+    "xmas08_wallpaper_32_b_4_2": {
+      "name": "xmas08_wallpaper_32_b_4_2",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_32_b_2_2",
+      "x": 10,
+      "y": 32,
+      "exists": false
+    },
+    "xmas08_wallpaper_32_b_4_3": {
+      "name": "xmas08_wallpaper_32_b_4_3",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_32_b_2_3",
+      "x": 10,
+      "y": 32,
+      "exists": false
+    },
+    "xmas08_wallpaper_32_b_4_4": {
+      "name": "xmas08_wallpaper_32_b_4_4",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_32_b_2_4",
+      "x": 10,
+      "y": 32,
+      "exists": false
+    },
+    "xmas08_wallpaper_32_b_4_5": {
+      "name": "xmas08_wallpaper_32_b_4_5",
+      "flipH": 1,
+      "source": "xmas08_wallpaper_32_b_2_5",
+      "x": 10,
+      "y": 32,
+      "exists": false
+    },
+    "xmas08_wallpaper_icon_a": {
+      "name": "xmas08_wallpaper_icon_a",
+      "x": 6,
+      "y": 15,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1.3438,
+      "y": 0.2,
+      "z": 3.5
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -8000
+        },
+        {
+          "layerId": 1,
+          "z": -3900
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -8000
+        },
+        {
+          "layerId": 1,
+          "z": -3900
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "xmas08_wallpaper",
+    "visualization": "furniture_animated"
+  }
+}

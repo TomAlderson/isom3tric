@@ -1,0 +1,220 @@
+{
+  "assets": {
+    "ktchn_plates_64_a_0_0": {
+      "name": "ktchn_plates_64_a_0_0",
+      "x": 24,
+      "y": 16,
+      "exists": true
+    },
+    "ktchn_plates_64_a_0_1": {
+      "name": "ktchn_plates_64_a_0_1",
+      "x": 25,
+      "y": 28,
+      "exists": true
+    },
+    "ktchn_plates_64_a_0_2": {
+      "name": "ktchn_plates_64_a_0_2",
+      "x": 33,
+      "y": 30,
+      "exists": true
+    },
+    "ktchn_plates_64_a_2_0": {
+      "name": "ktchn_plates_64_a_2_0",
+      "flipH": 1,
+      "source": "ktchn_plates_64_a_0_0",
+      "x": 24,
+      "y": 16,
+      "exists": false
+    },
+    "ktchn_plates_64_a_2_1": {
+      "name": "ktchn_plates_64_a_2_1",
+      "flipH": 1,
+      "source": "ktchn_plates_64_a_0_1",
+      "x": 25,
+      "y": 28,
+      "exists": false
+    },
+    "ktchn_plates_64_a_2_2": {
+      "name": "ktchn_plates_64_a_2_2",
+      "flipH": 1,
+      "source": "ktchn_plates_64_a_0_2",
+      "x": 33,
+      "y": 30,
+      "exists": false
+    },
+    "ktchn_plates_icon_a": {
+      "name": "ktchn_plates_icon_a",
+      "x": 13,
+      "y": 8,
+      "exists": false
+    },
+    "ktchn_plates_32_a_0_0": {
+      "name": "ktchn_plates_32_a_0_0",
+      "x": 12,
+      "y": 8,
+      "exists": true
+    },
+    "ktchn_plates_32_a_0_1": {
+      "name": "ktchn_plates_32_a_0_1",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    },
+    "ktchn_plates_32_a_0_2": {
+      "name": "ktchn_plates_32_a_0_2",
+      "x": 16,
+      "y": 14,
+      "exists": true
+    },
+    "ktchn_plates_32_a_2_0": {
+      "name": "ktchn_plates_32_a_2_0",
+      "flipH": 1,
+      "source": "ktchn_plates_32_a_0_0",
+      "x": 12,
+      "y": 8,
+      "exists": false
+    },
+    "ktchn_plates_32_a_2_1": {
+      "name": "ktchn_plates_32_a_2_1",
+      "flipH": 1,
+      "source": "ktchn_plates_32_a_0_1",
+      "x": 14,
+      "y": 13,
+      "exists": false
+    },
+    "ktchn_plates_32_a_2_2": {
+      "name": "ktchn_plates_32_a_2_2",
+      "flipH": 1,
+      "source": "ktchn_plates_32_a_0_2",
+      "x": 16,
+      "y": 14,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "ktchn_plates",
+    "visualization": "furniture_animated"
+  }
+}

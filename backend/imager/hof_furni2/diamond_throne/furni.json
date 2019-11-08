@@ -1,0 +1,254 @@
+{
+  "assets": {
+    "diamond_throne_64_a_4_0": {
+      "name": "diamond_throne_64_a_4_0",
+      "x": 33,
+      "y": 25,
+      "exists": true
+    },
+    "diamond_throne_64_b_4_0": {
+      "name": "diamond_throne_64_b_4_0",
+      "x": 27,
+      "y": 124,
+      "exists": true
+    },
+    "diamond_throne_64_c_4_0": {
+      "name": "diamond_throne_64_c_4_0",
+      "x": -16,
+      "y": -9,
+      "exists": false
+    },
+    "diamond_throne_64_a_0_0": {
+      "name": "diamond_throne_64_a_0_0",
+      "x": 35,
+      "y": 28,
+      "exists": true
+    },
+    "diamond_throne_64_b_0_0": {
+      "name": "diamond_throne_64_b_0_0",
+      "x": -10,
+      "y": -1,
+      "exists": true
+    },
+    "diamond_throne_64_c_0_0": {
+      "name": "diamond_throne_64_c_0_0",
+      "x": 48,
+      "y": 122,
+      "exists": true
+    },
+    "diamond_throne_32_a_4_0": {
+      "name": "diamond_throne_32_a_4_0",
+      "x": 18,
+      "y": 13,
+      "exists": true
+    },
+    "diamond_throne_32_b_4_0": {
+      "name": "diamond_throne_32_b_4_0",
+      "x": 15,
+      "y": 62,
+      "exists": true
+    },
+    "diamond_throne_32_c_4_0": {
+      "name": "diamond_throne_32_c_4_0",
+      "x": -6,
+      "y": -3,
+      "exists": true
+    },
+    "diamond_throne_32_a_0_0": {
+      "name": "diamond_throne_32_a_0_0",
+      "x": 15,
+      "y": 15,
+      "exists": true
+    },
+    "diamond_throne_32_b_0_0": {
+      "name": "diamond_throne_32_b_0_0",
+      "x": 1,
+      "y": -3,
+      "exists": true
+    },
+    "diamond_throne_32_c_0_0": {
+      "name": "diamond_throne_32_c_0_0",
+      "x": 22,
+      "y": 62,
+      "exists": true
+    },
+    "diamond_throne_icon_a": {
+      "name": "diamond_throne_icon_a",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    },
+    "diamond_throne_64_a_6_0": {
+      "name": "diamond_throne_64_a_6_0",
+      "flipH": 1,
+      "source": "diamond_throne_64_a_0_0",
+      "x": 35,
+      "y": 28,
+      "exists": false
+    },
+    "diamond_throne_64_b_6_0": {
+      "name": "diamond_throne_64_b_6_0",
+      "flipH": 1,
+      "source": "diamond_throne_64_b_0_0",
+      "x": -10,
+      "y": -1,
+      "exists": false
+    },
+    "diamond_throne_64_c_6_0": {
+      "name": "diamond_throne_64_c_6_0",
+      "flipH": 1,
+      "source": "diamond_throne_64_c_0_0",
+      "x": 48,
+      "y": 122,
+      "exists": false
+    },
+    "diamond_throne_32_a_6_0": {
+      "name": "diamond_throne_32_a_6_0",
+      "flipH": 1,
+      "source": "diamond_throne_32_a_0_0",
+      "x": 15,
+      "y": 15,
+      "exists": false
+    },
+    "diamond_throne_32_b_6_0": {
+      "name": "diamond_throne_32_b_6_0",
+      "flipH": 1,
+      "source": "diamond_throne_32_b_0_0",
+      "x": 1,
+      "y": -3,
+      "exists": false
+    },
+    "diamond_throne_32_c_6_0": {
+      "name": "diamond_throne_32_c_6_0",
+      "flipH": 1,
+      "source": "diamond_throne_32_c_0_0",
+      "x": 22,
+      "y": 62,
+      "exists": false
+    },
+    "diamond_throne_64_a_2_0": {
+      "name": "diamond_throne_64_a_2_0",
+      "flipH": 1,
+      "source": "diamond_throne_64_a_4_0",
+      "x": 33,
+      "y": 25,
+      "exists": false
+    },
+    "diamond_throne_64_b_2_0": {
+      "name": "diamond_throne_64_b_2_0",
+      "flipH": 1,
+      "source": "diamond_throne_64_b_4_0",
+      "x": 27,
+      "y": 124,
+      "exists": false
+    },
+    "diamond_throne_64_c_2_0": {
+      "name": "diamond_throne_64_c_2_0",
+      "flipH": 1,
+      "source": "diamond_throne_64_c_4_0",
+      "x": -16,
+      "y": -9,
+      "exists": false
+    },
+    "diamond_throne_32_a_2_0": {
+      "name": "diamond_throne_32_a_2_0",
+      "flipH": 1,
+      "source": "diamond_throne_32_a_4_0",
+      "x": 18,
+      "y": 13,
+      "exists": false
+    },
+    "diamond_throne_32_b_2_0": {
+      "name": "diamond_throne_32_b_2_0",
+      "flipH": 1,
+      "source": "diamond_throne_32_b_4_0",
+      "x": 15,
+      "y": 62,
+      "exists": false
+    },
+    "diamond_throne_32_c_2_0": {
+      "name": "diamond_throne_32_c_2_0",
+      "flipH": 1,
+      "source": "diamond_throne_32_c_4_0",
+      "x": -6,
+      "y": -3,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      0,
+      90,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "diamond_throne",
+    "visualization": "furniture_static"
+  }
+}

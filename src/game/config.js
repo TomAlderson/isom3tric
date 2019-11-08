@@ -1,5 +1,5 @@
 export default {
-  gameWidth: 1920,
-  gameHeight: 1080,
-  localStorageName: 'vue-phaser',
+  gameWidth: 720,
+  gameHeight: 570,
+  localStorageName: 'isometric-client',
 }

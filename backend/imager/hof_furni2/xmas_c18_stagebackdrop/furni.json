@@ -1,0 +1,113 @@
+{
+  "assets": {
+    "xmas_c18_stagebackdrop_64_sd_2_0": {
+      "name": "xmas_c18_stagebackdrop_64_sd_2_0",
+      "x": 67,
+      "y": 16,
+      "exists": true
+    },
+    "xmas_c18_stagebackdrop_64_a_2_0": {
+      "name": "xmas_c18_stagebackdrop_64_a_2_0",
+      "x": -1,
+      "y": 176,
+      "exists": true
+    },
+    "xmas_c18_stagebackdrop_64_b_2_0": {
+      "name": "xmas_c18_stagebackdrop_64_b_2_0",
+      "x": 30,
+      "y": 175,
+      "exists": true
+    },
+    "xmas_c18_stagebackdrop_64_c_2_0": {
+      "name": "xmas_c18_stagebackdrop_64_c_2_0",
+      "x": 69,
+      "y": 153,
+      "exists": true
+    },
+    "xmas_c18_stagebackdrop_64_sd_4_0": {
+      "name": "xmas_c18_stagebackdrop_64_sd_4_0",
+      "x": 17,
+      "y": 16,
+      "exists": true
+    },
+    "xmas_c18_stagebackdrop_64_a_4_0": {
+      "name": "xmas_c18_stagebackdrop_64_a_4_0",
+      "x": 19,
+      "y": 176,
+      "exists": true
+    },
+    "xmas_c18_stagebackdrop_64_b_4_0": {
+      "name": "xmas_c18_stagebackdrop_64_b_4_0",
+      "x": 18,
+      "y": 175,
+      "exists": true
+    },
+    "xmas_c18_stagebackdrop_64_c_4_0": {
+      "name": "xmas_c18_stagebackdrop_64_c_4_0",
+      "x": -19,
+      "y": 153,
+      "exists": true
+    },
+    "xmas_c18_stagebackdrop_icon_a": {
+      "name": "xmas_c18_stagebackdrop_icon_a",
+      "x": 6,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "xmas_c18_stagebackdrop",
+    "visualization": "furniture_static"
+  }
+}

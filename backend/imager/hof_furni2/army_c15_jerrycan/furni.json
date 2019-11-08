@@ -1,0 +1,632 @@
+{
+  "assets": {
+    "army_c15_jerrycan_64_sd_0_0": {
+      "name": "army_c15_jerrycan_64_sd_0_0",
+      "x": 14,
+      "y": 11,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_a_0_0": {
+      "name": "army_c15_jerrycan_64_a_0_0",
+      "x": 15,
+      "y": 37,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_b_0_0": {
+      "name": "army_c15_jerrycan_64_b_0_0",
+      "x": -15,
+      "y": 4,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_0_1": {
+      "name": "army_c15_jerrycan_64_b_0_1",
+      "x": 19,
+      "y": 33,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_b_0_2": {
+      "name": "army_c15_jerrycan_64_b_0_2",
+      "x": 23,
+      "y": 37,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_b_0_3": {
+      "name": "army_c15_jerrycan_64_b_0_3",
+      "x": 26,
+      "y": 45,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_b_0_4": {
+      "name": "army_c15_jerrycan_64_b_0_4",
+      "x": 28,
+      "y": 51,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_b_0_5": {
+      "name": "army_c15_jerrycan_64_b_0_5",
+      "x": 29,
+      "y": 53,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_b_0_6": {
+      "name": "army_c15_jerrycan_64_b_0_6",
+      "x": 26,
+      "y": 57,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_b_0_7": {
+      "name": "army_c15_jerrycan_64_b_0_7",
+      "x": 30,
+      "y": 61,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_b_0_8": {
+      "name": "army_c15_jerrycan_64_b_0_8",
+      "x": 30,
+      "y": 64,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_b_0_9": {
+      "name": "army_c15_jerrycan_64_b_0_9",
+      "x": 31,
+      "y": 71,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_b_0_10": {
+      "name": "army_c15_jerrycan_64_b_0_10",
+      "x": 33,
+      "y": 78,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_b_0_11": {
+      "name": "army_c15_jerrycan_64_b_0_11",
+      "x": 34,
+      "y": 85,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_0": {
+      "name": "army_c15_jerrycan_64_c_0_0",
+      "x": -15,
+      "y": 4,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_1": {
+      "name": "army_c15_jerrycan_64_c_0_1",
+      "x": 15,
+      "y": 29,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_2": {
+      "name": "army_c15_jerrycan_64_c_0_2",
+      "x": 18,
+      "y": 34,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_3": {
+      "name": "army_c15_jerrycan_64_c_0_3",
+      "x": 21,
+      "y": 41,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_4": {
+      "name": "army_c15_jerrycan_64_c_0_4",
+      "x": 24,
+      "y": 46,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_5": {
+      "name": "army_c15_jerrycan_64_c_0_5",
+      "x": 24,
+      "y": 49,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_6": {
+      "name": "army_c15_jerrycan_64_c_0_6",
+      "x": 22,
+      "y": 54,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_7": {
+      "name": "army_c15_jerrycan_64_c_0_7",
+      "x": 26,
+      "y": 57,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_8": {
+      "name": "army_c15_jerrycan_64_c_0_8",
+      "x": 26,
+      "y": 61,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_9": {
+      "name": "army_c15_jerrycan_64_c_0_9",
+      "x": 28,
+      "y": 67,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_10": {
+      "name": "army_c15_jerrycan_64_c_0_10",
+      "x": 29,
+      "y": 75,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_c_0_11": {
+      "name": "army_c15_jerrycan_64_c_0_11",
+      "x": 30,
+      "y": 81,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_d_0_0": {
+      "name": "army_c15_jerrycan_64_d_0_0",
+      "x": -15,
+      "y": 4,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_d_0_1": {
+      "name": "army_c15_jerrycan_64_d_0_1",
+      "x": 4,
+      "y": 29,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_d_0_2": {
+      "name": "army_c15_jerrycan_64_d_0_2",
+      "x": 5,
+      "y": 30,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_d_0_3": {
+      "name": "army_c15_jerrycan_64_d_0_3",
+      "x": 3,
+      "y": 30,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_d_0_4": {
+      "name": "army_c15_jerrycan_64_d_0_4",
+      "x": 1,
+      "y": 32,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_d_0_5": {
+      "name": "army_c15_jerrycan_64_d_0_5",
+      "x": 4,
+      "y": 31,
+      "exists": true
+    },
+    "army_c15_jerrycan_icon_a": {
+      "name": "army_c15_jerrycan_icon_a",
+      "x": 10,
+      "y": 13,
+      "exists": true
+    },
+    "army_c15_jerrycan_64_sd_6_0": {
+      "name": "army_c15_jerrycan_64_sd_6_0",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_sd_0_0",
+      "x": 14,
+      "y": 11,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_a_6_0": {
+      "name": "army_c15_jerrycan_64_a_6_0",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_a_0_0",
+      "x": 15,
+      "y": 37,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_0": {
+      "name": "army_c15_jerrycan_64_b_6_0",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_0",
+      "x": -15,
+      "y": 4,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_1": {
+      "name": "army_c15_jerrycan_64_b_6_1",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_1",
+      "x": 19,
+      "y": 33,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_2": {
+      "name": "army_c15_jerrycan_64_b_6_2",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_2",
+      "x": 23,
+      "y": 37,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_3": {
+      "name": "army_c15_jerrycan_64_b_6_3",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_3",
+      "x": 26,
+      "y": 45,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_4": {
+      "name": "army_c15_jerrycan_64_b_6_4",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_4",
+      "x": 28,
+      "y": 51,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_5": {
+      "name": "army_c15_jerrycan_64_b_6_5",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_5",
+      "x": 29,
+      "y": 53,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_6": {
+      "name": "army_c15_jerrycan_64_b_6_6",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_6",
+      "x": 26,
+      "y": 57,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_7": {
+      "name": "army_c15_jerrycan_64_b_6_7",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_7",
+      "x": 30,
+      "y": 61,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_8": {
+      "name": "army_c15_jerrycan_64_b_6_8",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_8",
+      "x": 30,
+      "y": 64,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_9": {
+      "name": "army_c15_jerrycan_64_b_6_9",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_9",
+      "x": 31,
+      "y": 71,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_10": {
+      "name": "army_c15_jerrycan_64_b_6_10",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_10",
+      "x": 33,
+      "y": 78,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_b_6_11": {
+      "name": "army_c15_jerrycan_64_b_6_11",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_b_0_11",
+      "x": 34,
+      "y": 85,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_0": {
+      "name": "army_c15_jerrycan_64_c_6_0",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_0",
+      "x": -15,
+      "y": 4,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_1": {
+      "name": "army_c15_jerrycan_64_c_6_1",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_1",
+      "x": 15,
+      "y": 29,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_2": {
+      "name": "army_c15_jerrycan_64_c_6_2",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_2",
+      "x": 18,
+      "y": 34,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_3": {
+      "name": "army_c15_jerrycan_64_c_6_3",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_3",
+      "x": 21,
+      "y": 41,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_4": {
+      "name": "army_c15_jerrycan_64_c_6_4",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_4",
+      "x": 24,
+      "y": 46,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_5": {
+      "name": "army_c15_jerrycan_64_c_6_5",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_5",
+      "x": 24,
+      "y": 49,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_6": {
+      "name": "army_c15_jerrycan_64_c_6_6",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_6",
+      "x": 22,
+      "y": 54,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_7": {
+      "name": "army_c15_jerrycan_64_c_6_7",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_7",
+      "x": 26,
+      "y": 57,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_8": {
+      "name": "army_c15_jerrycan_64_c_6_8",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_8",
+      "x": 26,
+      "y": 61,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_9": {
+      "name": "army_c15_jerrycan_64_c_6_9",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_9",
+      "x": 28,
+      "y": 67,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_10": {
+      "name": "army_c15_jerrycan_64_c_6_10",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_10",
+      "x": 29,
+      "y": 75,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_c_6_11": {
+      "name": "army_c15_jerrycan_64_c_6_11",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_c_0_11",
+      "x": 30,
+      "y": 81,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_d_6_0": {
+      "name": "army_c15_jerrycan_64_d_6_0",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_d_0_0",
+      "x": -15,
+      "y": 4,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_d_6_1": {
+      "name": "army_c15_jerrycan_64_d_6_1",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_d_0_1",
+      "x": 4,
+      "y": 29,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_d_6_2": {
+      "name": "army_c15_jerrycan_64_d_6_2",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_d_0_2",
+      "x": 5,
+      "y": 30,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_d_6_3": {
+      "name": "army_c15_jerrycan_64_d_6_3",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_d_0_3",
+      "x": 3,
+      "y": 30,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_d_6_4": {
+      "name": "army_c15_jerrycan_64_d_6_4",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_d_0_4",
+      "x": 1,
+      "y": 32,
+      "exists": false
+    },
+    "army_c15_jerrycan_64_d_6_5": {
+      "name": "army_c15_jerrycan_64_d_6_5",
+      "flipH": 1,
+      "source": "army_c15_jerrycan_64_d_0_5",
+      "x": 4,
+      "y": 31,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  2,
+                  4,
+                  1,
+                  5,
+                  4,
+                  3,
+                  2,
+                  3,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "army_c15_jerrycan",
+    "visualization": "furniture_animated"
+  }
+}

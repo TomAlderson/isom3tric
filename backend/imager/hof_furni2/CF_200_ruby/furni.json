@@ -1,0 +1,61 @@
+{
+  "assets": {
+    "CF_200_ruby_64_a_2_0": {
+      "name": "CF_200_ruby_64_a_2_0",
+      "x": 23,
+      "y": 50,
+      "exists": true
+    },
+    "CF_200_ruby_32_a_2_0": {
+      "name": "CF_200_ruby_32_a_2_0",
+      "x": 12,
+      "y": 26,
+      "exists": true
+    },
+    "CF_200_ruby_icon_a": {
+      "name": "CF_200_ruby_icon_a",
+      "x": 11,
+      "y": 16,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.3
+    },
+    "directions": [
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_credit",
+    "type": "CF_200_ruby",
+    "visualization": "furniture_static"
+  }
+}

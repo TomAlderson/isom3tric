@@ -1,0 +1,160 @@
+{
+  "assets": {
+    "lon_skyline_64_a_2_0": {
+      "name": "lon_skyline_64_a_2_0",
+      "x": 97,
+      "y": 107,
+      "exists": true
+    },
+    "lon_skyline_64_b_2_0": {
+      "name": "lon_skyline_64_b_2_0",
+      "x": 97,
+      "y": 335,
+      "exists": true
+    },
+    "lon_skyline_icon_a": {
+      "name": "lon_skyline_icon_a",
+      "x": 15,
+      "y": 15,
+      "exists": true
+    },
+    "lon_skyline_64_a_4_0": {
+      "name": "lon_skyline_64_a_4_0",
+      "flipH": 1,
+      "source": "lon_skyline_64_a_2_0",
+      "x": 97,
+      "y": 107,
+      "exists": false
+    },
+    "lon_skyline_64_b_4_0": {
+      "name": "lon_skyline_64_b_4_0",
+      "flipH": 1,
+      "source": "lon_skyline_64_b_2_0",
+      "x": 97,
+      "y": 335,
+      "exists": false
+    },
+    "lon_skyline_32_a_2_0": {
+      "name": "lon_skyline_32_a_2_0",
+      "x": 49,
+      "y": 54,
+      "exists": true
+    },
+    "lon_skyline_32_b_2_0": {
+      "name": "lon_skyline_32_b_2_0",
+      "x": 49,
+      "y": 168,
+      "exists": true
+    },
+    "lon_skyline_32_a_4_0": {
+      "name": "lon_skyline_32_a_4_0",
+      "flipH": 1,
+      "source": "lon_skyline_32_a_2_0",
+      "x": 49,
+      "y": 54,
+      "exists": false
+    },
+    "lon_skyline_32_b_4_0": {
+      "name": "lon_skyline_32_b_4_0",
+      "flipH": 1,
+      "source": "lon_skyline_32_b_2_0",
+      "x": 49,
+      "y": 168,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 6.0938,
+      "y": 0.2,
+      "z": 3.5
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -250000
+        },
+        {
+          "layerId": 1,
+          "z": -250000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -250000
+        },
+        {
+          "layerId": 1,
+          "z": -250000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "lon_skyline",
+    "visualization": "furniture_animated"
+  }
+}

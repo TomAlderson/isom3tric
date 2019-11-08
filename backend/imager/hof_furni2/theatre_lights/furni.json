@@ -1,0 +1,272 @@
+{
+  "assets": {
+    "theatre_lights_32_a_2_0": {
+      "name": "theatre_lights_32_a_2_0",
+      "x": 20,
+      "y": 111,
+      "exists": true
+    },
+    "theatre_lights_32_b_2_0": {
+      "name": "theatre_lights_32_b_2_0",
+      "source": "theatre_lights_64_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "theatre_lights_32_b_2_1": {
+      "name": "theatre_lights_32_b_2_1",
+      "x": 2,
+      "y": 102,
+      "exists": true
+    },
+    "theatre_lights_32_c_2_0": {
+      "name": "theatre_lights_32_c_2_0",
+      "source": "theatre_lights_64_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "theatre_lights_32_c_2_1": {
+      "name": "theatre_lights_32_c_2_1",
+      "source": "theatre_lights_64_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "theatre_lights_32_a_6_0": {
+      "name": "theatre_lights_32_a_6_0",
+      "x": 99,
+      "y": 175,
+      "exists": true
+    },
+    "theatre_lights_32_b_6_0": {
+      "name": "theatre_lights_32_b_6_0",
+      "source": "theatre_lights_64_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "theatre_lights_32_b_6_1": {
+      "name": "theatre_lights_32_b_6_1",
+      "x": 34,
+      "y": 116,
+      "exists": true
+    },
+    "theatre_lights_32_c_6_0": {
+      "name": "theatre_lights_32_c_6_0",
+      "x": 116,
+      "y": 172,
+      "exists": true
+    },
+    "theatre_lights_32_c_6_1": {
+      "name": "theatre_lights_32_c_6_1",
+      "source": "theatre_lights_64_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "theatre_lights_64_a_2_0": {
+      "name": "theatre_lights_64_a_2_0",
+      "x": 41,
+      "y": 225,
+      "exists": true
+    },
+    "theatre_lights_64_b_2_0": {
+      "name": "theatre_lights_64_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": true
+    },
+    "theatre_lights_64_b_2_1": {
+      "name": "theatre_lights_64_b_2_1",
+      "x": 5,
+      "y": 204,
+      "exists": true
+    },
+    "theatre_lights_64_c_2_0": {
+      "name": "theatre_lights_64_c_2_0",
+      "x": -48,
+      "y": 201,
+      "exists": true
+    },
+    "theatre_lights_64_c_2_1": {
+      "name": "theatre_lights_64_c_2_1",
+      "source": "theatre_lights_64_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "theatre_lights_64_a_6_0": {
+      "name": "theatre_lights_64_a_6_0",
+      "x": 199,
+      "y": 351,
+      "exists": true
+    },
+    "theatre_lights_64_b_6_0": {
+      "name": "theatre_lights_64_b_6_0",
+      "source": "theatre_lights_64_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "theatre_lights_64_b_6_1": {
+      "name": "theatre_lights_64_b_6_1",
+      "x": 69,
+      "y": 236,
+      "exists": true
+    },
+    "theatre_lights_64_c_6_0": {
+      "name": "theatre_lights_64_c_6_0",
+      "x": 240,
+      "y": 345,
+      "exists": true
+    },
+    "theatre_lights_64_c_6_1": {
+      "name": "theatre_lights_64_c_6_1",
+      "source": "theatre_lights_64_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "theatre_lights_icon_a": {
+      "name": "theatre_lights_icon_a",
+      "x": 7,
+      "y": 12,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": []
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1,
+          "z": 500
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": 3000
+        },
+        {
+          "layerId": 2,
+          "alpha": 60,
+          "ignoreMouse": 1,
+          "z": -5000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": []
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1,
+          "z": 500
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": 3000
+        },
+        {
+          "layerId": 2,
+          "alpha": 60,
+          "ignoreMouse": 1,
+          "z": -5000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "theatre_lights",
+    "visualization": "furniture_animated"
+  }
+}

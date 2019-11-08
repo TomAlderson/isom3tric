@@ -1,0 +1,514 @@
+{
+  "assets": {
+    "uni_vinyl_64_a_4_0": {
+      "name": "uni_vinyl_64_a_4_0",
+      "x": 12,
+      "y": 12,
+      "exists": false
+    },
+    "uni_vinyl_64_a_4_1": {
+      "name": "uni_vinyl_64_a_4_1",
+      "x": 13,
+      "y": 29,
+      "exists": true
+    },
+    "uni_vinyl_64_a_4_2": {
+      "name": "uni_vinyl_64_a_4_2",
+      "x": 13,
+      "y": 29,
+      "exists": true
+    },
+    "uni_vinyl_64_a_4_3": {
+      "name": "uni_vinyl_64_a_4_3",
+      "x": 13,
+      "y": 29,
+      "exists": true
+    },
+    "uni_vinyl_64_a_4_4": {
+      "name": "uni_vinyl_64_a_4_4",
+      "x": 13,
+      "y": 29,
+      "exists": true
+    },
+    "uni_vinyl_64_a_4_5": {
+      "name": "uni_vinyl_64_a_4_5",
+      "x": 13,
+      "y": 29,
+      "exists": true
+    },
+    "uni_vinyl_64_a_4_6": {
+      "name": "uni_vinyl_64_a_4_6",
+      "x": 13,
+      "y": 29,
+      "exists": true
+    },
+    "uni_vinyl_64_a_4_7": {
+      "name": "uni_vinyl_64_a_4_7",
+      "x": 13,
+      "y": 29,
+      "exists": true
+    },
+    "uni_vinyl_32_a_4_0": {
+      "name": "uni_vinyl_32_a_4_0",
+      "x": 6,
+      "y": 5,
+      "exists": true
+    },
+    "uni_vinyl_32_a_4_1": {
+      "name": "uni_vinyl_32_a_4_1",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "uni_vinyl_32_a_4_2": {
+      "name": "uni_vinyl_32_a_4_2",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "uni_vinyl_32_a_4_3": {
+      "name": "uni_vinyl_32_a_4_3",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "uni_vinyl_32_a_4_4": {
+      "name": "uni_vinyl_32_a_4_4",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "uni_vinyl_32_a_4_5": {
+      "name": "uni_vinyl_32_a_4_5",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "uni_vinyl_32_a_4_6": {
+      "name": "uni_vinyl_32_a_4_6",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "uni_vinyl_32_a_4_7": {
+      "name": "uni_vinyl_32_a_4_7",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "uni_vinyl_icon_a": {
+      "name": "uni_vinyl_icon_a",
+      "x": 12,
+      "y": 14,
+      "exists": true
+    },
+    "uni_vinyl_64_a_2_0": {
+      "name": "uni_vinyl_64_a_2_0",
+      "flipH": 1,
+      "source": "uni_vinyl_64_a_4_0",
+      "x": 12,
+      "y": 12,
+      "exists": false
+    },
+    "uni_vinyl_64_a_2_1": {
+      "name": "uni_vinyl_64_a_2_1",
+      "flipH": 1,
+      "source": "uni_vinyl_64_a_4_1",
+      "x": 13,
+      "y": 29,
+      "exists": false
+    },
+    "uni_vinyl_64_a_2_2": {
+      "name": "uni_vinyl_64_a_2_2",
+      "flipH": 1,
+      "source": "uni_vinyl_64_a_4_2",
+      "x": 13,
+      "y": 29,
+      "exists": false
+    },
+    "uni_vinyl_64_a_2_3": {
+      "name": "uni_vinyl_64_a_2_3",
+      "flipH": 1,
+      "source": "uni_vinyl_64_a_4_3",
+      "x": 13,
+      "y": 29,
+      "exists": false
+    },
+    "uni_vinyl_64_a_2_4": {
+      "name": "uni_vinyl_64_a_2_4",
+      "flipH": 1,
+      "source": "uni_vinyl_64_a_4_4",
+      "x": 13,
+      "y": 29,
+      "exists": false
+    },
+    "uni_vinyl_64_a_2_5": {
+      "name": "uni_vinyl_64_a_2_5",
+      "flipH": 1,
+      "source": "uni_vinyl_64_a_4_5",
+      "x": 13,
+      "y": 29,
+      "exists": false
+    },
+    "uni_vinyl_64_a_2_6": {
+      "name": "uni_vinyl_64_a_2_6",
+      "flipH": 1,
+      "source": "uni_vinyl_64_a_4_6",
+      "x": 13,
+      "y": 29,
+      "exists": false
+    },
+    "uni_vinyl_64_a_2_7": {
+      "name": "uni_vinyl_64_a_2_7",
+      "flipH": 1,
+      "source": "uni_vinyl_64_a_4_7",
+      "x": 13,
+      "y": 29,
+      "exists": false
+    },
+    "uni_vinyl_32_a_2_0": {
+      "name": "uni_vinyl_32_a_2_0",
+      "flipH": 1,
+      "source": "uni_vinyl_32_a_4_0",
+      "x": 6,
+      "y": 5,
+      "exists": false
+    },
+    "uni_vinyl_32_a_2_1": {
+      "name": "uni_vinyl_32_a_2_1",
+      "flipH": 1,
+      "source": "uni_vinyl_32_a_4_1",
+      "x": 7,
+      "y": 14,
+      "exists": false
+    },
+    "uni_vinyl_32_a_2_2": {
+      "name": "uni_vinyl_32_a_2_2",
+      "flipH": 1,
+      "source": "uni_vinyl_32_a_4_2",
+      "x": 7,
+      "y": 14,
+      "exists": false
+    },
+    "uni_vinyl_32_a_2_3": {
+      "name": "uni_vinyl_32_a_2_3",
+      "flipH": 1,
+      "source": "uni_vinyl_32_a_4_3",
+      "x": 7,
+      "y": 14,
+      "exists": false
+    },
+    "uni_vinyl_32_a_2_4": {
+      "name": "uni_vinyl_32_a_2_4",
+      "flipH": 1,
+      "source": "uni_vinyl_32_a_4_4",
+      "x": 7,
+      "y": 14,
+      "exists": false
+    },
+    "uni_vinyl_32_a_2_5": {
+      "name": "uni_vinyl_32_a_2_5",
+      "flipH": 1,
+      "source": "uni_vinyl_32_a_4_5",
+      "x": 7,
+      "y": 14,
+      "exists": false
+    },
+    "uni_vinyl_32_a_2_6": {
+      "name": "uni_vinyl_32_a_2_6",
+      "flipH": 1,
+      "source": "uni_vinyl_32_a_4_6",
+      "x": 7,
+      "y": 14,
+      "exists": false
+    },
+    "uni_vinyl_32_a_2_7": {
+      "name": "uni_vinyl_32_a_2_7",
+      "flipH": 1,
+      "source": "uni_vinyl_32_a_4_7",
+      "x": 7,
+      "y": 14,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 0.2,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            }
+          ]
+        },
+        "7": {
+          "id": 7,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            }
+          ]
+        },
+        "8": {
+          "id": 8,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            }
+          ]
+        },
+        "7": {
+          "id": 7,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            }
+          ]
+        },
+        "8": {
+          "id": 8,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  8
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "uni_vinyl",
+    "visualization": "furniture_animated"
+  }
+}

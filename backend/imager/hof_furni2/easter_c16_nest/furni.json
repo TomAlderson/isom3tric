@@ -1,0 +1,103 @@
+{
+  "assets": {
+    "easter_c16_nest_64_sd_2_0": {
+      "name": "easter_c16_nest_64_sd_2_0",
+      "x": 21,
+      "y": 12,
+      "exists": true
+    },
+    "easter_c16_nest_64_a_2_0": {
+      "name": "easter_c16_nest_64_a_2_0",
+      "x": 35,
+      "y": 232,
+      "exists": true
+    },
+    "easter_c16_nest_64_b_2_0": {
+      "name": "easter_c16_nest_64_b_2_0",
+      "x": 59,
+      "y": 218,
+      "exists": true
+    },
+    "easter_c16_nest_icon_a": {
+      "name": "easter_c16_nest_icon_a",
+      "x": 8,
+      "y": 13,
+      "exists": true
+    },
+    "easter_c16_nest_64_sd_4_0": {
+      "name": "easter_c16_nest_64_sd_4_0",
+      "flipH": 1,
+      "source": "easter_c16_nest_64_sd_2_0",
+      "x": 21,
+      "y": 12,
+      "exists": false
+    },
+    "easter_c16_nest_64_a_4_0": {
+      "name": "easter_c16_nest_64_a_4_0",
+      "flipH": 1,
+      "source": "easter_c16_nest_64_a_2_0",
+      "x": 35,
+      "y": 232,
+      "exists": false
+    },
+    "easter_c16_nest_64_b_4_0": {
+      "name": "easter_c16_nest_64_b_4_0",
+      "flipH": 1,
+      "source": "easter_c16_nest_64_b_2_0",
+      "x": 59,
+      "y": 218,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 6.8
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "easter_c16_nest",
+    "visualization": "furniture_animated"
+  }
+}

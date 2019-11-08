@@ -1,0 +1,1732 @@
+{
+  "assets": {
+    "val_r19_sofa_64_sd_2_0": {
+      "name": "val_r19_sofa_64_sd_2_0",
+      "x": 63,
+      "y": 16,
+      "exists": true
+    },
+    "val_r19_sofa_64_a_2_0": {
+      "name": "val_r19_sofa_64_a_2_0",
+      "x": 37,
+      "y": 58,
+      "exists": true
+    },
+    "val_r19_sofa_64_b_2_0": {
+      "name": "val_r19_sofa_64_b_2_0",
+      "x": 70,
+      "y": 41,
+      "exists": true
+    },
+    "val_r19_sofa_64_c_2_0": {
+      "name": "val_r19_sofa_64_c_2_0",
+      "x": 33,
+      "y": -30,
+      "exists": true
+    },
+    "val_r19_sofa_64_d_2_0": {
+      "name": "val_r19_sofa_64_d_2_0",
+      "x": 66,
+      "y": 7,
+      "exists": true
+    },
+    "val_r19_sofa_64_e_2_1": {
+      "name": "val_r19_sofa_64_e_2_1",
+      "x": -5,
+      "y": 57,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_2_2": {
+      "name": "val_r19_sofa_64_e_2_2",
+      "x": -1,
+      "y": 67,
+      "exists": true
+    },
+    "val_r19_sofa_64_e_2_3": {
+      "name": "val_r19_sofa_64_e_2_3",
+      "x": -5,
+      "y": 77,
+      "exists": true
+    },
+    "val_r19_sofa_64_e_2_4": {
+      "name": "val_r19_sofa_64_e_2_4",
+      "x": -1,
+      "y": 87,
+      "exists": true
+    },
+    "val_r19_sofa_64_e_2_5": {
+      "name": "val_r19_sofa_64_e_2_5",
+      "x": -5,
+      "y": 97,
+      "exists": true
+    },
+    "val_r19_sofa_64_e_2_6": {
+      "name": "val_r19_sofa_64_e_2_6",
+      "x": -1,
+      "y": 107,
+      "exists": true
+    },
+    "val_r19_sofa_64_f_2_1": {
+      "name": "val_r19_sofa_64_f_2_1",
+      "x": 40,
+      "y": 52,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_2_2": {
+      "name": "val_r19_sofa_64_f_2_2",
+      "x": 44,
+      "y": 63,
+      "exists": true
+    },
+    "val_r19_sofa_64_f_2_3": {
+      "name": "val_r19_sofa_64_f_2_3",
+      "x": 40,
+      "y": 75,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_2_4": {
+      "name": "val_r19_sofa_64_f_2_4",
+      "x": 44,
+      "y": 87,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_2_5": {
+      "name": "val_r19_sofa_64_f_2_5",
+      "x": 40,
+      "y": 100,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_2_6": {
+      "name": "val_r19_sofa_64_f_2_6",
+      "x": 44,
+      "y": 114,
+      "exists": true
+    },
+    "val_r19_sofa_64_f_2_7": {
+      "name": "val_r19_sofa_64_f_2_7",
+      "x": 40,
+      "y": 129,
+      "exists": true
+    },
+    "val_r19_sofa_64_f_2_8": {
+      "name": "val_r19_sofa_64_f_2_8",
+      "x": 44,
+      "y": 145,
+      "exists": true
+    },
+    "val_r19_sofa_64_f_2_9": {
+      "name": "val_r19_sofa_64_f_2_9",
+      "x": 40,
+      "y": 163,
+      "exists": true
+    },
+    "val_r19_sofa_64_g_2_1": {
+      "name": "val_r19_sofa_64_g_2_1",
+      "x": 30,
+      "y": 36,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_2_2": {
+      "name": "val_r19_sofa_64_g_2_2",
+      "x": 26,
+      "y": 49,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_2_3": {
+      "name": "val_r19_sofa_64_g_2_3",
+      "x": 30,
+      "y": 63,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_2_4": {
+      "name": "val_r19_sofa_64_g_2_4",
+      "x": 26,
+      "y": 78,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_2_5": {
+      "name": "val_r19_sofa_64_g_2_5",
+      "x": 30,
+      "y": 94,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_2_6": {
+      "name": "val_r19_sofa_64_g_2_6",
+      "x": 26,
+      "y": 112,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_2_1": {
+      "name": "val_r19_sofa_64_h_2_1",
+      "x": 63,
+      "y": 38,
+      "exists": true
+    },
+    "val_r19_sofa_64_h_2_2": {
+      "name": "val_r19_sofa_64_h_2_2",
+      "x": 67,
+      "y": 48,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_2_3": {
+      "name": "val_r19_sofa_64_h_2_3",
+      "x": 63,
+      "y": 58,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_2_4": {
+      "name": "val_r19_sofa_64_h_2_4",
+      "x": 67,
+      "y": 68,
+      "exists": true
+    },
+    "val_r19_sofa_64_h_2_5": {
+      "name": "val_r19_sofa_64_h_2_5",
+      "x": 63,
+      "y": 78,
+      "exists": true
+    },
+    "val_r19_sofa_64_h_2_6": {
+      "name": "val_r19_sofa_64_h_2_6",
+      "x": 67,
+      "y": 90,
+      "exists": true
+    },
+    "val_r19_sofa_64_h_2_7": {
+      "name": "val_r19_sofa_64_h_2_7",
+      "x": 63,
+      "y": 104,
+      "exists": true
+    },
+    "val_r19_sofa_64_i_2_1": {
+      "name": "val_r19_sofa_64_i_2_1",
+      "x": 6,
+      "y": 55,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_2_2": {
+      "name": "val_r19_sofa_64_i_2_2",
+      "x": 10,
+      "y": 65,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_2_3": {
+      "name": "val_r19_sofa_64_i_2_3",
+      "x": 6,
+      "y": 75,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_2_4": {
+      "name": "val_r19_sofa_64_i_2_4",
+      "x": 10,
+      "y": 85,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_2_5": {
+      "name": "val_r19_sofa_64_i_2_5",
+      "x": 6,
+      "y": 95,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_2_6": {
+      "name": "val_r19_sofa_64_i_2_6",
+      "x": 10,
+      "y": 107,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_2_7": {
+      "name": "val_r19_sofa_64_i_2_7",
+      "x": 6,
+      "y": 121,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_2_1": {
+      "name": "val_r19_sofa_64_j_2_1",
+      "x": 48,
+      "y": 12,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_2_2": {
+      "name": "val_r19_sofa_64_j_2_2",
+      "x": 52,
+      "y": 25,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_2_3": {
+      "name": "val_r19_sofa_64_j_2_3",
+      "x": 48,
+      "y": 39,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_2_4": {
+      "name": "val_r19_sofa_64_j_2_4",
+      "x": 52,
+      "y": 54,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_2_5": {
+      "name": "val_r19_sofa_64_j_2_5",
+      "x": 48,
+      "y": 70,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_2_6": {
+      "name": "val_r19_sofa_64_j_2_6",
+      "x": 52,
+      "y": 89,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_2_7": {
+      "name": "val_r19_sofa_64_j_2_7",
+      "x": 48,
+      "y": 110,
+      "exists": false
+    },
+    "val_r19_sofa_64_sd_6_0": {
+      "name": "val_r19_sofa_64_sd_6_0",
+      "x": 63,
+      "y": 16,
+      "exists": false
+    },
+    "val_r19_sofa_64_a_6_0": {
+      "name": "val_r19_sofa_64_a_6_0",
+      "x": 1,
+      "y": 39,
+      "exists": true
+    },
+    "val_r19_sofa_64_b_6_0": {
+      "name": "val_r19_sofa_64_b_6_0",
+      "x": 49,
+      "y": 40,
+      "exists": true
+    },
+    "val_r19_sofa_64_c_6_0": {
+      "name": "val_r19_sofa_64_c_6_0",
+      "x": 34,
+      "y": -31,
+      "exists": true
+    },
+    "val_r19_sofa_64_d_6_0": {
+      "name": "val_r19_sofa_64_d_6_0",
+      "x": 66,
+      "y": 23,
+      "exists": true
+    },
+    "val_r19_sofa_64_e_6_1": {
+      "name": "val_r19_sofa_64_e_6_1",
+      "x": -5,
+      "y": 57,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_6_2": {
+      "name": "val_r19_sofa_64_e_6_2",
+      "x": -1,
+      "y": 67,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_6_3": {
+      "name": "val_r19_sofa_64_e_6_3",
+      "x": -5,
+      "y": 77,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_6_4": {
+      "name": "val_r19_sofa_64_e_6_4",
+      "x": -1,
+      "y": 87,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_6_5": {
+      "name": "val_r19_sofa_64_e_6_5",
+      "x": -5,
+      "y": 97,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_6_6": {
+      "name": "val_r19_sofa_64_e_6_6",
+      "x": -1,
+      "y": 107,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_6_1": {
+      "name": "val_r19_sofa_64_f_6_1",
+      "x": 40,
+      "y": 52,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_6_2": {
+      "name": "val_r19_sofa_64_f_6_2",
+      "x": 44,
+      "y": 63,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_6_3": {
+      "name": "val_r19_sofa_64_f_6_3",
+      "x": 40,
+      "y": 75,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_6_4": {
+      "name": "val_r19_sofa_64_f_6_4",
+      "x": 44,
+      "y": 87,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_6_5": {
+      "name": "val_r19_sofa_64_f_6_5",
+      "x": 40,
+      "y": 100,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_6_6": {
+      "name": "val_r19_sofa_64_f_6_6",
+      "x": 44,
+      "y": 114,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_6_7": {
+      "name": "val_r19_sofa_64_f_6_7",
+      "x": 40,
+      "y": 129,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_6_8": {
+      "name": "val_r19_sofa_64_f_6_8",
+      "x": 44,
+      "y": 145,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_6_9": {
+      "name": "val_r19_sofa_64_f_6_9",
+      "x": 40,
+      "y": 163,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_6_1": {
+      "name": "val_r19_sofa_64_g_6_1",
+      "x": 30,
+      "y": 36,
+      "exists": true
+    },
+    "val_r19_sofa_64_g_6_2": {
+      "name": "val_r19_sofa_64_g_6_2",
+      "x": 26,
+      "y": 49,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_6_3": {
+      "name": "val_r19_sofa_64_g_6_3",
+      "x": 30,
+      "y": 63,
+      "exists": true
+    },
+    "val_r19_sofa_64_g_6_4": {
+      "name": "val_r19_sofa_64_g_6_4",
+      "x": 26,
+      "y": 78,
+      "exists": true
+    },
+    "val_r19_sofa_64_g_6_5": {
+      "name": "val_r19_sofa_64_g_6_5",
+      "x": 30,
+      "y": 94,
+      "exists": true
+    },
+    "val_r19_sofa_64_g_6_6": {
+      "name": "val_r19_sofa_64_g_6_6",
+      "x": 26,
+      "y": 112,
+      "exists": true
+    },
+    "val_r19_sofa_64_h_6_1": {
+      "name": "val_r19_sofa_64_h_6_1",
+      "x": 63,
+      "y": 38,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_6_2": {
+      "name": "val_r19_sofa_64_h_6_2",
+      "x": 67,
+      "y": 48,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_6_3": {
+      "name": "val_r19_sofa_64_h_6_3",
+      "x": 63,
+      "y": 58,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_6_4": {
+      "name": "val_r19_sofa_64_h_6_4",
+      "x": 67,
+      "y": 68,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_6_5": {
+      "name": "val_r19_sofa_64_h_6_5",
+      "x": 63,
+      "y": 78,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_6_6": {
+      "name": "val_r19_sofa_64_h_6_6",
+      "x": 67,
+      "y": 90,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_6_7": {
+      "name": "val_r19_sofa_64_h_6_7",
+      "x": 63,
+      "y": 104,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_6_1": {
+      "name": "val_r19_sofa_64_i_6_1",
+      "x": 6,
+      "y": 55,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_6_2": {
+      "name": "val_r19_sofa_64_i_6_2",
+      "x": 10,
+      "y": 65,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_6_3": {
+      "name": "val_r19_sofa_64_i_6_3",
+      "x": 6,
+      "y": 75,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_6_4": {
+      "name": "val_r19_sofa_64_i_6_4",
+      "x": 10,
+      "y": 85,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_6_5": {
+      "name": "val_r19_sofa_64_i_6_5",
+      "x": 6,
+      "y": 95,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_6_6": {
+      "name": "val_r19_sofa_64_i_6_6",
+      "x": 10,
+      "y": 107,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_6_7": {
+      "name": "val_r19_sofa_64_i_6_7",
+      "x": 6,
+      "y": 121,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_6_1": {
+      "name": "val_r19_sofa_64_j_6_1",
+      "x": 48,
+      "y": 12,
+      "exists": true
+    },
+    "val_r19_sofa_64_j_6_2": {
+      "name": "val_r19_sofa_64_j_6_2",
+      "x": 52,
+      "y": 25,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_6_3": {
+      "name": "val_r19_sofa_64_j_6_3",
+      "x": 48,
+      "y": 39,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_6_4": {
+      "name": "val_r19_sofa_64_j_6_4",
+      "x": 52,
+      "y": 54,
+      "exists": true
+    },
+    "val_r19_sofa_64_j_6_5": {
+      "name": "val_r19_sofa_64_j_6_5",
+      "x": 48,
+      "y": 70,
+      "exists": true
+    },
+    "val_r19_sofa_64_j_6_6": {
+      "name": "val_r19_sofa_64_j_6_6",
+      "x": 52,
+      "y": 89,
+      "exists": true
+    },
+    "val_r19_sofa_64_j_6_7": {
+      "name": "val_r19_sofa_64_j_6_7",
+      "x": 48,
+      "y": 110,
+      "exists": true
+    },
+    "val_r19_sofa_icon_a": {
+      "name": "val_r19_sofa_icon_a",
+      "x": 14,
+      "y": 10,
+      "exists": true
+    },
+    "val_r19_sofa_64_sd_4_0": {
+      "name": "val_r19_sofa_64_sd_4_0",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_sd_2_0",
+      "x": 63,
+      "y": 16,
+      "exists": false
+    },
+    "val_r19_sofa_64_a_4_0": {
+      "name": "val_r19_sofa_64_a_4_0",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_a_2_0",
+      "x": 37,
+      "y": 58,
+      "exists": false
+    },
+    "val_r19_sofa_64_b_4_0": {
+      "name": "val_r19_sofa_64_b_4_0",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_b_2_0",
+      "x": 70,
+      "y": 41,
+      "exists": false
+    },
+    "val_r19_sofa_64_c_4_0": {
+      "name": "val_r19_sofa_64_c_4_0",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_c_2_0",
+      "x": 33,
+      "y": -30,
+      "exists": false
+    },
+    "val_r19_sofa_64_d_4_0": {
+      "name": "val_r19_sofa_64_d_4_0",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_d_2_0",
+      "x": 66,
+      "y": 7,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_4_1": {
+      "name": "val_r19_sofa_64_e_4_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_2_1",
+      "x": -5,
+      "y": 57,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_4_2": {
+      "name": "val_r19_sofa_64_e_4_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_2_2",
+      "x": -1,
+      "y": 67,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_4_3": {
+      "name": "val_r19_sofa_64_e_4_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_2_3",
+      "x": -5,
+      "y": 77,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_4_4": {
+      "name": "val_r19_sofa_64_e_4_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_2_4",
+      "x": -1,
+      "y": 87,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_4_5": {
+      "name": "val_r19_sofa_64_e_4_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_2_5",
+      "x": -5,
+      "y": 97,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_4_6": {
+      "name": "val_r19_sofa_64_e_4_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_2_6",
+      "x": -1,
+      "y": 107,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_4_1": {
+      "name": "val_r19_sofa_64_f_4_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_2_1",
+      "x": 40,
+      "y": 52,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_4_2": {
+      "name": "val_r19_sofa_64_f_4_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_2_2",
+      "x": 44,
+      "y": 63,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_4_3": {
+      "name": "val_r19_sofa_64_f_4_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_2_3",
+      "x": 40,
+      "y": 75,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_4_4": {
+      "name": "val_r19_sofa_64_f_4_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_2_4",
+      "x": 44,
+      "y": 87,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_4_5": {
+      "name": "val_r19_sofa_64_f_4_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_2_5",
+      "x": 40,
+      "y": 100,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_4_6": {
+      "name": "val_r19_sofa_64_f_4_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_2_6",
+      "x": 44,
+      "y": 114,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_4_7": {
+      "name": "val_r19_sofa_64_f_4_7",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_2_7",
+      "x": 40,
+      "y": 129,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_4_8": {
+      "name": "val_r19_sofa_64_f_4_8",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_2_8",
+      "x": 44,
+      "y": 145,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_4_9": {
+      "name": "val_r19_sofa_64_f_4_9",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_2_9",
+      "x": 40,
+      "y": 163,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_4_1": {
+      "name": "val_r19_sofa_64_g_4_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_2_1",
+      "x": 30,
+      "y": 36,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_4_2": {
+      "name": "val_r19_sofa_64_g_4_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_2_2",
+      "x": 26,
+      "y": 49,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_4_3": {
+      "name": "val_r19_sofa_64_g_4_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_2_3",
+      "x": 30,
+      "y": 63,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_4_4": {
+      "name": "val_r19_sofa_64_g_4_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_2_4",
+      "x": 26,
+      "y": 78,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_4_5": {
+      "name": "val_r19_sofa_64_g_4_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_2_5",
+      "x": 30,
+      "y": 94,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_4_6": {
+      "name": "val_r19_sofa_64_g_4_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_2_6",
+      "x": 26,
+      "y": 112,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_4_1": {
+      "name": "val_r19_sofa_64_h_4_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_2_1",
+      "x": 63,
+      "y": 38,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_4_2": {
+      "name": "val_r19_sofa_64_h_4_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_2_2",
+      "x": 67,
+      "y": 48,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_4_3": {
+      "name": "val_r19_sofa_64_h_4_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_2_3",
+      "x": 63,
+      "y": 58,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_4_4": {
+      "name": "val_r19_sofa_64_h_4_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_2_4",
+      "x": 67,
+      "y": 68,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_4_5": {
+      "name": "val_r19_sofa_64_h_4_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_2_5",
+      "x": 63,
+      "y": 78,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_4_6": {
+      "name": "val_r19_sofa_64_h_4_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_2_6",
+      "x": 67,
+      "y": 90,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_4_7": {
+      "name": "val_r19_sofa_64_h_4_7",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_2_7",
+      "x": 63,
+      "y": 104,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_4_1": {
+      "name": "val_r19_sofa_64_i_4_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_2_1",
+      "x": 6,
+      "y": 55,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_4_2": {
+      "name": "val_r19_sofa_64_i_4_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_2_2",
+      "x": 10,
+      "y": 65,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_4_3": {
+      "name": "val_r19_sofa_64_i_4_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_2_3",
+      "x": 6,
+      "y": 75,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_4_4": {
+      "name": "val_r19_sofa_64_i_4_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_2_4",
+      "x": 10,
+      "y": 85,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_4_5": {
+      "name": "val_r19_sofa_64_i_4_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_2_5",
+      "x": 6,
+      "y": 95,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_4_6": {
+      "name": "val_r19_sofa_64_i_4_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_2_6",
+      "x": 10,
+      "y": 107,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_4_7": {
+      "name": "val_r19_sofa_64_i_4_7",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_2_7",
+      "x": 6,
+      "y": 121,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_4_1": {
+      "name": "val_r19_sofa_64_j_4_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_2_1",
+      "x": 48,
+      "y": 12,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_4_2": {
+      "name": "val_r19_sofa_64_j_4_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_2_2",
+      "x": 52,
+      "y": 25,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_4_3": {
+      "name": "val_r19_sofa_64_j_4_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_2_3",
+      "x": 48,
+      "y": 39,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_4_4": {
+      "name": "val_r19_sofa_64_j_4_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_2_4",
+      "x": 52,
+      "y": 54,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_4_5": {
+      "name": "val_r19_sofa_64_j_4_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_2_5",
+      "x": 48,
+      "y": 70,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_4_6": {
+      "name": "val_r19_sofa_64_j_4_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_2_6",
+      "x": 52,
+      "y": 89,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_4_7": {
+      "name": "val_r19_sofa_64_j_4_7",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_2_7",
+      "x": 48,
+      "y": 110,
+      "exists": false
+    },
+    "val_r19_sofa_64_sd_0_0": {
+      "name": "val_r19_sofa_64_sd_0_0",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_sd_6_0",
+      "x": 63,
+      "y": 16,
+      "exists": false
+    },
+    "val_r19_sofa_64_a_0_0": {
+      "name": "val_r19_sofa_64_a_0_0",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_a_6_0",
+      "x": 1,
+      "y": 39,
+      "exists": false
+    },
+    "val_r19_sofa_64_b_0_0": {
+      "name": "val_r19_sofa_64_b_0_0",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_b_6_0",
+      "x": 49,
+      "y": 40,
+      "exists": false
+    },
+    "val_r19_sofa_64_c_0_0": {
+      "name": "val_r19_sofa_64_c_0_0",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_c_6_0",
+      "x": 34,
+      "y": -31,
+      "exists": false
+    },
+    "val_r19_sofa_64_d_0_0": {
+      "name": "val_r19_sofa_64_d_0_0",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_d_6_0",
+      "x": 66,
+      "y": 23,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_0_1": {
+      "name": "val_r19_sofa_64_e_0_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_6_1",
+      "x": -5,
+      "y": 57,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_0_2": {
+      "name": "val_r19_sofa_64_e_0_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_6_2",
+      "x": -1,
+      "y": 67,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_0_3": {
+      "name": "val_r19_sofa_64_e_0_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_6_3",
+      "x": -5,
+      "y": 77,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_0_4": {
+      "name": "val_r19_sofa_64_e_0_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_6_4",
+      "x": -1,
+      "y": 87,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_0_5": {
+      "name": "val_r19_sofa_64_e_0_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_6_5",
+      "x": -5,
+      "y": 97,
+      "exists": false
+    },
+    "val_r19_sofa_64_e_0_6": {
+      "name": "val_r19_sofa_64_e_0_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_e_6_6",
+      "x": -1,
+      "y": 107,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_0_1": {
+      "name": "val_r19_sofa_64_f_0_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_6_1",
+      "x": 40,
+      "y": 52,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_0_2": {
+      "name": "val_r19_sofa_64_f_0_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_6_2",
+      "x": 44,
+      "y": 63,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_0_3": {
+      "name": "val_r19_sofa_64_f_0_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_6_3",
+      "x": 40,
+      "y": 75,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_0_4": {
+      "name": "val_r19_sofa_64_f_0_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_6_4",
+      "x": 44,
+      "y": 87,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_0_5": {
+      "name": "val_r19_sofa_64_f_0_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_6_5",
+      "x": 40,
+      "y": 100,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_0_6": {
+      "name": "val_r19_sofa_64_f_0_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_6_6",
+      "x": 44,
+      "y": 114,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_0_7": {
+      "name": "val_r19_sofa_64_f_0_7",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_6_7",
+      "x": 40,
+      "y": 129,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_0_8": {
+      "name": "val_r19_sofa_64_f_0_8",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_6_8",
+      "x": 44,
+      "y": 145,
+      "exists": false
+    },
+    "val_r19_sofa_64_f_0_9": {
+      "name": "val_r19_sofa_64_f_0_9",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_f_6_9",
+      "x": 40,
+      "y": 163,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_0_1": {
+      "name": "val_r19_sofa_64_g_0_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_6_1",
+      "x": 30,
+      "y": 36,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_0_2": {
+      "name": "val_r19_sofa_64_g_0_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_6_2",
+      "x": 26,
+      "y": 49,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_0_3": {
+      "name": "val_r19_sofa_64_g_0_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_6_3",
+      "x": 30,
+      "y": 63,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_0_4": {
+      "name": "val_r19_sofa_64_g_0_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_6_4",
+      "x": 26,
+      "y": 78,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_0_5": {
+      "name": "val_r19_sofa_64_g_0_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_6_5",
+      "x": 30,
+      "y": 94,
+      "exists": false
+    },
+    "val_r19_sofa_64_g_0_6": {
+      "name": "val_r19_sofa_64_g_0_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_g_6_6",
+      "x": 26,
+      "y": 112,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_0_1": {
+      "name": "val_r19_sofa_64_h_0_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_6_1",
+      "x": 63,
+      "y": 38,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_0_2": {
+      "name": "val_r19_sofa_64_h_0_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_6_2",
+      "x": 67,
+      "y": 48,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_0_3": {
+      "name": "val_r19_sofa_64_h_0_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_6_3",
+      "x": 63,
+      "y": 58,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_0_4": {
+      "name": "val_r19_sofa_64_h_0_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_6_4",
+      "x": 67,
+      "y": 68,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_0_5": {
+      "name": "val_r19_sofa_64_h_0_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_6_5",
+      "x": 63,
+      "y": 78,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_0_6": {
+      "name": "val_r19_sofa_64_h_0_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_6_6",
+      "x": 67,
+      "y": 90,
+      "exists": false
+    },
+    "val_r19_sofa_64_h_0_7": {
+      "name": "val_r19_sofa_64_h_0_7",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_h_6_7",
+      "x": 63,
+      "y": 104,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_0_1": {
+      "name": "val_r19_sofa_64_i_0_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_6_1",
+      "x": 6,
+      "y": 55,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_0_2": {
+      "name": "val_r19_sofa_64_i_0_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_6_2",
+      "x": 10,
+      "y": 65,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_0_3": {
+      "name": "val_r19_sofa_64_i_0_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_6_3",
+      "x": 6,
+      "y": 75,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_0_4": {
+      "name": "val_r19_sofa_64_i_0_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_6_4",
+      "x": 10,
+      "y": 85,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_0_5": {
+      "name": "val_r19_sofa_64_i_0_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_6_5",
+      "x": 6,
+      "y": 95,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_0_6": {
+      "name": "val_r19_sofa_64_i_0_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_6_6",
+      "x": 10,
+      "y": 107,
+      "exists": false
+    },
+    "val_r19_sofa_64_i_0_7": {
+      "name": "val_r19_sofa_64_i_0_7",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_i_6_7",
+      "x": 6,
+      "y": 121,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_0_1": {
+      "name": "val_r19_sofa_64_j_0_1",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_6_1",
+      "x": 48,
+      "y": 12,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_0_2": {
+      "name": "val_r19_sofa_64_j_0_2",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_6_2",
+      "x": 52,
+      "y": 25,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_0_3": {
+      "name": "val_r19_sofa_64_j_0_3",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_6_3",
+      "x": 48,
+      "y": 39,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_0_4": {
+      "name": "val_r19_sofa_64_j_0_4",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_6_4",
+      "x": 52,
+      "y": 54,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_0_5": {
+      "name": "val_r19_sofa_64_j_0_5",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_6_5",
+      "x": 48,
+      "y": 70,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_0_6": {
+      "name": "val_r19_sofa_64_j_0_6",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_6_6",
+      "x": 52,
+      "y": 89,
+      "exists": false
+    },
+    "val_r19_sofa_64_j_0_7": {
+      "name": "val_r19_sofa_64_j_0_7",
+      "flipH": 1,
+      "source": "val_r19_sofa_64_j_6_7",
+      "x": 48,
+      "y": 110,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      270,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 10,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1100
+        },
+        {
+          "layerId": 3,
+          "z": 1100
+        },
+        {
+          "layerId": 4,
+          "z": 300
+        },
+        {
+          "layerId": 5,
+          "z": 300
+        },
+        {
+          "layerId": 6,
+          "z": 1000
+        },
+        {
+          "layerId": 7,
+          "z": 1000
+        },
+        {
+          "layerId": 8,
+          "z": 1000
+        },
+        {
+          "layerId": 9,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "val_r19_sofa",
+    "visualization": "furniture_animated"
+  }
+}

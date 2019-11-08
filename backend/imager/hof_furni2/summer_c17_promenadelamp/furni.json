@@ -1,0 +1,195 @@
+{
+  "assets": {
+    "summer_c17_promenadelamp_64_sd_0_0": {
+      "name": "summer_c17_promenadelamp_64_sd_0_0",
+      "x": 30,
+      "y": 15,
+      "exists": true
+    },
+    "summer_c17_promenadelamp_64_a_0_0": {
+      "name": "summer_c17_promenadelamp_64_a_0_0",
+      "x": 31,
+      "y": 182,
+      "exists": true
+    },
+    "summer_c17_promenadelamp_64_b_0_0": {
+      "name": "summer_c17_promenadelamp_64_b_0_0",
+      "x": 74,
+      "y": 213,
+      "exists": true
+    },
+    "summer_c17_promenadelamp_64_b_0_1": {
+      "name": "summer_c17_promenadelamp_64_b_0_1",
+      "x": -6,
+      "y": 157,
+      "exists": true
+    },
+    "summer_c17_promenadelamp_64_c_0_0": {
+      "name": "summer_c17_promenadelamp_64_c_0_0",
+      "x": 26,
+      "y": 182,
+      "exists": true
+    },
+    "summer_c17_promenadelamp_icon_a": {
+      "name": "summer_c17_promenadelamp_icon_a",
+      "x": 6,
+      "y": 14,
+      "exists": true
+    },
+    "summer_c17_promenadelamp_64_sd_2_0": {
+      "name": "summer_c17_promenadelamp_64_sd_2_0",
+      "flipH": 1,
+      "source": "summer_c17_promenadelamp_64_sd_0_0",
+      "x": 30,
+      "y": 15,
+      "exists": false
+    },
+    "summer_c17_promenadelamp_64_a_2_0": {
+      "name": "summer_c17_promenadelamp_64_a_2_0",
+      "flipH": 1,
+      "source": "summer_c17_promenadelamp_64_a_0_0",
+      "x": 31,
+      "y": 182,
+      "exists": false
+    },
+    "summer_c17_promenadelamp_64_b_2_0": {
+      "name": "summer_c17_promenadelamp_64_b_2_0",
+      "flipH": 1,
+      "source": "summer_c17_promenadelamp_64_b_0_0",
+      "x": 74,
+      "y": 213,
+      "exists": false
+    },
+    "summer_c17_promenadelamp_64_b_2_1": {
+      "name": "summer_c17_promenadelamp_64_b_2_1",
+      "flipH": 1,
+      "source": "summer_c17_promenadelamp_64_b_0_1",
+      "x": -6,
+      "y": 157,
+      "exists": false
+    },
+    "summer_c17_promenadelamp_64_c_2_0": {
+      "name": "summer_c17_promenadelamp_64_c_2_0",
+      "flipH": 1,
+      "source": "summer_c17_promenadelamp_64_c_0_0",
+      "x": 26,
+      "y": 182,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "summer_c17_promenadelamp",
+    "visualization": "furniture_animated"
+  }
+}

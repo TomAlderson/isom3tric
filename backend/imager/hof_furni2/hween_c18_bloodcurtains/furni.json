@@ -1,0 +1,177 @@
+{
+  "assets": {
+    "hween_c18_bloodcurtains_64_d_0_1": {
+      "name": "hween_c18_bloodcurtains_64_d_0_1",
+      "x": 1,
+      "y": 2,
+      "exists": true
+    },
+    "hween_c18_bloodcurtains_64_b_0_1": {
+      "name": "hween_c18_bloodcurtains_64_b_0_1",
+      "x": 3,
+      "y": 138,
+      "exists": false
+    },
+    "hween_c18_bloodcurtains_64_c_0_0": {
+      "name": "hween_c18_bloodcurtains_64_c_0_0",
+      "x": 33,
+      "y": 18,
+      "exists": false
+    },
+    "hween_c18_bloodcurtains_64_a_0_0": {
+      "name": "hween_c18_bloodcurtains_64_a_0_0",
+      "x": 35,
+      "y": 154,
+      "exists": true
+    },
+    "hween_c18_bloodcurtains_icon_a": {
+      "name": "hween_c18_bloodcurtains_icon_a",
+      "x": 3,
+      "y": 12,
+      "exists": true
+    },
+    "hween_c18_bloodcurtains_64_d_2_1": {
+      "name": "hween_c18_bloodcurtains_64_d_2_1",
+      "flipH": 1,
+      "source": "hween_c18_bloodcurtains_64_d_0_1",
+      "x": 1,
+      "y": 2,
+      "exists": false
+    },
+    "hween_c18_bloodcurtains_64_b_2_1": {
+      "name": "hween_c18_bloodcurtains_64_b_2_1",
+      "flipH": 1,
+      "source": "hween_c18_bloodcurtains_64_b_0_1",
+      "x": 3,
+      "y": 138,
+      "exists": false
+    },
+    "hween_c18_bloodcurtains_64_c_2_0": {
+      "name": "hween_c18_bloodcurtains_64_c_2_0",
+      "flipH": 1,
+      "source": "hween_c18_bloodcurtains_64_c_0_0",
+      "x": 33,
+      "y": 18,
+      "exists": false
+    },
+    "hween_c18_bloodcurtains_64_a_2_0": {
+      "name": "hween_c18_bloodcurtains_64_a_2_0",
+      "flipH": 1,
+      "source": "hween_c18_bloodcurtains_64_a_0_0",
+      "x": 35,
+      "y": 154,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.0001
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 200
+        },
+        {
+          "layerId": 2,
+          "z": -3000
+        },
+        {
+          "layerId": 3,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween_c18_bloodcurtains",
+    "visualization": "furniture_animated"
+  }
+}

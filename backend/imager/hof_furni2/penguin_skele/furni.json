@@ -1,0 +1,752 @@
+{
+  "assets": {
+    "penguin_skele_32_sd_4_0": {
+      "name": "penguin_skele_32_sd_4_0",
+      "x": 7,
+      "y": 1,
+      "exists": true
+    },
+    "penguin_skele_32_a_4_0": {
+      "name": "penguin_skele_32_a_4_0",
+      "x": 7,
+      "y": 26,
+      "exists": true
+    },
+    "penguin_skele_32_a_4_1": {
+      "name": "penguin_skele_32_a_4_1",
+      "x": 10,
+      "y": 26,
+      "exists": true
+    },
+    "penguin_skele_32_a_4_2": {
+      "name": "penguin_skele_32_a_4_2",
+      "x": 10,
+      "y": 26,
+      "exists": true
+    },
+    "penguin_skele_32_a_4_3": {
+      "name": "penguin_skele_32_a_4_3",
+      "x": 7,
+      "y": 26,
+      "exists": true
+    },
+    "penguin_skele_32_a_4_4": {
+      "name": "penguin_skele_32_a_4_4",
+      "x": 7,
+      "y": 26,
+      "exists": true
+    },
+    "penguin_skele_32_a_4_5": {
+      "name": "penguin_skele_32_a_4_5",
+      "x": 7,
+      "y": 26,
+      "exists": true
+    },
+    "penguin_skele_32_a_4_6": {
+      "name": "penguin_skele_32_a_4_6",
+      "x": 7,
+      "y": 26,
+      "exists": true
+    },
+    "penguin_skele_32_a_4_7": {
+      "name": "penguin_skele_32_a_4_7",
+      "x": 7,
+      "y": 26,
+      "exists": true
+    },
+    "penguin_skele_32_a_4_8": {
+      "name": "penguin_skele_32_a_4_8",
+      "x": 11,
+      "y": 26,
+      "exists": true
+    },
+    "penguin_skele_32_a_4_9": {
+      "name": "penguin_skele_32_a_4_9",
+      "x": 11,
+      "y": 26,
+      "exists": true
+    },
+    "penguin_skele_32_a_4_10": {
+      "name": "penguin_skele_32_a_4_10",
+      "x": 7,
+      "y": 26,
+      "exists": true
+    },
+    "penguin_skele_64_sd_4_0": {
+      "name": "penguin_skele_64_sd_4_0",
+      "x": 14,
+      "y": 5,
+      "exists": true
+    },
+    "penguin_skele_64_a_4_0": {
+      "name": "penguin_skele_64_a_4_0",
+      "x": 16,
+      "y": 52,
+      "exists": true
+    },
+    "penguin_skele_64_a_4_1": {
+      "name": "penguin_skele_64_a_4_1",
+      "x": 21,
+      "y": 52,
+      "exists": true
+    },
+    "penguin_skele_64_a_4_2": {
+      "name": "penguin_skele_64_a_4_2",
+      "x": 21,
+      "y": 52,
+      "exists": true
+    },
+    "penguin_skele_64_a_4_3": {
+      "name": "penguin_skele_64_a_4_3",
+      "x": 17,
+      "y": 52,
+      "exists": true
+    },
+    "penguin_skele_64_a_4_4": {
+      "name": "penguin_skele_64_a_4_4",
+      "x": 17,
+      "y": 52,
+      "exists": true
+    },
+    "penguin_skele_64_a_4_5": {
+      "name": "penguin_skele_64_a_4_5",
+      "x": 16,
+      "y": 52,
+      "exists": true
+    },
+    "penguin_skele_64_a_4_6": {
+      "name": "penguin_skele_64_a_4_6",
+      "x": 16,
+      "y": 52,
+      "exists": true
+    },
+    "penguin_skele_64_a_4_7": {
+      "name": "penguin_skele_64_a_4_7",
+      "x": 17,
+      "y": 52,
+      "exists": true
+    },
+    "penguin_skele_64_a_4_8": {
+      "name": "penguin_skele_64_a_4_8",
+      "x": 23,
+      "y": 52,
+      "exists": true
+    },
+    "penguin_skele_64_a_4_9": {
+      "name": "penguin_skele_64_a_4_9",
+      "x": 23,
+      "y": 52,
+      "exists": true
+    },
+    "penguin_skele_64_a_4_10": {
+      "name": "penguin_skele_64_a_4_10",
+      "x": 17,
+      "y": 52,
+      "exists": true
+    },
+    "penguin_skele_icon_a": {
+      "name": "penguin_skele_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "penguin_skele_32_sd_2_0": {
+      "name": "penguin_skele_32_sd_2_0",
+      "flipH": 1,
+      "source": "penguin_skele_32_sd_4_0",
+      "x": 7,
+      "y": 1,
+      "exists": false
+    },
+    "penguin_skele_32_a_2_0": {
+      "name": "penguin_skele_32_a_2_0",
+      "flipH": 1,
+      "source": "penguin_skele_32_a_4_0",
+      "x": 7,
+      "y": 26,
+      "exists": false
+    },
+    "penguin_skele_32_a_2_1": {
+      "name": "penguin_skele_32_a_2_1",
+      "flipH": 1,
+      "source": "penguin_skele_32_a_4_1",
+      "x": 10,
+      "y": 26,
+      "exists": false
+    },
+    "penguin_skele_32_a_2_2": {
+      "name": "penguin_skele_32_a_2_2",
+      "flipH": 1,
+      "source": "penguin_skele_32_a_4_2",
+      "x": 10,
+      "y": 26,
+      "exists": false
+    },
+    "penguin_skele_32_a_2_3": {
+      "name": "penguin_skele_32_a_2_3",
+      "flipH": 1,
+      "source": "penguin_skele_32_a_4_3",
+      "x": 7,
+      "y": 26,
+      "exists": false
+    },
+    "penguin_skele_32_a_2_4": {
+      "name": "penguin_skele_32_a_2_4",
+      "flipH": 1,
+      "source": "penguin_skele_32_a_4_4",
+      "x": 7,
+      "y": 26,
+      "exists": false
+    },
+    "penguin_skele_32_a_2_5": {
+      "name": "penguin_skele_32_a_2_5",
+      "flipH": 1,
+      "source": "penguin_skele_32_a_4_5",
+      "x": 7,
+      "y": 26,
+      "exists": false
+    },
+    "penguin_skele_32_a_2_6": {
+      "name": "penguin_skele_32_a_2_6",
+      "flipH": 1,
+      "source": "penguin_skele_32_a_4_6",
+      "x": 7,
+      "y": 26,
+      "exists": false
+    },
+    "penguin_skele_32_a_2_7": {
+      "name": "penguin_skele_32_a_2_7",
+      "flipH": 1,
+      "source": "penguin_skele_32_a_4_7",
+      "x": 7,
+      "y": 26,
+      "exists": false
+    },
+    "penguin_skele_32_a_2_8": {
+      "name": "penguin_skele_32_a_2_8",
+      "flipH": 1,
+      "source": "penguin_skele_32_a_4_8",
+      "x": 11,
+      "y": 26,
+      "exists": false
+    },
+    "penguin_skele_32_a_2_9": {
+      "name": "penguin_skele_32_a_2_9",
+      "flipH": 1,
+      "source": "penguin_skele_32_a_4_9",
+      "x": 11,
+      "y": 26,
+      "exists": false
+    },
+    "penguin_skele_32_a_2_10": {
+      "name": "penguin_skele_32_a_2_10",
+      "flipH": 1,
+      "source": "penguin_skele_32_a_4_10",
+      "x": 7,
+      "y": 26,
+      "exists": false
+    },
+    "penguin_skele_64_sd_2_0": {
+      "name": "penguin_skele_64_sd_2_0",
+      "flipH": 1,
+      "source": "penguin_skele_64_sd_4_0",
+      "x": 14,
+      "y": 5,
+      "exists": false
+    },
+    "penguin_skele_64_a_2_0": {
+      "name": "penguin_skele_64_a_2_0",
+      "flipH": 1,
+      "source": "penguin_skele_64_a_4_0",
+      "x": 16,
+      "y": 52,
+      "exists": false
+    },
+    "penguin_skele_64_a_2_1": {
+      "name": "penguin_skele_64_a_2_1",
+      "flipH": 1,
+      "source": "penguin_skele_64_a_4_1",
+      "x": 21,
+      "y": 52,
+      "exists": false
+    },
+    "penguin_skele_64_a_2_2": {
+      "name": "penguin_skele_64_a_2_2",
+      "flipH": 1,
+      "source": "penguin_skele_64_a_4_2",
+      "x": 21,
+      "y": 52,
+      "exists": false
+    },
+    "penguin_skele_64_a_2_3": {
+      "name": "penguin_skele_64_a_2_3",
+      "flipH": 1,
+      "source": "penguin_skele_64_a_4_3",
+      "x": 17,
+      "y": 52,
+      "exists": false
+    },
+    "penguin_skele_64_a_2_4": {
+      "name": "penguin_skele_64_a_2_4",
+      "flipH": 1,
+      "source": "penguin_skele_64_a_4_4",
+      "x": 17,
+      "y": 52,
+      "exists": false
+    },
+    "penguin_skele_64_a_2_5": {
+      "name": "penguin_skele_64_a_2_5",
+      "flipH": 1,
+      "source": "penguin_skele_64_a_4_5",
+      "x": 16,
+      "y": 52,
+      "exists": false
+    },
+    "penguin_skele_64_a_2_6": {
+      "name": "penguin_skele_64_a_2_6",
+      "flipH": 1,
+      "source": "penguin_skele_64_a_4_6",
+      "x": 16,
+      "y": 52,
+      "exists": false
+    },
+    "penguin_skele_64_a_2_7": {
+      "name": "penguin_skele_64_a_2_7",
+      "flipH": 1,
+      "source": "penguin_skele_64_a_4_7",
+      "x": 17,
+      "y": 52,
+      "exists": false
+    },
+    "penguin_skele_64_a_2_8": {
+      "name": "penguin_skele_64_a_2_8",
+      "flipH": 1,
+      "source": "penguin_skele_64_a_4_8",
+      "x": 23,
+      "y": 52,
+      "exists": false
+    },
+    "penguin_skele_64_a_2_9": {
+      "name": "penguin_skele_64_a_2_9",
+      "flipH": 1,
+      "source": "penguin_skele_64_a_4_9",
+      "x": 23,
+      "y": 52,
+      "exists": false
+    },
+    "penguin_skele_64_a_2_10": {
+      "name": "penguin_skele_64_a_2_10",
+      "flipH": 1,
+      "source": "penguin_skele_64_a_4_10",
+      "x": 17,
+      "y": 52,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  0,
+                  6,
+                  0,
+                  5,
+                  0,
+                  6,
+                  0,
+                  5,
+                  0,
+                  6,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  3,
+                  7,
+                  10,
+                  8,
+                  9,
+                  9,
+                  10,
+                  3,
+                  7,
+                  7,
+                  10,
+                  8,
+                  9,
+                  9,
+                  10,
+                  3,
+                  7,
+                  7,
+                  10,
+                  8,
+                  9,
+                  9,
+                  10,
+                  3,
+                  7,
+                  7
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  0,
+                  6,
+                  0,
+                  5,
+                  0,
+                  6,
+                  0,
+                  5,
+                  0,
+                  6,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  3,
+                  7,
+                  10,
+                  8,
+                  9,
+                  9,
+                  10,
+                  3,
+                  7,
+                  7,
+                  10,
+                  8,
+                  9,
+                  9,
+                  10,
+                  3,
+                  7,
+                  7,
+                  10,
+                  8,
+                  9,
+                  9,
+                  10,
+                  3,
+                  7,
+                  7
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "penguin_skele",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "assets": {
+    "ecotron_box_64_a_0_0": {
+      "name": "ecotron_box_64_a_0_0",
+      "x": 31,
+      "y": 48,
+      "exists": true
+    },
+    "ecotron_box_64_a_2_0": {
+      "name": "ecotron_box_64_a_2_0",
+      "x": 31,
+      "y": 48,
+      "exists": true
+    },
+    "ecotron_box_64_a_4_0": {
+      "name": "ecotron_box_64_a_4_0",
+      "x": 31,
+      "y": 48,
+      "exists": true
+    },
+    "ecotron_box_64_a_6_0": {
+      "name": "ecotron_box_64_a_6_0",
+      "x": 31,
+      "y": 48,
+      "exists": true
+    },
+    "ecotron_box_64_sd_0_0": {
+      "name": "ecotron_box_64_sd_0_0",
+      "x": 33,
+      "y": 1,
+      "exists": true
+    },
+    "ecotron_box_64_sd_2_0": {
+      "name": "ecotron_box_64_sd_2_0",
+      "source": "ecotron_box_64_sd_0_0",
+      "x": 33,
+      "y": 1,
+      "exists": false
+    },
+    "ecotron_box_64_sd_4_0": {
+      "name": "ecotron_box_64_sd_4_0",
+      "source": "ecotron_box_64_sd_0_0",
+      "x": 33,
+      "y": 1,
+      "exists": false
+    },
+    "ecotron_box_64_sd_6_0": {
+      "name": "ecotron_box_64_sd_6_0",
+      "source": "ecotron_box_64_sd_0_0",
+      "x": 33,
+      "y": 1,
+      "exists": false
+    },
+    "ecotron_box_icon_a": {
+      "name": "ecotron_box_icon_a",
+      "x": 15,
+      "y": 15,
+      "exists": true
+    },
+    "ecotron_box_32_a_0_0": {
+      "name": "ecotron_box_32_a_0_0",
+      "x": 17,
+      "y": 24,
+      "exists": true
+    },
+    "ecotron_box_32_a_2_0": {
+      "name": "ecotron_box_32_a_2_0",
+      "x": 17,
+      "y": 24,
+      "exists": true
+    },
+    "ecotron_box_32_a_4_0": {
+      "name": "ecotron_box_32_a_4_0",
+      "x": 17,
+      "y": 24,
+      "exists": true
+    },
+    "ecotron_box_32_a_6_0": {
+      "name": "ecotron_box_32_a_6_0",
+      "x": 17,
+      "y": 24,
+      "exists": true
+    },
+    "ecotron_box_32_sd_0_0": {
+      "name": "ecotron_box_32_sd_0_0",
+      "x": 17,
+      "y": 0,
+      "exists": true
+    },
+    "ecotron_box_32_sd_2_0": {
+      "name": "ecotron_box_32_sd_2_0",
+      "source": "ecotron_box_32_sd_0_0",
+      "x": 17,
+      "y": 0,
+      "exists": false
+    },
+    "ecotron_box_32_sd_4_0": {
+      "name": "ecotron_box_32_sd_4_0",
+      "source": "ecotron_box_32_sd_0_0",
+      "x": 17,
+      "y": 0,
+      "exists": false
+    },
+    "ecotron_box_32_sd_6_0": {
+      "name": "ecotron_box_32_sd_6_0",
+      "source": "ecotron_box_32_sd_0_0",
+      "x": 17,
+      "y": 0,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_ecotron_box",
+    "type": "ecotron_box",
+    "visualization": "furniture_static"
+  }
+}

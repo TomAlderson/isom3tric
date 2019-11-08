@@ -1,0 +1,578 @@
+{
+  "assets": {
+    "st_palooza_balloons_64_sd_4_0": {
+      "name": "st_palooza_balloons_64_sd_4_0",
+      "x": 25,
+      "y": 11,
+      "exists": true
+    },
+    "st_palooza_balloons_64_a_4_0": {
+      "name": "st_palooza_balloons_64_a_4_0",
+      "x": 26,
+      "y": 72,
+      "exists": true
+    },
+    "st_palooza_balloons_64_b_4_0": {
+      "name": "st_palooza_balloons_64_b_4_0",
+      "x": 54,
+      "y": 172,
+      "exists": true
+    },
+    "st_palooza_balloons_64_b_4_1": {
+      "name": "st_palooza_balloons_64_b_4_1",
+      "x": 54,
+      "y": 171,
+      "exists": false
+    },
+    "st_palooza_balloons_64_b_4_2": {
+      "name": "st_palooza_balloons_64_b_4_2",
+      "x": 54,
+      "y": 170,
+      "exists": false
+    },
+    "st_palooza_balloons_64_b_4_3": {
+      "name": "st_palooza_balloons_64_b_4_3",
+      "x": 54,
+      "y": 169,
+      "exists": false
+    },
+    "st_palooza_balloons_64_c_4_0": {
+      "name": "st_palooza_balloons_64_c_4_0",
+      "x": 54,
+      "y": 145,
+      "exists": false
+    },
+    "st_palooza_balloons_64_c_4_1": {
+      "name": "st_palooza_balloons_64_c_4_1",
+      "x": 54,
+      "y": 144,
+      "exists": false
+    },
+    "st_palooza_balloons_64_c_4_2": {
+      "name": "st_palooza_balloons_64_c_4_2",
+      "x": 54,
+      "y": 143,
+      "exists": true
+    },
+    "st_palooza_balloons_64_c_4_3": {
+      "name": "st_palooza_balloons_64_c_4_3",
+      "x": 54,
+      "y": 142,
+      "exists": false
+    },
+    "st_palooza_balloons_64_d_4_0": {
+      "name": "st_palooza_balloons_64_d_4_0",
+      "x": 29,
+      "y": 191,
+      "exists": true
+    },
+    "st_palooza_balloons_64_d_4_1": {
+      "name": "st_palooza_balloons_64_d_4_1",
+      "x": 29,
+      "y": 190,
+      "exists": false
+    },
+    "st_palooza_balloons_64_d_4_2": {
+      "name": "st_palooza_balloons_64_d_4_2",
+      "x": 29,
+      "y": 189,
+      "exists": false
+    },
+    "st_palooza_balloons_64_d_4_3": {
+      "name": "st_palooza_balloons_64_d_4_3",
+      "x": 29,
+      "y": 188,
+      "exists": false
+    },
+    "st_palooza_balloons_32_sd_4_0": {
+      "name": "st_palooza_balloons_32_sd_4_0",
+      "x": 13,
+      "y": 6,
+      "exists": true
+    },
+    "st_palooza_balloons_32_a_4_0": {
+      "name": "st_palooza_balloons_32_a_4_0",
+      "x": 13,
+      "y": 35,
+      "exists": true
+    },
+    "st_palooza_balloons_32_b_4_0": {
+      "name": "st_palooza_balloons_32_b_4_0",
+      "x": 27,
+      "y": 86,
+      "exists": false
+    },
+    "st_palooza_balloons_32_b_4_1": {
+      "name": "st_palooza_balloons_32_b_4_1",
+      "x": 27,
+      "y": 85,
+      "exists": false
+    },
+    "st_palooza_balloons_32_b_4_2": {
+      "name": "st_palooza_balloons_32_b_4_2",
+      "x": 27,
+      "y": 84,
+      "exists": false
+    },
+    "st_palooza_balloons_32_b_4_3": {
+      "name": "st_palooza_balloons_32_b_4_3",
+      "x": 27,
+      "y": 83,
+      "exists": true
+    },
+    "st_palooza_balloons_32_c_4_0": {
+      "name": "st_palooza_balloons_32_c_4_0",
+      "x": 26,
+      "y": 73,
+      "exists": false
+    },
+    "st_palooza_balloons_32_c_4_1": {
+      "name": "st_palooza_balloons_32_c_4_1",
+      "x": 26,
+      "y": 72,
+      "exists": false
+    },
+    "st_palooza_balloons_32_c_4_2": {
+      "name": "st_palooza_balloons_32_c_4_2",
+      "x": 26,
+      "y": 71,
+      "exists": false
+    },
+    "st_palooza_balloons_32_c_4_3": {
+      "name": "st_palooza_balloons_32_c_4_3",
+      "x": 26,
+      "y": 70,
+      "exists": true
+    },
+    "st_palooza_balloons_32_d_4_0": {
+      "name": "st_palooza_balloons_32_d_4_0",
+      "x": 14,
+      "y": 96,
+      "exists": false
+    },
+    "st_palooza_balloons_32_d_4_1": {
+      "name": "st_palooza_balloons_32_d_4_1",
+      "x": 14,
+      "y": 95,
+      "exists": false
+    },
+    "st_palooza_balloons_32_d_4_2": {
+      "name": "st_palooza_balloons_32_d_4_2",
+      "x": 14,
+      "y": 94,
+      "exists": false
+    },
+    "st_palooza_balloons_32_d_4_3": {
+      "name": "st_palooza_balloons_32_d_4_3",
+      "x": 14,
+      "y": 93,
+      "exists": true
+    },
+    "st_palooza_balloons_icon_a": {
+      "name": "st_palooza_balloons_icon_a",
+      "x": 11,
+      "y": 34,
+      "exists": true
+    },
+    "st_palooza_balloons_64_sd_2_0": {
+      "name": "st_palooza_balloons_64_sd_2_0",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_sd_4_0",
+      "x": 25,
+      "y": 11,
+      "exists": false
+    },
+    "st_palooza_balloons_64_a_2_0": {
+      "name": "st_palooza_balloons_64_a_2_0",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_a_4_0",
+      "x": 26,
+      "y": 72,
+      "exists": false
+    },
+    "st_palooza_balloons_64_b_2_0": {
+      "name": "st_palooza_balloons_64_b_2_0",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_b_4_0",
+      "x": 54,
+      "y": 172,
+      "exists": false
+    },
+    "st_palooza_balloons_64_b_2_1": {
+      "name": "st_palooza_balloons_64_b_2_1",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_b_4_1",
+      "x": 54,
+      "y": 171,
+      "exists": false
+    },
+    "st_palooza_balloons_64_b_2_2": {
+      "name": "st_palooza_balloons_64_b_2_2",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_b_4_2",
+      "x": 54,
+      "y": 170,
+      "exists": false
+    },
+    "st_palooza_balloons_64_b_2_3": {
+      "name": "st_palooza_balloons_64_b_2_3",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_b_4_3",
+      "x": 54,
+      "y": 169,
+      "exists": false
+    },
+    "st_palooza_balloons_64_c_2_0": {
+      "name": "st_palooza_balloons_64_c_2_0",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_c_4_0",
+      "x": 54,
+      "y": 145,
+      "exists": false
+    },
+    "st_palooza_balloons_64_c_2_1": {
+      "name": "st_palooza_balloons_64_c_2_1",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_c_4_1",
+      "x": 54,
+      "y": 144,
+      "exists": false
+    },
+    "st_palooza_balloons_64_c_2_2": {
+      "name": "st_palooza_balloons_64_c_2_2",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_c_4_2",
+      "x": 54,
+      "y": 143,
+      "exists": false
+    },
+    "st_palooza_balloons_64_c_2_3": {
+      "name": "st_palooza_balloons_64_c_2_3",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_c_4_3",
+      "x": 54,
+      "y": 142,
+      "exists": false
+    },
+    "st_palooza_balloons_64_d_2_0": {
+      "name": "st_palooza_balloons_64_d_2_0",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_d_4_0",
+      "x": 29,
+      "y": 191,
+      "exists": false
+    },
+    "st_palooza_balloons_64_d_2_1": {
+      "name": "st_palooza_balloons_64_d_2_1",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_d_4_1",
+      "x": 29,
+      "y": 190,
+      "exists": false
+    },
+    "st_palooza_balloons_64_d_2_2": {
+      "name": "st_palooza_balloons_64_d_2_2",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_d_4_2",
+      "x": 29,
+      "y": 189,
+      "exists": false
+    },
+    "st_palooza_balloons_64_d_2_3": {
+      "name": "st_palooza_balloons_64_d_2_3",
+      "flipH": 1,
+      "source": "st_palooza_balloons_64_d_4_3",
+      "x": 29,
+      "y": 188,
+      "exists": false
+    },
+    "st_palooza_balloons_32_sd_2_0": {
+      "name": "st_palooza_balloons_32_sd_2_0",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_sd_4_0",
+      "x": 13,
+      "y": 6,
+      "exists": false
+    },
+    "st_palooza_balloons_32_a_2_0": {
+      "name": "st_palooza_balloons_32_a_2_0",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_a_4_0",
+      "x": 13,
+      "y": 35,
+      "exists": false
+    },
+    "st_palooza_balloons_32_b_2_0": {
+      "name": "st_palooza_balloons_32_b_2_0",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_b_4_0",
+      "x": 27,
+      "y": 86,
+      "exists": false
+    },
+    "st_palooza_balloons_32_b_2_1": {
+      "name": "st_palooza_balloons_32_b_2_1",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_b_4_1",
+      "x": 27,
+      "y": 85,
+      "exists": false
+    },
+    "st_palooza_balloons_32_b_2_2": {
+      "name": "st_palooza_balloons_32_b_2_2",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_b_4_2",
+      "x": 27,
+      "y": 84,
+      "exists": false
+    },
+    "st_palooza_balloons_32_b_2_3": {
+      "name": "st_palooza_balloons_32_b_2_3",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_b_4_3",
+      "x": 27,
+      "y": 83,
+      "exists": false
+    },
+    "st_palooza_balloons_32_c_2_0": {
+      "name": "st_palooza_balloons_32_c_2_0",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_c_4_0",
+      "x": 26,
+      "y": 73,
+      "exists": false
+    },
+    "st_palooza_balloons_32_c_2_1": {
+      "name": "st_palooza_balloons_32_c_2_1",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_c_4_1",
+      "x": 26,
+      "y": 72,
+      "exists": false
+    },
+    "st_palooza_balloons_32_c_2_2": {
+      "name": "st_palooza_balloons_32_c_2_2",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_c_4_2",
+      "x": 26,
+      "y": 71,
+      "exists": false
+    },
+    "st_palooza_balloons_32_c_2_3": {
+      "name": "st_palooza_balloons_32_c_2_3",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_c_4_3",
+      "x": 26,
+      "y": 70,
+      "exists": false
+    },
+    "st_palooza_balloons_32_d_2_0": {
+      "name": "st_palooza_balloons_32_d_2_0",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_d_4_0",
+      "x": 14,
+      "y": 96,
+      "exists": false
+    },
+    "st_palooza_balloons_32_d_2_1": {
+      "name": "st_palooza_balloons_32_d_2_1",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_d_4_1",
+      "x": 14,
+      "y": 95,
+      "exists": false
+    },
+    "st_palooza_balloons_32_d_2_2": {
+      "name": "st_palooza_balloons_32_d_2_2",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_d_4_2",
+      "x": 14,
+      "y": 94,
+      "exists": false
+    },
+    "st_palooza_balloons_32_d_2_3": {
+      "name": "st_palooza_balloons_32_d_2_3",
+      "flipH": 1,
+      "source": "st_palooza_balloons_32_d_4_3",
+      "x": 14,
+      "y": 93,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  3,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "z": 500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  3,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "st_palooza_balloons",
+    "visualization": "furniture_animated"
+  }
+}

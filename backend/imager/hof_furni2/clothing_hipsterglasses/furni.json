@@ -1,0 +1,80 @@
+{
+  "assets": {
+    "clothing_hipsterglasses_sd_a_0_0": {
+      "name": "clothing_hipsterglasses_sd_a_0_0",
+      "x": 15,
+      "y": 6,
+      "exists": true
+    },
+    "clothing_hipsterglasses_64_a_0_0": {
+      "name": "clothing_hipsterglasses_64_a_0_0",
+      "x": 15,
+      "y": 35,
+      "exists": true
+    },
+    "clothing_hipsterglasses_icon_a": {
+      "name": "clothing_hipsterglasses_icon_a",
+      "x": 14,
+      "y": 12,
+      "exists": true
+    },
+    "clothing_hipsterglasses_0_a_6_0": {
+      "name": "clothing_hipsterglasses_0_a_6_0",
+      "flipH": 1,
+      "source": "clothing_hipsterglasses_sd_a_0_0",
+      "x": 15,
+      "y": 6,
+      "exists": false
+    },
+    "clothing_hipsterglasses_64_a_6_0": {
+      "name": "clothing_hipsterglasses_64_a_6_0",
+      "flipH": 1,
+      "source": "clothing_hipsterglasses_64_a_0_0",
+      "x": 15,
+      "y": 35,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_purchasable_clothing",
+    "type": "clothing_hipsterglasses",
+    "visualization": "furniture_static"
+  }
+}

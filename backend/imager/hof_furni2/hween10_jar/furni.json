@@ -1,0 +1,359 @@
+{
+  "assets": {
+    "hween10_jar_32_a_0_0": {
+      "name": "hween10_jar_32_a_0_0",
+      "x": 6,
+      "y": 26,
+      "exists": true
+    },
+    "hween10_jar_32_a_0_1": {
+      "name": "hween10_jar_32_a_0_1",
+      "x": 6,
+      "y": 27,
+      "exists": true
+    },
+    "hween10_jar_32_b_0_0": {
+      "name": "hween10_jar_32_b_0_0",
+      "x": 5,
+      "y": 25,
+      "exists": true
+    },
+    "hween10_jar_32_b_0_1": {
+      "name": "hween10_jar_32_b_0_1",
+      "x": 5,
+      "y": 23,
+      "exists": true
+    },
+    "hween10_jar_32_b_0_2": {
+      "name": "hween10_jar_32_b_0_2",
+      "x": 5,
+      "y": 23,
+      "exists": true
+    },
+    "hween10_jar_32_b_0_3": {
+      "name": "hween10_jar_32_b_0_3",
+      "x": 5,
+      "y": 23,
+      "exists": true
+    },
+    "hween10_jar_32_b_0_4": {
+      "name": "hween10_jar_32_b_0_4",
+      "x": 5,
+      "y": 23,
+      "exists": true
+    },
+    "hween10_jar_32_b_0_5": {
+      "name": "hween10_jar_32_b_0_5",
+      "x": 5,
+      "y": 23,
+      "exists": true
+    },
+    "hween10_jar_32_c_0_0": {
+      "name": "hween10_jar_32_c_0_0",
+      "x": 3,
+      "y": -2,
+      "exists": false
+    },
+    "hween10_jar_32_c_0_1": {
+      "name": "hween10_jar_32_c_0_1",
+      "x": 9,
+      "y": 24,
+      "exists": true
+    },
+    "hween10_jar_32_c_0_2": {
+      "name": "hween10_jar_32_c_0_2",
+      "x": 9,
+      "y": 24,
+      "exists": true
+    },
+    "hween10_jar_32_c_0_3": {
+      "name": "hween10_jar_32_c_0_3",
+      "x": 9,
+      "y": 24,
+      "exists": true
+    },
+    "hween10_jar_64_a_0_0": {
+      "name": "hween10_jar_64_a_0_0",
+      "x": 11,
+      "y": 47,
+      "exists": true
+    },
+    "hween10_jar_64_a_0_1": {
+      "name": "hween10_jar_64_a_0_1",
+      "x": 11,
+      "y": 51,
+      "exists": true
+    },
+    "hween10_jar_64_b_0_0": {
+      "name": "hween10_jar_64_b_0_0",
+      "x": 10,
+      "y": 46,
+      "exists": true
+    },
+    "hween10_jar_64_b_0_1": {
+      "name": "hween10_jar_64_b_0_1",
+      "x": 10,
+      "y": 44,
+      "exists": true
+    },
+    "hween10_jar_64_b_0_2": {
+      "name": "hween10_jar_64_b_0_2",
+      "x": 10,
+      "y": 44,
+      "exists": true
+    },
+    "hween10_jar_64_b_0_3": {
+      "name": "hween10_jar_64_b_0_3",
+      "x": 10,
+      "y": 44,
+      "exists": true
+    },
+    "hween10_jar_64_b_0_4": {
+      "name": "hween10_jar_64_b_0_4",
+      "x": 10,
+      "y": 44,
+      "exists": true
+    },
+    "hween10_jar_64_b_0_5": {
+      "name": "hween10_jar_64_b_0_5",
+      "x": 10,
+      "y": 44,
+      "exists": true
+    },
+    "hween10_jar_64_c_0_0": {
+      "name": "hween10_jar_64_c_0_0",
+      "x": 4,
+      "y": -5,
+      "exists": true
+    },
+    "hween10_jar_64_c_0_1": {
+      "name": "hween10_jar_64_c_0_1",
+      "x": 15,
+      "y": 46,
+      "exists": true
+    },
+    "hween10_jar_64_c_0_2": {
+      "name": "hween10_jar_64_c_0_2",
+      "x": 15,
+      "y": 46,
+      "exists": true
+    },
+    "hween10_jar_64_c_0_3": {
+      "name": "hween10_jar_64_c_0_3",
+      "x": 15,
+      "y": 46,
+      "exists": true
+    },
+    "hween10_jar_icon_a": {
+      "name": "hween10_jar_icon_a",
+      "x": 5,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  3,
+                  3,
+                  4,
+                  5,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  3,
+                  3,
+                  4,
+                  5,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween10_jar",
+    "visualization": "furniture_animated"
+  }
+}

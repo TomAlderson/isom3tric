@@ -1,0 +1,230 @@
+{
+  "assets": {
+    "ads_nokiax3_wallb_icon_a": {
+      "name": "ads_nokiax3_wallb_icon_a",
+      "x": 8,
+      "y": 10,
+      "exists": true
+    },
+    "ads_nokiax3_wallb_64_a_4_2": {
+      "name": "ads_nokiax3_wallb_64_a_4_2",
+      "x": 50,
+      "y": 137,
+      "exists": true
+    },
+    "ads_nokiax3_wallb_64_a_4_1": {
+      "name": "ads_nokiax3_wallb_64_a_4_1",
+      "x": 54,
+      "y": 137,
+      "exists": true
+    },
+    "ads_nokiax3_wallb_64_a_4_0": {
+      "name": "ads_nokiax3_wallb_64_a_4_0",
+      "x": 57,
+      "y": 137,
+      "exists": true
+    },
+    "ads_nokiax3_wallb_32_a_4_2": {
+      "name": "ads_nokiax3_wallb_32_a_4_2",
+      "x": 25,
+      "y": 68,
+      "exists": true
+    },
+    "ads_nokiax3_wallb_32_a_4_1": {
+      "name": "ads_nokiax3_wallb_32_a_4_1",
+      "x": 28,
+      "y": 68,
+      "exists": true
+    },
+    "ads_nokiax3_wallb_32_a_4_0": {
+      "name": "ads_nokiax3_wallb_32_a_4_0",
+      "x": 29,
+      "y": 68,
+      "exists": true
+    },
+    "ads_nokiax3_wallb_64_a_2_2": {
+      "name": "ads_nokiax3_wallb_64_a_2_2",
+      "flipH": 1,
+      "source": "ads_nokiax3_wallb_64_a_4_2",
+      "x": 50,
+      "y": 137,
+      "exists": false
+    },
+    "ads_nokiax3_wallb_64_a_2_1": {
+      "name": "ads_nokiax3_wallb_64_a_2_1",
+      "flipH": 1,
+      "source": "ads_nokiax3_wallb_64_a_4_1",
+      "x": 54,
+      "y": 137,
+      "exists": false
+    },
+    "ads_nokiax3_wallb_64_a_2_0": {
+      "name": "ads_nokiax3_wallb_64_a_2_0",
+      "flipH": 1,
+      "source": "ads_nokiax3_wallb_64_a_4_0",
+      "x": 57,
+      "y": 137,
+      "exists": false
+    },
+    "ads_nokiax3_wallb_32_a_2_2": {
+      "name": "ads_nokiax3_wallb_32_a_2_2",
+      "flipH": 1,
+      "source": "ads_nokiax3_wallb_32_a_4_2",
+      "x": 25,
+      "y": 68,
+      "exists": false
+    },
+    "ads_nokiax3_wallb_32_a_2_1": {
+      "name": "ads_nokiax3_wallb_32_a_2_1",
+      "flipH": 1,
+      "source": "ads_nokiax3_wallb_32_a_4_1",
+      "x": 28,
+      "y": 68,
+      "exists": false
+    },
+    "ads_nokiax3_wallb_32_a_2_0": {
+      "name": "ads_nokiax3_wallb_32_a_2_0",
+      "flipH": 1,
+      "source": "ads_nokiax3_wallb_32_a_4_0",
+      "x": 29,
+      "y": 68,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 0.2,
+      "z": 0.1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "ads_nokiax3_wallb",
+    "visualization": "furniture_animated"
+  }
+}

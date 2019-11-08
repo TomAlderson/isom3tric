@@ -1,0 +1,75 @@
+{
+  "assets": {
+    "plant_pineapple_64_a_0_0": {
+      "name": "plant_pineapple_64_a_0_0",
+      "x": 25,
+      "y": 83,
+      "exists": true
+    },
+    "plant_pineapple_64_sd_0_0": {
+      "name": "plant_pineapple_64_sd_0_0",
+      "x": 25,
+      "y": 10,
+      "exists": true
+    },
+    "plant_pineapple_icon_a": {
+      "name": "plant_pineapple_icon_a",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    },
+    "plant_pineapple_32_a_0_0": {
+      "name": "plant_pineapple_32_a_0_0",
+      "x": 13,
+      "y": 41,
+      "exists": true
+    },
+    "plant_pineapple_32_sd_0_0": {
+      "name": "plant_pineapple_32_sd_0_0",
+      "x": 13,
+      "y": 5,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "plant_pineapple",
+    "visualization": "furniture_static"
+  }
+}

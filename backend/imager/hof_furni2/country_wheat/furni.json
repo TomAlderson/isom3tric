@@ -1,0 +1,292 @@
+{
+  "assets": {
+    "country_wheat_64_a_0_0": {
+      "name": "country_wheat_64_a_0_0",
+      "x": 65,
+      "y": 59,
+      "exists": true
+    },
+    "country_wheat_64_a_2_0": {
+      "name": "country_wheat_64_a_2_0",
+      "flipH": 1,
+      "source": "country_wheat_64_a_0_0",
+      "x": 65,
+      "y": 59,
+      "exists": false
+    },
+    "country_wheat_64_a_4_0": {
+      "name": "country_wheat_64_a_4_0",
+      "x": 65,
+      "y": 59,
+      "exists": false
+    },
+    "country_wheat_64_a_6_0": {
+      "name": "country_wheat_64_a_6_0",
+      "flipH": 1,
+      "source": "country_wheat_64_a_4_0",
+      "x": 65,
+      "y": 59,
+      "exists": false
+    },
+    "country_wheat_64_b_0_0": {
+      "name": "country_wheat_64_b_0_0",
+      "x": 59,
+      "y": 44,
+      "exists": true
+    },
+    "country_wheat_64_b_2_0": {
+      "name": "country_wheat_64_b_2_0",
+      "flipH": 1,
+      "source": "country_wheat_64_b_0_0",
+      "x": 59,
+      "y": 44,
+      "exists": false
+    },
+    "country_wheat_64_b_4_0": {
+      "name": "country_wheat_64_b_4_0",
+      "x": 59,
+      "y": 44,
+      "exists": true
+    },
+    "country_wheat_64_b_6_0": {
+      "name": "country_wheat_64_b_6_0",
+      "flipH": 1,
+      "source": "country_wheat_64_b_4_0",
+      "x": 59,
+      "y": 44,
+      "exists": false
+    },
+    "country_wheat_64_c_0_0": {
+      "name": "country_wheat_64_c_0_0",
+      "x": 59,
+      "y": 33,
+      "exists": true
+    },
+    "country_wheat_64_c_2_0": {
+      "name": "country_wheat_64_c_2_0",
+      "flipH": 1,
+      "source": "country_wheat_64_c_0_0",
+      "x": 59,
+      "y": 33,
+      "exists": false
+    },
+    "country_wheat_64_c_4_0": {
+      "name": "country_wheat_64_c_4_0",
+      "x": 71,
+      "y": 33,
+      "exists": true
+    },
+    "country_wheat_64_c_6_0": {
+      "name": "country_wheat_64_c_6_0",
+      "flipH": 1,
+      "source": "country_wheat_64_c_4_0",
+      "x": 71,
+      "y": 33,
+      "exists": false
+    },
+    "country_wheat_64_d_0_0": {
+      "name": "country_wheat_64_d_0_0",
+      "x": 24,
+      "y": 11,
+      "exists": true
+    },
+    "country_wheat_64_d_2_0": {
+      "name": "country_wheat_64_d_2_0",
+      "flipH": 1,
+      "source": "country_wheat_64_d_0_0",
+      "x": 24,
+      "y": 11,
+      "exists": false
+    },
+    "country_wheat_64_d_4_0": {
+      "name": "country_wheat_64_d_4_0",
+      "x": 35,
+      "y": 11,
+      "exists": true
+    },
+    "country_wheat_64_d_6_0": {
+      "name": "country_wheat_64_d_6_0",
+      "flipH": 1,
+      "source": "country_wheat_64_d_4_0",
+      "x": 35,
+      "y": 11,
+      "exists": false
+    },
+    "country_wheat_icon_a": {
+      "name": "country_wheat_icon_a",
+      "x": 13,
+      "y": 12,
+      "exists": true
+    },
+    "country_wheat_32_a_0_0": {
+      "name": "country_wheat_32_a_0_0",
+      "x": 32,
+      "y": 29,
+      "exists": false
+    },
+    "country_wheat_32_a_2_0": {
+      "name": "country_wheat_32_a_2_0",
+      "x": 32,
+      "y": 29,
+      "exists": false
+    },
+    "country_wheat_32_a_4_0": {
+      "name": "country_wheat_32_a_4_0",
+      "x": 32,
+      "y": 29,
+      "exists": false
+    },
+    "country_wheat_32_a_6_0": {
+      "name": "country_wheat_32_a_6_0",
+      "x": 34,
+      "y": 29,
+      "exists": true
+    },
+    "country_wheat_32_b_0_0": {
+      "name": "country_wheat_32_b_0_0",
+      "x": 31,
+      "y": 22,
+      "exists": true
+    },
+    "country_wheat_32_b_2_0": {
+      "name": "country_wheat_32_b_2_0",
+      "flipH": 1,
+      "source": "country_wheat_32_b_0_0",
+      "x": 31,
+      "y": 22,
+      "exists": false
+    },
+    "country_wheat_32_b_4_0": {
+      "name": "country_wheat_32_b_4_0",
+      "x": 31,
+      "y": 22,
+      "exists": false
+    },
+    "country_wheat_32_b_6_0": {
+      "name": "country_wheat_32_b_6_0",
+      "flipH": 1,
+      "source": "country_wheat_32_b_4_0",
+      "x": 31,
+      "y": 22,
+      "exists": false
+    },
+    "country_wheat_32_c_0_0": {
+      "name": "country_wheat_32_c_0_0",
+      "x": 31,
+      "y": 16,
+      "exists": true
+    },
+    "country_wheat_32_c_2_0": {
+      "name": "country_wheat_32_c_2_0",
+      "flipH": 1,
+      "source": "country_wheat_32_c_0_0",
+      "x": 31,
+      "y": 16,
+      "exists": false
+    },
+    "country_wheat_32_c_4_0": {
+      "name": "country_wheat_32_c_4_0",
+      "x": 36,
+      "y": 16,
+      "exists": true
+    },
+    "country_wheat_32_c_6_0": {
+      "name": "country_wheat_32_c_6_0",
+      "flipH": 1,
+      "source": "country_wheat_32_c_4_0",
+      "x": 36,
+      "y": 16,
+      "exists": false
+    },
+    "country_wheat_32_d_0_0": {
+      "name": "country_wheat_32_d_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": true
+    },
+    "country_wheat_32_d_2_0": {
+      "name": "country_wheat_32_d_2_0",
+      "flipH": 1,
+      "source": "country_wheat_32_d_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": false
+    },
+    "country_wheat_32_d_4_0": {
+      "name": "country_wheat_32_d_4_0",
+      "x": 19,
+      "y": 7,
+      "exists": true
+    },
+    "country_wheat_32_d_6_0": {
+      "name": "country_wheat_32_d_6_0",
+      "flipH": 1,
+      "source": "country_wheat_32_d_4_0",
+      "x": 19,
+      "y": 7,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 100
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 100
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "country_wheat",
+    "visualization": "furniture_static"
+  }
+}

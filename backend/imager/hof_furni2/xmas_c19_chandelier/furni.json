@@ -1,0 +1,109 @@
+{
+  "assets": {
+    "xmas_c19_chandelier_64_sd_2_0": {
+      "name": "xmas_c19_chandelier_64_sd_2_0",
+      "x": 22,
+      "y": 12,
+      "exists": true
+    },
+    "xmas_c19_chandelier_64_a_2_0": {
+      "name": "xmas_c19_chandelier_64_a_2_0",
+      "x": 22,
+      "y": 212,
+      "exists": true
+    },
+    "xmas_c19_chandelier_64_b_2_0": {
+      "name": "xmas_c19_chandelier_64_b_2_0",
+      "x": 49,
+      "y": 168,
+      "exists": true
+    },
+    "xmas_c19_chandelier_icon_a": {
+      "name": "xmas_c19_chandelier_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.001
+    },
+    "directions": [
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "xmas_c19_chandelier",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "assets": {
+    "attic15_cabinet_64_sd_4_0": {
+      "name": "attic15_cabinet_64_sd_4_0",
+      "x": 20,
+      "y": 0,
+      "exists": true
+    },
+    "attic15_cabinet_64_a_4_0": {
+      "name": "attic15_cabinet_64_a_4_0",
+      "x": 29,
+      "y": 77,
+      "exists": true
+    },
+    "attic15_cabinet_64_b_4_0": {
+      "name": "attic15_cabinet_64_b_4_0",
+      "x": 0,
+      "y": 63,
+      "exists": true
+    },
+    "attic15_cabinet_64_c_4_0": {
+      "name": "attic15_cabinet_64_c_4_0",
+      "x": -30,
+      "y": -27,
+      "exists": true
+    },
+    "attic15_cabinet_64_c_4_1": {
+      "name": "attic15_cabinet_64_c_4_1",
+      "x": -8,
+      "y": 78,
+      "exists": true
+    },
+    "attic15_cabinet_icon_a": {
+      "name": "attic15_cabinet_icon_a",
+      "x": 10,
+      "y": 13,
+      "exists": true
+    },
+    "attic15_cabinet_64_sd_2_0": {
+      "name": "attic15_cabinet_64_sd_2_0",
+      "flipH": 1,
+      "source": "attic15_cabinet_64_sd_4_0",
+      "x": 20,
+      "y": 0,
+      "exists": false
+    },
+    "attic15_cabinet_64_a_2_0": {
+      "name": "attic15_cabinet_64_a_2_0",
+      "flipH": 1,
+      "source": "attic15_cabinet_64_a_4_0",
+      "x": 29,
+      "y": 77,
+      "exists": false
+    },
+    "attic15_cabinet_64_b_2_0": {
+      "name": "attic15_cabinet_64_b_2_0",
+      "flipH": 1,
+      "source": "attic15_cabinet_64_b_4_0",
+      "x": 0,
+      "y": 63,
+      "exists": false
+    },
+    "attic15_cabinet_64_c_2_0": {
+      "name": "attic15_cabinet_64_c_2_0",
+      "flipH": 1,
+      "source": "attic15_cabinet_64_c_4_0",
+      "x": -30,
+      "y": -27,
+      "exists": false
+    },
+    "attic15_cabinet_64_c_2_1": {
+      "name": "attic15_cabinet_64_c_2_1",
+      "flipH": 1,
+      "source": "attic15_cabinet_64_c_4_1",
+      "x": -8,
+      "y": 78,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "attic15_cabinet",
+    "visualization": "furniture_animated"
+  }
+}

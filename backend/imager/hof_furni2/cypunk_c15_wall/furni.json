@@ -1,0 +1,148 @@
+{
+  "assets": {
+    "cypunk_c15_wall_64_a_2_0": {
+      "name": "cypunk_c15_wall_64_a_2_0",
+      "x": 33,
+      "y": 115,
+      "exists": true
+    },
+    "cypunk_c15_wall_64_a_2_1": {
+      "name": "cypunk_c15_wall_64_a_2_1",
+      "x": 33,
+      "y": 115,
+      "exists": true
+    },
+    "cypunk_c15_wall_64_b_2_0": {
+      "name": "cypunk_c15_wall_64_b_2_0",
+      "x": -33,
+      "y": 116,
+      "exists": true
+    },
+    "cypunk_c15_wall_icon_a": {
+      "name": "cypunk_c15_wall_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    },
+    "cypunk_c15_wall_64_a_4_0": {
+      "name": "cypunk_c15_wall_64_a_4_0",
+      "flipH": 1,
+      "source": "cypunk_c15_wall_64_a_2_0",
+      "x": 33,
+      "y": 115,
+      "exists": false
+    },
+    "cypunk_c15_wall_64_a_4_1": {
+      "name": "cypunk_c15_wall_64_a_4_1",
+      "flipH": 1,
+      "source": "cypunk_c15_wall_64_a_2_1",
+      "x": 33,
+      "y": 115,
+      "exists": false
+    },
+    "cypunk_c15_wall_64_b_4_0": {
+      "name": "cypunk_c15_wall_64_b_4_0",
+      "flipH": 1,
+      "source": "cypunk_c15_wall_64_b_2_0",
+      "x": -33,
+      "y": 116,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 0.2,
+      "z": 1.4
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2000
+        },
+        {
+          "layerId": 1,
+          "z": -5000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "cypunk_c15_wall",
+    "visualization": "furniture_animated"
+  }
+}

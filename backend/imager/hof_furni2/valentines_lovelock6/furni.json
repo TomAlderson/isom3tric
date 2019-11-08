@@ -1,0 +1,231 @@
+{
+  "assets": {
+    "valentines_lovelock6_icon_a": {
+      "name": "valentines_lovelock6_icon_a",
+      "x": 11,
+      "y": 14,
+      "exists": true
+    },
+    "valentines_lovelock6_64_sd_2_1": {
+      "name": "valentines_lovelock6_64_sd_2_1",
+      "x": 15,
+      "y": 8,
+      "exists": false
+    },
+    "valentines_lovelock6_64_sd_2_0": {
+      "name": "valentines_lovelock6_64_sd_2_0",
+      "x": 15,
+      "y": 8,
+      "exists": true
+    },
+    "valentines_lovelock6_64_a_2_1": {
+      "name": "valentines_lovelock6_64_a_2_1",
+      "x": 23,
+      "y": 71,
+      "exists": true
+    },
+    "valentines_lovelock6_64_a_2_0": {
+      "name": "valentines_lovelock6_64_a_2_0",
+      "x": 23,
+      "y": 71,
+      "exists": true
+    },
+    "valentines_lovelock6_32_sd_2_1": {
+      "name": "valentines_lovelock6_32_sd_2_1",
+      "x": 7,
+      "y": 4,
+      "exists": false
+    },
+    "valentines_lovelock6_32_sd_2_0": {
+      "name": "valentines_lovelock6_32_sd_2_0",
+      "x": 7,
+      "y": 4,
+      "exists": true
+    },
+    "valentines_lovelock6_32_a_2_1": {
+      "name": "valentines_lovelock6_32_a_2_1",
+      "x": 10,
+      "y": 37,
+      "exists": true
+    },
+    "valentines_lovelock6_32_a_2_0": {
+      "name": "valentines_lovelock6_32_a_2_0",
+      "x": 10,
+      "y": 37,
+      "exists": true
+    },
+    "valentines_lovelock6_64_sd_4_1": {
+      "name": "valentines_lovelock6_64_sd_4_1",
+      "flipH": 1,
+      "source": "valentines_lovelock6_64_sd_2_1",
+      "x": 15,
+      "y": 8,
+      "exists": false
+    },
+    "valentines_lovelock6_64_sd_4_0": {
+      "name": "valentines_lovelock6_64_sd_4_0",
+      "flipH": 1,
+      "source": "valentines_lovelock6_64_sd_2_0",
+      "x": 15,
+      "y": 8,
+      "exists": false
+    },
+    "valentines_lovelock6_64_a_4_1": {
+      "name": "valentines_lovelock6_64_a_4_1",
+      "flipH": 1,
+      "source": "valentines_lovelock6_64_a_2_1",
+      "x": 23,
+      "y": 71,
+      "exists": false
+    },
+    "valentines_lovelock6_64_a_4_0": {
+      "name": "valentines_lovelock6_64_a_4_0",
+      "flipH": 1,
+      "source": "valentines_lovelock6_64_a_2_0",
+      "x": 23,
+      "y": 71,
+      "exists": false
+    },
+    "valentines_lovelock6_32_sd_4_1": {
+      "name": "valentines_lovelock6_32_sd_4_1",
+      "flipH": 1,
+      "source": "valentines_lovelock6_32_sd_2_1",
+      "x": 7,
+      "y": 4,
+      "exists": false
+    },
+    "valentines_lovelock6_32_sd_4_0": {
+      "name": "valentines_lovelock6_32_sd_4_0",
+      "flipH": 1,
+      "source": "valentines_lovelock6_32_sd_2_0",
+      "x": 7,
+      "y": 4,
+      "exists": false
+    },
+    "valentines_lovelock6_32_a_4_1": {
+      "name": "valentines_lovelock6_32_a_4_1",
+      "flipH": 1,
+      "source": "valentines_lovelock6_32_a_2_1",
+      "x": 10,
+      "y": 37,
+      "exists": false
+    },
+    "valentines_lovelock6_32_a_4_0": {
+      "name": "valentines_lovelock6_32_a_4_0",
+      "flipH": 1,
+      "source": "valentines_lovelock6_32_a_2_0",
+      "x": 10,
+      "y": 37,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.53
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_lovelock",
+    "type": "valentines_lovelock6",
+    "visualization": "furniture_animated"
+  }
+}

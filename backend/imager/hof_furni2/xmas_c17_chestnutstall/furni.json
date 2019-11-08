@@ -1,0 +1,484 @@
+{
+  "assets": {
+    "xmas_c17_chestnutstall_64_sd_4_0": {
+      "name": "xmas_c17_chestnutstall_64_sd_4_0",
+      "x": 31,
+      "y": 15,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_a_4_0": {
+      "name": "xmas_c17_chestnutstall_64_a_4_0",
+      "x": 37,
+      "y": 50,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_b_4_0": {
+      "name": "xmas_c17_chestnutstall_64_b_4_0",
+      "x": -13,
+      "y": 42,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_c_4_0": {
+      "name": "xmas_c17_chestnutstall_64_c_4_0",
+      "x": 4,
+      "y": 34,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_c_4_1": {
+      "name": "xmas_c17_chestnutstall_64_c_4_1",
+      "x": 4,
+      "y": 34,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_c_4_2": {
+      "name": "xmas_c17_chestnutstall_64_c_4_2",
+      "x": 4,
+      "y": 34,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_c_4_3": {
+      "name": "xmas_c17_chestnutstall_64_c_4_3",
+      "x": 4,
+      "y": 34,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_c_4_4": {
+      "name": "xmas_c17_chestnutstall_64_c_4_4",
+      "x": 4,
+      "y": 34,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_c_4_5": {
+      "name": "xmas_c17_chestnutstall_64_c_4_5",
+      "x": 4,
+      "y": 34,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_d_4_0": {
+      "name": "xmas_c17_chestnutstall_64_d_4_0",
+      "x": 12,
+      "y": 87,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_d_4_1": {
+      "name": "xmas_c17_chestnutstall_64_d_4_1",
+      "x": 13,
+      "y": 91,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_d_4_2": {
+      "name": "xmas_c17_chestnutstall_64_d_4_2",
+      "x": 13,
+      "y": 96,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_d_4_3": {
+      "name": "xmas_c17_chestnutstall_64_d_4_3",
+      "x": 11,
+      "y": 85,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_d_4_4": {
+      "name": "xmas_c17_chestnutstall_64_d_4_4",
+      "x": 11,
+      "y": 76,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_e_4_0": {
+      "name": "xmas_c17_chestnutstall_64_e_4_0",
+      "x": 15,
+      "y": 110,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_e_4_1": {
+      "name": "xmas_c17_chestnutstall_64_e_4_1",
+      "x": 14,
+      "y": 118,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_e_4_2": {
+      "name": "xmas_c17_chestnutstall_64_e_4_2",
+      "x": 15,
+      "y": 125,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_e_4_3": {
+      "name": "xmas_c17_chestnutstall_64_e_4_3",
+      "x": 15,
+      "y": 137,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_e_4_4": {
+      "name": "xmas_c17_chestnutstall_64_e_4_4",
+      "x": 16,
+      "y": 121,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_e_4_5": {
+      "name": "xmas_c17_chestnutstall_64_e_4_5",
+      "x": 16,
+      "y": 134,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_f_4_0": {
+      "name": "xmas_c17_chestnutstall_64_f_4_0",
+      "x": 11,
+      "y": 39,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_f_4_1": {
+      "name": "xmas_c17_chestnutstall_64_f_4_1",
+      "x": 10,
+      "y": 37,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_f_4_2": {
+      "name": "xmas_c17_chestnutstall_64_f_4_2",
+      "x": 11,
+      "y": 39,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_icon_a": {
+      "name": "xmas_c17_chestnutstall_icon_a",
+      "x": 15,
+      "y": 13,
+      "exists": true
+    },
+    "xmas_c17_chestnutstall_64_sd_2_0": {
+      "name": "xmas_c17_chestnutstall_64_sd_2_0",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_sd_4_0",
+      "x": 31,
+      "y": 15,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_a_2_0": {
+      "name": "xmas_c17_chestnutstall_64_a_2_0",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_a_4_0",
+      "x": 37,
+      "y": 50,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_b_2_0": {
+      "name": "xmas_c17_chestnutstall_64_b_2_0",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_b_4_0",
+      "x": -13,
+      "y": 42,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_c_2_0": {
+      "name": "xmas_c17_chestnutstall_64_c_2_0",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_c_4_0",
+      "x": 4,
+      "y": 34,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_c_2_1": {
+      "name": "xmas_c17_chestnutstall_64_c_2_1",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_c_4_1",
+      "x": 4,
+      "y": 34,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_c_2_2": {
+      "name": "xmas_c17_chestnutstall_64_c_2_2",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_c_4_2",
+      "x": 4,
+      "y": 34,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_c_2_3": {
+      "name": "xmas_c17_chestnutstall_64_c_2_3",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_c_4_3",
+      "x": 4,
+      "y": 34,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_c_2_4": {
+      "name": "xmas_c17_chestnutstall_64_c_2_4",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_c_4_4",
+      "x": 4,
+      "y": 34,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_c_2_5": {
+      "name": "xmas_c17_chestnutstall_64_c_2_5",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_c_4_5",
+      "x": 4,
+      "y": 34,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_d_2_0": {
+      "name": "xmas_c17_chestnutstall_64_d_2_0",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_d_4_0",
+      "x": 12,
+      "y": 87,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_d_2_1": {
+      "name": "xmas_c17_chestnutstall_64_d_2_1",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_d_4_1",
+      "x": 13,
+      "y": 91,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_d_2_2": {
+      "name": "xmas_c17_chestnutstall_64_d_2_2",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_d_4_2",
+      "x": 13,
+      "y": 96,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_d_2_3": {
+      "name": "xmas_c17_chestnutstall_64_d_2_3",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_d_4_3",
+      "x": 11,
+      "y": 85,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_d_2_4": {
+      "name": "xmas_c17_chestnutstall_64_d_2_4",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_d_4_4",
+      "x": 11,
+      "y": 76,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_e_2_0": {
+      "name": "xmas_c17_chestnutstall_64_e_2_0",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_e_4_0",
+      "x": 15,
+      "y": 110,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_e_2_1": {
+      "name": "xmas_c17_chestnutstall_64_e_2_1",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_e_4_1",
+      "x": 14,
+      "y": 118,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_e_2_2": {
+      "name": "xmas_c17_chestnutstall_64_e_2_2",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_e_4_2",
+      "x": 15,
+      "y": 125,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_e_2_3": {
+      "name": "xmas_c17_chestnutstall_64_e_2_3",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_e_4_3",
+      "x": 15,
+      "y": 137,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_e_2_4": {
+      "name": "xmas_c17_chestnutstall_64_e_2_4",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_e_4_4",
+      "x": 16,
+      "y": 121,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_e_2_5": {
+      "name": "xmas_c17_chestnutstall_64_e_2_5",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_e_4_5",
+      "x": 16,
+      "y": 134,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_f_2_0": {
+      "name": "xmas_c17_chestnutstall_64_f_2_0",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_f_4_0",
+      "x": 11,
+      "y": 39,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_f_2_1": {
+      "name": "xmas_c17_chestnutstall_64_f_2_1",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_f_4_1",
+      "x": 10,
+      "y": 37,
+      "exists": false
+    },
+    "xmas_c17_chestnutstall_64_f_2_2": {
+      "name": "xmas_c17_chestnutstall_64_f_2_2",
+      "flipH": 1,
+      "source": "xmas_c17_chestnutstall_64_f_4_2",
+      "x": 11,
+      "y": 39,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0,
+                  2,
+                  2,
+                  0,
+                  0,
+                  1,
+                  2,
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": -1000
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3,
+          "alpha": 40
+        },
+        {
+          "layerId": 4,
+          "ink": "COPY",
+          "alpha": 25
+        },
+        {
+          "layerId": 5,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "xmas_c17_chestnutstall",
+    "visualization": "furniture_animated"
+  }
+}

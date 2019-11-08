@@ -1,0 +1,286 @@
+{
+  "assets": {
+    "bonusrare17_4_64_sd_0_0": {
+      "name": "bonusrare17_4_64_sd_0_0",
+      "x": 17,
+      "y": 8,
+      "exists": true
+    },
+    "bonusrare17_4_64_a_0_0": {
+      "name": "bonusrare17_4_64_a_0_0",
+      "x": 22,
+      "y": 76,
+      "exists": true
+    },
+    "bonusrare17_4_64_b_0_0": {
+      "name": "bonusrare17_4_64_b_0_0",
+      "x": 19,
+      "y": 75,
+      "exists": true
+    },
+    "bonusrare17_4_64_c_0_0": {
+      "name": "bonusrare17_4_64_c_0_0",
+      "x": 30,
+      "y": 88,
+      "exists": true
+    },
+    "bonusrare17_4_64_d_0_0": {
+      "name": "bonusrare17_4_64_d_0_0",
+      "x": 29,
+      "y": 87,
+      "exists": true
+    },
+    "bonusrare17_4_icon_a": {
+      "name": "bonusrare17_4_icon_a",
+      "x": 7,
+      "y": 12,
+      "exists": true
+    },
+    "bonusrare17_4_icon_b": {
+      "name": "bonusrare17_4_icon_b",
+      "x": 5,
+      "y": 13,
+      "exists": true
+    },
+    "bonusrare17_4_icon_c": {
+      "name": "bonusrare17_4_icon_c",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "bonusrare17_4_icon_d": {
+      "name": "bonusrare17_4_icon_d",
+      "x": 9,
+      "y": 13,
+      "exists": true
+    },
+    "bonusrare17_4_64_sd_2_0": {
+      "name": "bonusrare17_4_64_sd_2_0",
+      "flipH": 1,
+      "source": "bonusrare17_4_64_sd_0_0",
+      "x": 17,
+      "y": 8,
+      "exists": false
+    },
+    "bonusrare17_4_64_a_2_0": {
+      "name": "bonusrare17_4_64_a_2_0",
+      "flipH": 1,
+      "source": "bonusrare17_4_64_a_0_0",
+      "x": 22,
+      "y": 76,
+      "exists": false
+    },
+    "bonusrare17_4_64_b_2_0": {
+      "name": "bonusrare17_4_64_b_2_0",
+      "flipH": 1,
+      "source": "bonusrare17_4_64_b_0_0",
+      "x": 19,
+      "y": 75,
+      "exists": false
+    },
+    "bonusrare17_4_64_c_2_0": {
+      "name": "bonusrare17_4_64_c_2_0",
+      "flipH": 1,
+      "source": "bonusrare17_4_64_c_0_0",
+      "x": 30,
+      "y": 88,
+      "exists": false
+    },
+    "bonusrare17_4_64_d_2_0": {
+      "name": "bonusrare17_4_64_d_2_0",
+      "flipH": 1,
+      "source": "bonusrare17_4_64_d_0_0",
+      "x": 29,
+      "y": 87,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.001
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 4,
+      "size": 1,
+      "directions": {},
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "dc375a"
+          },
+          {
+            "layerId": 2,
+            "color": "d29e26"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "8559c6"
+          },
+          {
+            "layerId": 2,
+            "color": "86bcd8"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "83c2ec"
+          },
+          {
+            "layerId": 2,
+            "color": "38568d"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "fa8ede"
+          },
+          {
+            "layerId": 2,
+            "color": "8769c1"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "e3c21e"
+          },
+          {
+            "layerId": 2,
+            "color": "ca6a2a"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "eb4bb8"
+          },
+          {
+            "layerId": 2,
+            "color": "ccb57e"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "dc375a"
+          },
+          {
+            "layerId": 2,
+            "color": "d29e26"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "8559c6"
+          },
+          {
+            "layerId": 2,
+            "color": "86bcd8"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "83c2ec"
+          },
+          {
+            "layerId": 2,
+            "color": "38568d"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "fa8ede"
+          },
+          {
+            "layerId": 2,
+            "color": "8769c1"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "e3c21e"
+          },
+          {
+            "layerId": 2,
+            "color": "ca6a2a"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "eb4bb8"
+          },
+          {
+            "layerId": 2,
+            "color": "ccb57e"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "bonusrare17_4",
+    "visualization": "furniture_static"
+  }
+}

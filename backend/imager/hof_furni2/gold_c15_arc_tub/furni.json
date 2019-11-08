@@ -1,0 +1,1185 @@
+{
+  "assets": {
+    "gold_c15_arc_tub_64_a_2_0": {
+      "name": "gold_c15_arc_tub_64_a_2_0",
+      "x": 38,
+      "y": 33,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_b_2_0": {
+      "name": "gold_c15_arc_tub_64_b_2_0",
+      "x": 50,
+      "y": 25,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_c_2_0": {
+      "name": "gold_c15_arc_tub_64_c_2_0",
+      "x": 30,
+      "y": -1,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_d_2_0": {
+      "name": "gold_c15_arc_tub_64_d_2_0",
+      "x": 14,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_d_2_1": {
+      "name": "gold_c15_arc_tub_64_d_2_1",
+      "x": 14,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_d_2_2": {
+      "name": "gold_c15_arc_tub_64_d_2_2",
+      "x": 14,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_d_2_3": {
+      "name": "gold_c15_arc_tub_64_d_2_3",
+      "x": 14,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_d_2_4": {
+      "name": "gold_c15_arc_tub_64_d_2_4",
+      "x": 14,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_d_2_5": {
+      "name": "gold_c15_arc_tub_64_d_2_5",
+      "x": 14,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_d_2_6": {
+      "name": "gold_c15_arc_tub_64_d_2_6",
+      "x": 14,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_e_2_0": {
+      "name": "gold_c15_arc_tub_64_e_2_0",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_e_2_1": {
+      "name": "gold_c15_arc_tub_64_e_2_1",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_e_2_2": {
+      "name": "gold_c15_arc_tub_64_e_2_2",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_e_2_3": {
+      "name": "gold_c15_arc_tub_64_e_2_3",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_e_2_4": {
+      "name": "gold_c15_arc_tub_64_e_2_4",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_e_2_5": {
+      "name": "gold_c15_arc_tub_64_e_2_5",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_e_2_6": {
+      "name": "gold_c15_arc_tub_64_e_2_6",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_f_2_0": {
+      "name": "gold_c15_arc_tub_64_f_2_0",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_f_2_1": {
+      "name": "gold_c15_arc_tub_64_f_2_1",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_f_2_2": {
+      "name": "gold_c15_arc_tub_64_f_2_2",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_f_2_3": {
+      "name": "gold_c15_arc_tub_64_f_2_3",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_f_2_4": {
+      "name": "gold_c15_arc_tub_64_f_2_4",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_f_2_5": {
+      "name": "gold_c15_arc_tub_64_f_2_5",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_f_2_6": {
+      "name": "gold_c15_arc_tub_64_f_2_6",
+      "x": 45,
+      "y": 26,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_g_2_0": {
+      "name": "gold_c15_arc_tub_64_g_2_0",
+      "x": 22,
+      "y": 4,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_g_2_1": {
+      "name": "gold_c15_arc_tub_64_g_2_1",
+      "x": 22,
+      "y": 4,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_g_2_2": {
+      "name": "gold_c15_arc_tub_64_g_2_2",
+      "x": 22,
+      "y": 4,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_g_2_3": {
+      "name": "gold_c15_arc_tub_64_g_2_3",
+      "x": 22,
+      "y": 4,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_g_2_4": {
+      "name": "gold_c15_arc_tub_64_g_2_4",
+      "x": 22,
+      "y": 4,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_g_2_5": {
+      "name": "gold_c15_arc_tub_64_g_2_5",
+      "x": 22,
+      "y": 4,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_g_2_6": {
+      "name": "gold_c15_arc_tub_64_g_2_6",
+      "x": 22,
+      "y": 4,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_h_2_0": {
+      "name": "gold_c15_arc_tub_64_h_2_0",
+      "x": 48,
+      "y": 81,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_h_2_1": {
+      "name": "gold_c15_arc_tub_64_h_2_1",
+      "x": 48,
+      "y": 81,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_h_2_2": {
+      "name": "gold_c15_arc_tub_64_h_2_2",
+      "x": 48,
+      "y": 81,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_h_2_3": {
+      "name": "gold_c15_arc_tub_64_h_2_3",
+      "x": 48,
+      "y": 82,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_h_2_4": {
+      "name": "gold_c15_arc_tub_64_h_2_4",
+      "x": 48,
+      "y": 83,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_h_2_5": {
+      "name": "gold_c15_arc_tub_64_h_2_5",
+      "x": 48,
+      "y": 81,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_h_2_6": {
+      "name": "gold_c15_arc_tub_64_h_2_6",
+      "x": 48,
+      "y": 81,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_i_2_0": {
+      "name": "gold_c15_arc_tub_64_i_2_0",
+      "x": 49,
+      "y": 8,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_j_2_0": {
+      "name": "gold_c15_arc_tub_64_j_2_0",
+      "x": 64,
+      "y": 6,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_k_2_0": {
+      "name": "gold_c15_arc_tub_64_k_2_0",
+      "x": 30,
+      "y": -20,
+      "exists": true
+    },
+    "gold_c15_arc_tub_icon_a": {
+      "name": "gold_c15_arc_tub_icon_a",
+      "x": 15,
+      "y": 11,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_l_2_0": {
+      "name": "gold_c15_arc_tub_64_l_2_0",
+      "x": -58,
+      "y": 3,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_l_2_1": {
+      "name": "gold_c15_arc_tub_64_l_2_1",
+      "x": -57,
+      "y": 4,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_l_2_2": {
+      "name": "gold_c15_arc_tub_64_l_2_2",
+      "x": -56,
+      "y": 5,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_l_2_3": {
+      "name": "gold_c15_arc_tub_64_l_2_3",
+      "x": -55,
+      "y": 6,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_l_2_4": {
+      "name": "gold_c15_arc_tub_64_l_2_4",
+      "x": -55,
+      "y": 6,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_l_2_5": {
+      "name": "gold_c15_arc_tub_64_l_2_5",
+      "x": -54,
+      "y": 7,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_l_2_6": {
+      "name": "gold_c15_arc_tub_64_l_2_6",
+      "x": -53,
+      "y": 8,
+      "exists": true
+    },
+    "gold_c15_arc_tub_64_m_2_0": {
+      "name": "gold_c15_arc_tub_64_m_2_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_0",
+      "x": -38,
+      "y": -15,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_2_1": {
+      "name": "gold_c15_arc_tub_64_m_2_1",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_1",
+      "x": -37,
+      "y": -14,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_2_2": {
+      "name": "gold_c15_arc_tub_64_m_2_2",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_2",
+      "x": -36,
+      "y": -13,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_2_3": {
+      "name": "gold_c15_arc_tub_64_m_2_3",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_3",
+      "x": -35,
+      "y": -12,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_2_4": {
+      "name": "gold_c15_arc_tub_64_m_2_4",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_4",
+      "x": -35,
+      "y": -12,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_2_5": {
+      "name": "gold_c15_arc_tub_64_m_2_5",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_5",
+      "x": -34,
+      "y": -11,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_2_6": {
+      "name": "gold_c15_arc_tub_64_m_2_6",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_6",
+      "x": -33,
+      "y": -10,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_a_4_0": {
+      "name": "gold_c15_arc_tub_64_a_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_a_2_0",
+      "x": 38,
+      "y": 33,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_b_4_0": {
+      "name": "gold_c15_arc_tub_64_b_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_b_2_0",
+      "x": 50,
+      "y": 25,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_c_4_0": {
+      "name": "gold_c15_arc_tub_64_c_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_c_2_0",
+      "x": 30,
+      "y": -1,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_d_4_0": {
+      "name": "gold_c15_arc_tub_64_d_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_d_2_0",
+      "x": 14,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_d_4_1": {
+      "name": "gold_c15_arc_tub_64_d_4_1",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_d_2_1",
+      "x": 14,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_d_4_2": {
+      "name": "gold_c15_arc_tub_64_d_4_2",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_d_2_2",
+      "x": 14,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_d_4_3": {
+      "name": "gold_c15_arc_tub_64_d_4_3",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_d_2_3",
+      "x": 14,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_d_4_4": {
+      "name": "gold_c15_arc_tub_64_d_4_4",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_d_2_4",
+      "x": 14,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_d_4_5": {
+      "name": "gold_c15_arc_tub_64_d_4_5",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_d_2_5",
+      "x": 14,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_d_4_6": {
+      "name": "gold_c15_arc_tub_64_d_4_6",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_d_2_6",
+      "x": 14,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_e_4_0": {
+      "name": "gold_c15_arc_tub_64_e_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_e_2_0",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_e_4_1": {
+      "name": "gold_c15_arc_tub_64_e_4_1",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_e_2_1",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_e_4_2": {
+      "name": "gold_c15_arc_tub_64_e_4_2",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_e_2_2",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_e_4_3": {
+      "name": "gold_c15_arc_tub_64_e_4_3",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_e_2_3",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_e_4_4": {
+      "name": "gold_c15_arc_tub_64_e_4_4",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_e_2_4",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_e_4_5": {
+      "name": "gold_c15_arc_tub_64_e_4_5",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_e_2_5",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_e_4_6": {
+      "name": "gold_c15_arc_tub_64_e_4_6",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_e_2_6",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_f_4_0": {
+      "name": "gold_c15_arc_tub_64_f_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_f_2_0",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_f_4_1": {
+      "name": "gold_c15_arc_tub_64_f_4_1",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_f_2_1",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_f_4_2": {
+      "name": "gold_c15_arc_tub_64_f_4_2",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_f_2_2",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_f_4_3": {
+      "name": "gold_c15_arc_tub_64_f_4_3",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_f_2_3",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_f_4_4": {
+      "name": "gold_c15_arc_tub_64_f_4_4",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_f_2_4",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_f_4_5": {
+      "name": "gold_c15_arc_tub_64_f_4_5",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_f_2_5",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_f_4_6": {
+      "name": "gold_c15_arc_tub_64_f_4_6",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_f_2_6",
+      "x": 45,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_g_4_0": {
+      "name": "gold_c15_arc_tub_64_g_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_g_2_0",
+      "x": 22,
+      "y": 4,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_g_4_1": {
+      "name": "gold_c15_arc_tub_64_g_4_1",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_g_2_1",
+      "x": 22,
+      "y": 4,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_g_4_2": {
+      "name": "gold_c15_arc_tub_64_g_4_2",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_g_2_2",
+      "x": 22,
+      "y": 4,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_g_4_3": {
+      "name": "gold_c15_arc_tub_64_g_4_3",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_g_2_3",
+      "x": 22,
+      "y": 4,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_g_4_4": {
+      "name": "gold_c15_arc_tub_64_g_4_4",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_g_2_4",
+      "x": 22,
+      "y": 4,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_g_4_5": {
+      "name": "gold_c15_arc_tub_64_g_4_5",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_g_2_5",
+      "x": 22,
+      "y": 4,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_g_4_6": {
+      "name": "gold_c15_arc_tub_64_g_4_6",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_g_2_6",
+      "x": 22,
+      "y": 4,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_h_4_0": {
+      "name": "gold_c15_arc_tub_64_h_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_h_2_0",
+      "x": 48,
+      "y": 81,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_h_4_1": {
+      "name": "gold_c15_arc_tub_64_h_4_1",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_h_2_1",
+      "x": 48,
+      "y": 81,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_h_4_2": {
+      "name": "gold_c15_arc_tub_64_h_4_2",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_h_2_2",
+      "x": 48,
+      "y": 81,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_h_4_3": {
+      "name": "gold_c15_arc_tub_64_h_4_3",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_h_2_3",
+      "x": 48,
+      "y": 82,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_h_4_4": {
+      "name": "gold_c15_arc_tub_64_h_4_4",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_h_2_4",
+      "x": 48,
+      "y": 83,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_h_4_5": {
+      "name": "gold_c15_arc_tub_64_h_4_5",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_h_2_5",
+      "x": 48,
+      "y": 81,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_h_4_6": {
+      "name": "gold_c15_arc_tub_64_h_4_6",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_h_2_6",
+      "x": 48,
+      "y": 81,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_i_4_0": {
+      "name": "gold_c15_arc_tub_64_i_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_i_2_0",
+      "x": 49,
+      "y": 8,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_j_4_0": {
+      "name": "gold_c15_arc_tub_64_j_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_j_2_0",
+      "x": 64,
+      "y": 6,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_k_4_0": {
+      "name": "gold_c15_arc_tub_64_k_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_k_2_0",
+      "x": 30,
+      "y": -20,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_l_4_0": {
+      "name": "gold_c15_arc_tub_64_l_4_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_0",
+      "x": -58,
+      "y": 3,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_l_4_1": {
+      "name": "gold_c15_arc_tub_64_l_4_1",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_1",
+      "x": -57,
+      "y": 4,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_l_4_2": {
+      "name": "gold_c15_arc_tub_64_l_4_2",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_2",
+      "x": -56,
+      "y": 5,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_l_4_3": {
+      "name": "gold_c15_arc_tub_64_l_4_3",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_3",
+      "x": -55,
+      "y": 6,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_l_4_4": {
+      "name": "gold_c15_arc_tub_64_l_4_4",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_4",
+      "x": -55,
+      "y": 6,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_l_4_5": {
+      "name": "gold_c15_arc_tub_64_l_4_5",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_5",
+      "x": -54,
+      "y": 7,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_l_4_6": {
+      "name": "gold_c15_arc_tub_64_l_4_6",
+      "flipH": 1,
+      "source": "gold_c15_arc_tub_64_l_2_6",
+      "x": -53,
+      "y": 8,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_4_0": {
+      "name": "gold_c15_arc_tub_64_m_4_0",
+      "source": "gold_c15_arc_tub_64_l_2_0",
+      "x": -38,
+      "y": -15,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_4_1": {
+      "name": "gold_c15_arc_tub_64_m_4_1",
+      "source": "gold_c15_arc_tub_64_l_2_1",
+      "x": -37,
+      "y": -14,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_4_2": {
+      "name": "gold_c15_arc_tub_64_m_4_2",
+      "source": "gold_c15_arc_tub_64_l_2_2",
+      "x": -36,
+      "y": -13,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_4_3": {
+      "name": "gold_c15_arc_tub_64_m_4_3",
+      "source": "gold_c15_arc_tub_64_l_2_3",
+      "x": -35,
+      "y": -12,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_4_4": {
+      "name": "gold_c15_arc_tub_64_m_4_4",
+      "source": "gold_c15_arc_tub_64_l_2_4",
+      "x": -35,
+      "y": -12,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_4_5": {
+      "name": "gold_c15_arc_tub_64_m_4_5",
+      "source": "gold_c15_arc_tub_64_l_2_5",
+      "x": -34,
+      "y": -11,
+      "exists": false
+    },
+    "gold_c15_arc_tub_64_m_4_6": {
+      "name": "gold_c15_arc_tub_64_m_4_6",
+      "source": "gold_c15_arc_tub_64_l_2_6",
+      "x": -33,
+      "y": -10,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0.9
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 13,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": []
+            },
+            {
+              "layerId": 10,
+              "frameSequence": []
+            },
+            {
+              "layerId": 11,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 12,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -355
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 2100
+        },
+        {
+          "layerId": 3,
+          "alpha": 204,
+          "z": -350
+        },
+        {
+          "layerId": 4,
+          "alpha": 204,
+          "z": 500
+        },
+        {
+          "layerId": 5,
+          "alpha": 204,
+          "z": 1100
+        },
+        {
+          "layerId": 6,
+          "alpha": 204,
+          "z": 2100
+        },
+        {
+          "layerId": 7,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": 2110
+        },
+        {
+          "layerId": 8,
+          "z": 1500
+        },
+        {
+          "layerId": 9,
+          "z": 1000
+        },
+        {
+          "layerId": 10,
+          "z": 2100
+        },
+        {
+          "layerId": 11,
+          "z": 1500
+        },
+        {
+          "layerId": 12,
+          "z": 2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "gold_c15_arc_tub",
+    "visualization": "furniture_animated"
+  }
+}

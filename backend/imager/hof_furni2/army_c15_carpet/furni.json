@@ -1,0 +1,71 @@
+{
+  "assets": {
+    "army_c15_carpet_64_b_4_0": {
+      "name": "army_c15_carpet_64_b_4_0",
+      "x": 63,
+      "y": 18,
+      "exists": true
+    },
+    "army_c15_carpet_64_a_4_0": {
+      "name": "army_c15_carpet_64_a_4_0",
+      "x": 64,
+      "y": 19,
+      "exists": true
+    },
+    "army_c15_carpet_icon_a": {
+      "name": "army_c15_carpet_icon_a",
+      "x": 13,
+      "y": 7,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0.1
+    },
+    "directions": [
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -8000
+        },
+        {
+          "layerId": 1,
+          "z": -5000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "army_c15_carpet",
+    "visualization": "furniture_static"
+  }
+}

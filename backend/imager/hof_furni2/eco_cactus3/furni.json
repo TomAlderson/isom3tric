@@ -1,0 +1,110 @@
+{
+  "assets": {
+    "eco_cactus3_64_a_0_0": {
+      "name": "eco_cactus3_64_a_0_0",
+      "x": 16,
+      "y": 29,
+      "exists": true
+    },
+    "eco_cactus3_64_a_2_0": {
+      "name": "eco_cactus3_64_a_2_0",
+      "flipH": 1,
+      "source": "eco_cactus3_64_a_0_0",
+      "x": 16,
+      "y": 29,
+      "exists": false
+    },
+    "eco_cactus3_64_sd_0_0": {
+      "name": "eco_cactus3_64_sd_0_0",
+      "x": 13,
+      "y": 0,
+      "exists": true
+    },
+    "eco_cactus3_64_sd_2_0": {
+      "name": "eco_cactus3_64_sd_2_0",
+      "flipH": 1,
+      "source": "eco_cactus3_64_sd_0_0",
+      "x": 13,
+      "y": 0,
+      "exists": false
+    },
+    "eco_cactus3_icon_a": {
+      "name": "eco_cactus3_icon_a",
+      "x": 9,
+      "y": 9,
+      "exists": false
+    },
+    "eco_cactus3_32_a_0_0": {
+      "name": "eco_cactus3_32_a_0_0",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    },
+    "eco_cactus3_32_a_2_0": {
+      "name": "eco_cactus3_32_a_2_0",
+      "flipH": 1,
+      "source": "eco_cactus3_32_a_0_0",
+      "x": 8,
+      "y": 14,
+      "exists": false
+    },
+    "eco_cactus3_32_sd_0_0": {
+      "name": "eco_cactus3_32_sd_0_0",
+      "x": 7,
+      "y": 0,
+      "exists": true
+    },
+    "eco_cactus3_32_sd_2_0": {
+      "name": "eco_cactus3_32_sd_2_0",
+      "flipH": 1,
+      "source": "eco_cactus3_32_sd_0_0",
+      "x": 7,
+      "y": 0,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "eco_cactus3",
+    "visualization": "furniture_static"
+  }
+}

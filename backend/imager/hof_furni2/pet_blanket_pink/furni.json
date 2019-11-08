@@ -1,0 +1,114 @@
+{
+  "assets": {
+    "pet_blanket_pink_32_sd_2_0": {
+      "name": "pet_blanket_pink_32_sd_2_0",
+      "x": 10,
+      "y": -3,
+      "exists": true
+    },
+    "pet_blanket_pink_32_a_2_0": {
+      "name": "pet_blanket_pink_32_a_2_0",
+      "x": 13,
+      "y": 8,
+      "exists": false
+    },
+    "pet_blanket_pink_64_sd_2_0": {
+      "name": "pet_blanket_pink_64_sd_2_0",
+      "x": 27,
+      "y": 0,
+      "exists": true
+    },
+    "pet_blanket_pink_64_a_2_0": {
+      "name": "pet_blanket_pink_64_a_2_0",
+      "x": 26,
+      "y": 17,
+      "exists": true
+    },
+    "pet_blanket_pink_icon_a": {
+      "name": "pet_blanket_pink_icon_a",
+      "x": 12,
+      "y": 6,
+      "exists": false
+    },
+    "pet_blanket_pink_32_sd_4_0": {
+      "name": "pet_blanket_pink_32_sd_4_0",
+      "flipH": 1,
+      "source": "pet_blanket_pink_32_sd_2_0",
+      "x": 10,
+      "y": -3,
+      "exists": false
+    },
+    "pet_blanket_pink_32_a_4_0": {
+      "name": "pet_blanket_pink_32_a_4_0",
+      "flipH": 1,
+      "source": "pet_blanket_pink_32_a_2_0",
+      "x": 13,
+      "y": 8,
+      "exists": false
+    },
+    "pet_blanket_pink_64_sd_4_0": {
+      "name": "pet_blanket_pink_64_sd_4_0",
+      "flipH": 1,
+      "source": "pet_blanket_pink_64_sd_2_0",
+      "x": 27,
+      "y": 0,
+      "exists": false
+    },
+    "pet_blanket_pink_64_a_4_0": {
+      "name": "pet_blanket_pink_64_a_4_0",
+      "flipH": 1,
+      "source": "pet_blanket_pink_64_a_2_0",
+      "x": 26,
+      "y": 17,
+      "exists": false
+    },
+    "icon_a": {
+      "name": "icon_a",
+      "x": 12,
+      "y": 6,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "pet_blanket_pink",
+    "visualization": "furniture_static"
+  }
+}

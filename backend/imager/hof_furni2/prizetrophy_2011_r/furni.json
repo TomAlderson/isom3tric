@@ -1,0 +1,823 @@
+{
+  "assets": {
+    "prizetrophy_2011_r_32_a_0_0": {
+      "name": "prizetrophy_2011_r_32_a_0_0",
+      "x": 12,
+      "y": 69,
+      "exists": true
+    },
+    "prizetrophy_2011_r_32_b_0_0": {
+      "name": "prizetrophy_2011_r_32_b_0_0",
+      "x": 15,
+      "y": 70,
+      "exists": true
+    },
+    "prizetrophy_2011_r_32_c_0_0": {
+      "name": "prizetrophy_2011_r_32_c_0_0",
+      "x": -4,
+      "y": 36,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_0_1": {
+      "name": "prizetrophy_2011_r_32_c_0_1",
+      "x": -3,
+      "y": 37,
+      "exists": true
+    },
+    "prizetrophy_2011_r_32_c_0_2": {
+      "name": "prizetrophy_2011_r_32_c_0_2",
+      "x": -2,
+      "y": 38,
+      "exists": true
+    },
+    "prizetrophy_2011_r_32_c_0_3": {
+      "name": "prizetrophy_2011_r_32_c_0_3",
+      "x": -1,
+      "y": 39,
+      "exists": true
+    },
+    "prizetrophy_2011_r_32_c_0_4": {
+      "name": "prizetrophy_2011_r_32_c_0_4",
+      "x": 1,
+      "y": 41,
+      "exists": true
+    },
+    "prizetrophy_2011_r_32_c_0_5": {
+      "name": "prizetrophy_2011_r_32_c_0_5",
+      "x": 4,
+      "y": 70,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_0_6": {
+      "name": "prizetrophy_2011_r_32_c_0_6",
+      "x": 5,
+      "y": 71,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_0_7": {
+      "name": "prizetrophy_2011_r_32_c_0_7",
+      "x": 6,
+      "y": 72,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_0_8": {
+      "name": "prizetrophy_2011_r_32_c_0_8",
+      "x": 8,
+      "y": 74,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_a_0_0": {
+      "name": "prizetrophy_2011_r_64_a_0_0",
+      "x": 22,
+      "y": 132,
+      "exists": true
+    },
+    "prizetrophy_2011_r_64_b_0_0": {
+      "name": "prizetrophy_2011_r_64_b_0_0",
+      "x": 38,
+      "y": 133,
+      "exists": true
+    },
+    "prizetrophy_2011_r_64_c_0_0": {
+      "name": "prizetrophy_2011_r_64_c_0_0",
+      "x": -8,
+      "y": 65,
+      "exists": true
+    },
+    "prizetrophy_2011_r_64_c_0_1": {
+      "name": "prizetrophy_2011_r_64_c_0_1",
+      "x": -4,
+      "y": 66,
+      "exists": true
+    },
+    "prizetrophy_2011_r_64_c_0_2": {
+      "name": "prizetrophy_2011_r_64_c_0_2",
+      "x": -3,
+      "y": 67,
+      "exists": true
+    },
+    "prizetrophy_2011_r_64_c_0_3": {
+      "name": "prizetrophy_2011_r_64_c_0_3",
+      "x": -2,
+      "y": 68,
+      "exists": true
+    },
+    "prizetrophy_2011_r_64_c_0_4": {
+      "name": "prizetrophy_2011_r_64_c_0_4",
+      "x": 0,
+      "y": 70,
+      "exists": true
+    },
+    "prizetrophy_2011_r_64_c_0_5": {
+      "name": "prizetrophy_2011_r_64_c_0_5",
+      "x": 2,
+      "y": 72,
+      "exists": true
+    },
+    "prizetrophy_2011_r_64_c_0_6": {
+      "name": "prizetrophy_2011_r_64_c_0_6",
+      "x": 16,
+      "y": 92,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_0_7": {
+      "name": "prizetrophy_2011_r_64_c_0_7",
+      "x": 17,
+      "y": 93,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_0_8": {
+      "name": "prizetrophy_2011_r_64_c_0_8",
+      "x": 18,
+      "y": 94,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_0_9": {
+      "name": "prizetrophy_2011_r_64_c_0_9",
+      "x": 20,
+      "y": 96,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_0_10": {
+      "name": "prizetrophy_2011_r_64_c_0_10",
+      "x": 22,
+      "y": 98,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_0_11": {
+      "name": "prizetrophy_2011_r_64_c_0_11",
+      "x": 1,
+      "y": 133,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_0_12": {
+      "name": "prizetrophy_2011_r_64_c_0_12",
+      "x": 2,
+      "y": 134,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_0_13": {
+      "name": "prizetrophy_2011_r_64_c_0_13",
+      "x": 3,
+      "y": 135,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_0_14": {
+      "name": "prizetrophy_2011_r_64_c_0_14",
+      "x": 5,
+      "y": 137,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_0_15": {
+      "name": "prizetrophy_2011_r_64_c_0_15",
+      "x": 7,
+      "y": 139,
+      "exists": false
+    },
+    "prizetrophy_2011_r_icon_a": {
+      "name": "prizetrophy_2011_r_icon_a",
+      "x": 14,
+      "y": 12,
+      "exists": true
+    },
+    "prizetrophy_2011_r_32_a_2_0": {
+      "name": "prizetrophy_2011_r_32_a_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_32_a_0_0",
+      "x": 12,
+      "y": 69,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_b_2_0": {
+      "name": "prizetrophy_2011_r_32_b_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_32_b_0_0",
+      "x": 15,
+      "y": 70,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_2_0": {
+      "name": "prizetrophy_2011_r_32_c_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_32_c_0_0",
+      "x": -4,
+      "y": 36,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_2_1": {
+      "name": "prizetrophy_2011_r_32_c_2_1",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_32_c_0_1",
+      "x": -3,
+      "y": 37,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_2_2": {
+      "name": "prizetrophy_2011_r_32_c_2_2",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_32_c_0_2",
+      "x": -2,
+      "y": 38,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_2_3": {
+      "name": "prizetrophy_2011_r_32_c_2_3",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_32_c_0_3",
+      "x": -1,
+      "y": 39,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_2_4": {
+      "name": "prizetrophy_2011_r_32_c_2_4",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_32_c_0_4",
+      "x": 1,
+      "y": 41,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_2_5": {
+      "name": "prizetrophy_2011_r_32_c_2_5",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_32_c_0_5",
+      "x": 4,
+      "y": 70,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_2_6": {
+      "name": "prizetrophy_2011_r_32_c_2_6",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_32_c_0_6",
+      "x": 5,
+      "y": 71,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_2_7": {
+      "name": "prizetrophy_2011_r_32_c_2_7",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_32_c_0_7",
+      "x": 6,
+      "y": 72,
+      "exists": false
+    },
+    "prizetrophy_2011_r_32_c_2_8": {
+      "name": "prizetrophy_2011_r_32_c_2_8",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_32_c_0_8",
+      "x": 8,
+      "y": 74,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_a_2_0": {
+      "name": "prizetrophy_2011_r_64_a_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_a_0_0",
+      "x": 22,
+      "y": 132,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_b_2_0": {
+      "name": "prizetrophy_2011_r_64_b_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_b_0_0",
+      "x": 38,
+      "y": 133,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_0": {
+      "name": "prizetrophy_2011_r_64_c_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_0",
+      "x": -8,
+      "y": 65,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_1": {
+      "name": "prizetrophy_2011_r_64_c_2_1",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_1",
+      "x": -4,
+      "y": 66,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_2": {
+      "name": "prizetrophy_2011_r_64_c_2_2",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_2",
+      "x": -3,
+      "y": 67,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_3": {
+      "name": "prizetrophy_2011_r_64_c_2_3",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_3",
+      "x": -2,
+      "y": 68,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_4": {
+      "name": "prizetrophy_2011_r_64_c_2_4",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_4",
+      "x": 0,
+      "y": 70,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_5": {
+      "name": "prizetrophy_2011_r_64_c_2_5",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_5",
+      "x": 2,
+      "y": 72,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_6": {
+      "name": "prizetrophy_2011_r_64_c_2_6",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_6",
+      "x": 16,
+      "y": 92,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_7": {
+      "name": "prizetrophy_2011_r_64_c_2_7",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_7",
+      "x": 17,
+      "y": 93,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_8": {
+      "name": "prizetrophy_2011_r_64_c_2_8",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_8",
+      "x": 18,
+      "y": 94,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_9": {
+      "name": "prizetrophy_2011_r_64_c_2_9",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_9",
+      "x": 20,
+      "y": 96,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_10": {
+      "name": "prizetrophy_2011_r_64_c_2_10",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_10",
+      "x": 22,
+      "y": 98,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_11": {
+      "name": "prizetrophy_2011_r_64_c_2_11",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_11",
+      "x": 1,
+      "y": 133,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_12": {
+      "name": "prizetrophy_2011_r_64_c_2_12",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_12",
+      "x": 2,
+      "y": 134,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_13": {
+      "name": "prizetrophy_2011_r_64_c_2_13",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_13",
+      "x": 3,
+      "y": 135,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_14": {
+      "name": "prizetrophy_2011_r_64_c_2_14",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_14",
+      "x": 5,
+      "y": 137,
+      "exists": false
+    },
+    "prizetrophy_2011_r_64_c_2_15": {
+      "name": "prizetrophy_2011_r_64_c_2_15",
+      "flipH": 1,
+      "source": "prizetrophy_2011_r_64_c_0_15",
+      "x": 7,
+      "y": 139,
+      "exists": false
+    },
+    "bg": {
+      "name": "bg",
+      "x": 315,
+      "y": 290,
+      "exists": false
+    },
+    "REGPOINT": {
+      "name": "REGPOINT",
+      "x": 6,
+      "y": 6,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "COPY"
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "COPY"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_trophy",
+    "type": "prizetrophy_2011_r",
+    "visualization": "furniture_animated"
+  }
+}

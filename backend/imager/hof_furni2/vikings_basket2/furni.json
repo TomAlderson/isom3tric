@@ -1,0 +1,108 @@
+{
+  "assets": {
+    "vikings_basket2_64_sd_0_0": {
+      "name": "vikings_basket2_64_sd_0_0",
+      "x": 15,
+      "y": 8,
+      "exists": true
+    },
+    "vikings_basket2_64_a_0_0": {
+      "name": "vikings_basket2_64_a_0_0",
+      "x": 18,
+      "y": 40,
+      "exists": true
+    },
+    "vikings_basket2_32_sd_0_0": {
+      "name": "vikings_basket2_32_sd_0_0",
+      "x": 8,
+      "y": 3,
+      "exists": true
+    },
+    "vikings_basket2_32_a_0_0": {
+      "name": "vikings_basket2_32_a_0_0",
+      "x": 10,
+      "y": 20,
+      "exists": false
+    },
+    "vikings_basket2_icon_a": {
+      "name": "vikings_basket2_icon_a",
+      "x": 10,
+      "y": 12,
+      "exists": true
+    },
+    "vikings_basket2_64_sd_6_0": {
+      "name": "vikings_basket2_64_sd_6_0",
+      "flipH": 1,
+      "source": "vikings_basket2_64_sd_0_0",
+      "x": 15,
+      "y": 8,
+      "exists": false
+    },
+    "vikings_basket2_64_a_6_0": {
+      "name": "vikings_basket2_64_a_6_0",
+      "flipH": 1,
+      "source": "vikings_basket2_64_a_0_0",
+      "x": 18,
+      "y": 40,
+      "exists": false
+    },
+    "vikings_basket2_32_sd_6_0": {
+      "name": "vikings_basket2_32_sd_6_0",
+      "flipH": 1,
+      "source": "vikings_basket2_32_sd_0_0",
+      "x": 8,
+      "y": 3,
+      "exists": false
+    },
+    "vikings_basket2_32_a_6_0": {
+      "name": "vikings_basket2_32_a_6_0",
+      "flipH": 1,
+      "source": "vikings_basket2_32_a_0_0",
+      "x": 10,
+      "y": 20,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "vikings_basket2",
+    "visualization": "furniture_animated"
+  }
+}

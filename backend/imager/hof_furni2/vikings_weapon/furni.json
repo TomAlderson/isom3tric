@@ -1,0 +1,242 @@
+{
+  "assets": {
+    "vikings_weapon_64_a_4_0": {
+      "name": "vikings_weapon_64_a_4_0",
+      "x": 22,
+      "y": 132,
+      "exists": true
+    },
+    "vikings_weapon_64_b_4_0": {
+      "name": "vikings_weapon_64_b_4_0",
+      "x": -23,
+      "y": 101,
+      "exists": true
+    },
+    "vikings_weapon_64_sd_4_0": {
+      "name": "vikings_weapon_64_sd_4_0",
+      "x": 20,
+      "y": 12,
+      "exists": true
+    },
+    "vikings_weapon_32_a_4_0": {
+      "name": "vikings_weapon_32_a_4_0",
+      "x": 12,
+      "y": 67,
+      "exists": true
+    },
+    "vikings_weapon_32_b_4_0": {
+      "name": "vikings_weapon_32_b_4_0",
+      "x": -11,
+      "y": 51,
+      "exists": true
+    },
+    "vikings_weapon_32_sd_4_0": {
+      "name": "vikings_weapon_32_sd_4_0",
+      "x": 11,
+      "y": 7,
+      "exists": true
+    },
+    "vikings_weapon_icon_a": {
+      "name": "vikings_weapon_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "vikings_weapon_64_a_2_0": {
+      "name": "vikings_weapon_64_a_2_0",
+      "flipH": 1,
+      "source": "vikings_weapon_64_a_4_0",
+      "x": 22,
+      "y": 132,
+      "exists": false
+    },
+    "vikings_weapon_64_b_2_0": {
+      "name": "vikings_weapon_64_b_2_0",
+      "flipH": 1,
+      "source": "vikings_weapon_64_b_4_0",
+      "x": -23,
+      "y": 101,
+      "exists": false
+    },
+    "vikings_weapon_64_sd_2_0": {
+      "name": "vikings_weapon_64_sd_2_0",
+      "flipH": 1,
+      "source": "vikings_weapon_64_sd_4_0",
+      "x": 20,
+      "y": 12,
+      "exists": false
+    },
+    "vikings_weapon_32_a_2_0": {
+      "name": "vikings_weapon_32_a_2_0",
+      "flipH": 1,
+      "source": "vikings_weapon_32_a_4_0",
+      "x": 12,
+      "y": 67,
+      "exists": false
+    },
+    "vikings_weapon_32_b_2_0": {
+      "name": "vikings_weapon_32_b_2_0",
+      "flipH": 1,
+      "source": "vikings_weapon_32_b_4_0",
+      "x": -11,
+      "y": 51,
+      "exists": false
+    },
+    "vikings_weapon_32_sd_2_0": {
+      "name": "vikings_weapon_32_sd_2_0",
+      "flipH": 1,
+      "source": "vikings_weapon_32_sd_4_0",
+      "x": 11,
+      "y": 7,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "vikings_weapon",
+    "visualization": "furniture_animated"
+  }
+}

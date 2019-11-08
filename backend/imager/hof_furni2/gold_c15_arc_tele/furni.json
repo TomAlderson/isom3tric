@@ -1,0 +1,672 @@
+{
+  "assets": {
+    "gold_c15_arc_tele_64_a_2_0": {
+      "name": "gold_c15_arc_tele_64_a_2_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_a_4_0",
+      "x": 29,
+      "y": 74,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_a_4_0": {
+      "name": "gold_c15_arc_tele_64_a_4_0",
+      "x": 29,
+      "y": 74,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_b_2_0": {
+      "name": "gold_c15_arc_tele_64_b_2_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_b_4_0",
+      "x": 1,
+      "y": -14,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_b_2_1": {
+      "name": "gold_c15_arc_tele_64_b_2_1",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_b_4_1",
+      "x": 54,
+      "y": 75,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_b_4_0": {
+      "name": "gold_c15_arc_tele_64_b_4_0",
+      "x": 1,
+      "y": -14,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_b_4_1": {
+      "name": "gold_c15_arc_tele_64_b_4_1",
+      "x": 55,
+      "y": 76,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_c_2_0": {
+      "name": "gold_c15_arc_tele_64_c_2_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_c_4_0",
+      "x": 30,
+      "y": 113,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_c_2_1": {
+      "name": "gold_c15_arc_tele_64_c_2_1",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_c_4_1",
+      "x": 30,
+      "y": 113,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_c_4_0": {
+      "name": "gold_c15_arc_tele_64_c_4_0",
+      "x": 31,
+      "y": 114,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_c_4_1": {
+      "name": "gold_c15_arc_tele_64_c_4_1",
+      "x": 31,
+      "y": 114,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_d_2_0": {
+      "name": "gold_c15_arc_tele_64_d_2_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_d_4_0",
+      "x": 33,
+      "y": 1,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_d_2_1": {
+      "name": "gold_c15_arc_tele_64_d_2_1",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_d_4_1",
+      "x": 37,
+      "y": 84,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_d_2_2": {
+      "name": "gold_c15_arc_tele_64_d_2_2",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_d_4_2",
+      "x": 37,
+      "y": 84,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_d_2_3": {
+      "name": "gold_c15_arc_tele_64_d_2_3",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_d_4_3",
+      "x": 37,
+      "y": 84,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_d_2_4": {
+      "name": "gold_c15_arc_tele_64_d_2_4",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_d_4_4",
+      "x": 37,
+      "y": 84,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_d_4_0": {
+      "name": "gold_c15_arc_tele_64_d_4_0",
+      "x": 33,
+      "y": 1,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_d_4_1": {
+      "name": "gold_c15_arc_tele_64_d_4_1",
+      "x": 37,
+      "y": 84,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_d_4_2": {
+      "name": "gold_c15_arc_tele_64_d_4_2",
+      "x": 37,
+      "y": 84,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_d_4_3": {
+      "name": "gold_c15_arc_tele_64_d_4_3",
+      "x": 37,
+      "y": 84,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_d_4_4": {
+      "name": "gold_c15_arc_tele_64_d_4_4",
+      "x": 37,
+      "y": 84,
+      "exists": true
+    },
+    "gold_c15_arc_tele_icon_a": {
+      "name": "gold_c15_arc_tele_icon_a",
+      "x": 8,
+      "y": 15,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_e_4_0": {
+      "name": "gold_c15_arc_tele_64_e_4_0",
+      "x": 29,
+      "y": 99,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_e_4_1": {
+      "name": "gold_c15_arc_tele_64_e_4_1",
+      "x": 30,
+      "y": 100,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_e_4_2": {
+      "name": "gold_c15_arc_tele_64_e_4_2",
+      "x": 31,
+      "y": 101,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_e_4_3": {
+      "name": "gold_c15_arc_tele_64_e_4_3",
+      "x": 32,
+      "y": 102,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_e_4_4": {
+      "name": "gold_c15_arc_tele_64_e_4_4",
+      "x": 32,
+      "y": 102,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_e_4_5": {
+      "name": "gold_c15_arc_tele_64_e_4_5",
+      "x": 33,
+      "y": 103,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_e_4_6": {
+      "name": "gold_c15_arc_tele_64_e_4_6",
+      "x": 34,
+      "y": 104,
+      "exists": true
+    },
+    "gold_c15_arc_tele_64_e_4_7": {
+      "name": "gold_c15_arc_tele_64_e_4_7",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_1",
+      "x": 32,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_4_8": {
+      "name": "gold_c15_arc_tele_64_e_4_8",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_2",
+      "x": 33,
+      "y": 27,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_4_9": {
+      "name": "gold_c15_arc_tele_64_e_4_9",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_3",
+      "x": 34,
+      "y": 28,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_4_10": {
+      "name": "gold_c15_arc_tele_64_e_4_10",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_4",
+      "x": 34,
+      "y": 28,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_4_11": {
+      "name": "gold_c15_arc_tele_64_e_4_11",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_5",
+      "x": 35,
+      "y": 29,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_4_12": {
+      "name": "gold_c15_arc_tele_64_e_4_12",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_6",
+      "x": 36,
+      "y": 30,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_0": {
+      "name": "gold_c15_arc_tele_64_e_2_0",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_0",
+      "x": 29,
+      "y": 99,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_1": {
+      "name": "gold_c15_arc_tele_64_e_2_1",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_1",
+      "x": 30,
+      "y": 100,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_2": {
+      "name": "gold_c15_arc_tele_64_e_2_2",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_2",
+      "x": 31,
+      "y": 101,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_3": {
+      "name": "gold_c15_arc_tele_64_e_2_3",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_3",
+      "x": 32,
+      "y": 102,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_4": {
+      "name": "gold_c15_arc_tele_64_e_2_4",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_4",
+      "x": 32,
+      "y": 102,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_5": {
+      "name": "gold_c15_arc_tele_64_e_2_5",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_5",
+      "x": 33,
+      "y": 103,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_6": {
+      "name": "gold_c15_arc_tele_64_e_2_6",
+      "flipH": 1,
+      "source": "gold_c15_arc_tele_64_e_4_6",
+      "x": 34,
+      "y": 104,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_7": {
+      "name": "gold_c15_arc_tele_64_e_2_7",
+      "source": "gold_c15_arc_tele_64_e_4_1",
+      "x": 32,
+      "y": 26,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_8": {
+      "name": "gold_c15_arc_tele_64_e_2_8",
+      "source": "gold_c15_arc_tele_64_e_4_2",
+      "x": 33,
+      "y": 27,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_9": {
+      "name": "gold_c15_arc_tele_64_e_2_9",
+      "source": "gold_c15_arc_tele_64_e_4_3",
+      "x": 34,
+      "y": 28,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_10": {
+      "name": "gold_c15_arc_tele_64_e_2_10",
+      "source": "gold_c15_arc_tele_64_e_4_4",
+      "x": 34,
+      "y": 28,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_11": {
+      "name": "gold_c15_arc_tele_64_e_2_11",
+      "source": "gold_c15_arc_tele_64_e_4_5",
+      "x": 35,
+      "y": 29,
+      "exists": false
+    },
+    "gold_c15_arc_tele_64_e_2_12": {
+      "name": "gold_c15_arc_tele_64_e_2_12",
+      "source": "gold_c15_arc_tele_64_e_4_6",
+      "x": 36,
+      "y": 30,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  1,
+                  2,
+                  3,
+                  1,
+                  2,
+                  3,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -10
+        },
+        {
+          "layerId": 1,
+          "z": 100
+        },
+        {
+          "layerId": 2,
+          "z": 490
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "z": 560
+        },
+        {
+          "layerId": 4,
+          "z": 560
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "gold_c15_arc_tele",
+    "visualization": "furniture_animated"
+  }
+}

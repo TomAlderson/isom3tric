@@ -1,0 +1,202 @@
+{
+  "assets": {
+    "nest_gnome_64_a_2_0": {
+      "name": "nest_gnome_64_a_2_0",
+      "x": 71,
+      "y": 167,
+      "exists": true
+    },
+    "nest_gnome_32_a_2_0": {
+      "name": "nest_gnome_32_a_2_0",
+      "x": 36,
+      "y": 84,
+      "exists": true
+    },
+    "nest_gnome_icon_a": {
+      "name": "nest_gnome_icon_a",
+      "x": 13,
+      "y": 19,
+      "exists": true
+    },
+    "nest_gnome_64_sd_2_0": {
+      "name": "nest_gnome_64_sd_2_0",
+      "x": 35,
+      "y": 18,
+      "exists": true
+    },
+    "nest_gnome_64_b_2_0": {
+      "name": "nest_gnome_64_b_2_0",
+      "x": 76,
+      "y": 157,
+      "exists": true
+    },
+    "nest_gnome_32_sd_2_0": {
+      "name": "nest_gnome_32_sd_2_0",
+      "x": 19,
+      "y": 8,
+      "exists": true
+    },
+    "nest_gnome_32_b_2_0": {
+      "name": "nest_gnome_32_b_2_0",
+      "x": 39,
+      "y": 79,
+      "exists": true
+    },
+    "nest_gnome_64_a_4_0": {
+      "name": "nest_gnome_64_a_4_0",
+      "flipH": 1,
+      "source": "nest_gnome_64_a_2_0",
+      "x": 71,
+      "y": 167,
+      "exists": false
+    },
+    "nest_gnome_32_a_4_0": {
+      "name": "nest_gnome_32_a_4_0",
+      "flipH": 1,
+      "source": "nest_gnome_32_a_2_0",
+      "x": 36,
+      "y": 84,
+      "exists": false
+    },
+    "nest_gnome_64_sd_4_0": {
+      "name": "nest_gnome_64_sd_4_0",
+      "flipH": 1,
+      "source": "nest_gnome_64_sd_2_0",
+      "x": 35,
+      "y": 18,
+      "exists": false
+    },
+    "nest_gnome_64_b_4_0": {
+      "name": "nest_gnome_64_b_4_0",
+      "flipH": 1,
+      "source": "nest_gnome_64_b_2_0",
+      "x": 76,
+      "y": 157,
+      "exists": false
+    },
+    "nest_gnome_32_sd_4_0": {
+      "name": "nest_gnome_32_sd_4_0",
+      "flipH": 1,
+      "source": "nest_gnome_32_sd_2_0",
+      "x": 19,
+      "y": 8,
+      "exists": false
+    },
+    "nest_gnome_32_b_4_0": {
+      "name": "nest_gnome_32_b_4_0",
+      "flipH": 1,
+      "source": "nest_gnome_32_b_2_0",
+      "x": 39,
+      "y": 79,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.5
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -10
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -10
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "nest_gnome",
+    "visualization": "furniture_static"
+  }
+}

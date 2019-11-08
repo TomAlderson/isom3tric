@@ -1,0 +1,1600 @@
+{
+  "assets": {
+    "bling11_statue2_32_a_0_0": {
+      "name": "bling11_statue2_32_a_0_0",
+      "x": 28,
+      "y": 76,
+      "exists": true
+    },
+    "bling11_statue2_32_b_0_0": {
+      "name": "bling11_statue2_32_b_0_0",
+      "x": -24,
+      "y": -3,
+      "exists": true
+    },
+    "bling11_statue2_32_b_0_1": {
+      "name": "bling11_statue2_32_b_0_1",
+      "x": -22,
+      "y": 37,
+      "exists": true
+    },
+    "bling11_statue2_32_b_0_2": {
+      "name": "bling11_statue2_32_b_0_2",
+      "x": -19,
+      "y": 39,
+      "exists": true
+    },
+    "bling11_statue2_32_b_0_3": {
+      "name": "bling11_statue2_32_b_0_3",
+      "x": -21,
+      "y": 43,
+      "exists": true
+    },
+    "bling11_statue2_32_b_0_4": {
+      "name": "bling11_statue2_32_b_0_4",
+      "x": -21,
+      "y": 40,
+      "exists": true
+    },
+    "bling11_statue2_32_c_0_0": {
+      "name": "bling11_statue2_32_c_0_0",
+      "x": 25,
+      "y": -3,
+      "exists": false
+    },
+    "bling11_statue2_32_c_0_1": {
+      "name": "bling11_statue2_32_c_0_1",
+      "x": 27,
+      "y": 37,
+      "exists": false
+    },
+    "bling11_statue2_32_c_0_2": {
+      "name": "bling11_statue2_32_c_0_2",
+      "x": 30,
+      "y": 39,
+      "exists": false
+    },
+    "bling11_statue2_32_c_0_3": {
+      "name": "bling11_statue2_32_c_0_3",
+      "x": 28,
+      "y": 43,
+      "exists": false
+    },
+    "bling11_statue2_32_c_0_4": {
+      "name": "bling11_statue2_32_c_0_4",
+      "x": 28,
+      "y": 40,
+      "exists": false
+    },
+    "bling11_statue2_32_d_0_0": {
+      "name": "bling11_statue2_32_d_0_0",
+      "x": 0,
+      "y": -17,
+      "exists": false
+    },
+    "bling11_statue2_32_d_0_1": {
+      "name": "bling11_statue2_32_d_0_1",
+      "x": 2,
+      "y": 23,
+      "exists": false
+    },
+    "bling11_statue2_32_d_0_2": {
+      "name": "bling11_statue2_32_d_0_2",
+      "x": 5,
+      "y": 25,
+      "exists": false
+    },
+    "bling11_statue2_32_d_0_3": {
+      "name": "bling11_statue2_32_d_0_3",
+      "x": 3,
+      "y": 29,
+      "exists": false
+    },
+    "bling11_statue2_32_d_0_4": {
+      "name": "bling11_statue2_32_d_0_4",
+      "x": 3,
+      "y": 26,
+      "exists": false
+    },
+    "bling11_statue2_32_e_0_0": {
+      "name": "bling11_statue2_32_e_0_0",
+      "x": 12,
+      "y": 39,
+      "exists": false
+    },
+    "bling11_statue2_32_e_0_1": {
+      "name": "bling11_statue2_32_e_0_1",
+      "x": 13,
+      "y": 40,
+      "exists": true
+    },
+    "bling11_statue2_32_e_0_2": {
+      "name": "bling11_statue2_32_e_0_2",
+      "x": 14,
+      "y": 41,
+      "exists": false
+    },
+    "bling11_statue2_32_e_0_3": {
+      "name": "bling11_statue2_32_e_0_3",
+      "x": 15,
+      "y": 42,
+      "exists": false
+    },
+    "bling11_statue2_32_e_0_4": {
+      "name": "bling11_statue2_32_e_0_4",
+      "x": 17,
+      "y": 44,
+      "exists": false
+    },
+    "bling11_statue2_32_e_0_5": {
+      "name": "bling11_statue2_32_e_0_5",
+      "x": -6,
+      "y": 52,
+      "exists": false
+    },
+    "bling11_statue2_32_e_0_6": {
+      "name": "bling11_statue2_32_e_0_6",
+      "x": -5,
+      "y": 53,
+      "exists": false
+    },
+    "bling11_statue2_32_e_0_7": {
+      "name": "bling11_statue2_32_e_0_7",
+      "x": -4,
+      "y": 54,
+      "exists": false
+    },
+    "bling11_statue2_32_e_0_8": {
+      "name": "bling11_statue2_32_e_0_8",
+      "x": -2,
+      "y": 56,
+      "exists": false
+    },
+    "bling11_statue2_32_e_0_9": {
+      "name": "bling11_statue2_32_e_0_9",
+      "x": 7,
+      "y": 74,
+      "exists": true
+    },
+    "bling11_statue2_32_e_0_10": {
+      "name": "bling11_statue2_32_e_0_10",
+      "x": 8,
+      "y": 75,
+      "exists": true
+    },
+    "bling11_statue2_32_e_0_11": {
+      "name": "bling11_statue2_32_e_0_11",
+      "x": 9,
+      "y": 76,
+      "exists": true
+    },
+    "bling11_statue2_32_e_0_12": {
+      "name": "bling11_statue2_32_e_0_12",
+      "x": 11,
+      "y": 78,
+      "exists": true
+    },
+    "bling11_statue2_64_a_0_0": {
+      "name": "bling11_statue2_64_a_0_0",
+      "x": 57,
+      "y": 151,
+      "exists": true
+    },
+    "bling11_statue2_64_b_0_0": {
+      "name": "bling11_statue2_64_b_0_0",
+      "x": -49,
+      "y": -8,
+      "exists": false
+    },
+    "bling11_statue2_64_b_0_1": {
+      "name": "bling11_statue2_64_b_0_1",
+      "x": -45,
+      "y": 73,
+      "exists": false
+    },
+    "bling11_statue2_64_b_0_2": {
+      "name": "bling11_statue2_64_b_0_2",
+      "x": -40,
+      "y": 78,
+      "exists": false
+    },
+    "bling11_statue2_64_b_0_3": {
+      "name": "bling11_statue2_64_b_0_3",
+      "x": -44,
+      "y": 85,
+      "exists": false
+    },
+    "bling11_statue2_64_b_0_4": {
+      "name": "bling11_statue2_64_b_0_4",
+      "x": -44,
+      "y": 80,
+      "exists": false
+    },
+    "bling11_statue2_64_c_0_0": {
+      "name": "bling11_statue2_64_c_0_0",
+      "x": 51,
+      "y": -8,
+      "exists": false
+    },
+    "bling11_statue2_64_c_0_1": {
+      "name": "bling11_statue2_64_c_0_1",
+      "x": 55,
+      "y": 73,
+      "exists": true
+    },
+    "bling11_statue2_64_c_0_2": {
+      "name": "bling11_statue2_64_c_0_2",
+      "x": 60,
+      "y": 78,
+      "exists": true
+    },
+    "bling11_statue2_64_c_0_3": {
+      "name": "bling11_statue2_64_c_0_3",
+      "x": 56,
+      "y": 85,
+      "exists": true
+    },
+    "bling11_statue2_64_c_0_4": {
+      "name": "bling11_statue2_64_c_0_4",
+      "x": 56,
+      "y": 80,
+      "exists": true
+    },
+    "bling11_statue2_64_d_0_0": {
+      "name": "bling11_statue2_64_d_0_0",
+      "x": 1,
+      "y": -36,
+      "exists": false
+    },
+    "bling11_statue2_64_d_0_1": {
+      "name": "bling11_statue2_64_d_0_1",
+      "x": 5,
+      "y": 45,
+      "exists": false
+    },
+    "bling11_statue2_64_d_0_2": {
+      "name": "bling11_statue2_64_d_0_2",
+      "x": 10,
+      "y": 50,
+      "exists": false
+    },
+    "bling11_statue2_64_d_0_3": {
+      "name": "bling11_statue2_64_d_0_3",
+      "x": 6,
+      "y": 57,
+      "exists": false
+    },
+    "bling11_statue2_64_d_0_4": {
+      "name": "bling11_statue2_64_d_0_4",
+      "x": 6,
+      "y": 52,
+      "exists": false
+    },
+    "bling11_statue2_64_e_0_0": {
+      "name": "bling11_statue2_64_e_0_0",
+      "x": 21,
+      "y": 70,
+      "exists": false
+    },
+    "bling11_statue2_64_e_0_1": {
+      "name": "bling11_statue2_64_e_0_1",
+      "x": 17,
+      "y": 71,
+      "exists": true
+    },
+    "bling11_statue2_64_e_0_2": {
+      "name": "bling11_statue2_64_e_0_2",
+      "x": 18,
+      "y": 72,
+      "exists": false
+    },
+    "bling11_statue2_64_e_0_3": {
+      "name": "bling11_statue2_64_e_0_3",
+      "x": 19,
+      "y": 73,
+      "exists": false
+    },
+    "bling11_statue2_64_e_0_4": {
+      "name": "bling11_statue2_64_e_0_4",
+      "x": 21,
+      "y": 75,
+      "exists": false
+    },
+    "bling11_statue2_64_e_0_5": {
+      "name": "bling11_statue2_64_e_0_5",
+      "x": 23,
+      "y": 77,
+      "exists": false
+    },
+    "bling11_statue2_64_e_0_6": {
+      "name": "bling11_statue2_64_e_0_6",
+      "x": -11,
+      "y": 107,
+      "exists": false
+    },
+    "bling11_statue2_64_e_0_7": {
+      "name": "bling11_statue2_64_e_0_7",
+      "x": -10,
+      "y": 108,
+      "exists": true
+    },
+    "bling11_statue2_64_e_0_8": {
+      "name": "bling11_statue2_64_e_0_8",
+      "x": -9,
+      "y": 109,
+      "exists": true
+    },
+    "bling11_statue2_64_e_0_9": {
+      "name": "bling11_statue2_64_e_0_9",
+      "x": -7,
+      "y": 111,
+      "exists": true
+    },
+    "bling11_statue2_64_e_0_10": {
+      "name": "bling11_statue2_64_e_0_10",
+      "x": -5,
+      "y": 113,
+      "exists": true
+    },
+    "bling11_statue2_64_e_0_11": {
+      "name": "bling11_statue2_64_e_0_11",
+      "x": 13,
+      "y": 148,
+      "exists": true
+    },
+    "bling11_statue2_64_e_0_12": {
+      "name": "bling11_statue2_64_e_0_12",
+      "x": 14,
+      "y": 149,
+      "exists": false
+    },
+    "bling11_statue2_64_e_0_13": {
+      "name": "bling11_statue2_64_e_0_13",
+      "x": 15,
+      "y": 150,
+      "exists": false
+    },
+    "bling11_statue2_64_e_0_14": {
+      "name": "bling11_statue2_64_e_0_14",
+      "x": 17,
+      "y": 152,
+      "exists": false
+    },
+    "bling11_statue2_64_e_0_15": {
+      "name": "bling11_statue2_64_e_0_15",
+      "x": 19,
+      "y": 154,
+      "exists": false
+    },
+    "bling11_statue2_icon_a": {
+      "name": "bling11_statue2_icon_a",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "bling11_statue2_32_a_2_0": {
+      "name": "bling11_statue2_32_a_2_0",
+      "flipH": 1,
+      "source": "bling11_statue2_32_a_0_0",
+      "x": 28,
+      "y": 76,
+      "exists": false
+    },
+    "bling11_statue2_32_b_2_0": {
+      "name": "bling11_statue2_32_b_2_0",
+      "flipH": 1,
+      "source": "bling11_statue2_32_b_0_0",
+      "x": -24,
+      "y": -3,
+      "exists": false
+    },
+    "bling11_statue2_32_b_2_1": {
+      "name": "bling11_statue2_32_b_2_1",
+      "flipH": 1,
+      "source": "bling11_statue2_32_b_0_1",
+      "x": -22,
+      "y": 37,
+      "exists": false
+    },
+    "bling11_statue2_32_b_2_2": {
+      "name": "bling11_statue2_32_b_2_2",
+      "flipH": 1,
+      "source": "bling11_statue2_32_b_0_2",
+      "x": -19,
+      "y": 39,
+      "exists": false
+    },
+    "bling11_statue2_32_b_2_3": {
+      "name": "bling11_statue2_32_b_2_3",
+      "flipH": 1,
+      "source": "bling11_statue2_32_b_0_3",
+      "x": -21,
+      "y": 43,
+      "exists": false
+    },
+    "bling11_statue2_32_b_2_4": {
+      "name": "bling11_statue2_32_b_2_4",
+      "flipH": 1,
+      "source": "bling11_statue2_32_b_0_4",
+      "x": -21,
+      "y": 40,
+      "exists": false
+    },
+    "bling11_statue2_32_c_2_0": {
+      "name": "bling11_statue2_32_c_2_0",
+      "flipH": 1,
+      "source": "bling11_statue2_32_c_0_0",
+      "x": 25,
+      "y": -3,
+      "exists": false
+    },
+    "bling11_statue2_32_c_2_1": {
+      "name": "bling11_statue2_32_c_2_1",
+      "flipH": 1,
+      "source": "bling11_statue2_32_c_0_1",
+      "x": 27,
+      "y": 37,
+      "exists": false
+    },
+    "bling11_statue2_32_c_2_2": {
+      "name": "bling11_statue2_32_c_2_2",
+      "flipH": 1,
+      "source": "bling11_statue2_32_c_0_2",
+      "x": 30,
+      "y": 39,
+      "exists": false
+    },
+    "bling11_statue2_32_c_2_3": {
+      "name": "bling11_statue2_32_c_2_3",
+      "flipH": 1,
+      "source": "bling11_statue2_32_c_0_3",
+      "x": 28,
+      "y": 43,
+      "exists": false
+    },
+    "bling11_statue2_32_c_2_4": {
+      "name": "bling11_statue2_32_c_2_4",
+      "flipH": 1,
+      "source": "bling11_statue2_32_c_0_4",
+      "x": 28,
+      "y": 40,
+      "exists": false
+    },
+    "bling11_statue2_32_d_2_0": {
+      "name": "bling11_statue2_32_d_2_0",
+      "flipH": 1,
+      "source": "bling11_statue2_32_d_0_0",
+      "x": 0,
+      "y": -17,
+      "exists": false
+    },
+    "bling11_statue2_32_d_2_1": {
+      "name": "bling11_statue2_32_d_2_1",
+      "flipH": 1,
+      "source": "bling11_statue2_32_d_0_1",
+      "x": 2,
+      "y": 23,
+      "exists": false
+    },
+    "bling11_statue2_32_d_2_2": {
+      "name": "bling11_statue2_32_d_2_2",
+      "flipH": 1,
+      "source": "bling11_statue2_32_d_0_2",
+      "x": 5,
+      "y": 25,
+      "exists": false
+    },
+    "bling11_statue2_32_d_2_3": {
+      "name": "bling11_statue2_32_d_2_3",
+      "flipH": 1,
+      "source": "bling11_statue2_32_d_0_3",
+      "x": 3,
+      "y": 29,
+      "exists": false
+    },
+    "bling11_statue2_32_d_2_4": {
+      "name": "bling11_statue2_32_d_2_4",
+      "flipH": 1,
+      "source": "bling11_statue2_32_d_0_4",
+      "x": 3,
+      "y": 26,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_0": {
+      "name": "bling11_statue2_32_e_2_0",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_0",
+      "x": 12,
+      "y": 39,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_1": {
+      "name": "bling11_statue2_32_e_2_1",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_1",
+      "x": 13,
+      "y": 40,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_2": {
+      "name": "bling11_statue2_32_e_2_2",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_2",
+      "x": 14,
+      "y": 41,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_3": {
+      "name": "bling11_statue2_32_e_2_3",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_3",
+      "x": 15,
+      "y": 42,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_4": {
+      "name": "bling11_statue2_32_e_2_4",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_4",
+      "x": 17,
+      "y": 44,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_5": {
+      "name": "bling11_statue2_32_e_2_5",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_5",
+      "x": -6,
+      "y": 52,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_6": {
+      "name": "bling11_statue2_32_e_2_6",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_6",
+      "x": -5,
+      "y": 53,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_7": {
+      "name": "bling11_statue2_32_e_2_7",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_7",
+      "x": -4,
+      "y": 54,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_8": {
+      "name": "bling11_statue2_32_e_2_8",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_8",
+      "x": -2,
+      "y": 56,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_9": {
+      "name": "bling11_statue2_32_e_2_9",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_9",
+      "x": 7,
+      "y": 74,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_10": {
+      "name": "bling11_statue2_32_e_2_10",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_10",
+      "x": 8,
+      "y": 75,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_11": {
+      "name": "bling11_statue2_32_e_2_11",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_11",
+      "x": 9,
+      "y": 76,
+      "exists": false
+    },
+    "bling11_statue2_32_e_2_12": {
+      "name": "bling11_statue2_32_e_2_12",
+      "flipH": 1,
+      "source": "bling11_statue2_32_e_0_12",
+      "x": 11,
+      "y": 78,
+      "exists": false
+    },
+    "bling11_statue2_64_a_2_0": {
+      "name": "bling11_statue2_64_a_2_0",
+      "flipH": 1,
+      "source": "bling11_statue2_64_a_0_0",
+      "x": 57,
+      "y": 151,
+      "exists": false
+    },
+    "bling11_statue2_64_b_2_0": {
+      "name": "bling11_statue2_64_b_2_0",
+      "flipH": 1,
+      "source": "bling11_statue2_64_b_0_0",
+      "x": -49,
+      "y": -8,
+      "exists": false
+    },
+    "bling11_statue2_64_b_2_1": {
+      "name": "bling11_statue2_64_b_2_1",
+      "flipH": 1,
+      "source": "bling11_statue2_64_b_0_1",
+      "x": -45,
+      "y": 73,
+      "exists": false
+    },
+    "bling11_statue2_64_b_2_2": {
+      "name": "bling11_statue2_64_b_2_2",
+      "flipH": 1,
+      "source": "bling11_statue2_64_b_0_2",
+      "x": -40,
+      "y": 78,
+      "exists": false
+    },
+    "bling11_statue2_64_b_2_3": {
+      "name": "bling11_statue2_64_b_2_3",
+      "flipH": 1,
+      "source": "bling11_statue2_64_b_0_3",
+      "x": -44,
+      "y": 85,
+      "exists": false
+    },
+    "bling11_statue2_64_b_2_4": {
+      "name": "bling11_statue2_64_b_2_4",
+      "flipH": 1,
+      "source": "bling11_statue2_64_b_0_4",
+      "x": -44,
+      "y": 80,
+      "exists": false
+    },
+    "bling11_statue2_64_c_2_0": {
+      "name": "bling11_statue2_64_c_2_0",
+      "flipH": 1,
+      "source": "bling11_statue2_64_c_0_0",
+      "x": 51,
+      "y": -8,
+      "exists": false
+    },
+    "bling11_statue2_64_c_2_1": {
+      "name": "bling11_statue2_64_c_2_1",
+      "flipH": 1,
+      "source": "bling11_statue2_64_c_0_1",
+      "x": 55,
+      "y": 73,
+      "exists": false
+    },
+    "bling11_statue2_64_c_2_2": {
+      "name": "bling11_statue2_64_c_2_2",
+      "flipH": 1,
+      "source": "bling11_statue2_64_c_0_2",
+      "x": 60,
+      "y": 78,
+      "exists": false
+    },
+    "bling11_statue2_64_c_2_3": {
+      "name": "bling11_statue2_64_c_2_3",
+      "flipH": 1,
+      "source": "bling11_statue2_64_c_0_3",
+      "x": 56,
+      "y": 85,
+      "exists": false
+    },
+    "bling11_statue2_64_c_2_4": {
+      "name": "bling11_statue2_64_c_2_4",
+      "flipH": 1,
+      "source": "bling11_statue2_64_c_0_4",
+      "x": 56,
+      "y": 80,
+      "exists": false
+    },
+    "bling11_statue2_64_d_2_0": {
+      "name": "bling11_statue2_64_d_2_0",
+      "flipH": 1,
+      "source": "bling11_statue2_64_d_0_0",
+      "x": 1,
+      "y": -36,
+      "exists": false
+    },
+    "bling11_statue2_64_d_2_1": {
+      "name": "bling11_statue2_64_d_2_1",
+      "flipH": 1,
+      "source": "bling11_statue2_64_d_0_1",
+      "x": 5,
+      "y": 45,
+      "exists": false
+    },
+    "bling11_statue2_64_d_2_2": {
+      "name": "bling11_statue2_64_d_2_2",
+      "flipH": 1,
+      "source": "bling11_statue2_64_d_0_2",
+      "x": 10,
+      "y": 50,
+      "exists": false
+    },
+    "bling11_statue2_64_d_2_3": {
+      "name": "bling11_statue2_64_d_2_3",
+      "flipH": 1,
+      "source": "bling11_statue2_64_d_0_3",
+      "x": 6,
+      "y": 57,
+      "exists": false
+    },
+    "bling11_statue2_64_d_2_4": {
+      "name": "bling11_statue2_64_d_2_4",
+      "flipH": 1,
+      "source": "bling11_statue2_64_d_0_4",
+      "x": 6,
+      "y": 52,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_0": {
+      "name": "bling11_statue2_64_e_2_0",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_0",
+      "x": 21,
+      "y": 70,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_1": {
+      "name": "bling11_statue2_64_e_2_1",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_1",
+      "x": 17,
+      "y": 71,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_2": {
+      "name": "bling11_statue2_64_e_2_2",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_2",
+      "x": 18,
+      "y": 72,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_3": {
+      "name": "bling11_statue2_64_e_2_3",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_3",
+      "x": 19,
+      "y": 73,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_4": {
+      "name": "bling11_statue2_64_e_2_4",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_4",
+      "x": 21,
+      "y": 75,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_5": {
+      "name": "bling11_statue2_64_e_2_5",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_5",
+      "x": 23,
+      "y": 77,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_6": {
+      "name": "bling11_statue2_64_e_2_6",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_6",
+      "x": -11,
+      "y": 107,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_7": {
+      "name": "bling11_statue2_64_e_2_7",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_7",
+      "x": -10,
+      "y": 108,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_8": {
+      "name": "bling11_statue2_64_e_2_8",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_8",
+      "x": -9,
+      "y": 109,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_9": {
+      "name": "bling11_statue2_64_e_2_9",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_9",
+      "x": -7,
+      "y": 111,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_10": {
+      "name": "bling11_statue2_64_e_2_10",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_10",
+      "x": -5,
+      "y": 113,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_11": {
+      "name": "bling11_statue2_64_e_2_11",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_11",
+      "x": 13,
+      "y": 148,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_12": {
+      "name": "bling11_statue2_64_e_2_12",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_12",
+      "x": 14,
+      "y": 149,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_13": {
+      "name": "bling11_statue2_64_e_2_13",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_13",
+      "x": 15,
+      "y": 150,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_14": {
+      "name": "bling11_statue2_64_e_2_14",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_14",
+      "x": 17,
+      "y": 152,
+      "exists": false
+    },
+    "bling11_statue2_64_e_2_15": {
+      "name": "bling11_statue2_64_e_2_15",
+      "flipH": 1,
+      "source": "bling11_statue2_64_e_0_15",
+      "x": 19,
+      "y": 154,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  9,
+                  10,
+                  11,
+                  12,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  3,
+                  4,
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  2,
+                  3,
+                  4,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  9,
+                  10,
+                  11,
+                  12,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1500
+        },
+        {
+          "layerId": 1,
+          "z": 1500
+        },
+        {
+          "layerId": 2,
+          "z": 1500
+        },
+        {
+          "layerId": 3,
+          "z": 1500
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "z": 1500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  3,
+                  4,
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  2,
+                  3,
+                  4,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1500
+        },
+        {
+          "layerId": 1,
+          "z": 1500
+        },
+        {
+          "layerId": 2,
+          "z": 1500
+        },
+        {
+          "layerId": 3,
+          "z": 1500
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "bling11_statue2",
+    "visualization": "furniture_animated"
+  }
+}

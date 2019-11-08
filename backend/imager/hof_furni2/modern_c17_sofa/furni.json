@@ -1,0 +1,614 @@
+{
+  "assets": {
+    "modern_c17_sofa_64_a_2_0": {
+      "name": "modern_c17_sofa_64_a_2_0",
+      "x": 34,
+      "y": 65,
+      "exists": true
+    },
+    "modern_c17_sofa_64_b_2_0": {
+      "name": "modern_c17_sofa_64_b_2_0",
+      "x": 65,
+      "y": 47,
+      "exists": true
+    },
+    "modern_c17_sofa_64_c_2_0": {
+      "name": "modern_c17_sofa_64_c_2_0",
+      "x": 72,
+      "y": 21,
+      "exists": true
+    },
+    "modern_c17_sofa_64_d_2_0": {
+      "name": "modern_c17_sofa_64_d_2_0",
+      "x": 36,
+      "y": 62,
+      "exists": true
+    },
+    "modern_c17_sofa_64_d_2_1": {
+      "name": "modern_c17_sofa_64_d_2_1",
+      "x": -26,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_e_2_0": {
+      "name": "modern_c17_sofa_64_e_2_0",
+      "x": 57,
+      "y": 49,
+      "exists": true
+    },
+    "modern_c17_sofa_64_a_6_0": {
+      "name": "modern_c17_sofa_64_a_6_0",
+      "x": 34,
+      "y": 54,
+      "exists": true
+    },
+    "modern_c17_sofa_64_b_6_0": {
+      "name": "modern_c17_sofa_64_b_6_0",
+      "x": 6,
+      "y": 47,
+      "exists": true
+    },
+    "modern_c17_sofa_64_c_6_0": {
+      "name": "modern_c17_sofa_64_c_6_0",
+      "x": 52,
+      "y": 31,
+      "exists": true
+    },
+    "modern_c17_sofa_64_d_6_0": {
+      "name": "modern_c17_sofa_64_d_6_0",
+      "x": 72,
+      "y": 31,
+      "exists": true
+    },
+    "modern_c17_sofa_64_e_6_0": {
+      "name": "modern_c17_sofa_64_e_6_0",
+      "x": 33,
+      "y": 43,
+      "exists": true
+    },
+    "modern_c17_sofa_64_e_6_1": {
+      "name": "modern_c17_sofa_64_e_6_1",
+      "x": -26,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_f_6_0": {
+      "name": "modern_c17_sofa_64_f_6_0",
+      "x": 41,
+      "y": 31,
+      "exists": true
+    },
+    "modern_c17_sofa_64_f_6_1": {
+      "name": "modern_c17_sofa_64_f_6_1",
+      "x": -26,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_g_6_0": {
+      "name": "modern_c17_sofa_64_g_6_0",
+      "x": 5,
+      "y": 45,
+      "exists": true
+    },
+    "modern_c17_sofa_64_g_6_1": {
+      "name": "modern_c17_sofa_64_g_6_1",
+      "x": -26,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_h_6_0": {
+      "name": "modern_c17_sofa_64_h_6_0",
+      "x": 31,
+      "y": 33,
+      "exists": true
+    },
+    "modern_c17_sofa_64_h_6_1": {
+      "name": "modern_c17_sofa_64_h_6_1",
+      "x": -26,
+      "y": 3,
+      "exists": true
+    },
+    "modern_c17_sofa_icon_a": {
+      "name": "modern_c17_sofa_icon_a",
+      "x": 13,
+      "y": 12,
+      "exists": true
+    },
+    "modern_c17_sofa_64_e_2_1": {
+      "name": "modern_c17_sofa_64_e_2_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_f_2_0": {
+      "name": "modern_c17_sofa_64_f_2_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_f_2_1": {
+      "name": "modern_c17_sofa_64_f_2_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_g_2_0": {
+      "name": "modern_c17_sofa_64_g_2_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_g_2_1": {
+      "name": "modern_c17_sofa_64_g_2_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_h_2_0": {
+      "name": "modern_c17_sofa_64_h_2_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_h_2_1": {
+      "name": "modern_c17_sofa_64_h_2_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_d_6_1": {
+      "name": "modern_c17_sofa_64_d_6_1",
+      "x": 72,
+      "y": 31,
+      "exists": false
+    },
+    "modern_c17_sofa_64_a_4_0": {
+      "name": "modern_c17_sofa_64_a_4_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_a_2_0",
+      "x": 34,
+      "y": 65,
+      "exists": false
+    },
+    "modern_c17_sofa_64_b_4_0": {
+      "name": "modern_c17_sofa_64_b_4_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_b_2_0",
+      "x": 65,
+      "y": 47,
+      "exists": false
+    },
+    "modern_c17_sofa_64_c_4_0": {
+      "name": "modern_c17_sofa_64_c_4_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_c_2_0",
+      "x": 72,
+      "y": 21,
+      "exists": false
+    },
+    "modern_c17_sofa_64_d_4_0": {
+      "name": "modern_c17_sofa_64_d_4_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_d_2_0",
+      "x": 36,
+      "y": 62,
+      "exists": false
+    },
+    "modern_c17_sofa_64_d_4_1": {
+      "name": "modern_c17_sofa_64_d_4_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_d_2_1",
+      "x": -26,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_e_4_0": {
+      "name": "modern_c17_sofa_64_e_4_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_e_2_0",
+      "x": 57,
+      "y": 49,
+      "exists": false
+    },
+    "modern_c17_sofa_64_e_4_1": {
+      "name": "modern_c17_sofa_64_e_4_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_f_4_0": {
+      "name": "modern_c17_sofa_64_f_4_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_f_4_1": {
+      "name": "modern_c17_sofa_64_f_4_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_g_4_0": {
+      "name": "modern_c17_sofa_64_g_4_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_g_4_1": {
+      "name": "modern_c17_sofa_64_g_4_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_h_4_0": {
+      "name": "modern_c17_sofa_64_h_4_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_h_4_1": {
+      "name": "modern_c17_sofa_64_h_4_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": 27,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_a_0_0": {
+      "name": "modern_c17_sofa_64_a_0_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_a_6_0",
+      "x": 34,
+      "y": 54,
+      "exists": false
+    },
+    "modern_c17_sofa_64_b_0_0": {
+      "name": "modern_c17_sofa_64_b_0_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_b_6_0",
+      "x": 6,
+      "y": 47,
+      "exists": false
+    },
+    "modern_c17_sofa_64_c_0_0": {
+      "name": "modern_c17_sofa_64_c_0_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_c_6_0",
+      "x": 52,
+      "y": 31,
+      "exists": false
+    },
+    "modern_c17_sofa_64_d_0_0": {
+      "name": "modern_c17_sofa_64_d_0_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_d_6_0",
+      "x": 72,
+      "y": 31,
+      "exists": false
+    },
+    "modern_c17_sofa_64_e_0_0": {
+      "name": "modern_c17_sofa_64_e_0_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_e_6_0",
+      "x": 33,
+      "y": 43,
+      "exists": false
+    },
+    "modern_c17_sofa_64_e_0_1": {
+      "name": "modern_c17_sofa_64_e_0_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_e_6_1",
+      "x": -26,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_f_0_0": {
+      "name": "modern_c17_sofa_64_f_0_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_f_6_0",
+      "x": 41,
+      "y": 31,
+      "exists": false
+    },
+    "modern_c17_sofa_64_f_0_1": {
+      "name": "modern_c17_sofa_64_f_0_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_f_6_1",
+      "x": -26,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_g_0_0": {
+      "name": "modern_c17_sofa_64_g_0_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_g_6_0",
+      "x": 5,
+      "y": 45,
+      "exists": false
+    },
+    "modern_c17_sofa_64_g_0_1": {
+      "name": "modern_c17_sofa_64_g_0_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_g_6_1",
+      "x": -26,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_h_0_0": {
+      "name": "modern_c17_sofa_64_h_0_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_0",
+      "x": 31,
+      "y": 33,
+      "exists": false
+    },
+    "modern_c17_sofa_64_h_0_1": {
+      "name": "modern_c17_sofa_64_h_0_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_h_6_1",
+      "x": -26,
+      "y": 3,
+      "exists": false
+    },
+    "modern_c17_sofa_64_d_0_1": {
+      "name": "modern_c17_sofa_64_d_0_1",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_d_6_1",
+      "x": 72,
+      "y": 31,
+      "exists": false
+    },
+    "modern_c17_sofa_64_sd_2_0": {
+      "name": "modern_c17_sofa_64_sd_2_0",
+      "x": 72,
+      "y": 21,
+      "exists": true
+    },
+    "modern_c17_sofa_64_sd_0_0": {
+      "name": "modern_c17_sofa_64_sd_0_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_sd_2_0",
+      "x": 72,
+      "y": 21,
+      "exists": false
+    },
+    "modern_c17_sofa_64_sd_6_0": {
+      "name": "modern_c17_sofa_64_sd_6_0",
+      "source": "modern_c17_sofa_64_sd_2_0",
+      "x": 72,
+      "y": 21,
+      "exists": false
+    },
+    "modern_c17_sofa_64_sd_4_0": {
+      "name": "modern_c17_sofa_64_sd_4_0",
+      "flipH": 1,
+      "source": "modern_c17_sofa_64_sd_2_0",
+      "x": 72,
+      "y": 21,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1.3
+    },
+    "directions": [
+      90,
+      270,
+      180,
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 8,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            },
+            {
+              "layerId": 7,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 1000
+        },
+        {
+          "layerId": 4,
+          "z": 1000
+        },
+        {
+          "layerId": 5,
+          "z": 1000
+        },
+        {
+          "layerId": 6,
+          "z": 500
+        },
+        {
+          "layerId": 7,
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "modern_c17_sofa",
+    "visualization": "furniture_animated"
+  }
+}

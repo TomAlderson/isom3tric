@@ -1,0 +1,276 @@
+{
+  "assets": {
+    "easter_c17_seedbag_64_a_0_0": {
+      "name": "easter_c17_seedbag_64_a_0_0",
+      "x": 15,
+      "y": 36,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_1": {
+      "name": "easter_c17_seedbag_64_a_0_1",
+      "x": 23,
+      "y": 43,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_2": {
+      "name": "easter_c17_seedbag_64_a_0_2",
+      "x": 23,
+      "y": 43,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_3": {
+      "name": "easter_c17_seedbag_64_a_0_3",
+      "x": 37,
+      "y": 51,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_4": {
+      "name": "easter_c17_seedbag_64_a_0_4",
+      "x": 40,
+      "y": 54,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_5": {
+      "name": "easter_c17_seedbag_64_a_0_5",
+      "x": 43,
+      "y": 57,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_6": {
+      "name": "easter_c17_seedbag_64_a_0_6",
+      "x": 47,
+      "y": 61,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_7": {
+      "name": "easter_c17_seedbag_64_a_0_7",
+      "x": 47,
+      "y": 61,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_8": {
+      "name": "easter_c17_seedbag_64_a_0_8",
+      "x": 47,
+      "y": 61,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_9": {
+      "name": "easter_c17_seedbag_64_a_0_9",
+      "x": 46,
+      "y": 61,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_10": {
+      "name": "easter_c17_seedbag_64_a_0_10",
+      "x": 46,
+      "y": 60,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_11": {
+      "name": "easter_c17_seedbag_64_a_0_11",
+      "x": 44,
+      "y": 58,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_12": {
+      "name": "easter_c17_seedbag_64_a_0_12",
+      "x": 40,
+      "y": 56,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_0_13": {
+      "name": "easter_c17_seedbag_64_a_0_13",
+      "x": 17,
+      "y": -6,
+      "exists": true
+    },
+    "easter_c17_seedbag_icon_a": {
+      "name": "easter_c17_seedbag_icon_a",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "easter_c17_seedbag_64_a_2_0": {
+      "name": "easter_c17_seedbag_64_a_2_0",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_0",
+      "x": 15,
+      "y": 36,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_1": {
+      "name": "easter_c17_seedbag_64_a_2_1",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_1",
+      "x": 23,
+      "y": 43,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_2": {
+      "name": "easter_c17_seedbag_64_a_2_2",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_2",
+      "x": 23,
+      "y": 43,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_3": {
+      "name": "easter_c17_seedbag_64_a_2_3",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_3",
+      "x": 37,
+      "y": 51,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_4": {
+      "name": "easter_c17_seedbag_64_a_2_4",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_4",
+      "x": 40,
+      "y": 54,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_5": {
+      "name": "easter_c17_seedbag_64_a_2_5",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_5",
+      "x": 43,
+      "y": 57,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_6": {
+      "name": "easter_c17_seedbag_64_a_2_6",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_6",
+      "x": 47,
+      "y": 61,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_7": {
+      "name": "easter_c17_seedbag_64_a_2_7",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_7",
+      "x": 47,
+      "y": 61,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_8": {
+      "name": "easter_c17_seedbag_64_a_2_8",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_8",
+      "x": 47,
+      "y": 61,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_9": {
+      "name": "easter_c17_seedbag_64_a_2_9",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_9",
+      "x": 46,
+      "y": 61,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_10": {
+      "name": "easter_c17_seedbag_64_a_2_10",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_10",
+      "x": 46,
+      "y": 60,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_11": {
+      "name": "easter_c17_seedbag_64_a_2_11",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_11",
+      "x": 44,
+      "y": 58,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_12": {
+      "name": "easter_c17_seedbag_64_a_2_12",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_12",
+      "x": 40,
+      "y": 56,
+      "exists": false
+    },
+    "easter_c17_seedbag_64_a_2_13": {
+      "name": "easter_c17_seedbag_64_a_2_13",
+      "flipH": 1,
+      "source": "easter_c17_seedbag_64_a_0_13",
+      "x": 17,
+      "y": -6,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_crackable",
+    "type": "easter_c17_seedbag",
+    "visualization": "furniture_animated"
+  }
+}

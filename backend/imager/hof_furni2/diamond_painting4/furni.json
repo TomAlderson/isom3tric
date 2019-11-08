@@ -1,0 +1,92 @@
+{
+  "assets": {
+    "diamond_painting4_64_a_2_0": {
+      "name": "diamond_painting4_64_a_2_0",
+      "x": 59,
+      "y": 89,
+      "exists": true
+    },
+    "diamond_painting4_32_a_2_0": {
+      "name": "diamond_painting4_32_a_2_0",
+      "x": 32,
+      "y": 39,
+      "exists": true
+    },
+    "diamond_painting4_icon_a": {
+      "name": "diamond_painting4_icon_a",
+      "x": 10,
+      "y": 15,
+      "exists": true
+    },
+    "diamond_painting4_64_a_4_0": {
+      "name": "diamond_painting4_64_a_4_0",
+      "flipH": 1,
+      "source": "diamond_painting4_64_a_2_0",
+      "x": 59,
+      "y": 89,
+      "exists": false
+    },
+    "diamond_painting4_32_a_4_0": {
+      "name": "diamond_painting4_32_a_4_0",
+      "flipH": 1,
+      "source": "diamond_painting4_32_a_2_0",
+      "x": 32,
+      "y": 39,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "diamond_painting4",
+    "visualization": "furniture_animated"
+  }
+}

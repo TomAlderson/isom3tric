@@ -1,0 +1,143 @@
+{
+  "assets": {
+    "tokyo_c18_lanterns_64_sd_4_0": {
+      "name": "tokyo_c18_lanterns_64_sd_4_0",
+      "x": 12,
+      "y": 6,
+      "exists": true
+    },
+    "tokyo_c18_lanterns_64_a_4_0": {
+      "name": "tokyo_c18_lanterns_64_a_4_0",
+      "x": 20,
+      "y": 196,
+      "exists": true
+    },
+    "tokyo_c18_lanterns_64_b_4_0": {
+      "name": "tokyo_c18_lanterns_64_b_4_0",
+      "x": 12,
+      "y": 153,
+      "exists": true
+    },
+    "tokyo_c18_lanterns_64_c_4_0": {
+      "name": "tokyo_c18_lanterns_64_c_4_0",
+      "x": 28,
+      "y": 167,
+      "exists": true
+    },
+    "tokyo_c18_lanterns_64_sd_2_0": {
+      "name": "tokyo_c18_lanterns_64_sd_2_0",
+      "x": 76,
+      "y": 6,
+      "exists": true
+    },
+    "tokyo_c18_lanterns_64_a_2_0": {
+      "name": "tokyo_c18_lanterns_64_a_2_0",
+      "x": 87,
+      "y": 196,
+      "exists": true
+    },
+    "tokyo_c18_lanterns_64_b_2_0": {
+      "name": "tokyo_c18_lanterns_64_b_2_0",
+      "x": 74,
+      "y": 153,
+      "exists": true
+    },
+    "tokyo_c18_lanterns_64_c_2_0": {
+      "name": "tokyo_c18_lanterns_64_c_2_0",
+      "x": 90,
+      "y": 167,
+      "exists": true
+    },
+    "tokyo_c18_lanterns_icon_a": {
+      "name": "tokyo_c18_lanterns_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "alpha": 150
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "alpha": 150
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "tokyo_c18_lanterns",
+    "visualization": "furniture_animated"
+  }
+}

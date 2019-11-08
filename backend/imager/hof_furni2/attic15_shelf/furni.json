@@ -1,0 +1,80 @@
+{
+  "assets": {
+    "attic15_shelf_64_sd_4_0": {
+      "name": "attic15_shelf_64_sd_4_0",
+      "x": 25,
+      "y": 0,
+      "exists": true
+    },
+    "attic15_shelf_64_a_4_0": {
+      "name": "attic15_shelf_64_a_4_0",
+      "x": 31,
+      "y": 106,
+      "exists": true
+    },
+    "attic15_shelf_icon_a": {
+      "name": "attic15_shelf_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "attic15_shelf_64_sd_2_0": {
+      "name": "attic15_shelf_64_sd_2_0",
+      "flipH": 1,
+      "source": "attic15_shelf_64_sd_4_0",
+      "x": 25,
+      "y": 0,
+      "exists": false
+    },
+    "attic15_shelf_64_a_2_0": {
+      "name": "attic15_shelf_64_a_2_0",
+      "flipH": 1,
+      "source": "attic15_shelf_64_a_4_0",
+      "x": 31,
+      "y": 106,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "attic15_shelf",
+    "visualization": "furniture_static"
+  }
+}

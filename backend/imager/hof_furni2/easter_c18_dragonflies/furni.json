@@ -1,0 +1,989 @@
+{
+  "assets": {
+    "easter_c18_dragonflies_64_sd_0_0": {
+      "name": "easter_c18_dragonflies_64_sd_0_0",
+      "x": 17,
+      "y": 8,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_a_0_0": {
+      "name": "easter_c18_dragonflies_64_a_0_0",
+      "x": 12,
+      "y": 47,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_1": {
+      "name": "easter_c18_dragonflies_64_a_0_1",
+      "x": 13,
+      "y": 49,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_a_0_2": {
+      "name": "easter_c18_dragonflies_64_a_0_2",
+      "x": 12,
+      "y": 46,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_3": {
+      "name": "easter_c18_dragonflies_64_a_0_3",
+      "x": 13,
+      "y": 48,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_4": {
+      "name": "easter_c18_dragonflies_64_a_0_4",
+      "x": 12,
+      "y": 43,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_a_0_5": {
+      "name": "easter_c18_dragonflies_64_a_0_5",
+      "x": 13,
+      "y": 45,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_a_0_6": {
+      "name": "easter_c18_dragonflies_64_a_0_6",
+      "x": 12,
+      "y": 42,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_7": {
+      "name": "easter_c18_dragonflies_64_a_0_7",
+      "x": 13,
+      "y": 44,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_8": {
+      "name": "easter_c18_dragonflies_64_a_0_8",
+      "x": 9,
+      "y": 45,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_9": {
+      "name": "easter_c18_dragonflies_64_a_0_9",
+      "x": 2,
+      "y": 56,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_10": {
+      "name": "easter_c18_dragonflies_64_a_0_10",
+      "x": -9,
+      "y": 62,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_11": {
+      "name": "easter_c18_dragonflies_64_a_0_11",
+      "x": -10,
+      "y": 65,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_12": {
+      "name": "easter_c18_dragonflies_64_a_0_12",
+      "x": -10,
+      "y": 71,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_a_0_13": {
+      "name": "easter_c18_dragonflies_64_a_0_13",
+      "x": -7,
+      "y": 75,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_14": {
+      "name": "easter_c18_dragonflies_64_a_0_14",
+      "x": -2,
+      "y": 76,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_15": {
+      "name": "easter_c18_dragonflies_64_a_0_15",
+      "x": 10,
+      "y": 78,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_a_0_16": {
+      "name": "easter_c18_dragonflies_64_a_0_16",
+      "x": 21,
+      "y": 69,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_17": {
+      "name": "easter_c18_dragonflies_64_a_0_17",
+      "x": 23,
+      "y": 60,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_18": {
+      "name": "easter_c18_dragonflies_64_a_0_18",
+      "x": 19,
+      "y": 49,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_0_19": {
+      "name": "easter_c18_dragonflies_64_a_0_19",
+      "x": 16,
+      "y": 49,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_0": {
+      "name": "easter_c18_dragonflies_64_b_0_0",
+      "x": -5,
+      "y": 76,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_1": {
+      "name": "easter_c18_dragonflies_64_b_0_1",
+      "x": -6,
+      "y": 74,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_b_0_2": {
+      "name": "easter_c18_dragonflies_64_b_0_2",
+      "x": -5,
+      "y": 77,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_3": {
+      "name": "easter_c18_dragonflies_64_b_0_3",
+      "x": -6,
+      "y": 75,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_4": {
+      "name": "easter_c18_dragonflies_64_b_0_4",
+      "x": -5,
+      "y": 80,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_5": {
+      "name": "easter_c18_dragonflies_64_b_0_5",
+      "x": -6,
+      "y": 78,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_6": {
+      "name": "easter_c18_dragonflies_64_b_0_6",
+      "x": -5,
+      "y": 81,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_7": {
+      "name": "easter_c18_dragonflies_64_b_0_7",
+      "x": -6,
+      "y": 79,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_b_0_8": {
+      "name": "easter_c18_dragonflies_64_b_0_8",
+      "x": -1,
+      "y": 78,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_b_0_9": {
+      "name": "easter_c18_dragonflies_64_b_0_9",
+      "x": 9,
+      "y": 76,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_10": {
+      "name": "easter_c18_dragonflies_64_b_0_10",
+      "x": 22,
+      "y": 71,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_11": {
+      "name": "easter_c18_dragonflies_64_b_0_11",
+      "x": 22,
+      "y": 58,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_12": {
+      "name": "easter_c18_dragonflies_64_b_0_12",
+      "x": 16,
+      "y": 49,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_b_0_13": {
+      "name": "easter_c18_dragonflies_64_b_0_13",
+      "x": 12,
+      "y": 47,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_b_0_14": {
+      "name": "easter_c18_dragonflies_64_b_0_14",
+      "x": 10,
+      "y": 47,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_15": {
+      "name": "easter_c18_dragonflies_64_b_0_15",
+      "x": 1,
+      "y": 54,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_16": {
+      "name": "easter_c18_dragonflies_64_b_0_16",
+      "x": -10,
+      "y": 65,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_0_17": {
+      "name": "easter_c18_dragonflies_64_b_0_17",
+      "x": -10,
+      "y": 71,
+      "exists": false
+    },
+    "easter_c18_dragonflies_icon_a": {
+      "name": "easter_c18_dragonflies_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "easter_c18_dragonflies_64_sd_2_0": {
+      "name": "easter_c18_dragonflies_64_sd_2_0",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_sd_0_0",
+      "x": 17,
+      "y": 8,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_0": {
+      "name": "easter_c18_dragonflies_64_a_2_0",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_0",
+      "x": 12,
+      "y": 47,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_1": {
+      "name": "easter_c18_dragonflies_64_a_2_1",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_1",
+      "x": 13,
+      "y": 49,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_2": {
+      "name": "easter_c18_dragonflies_64_a_2_2",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_2",
+      "x": 12,
+      "y": 46,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_3": {
+      "name": "easter_c18_dragonflies_64_a_2_3",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_3",
+      "x": 13,
+      "y": 48,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_4": {
+      "name": "easter_c18_dragonflies_64_a_2_4",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_4",
+      "x": 12,
+      "y": 43,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_5": {
+      "name": "easter_c18_dragonflies_64_a_2_5",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_5",
+      "x": 13,
+      "y": 45,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_6": {
+      "name": "easter_c18_dragonflies_64_a_2_6",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_6",
+      "x": 12,
+      "y": 42,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_7": {
+      "name": "easter_c18_dragonflies_64_a_2_7",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_7",
+      "x": 13,
+      "y": 44,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_8": {
+      "name": "easter_c18_dragonflies_64_a_2_8",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_8",
+      "x": 9,
+      "y": 45,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_9": {
+      "name": "easter_c18_dragonflies_64_a_2_9",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_9",
+      "x": 2,
+      "y": 56,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_10": {
+      "name": "easter_c18_dragonflies_64_a_2_10",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_10",
+      "x": -9,
+      "y": 62,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_11": {
+      "name": "easter_c18_dragonflies_64_a_2_11",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_11",
+      "x": -10,
+      "y": 65,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_12": {
+      "name": "easter_c18_dragonflies_64_a_2_12",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_12",
+      "x": -10,
+      "y": 71,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_13": {
+      "name": "easter_c18_dragonflies_64_a_2_13",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_13",
+      "x": -7,
+      "y": 75,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_14": {
+      "name": "easter_c18_dragonflies_64_a_2_14",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_14",
+      "x": -2,
+      "y": 76,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_15": {
+      "name": "easter_c18_dragonflies_64_a_2_15",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_15",
+      "x": 10,
+      "y": 78,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_16": {
+      "name": "easter_c18_dragonflies_64_a_2_16",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_16",
+      "x": 21,
+      "y": 69,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_17": {
+      "name": "easter_c18_dragonflies_64_a_2_17",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_17",
+      "x": 23,
+      "y": 60,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_18": {
+      "name": "easter_c18_dragonflies_64_a_2_18",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_18",
+      "x": 19,
+      "y": 49,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_a_2_19": {
+      "name": "easter_c18_dragonflies_64_a_2_19",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_a_0_19",
+      "x": 16,
+      "y": 49,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_0": {
+      "name": "easter_c18_dragonflies_64_b_2_0",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_0",
+      "x": -5,
+      "y": 76,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_1": {
+      "name": "easter_c18_dragonflies_64_b_2_1",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_1",
+      "x": -6,
+      "y": 74,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_2": {
+      "name": "easter_c18_dragonflies_64_b_2_2",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_2",
+      "x": -5,
+      "y": 77,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_3": {
+      "name": "easter_c18_dragonflies_64_b_2_3",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_3",
+      "x": -6,
+      "y": 75,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_4": {
+      "name": "easter_c18_dragonflies_64_b_2_4",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_4",
+      "x": -5,
+      "y": 80,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_5": {
+      "name": "easter_c18_dragonflies_64_b_2_5",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_5",
+      "x": -6,
+      "y": 78,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_6": {
+      "name": "easter_c18_dragonflies_64_b_2_6",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_6",
+      "x": -5,
+      "y": 81,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_7": {
+      "name": "easter_c18_dragonflies_64_b_2_7",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_7",
+      "x": -6,
+      "y": 79,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_8": {
+      "name": "easter_c18_dragonflies_64_b_2_8",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_8",
+      "x": -1,
+      "y": 78,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_9": {
+      "name": "easter_c18_dragonflies_64_b_2_9",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_9",
+      "x": 9,
+      "y": 76,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_10": {
+      "name": "easter_c18_dragonflies_64_b_2_10",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_10",
+      "x": 22,
+      "y": 71,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_11": {
+      "name": "easter_c18_dragonflies_64_b_2_11",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_11",
+      "x": 22,
+      "y": 58,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_12": {
+      "name": "easter_c18_dragonflies_64_b_2_12",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_12",
+      "x": 16,
+      "y": 49,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_13": {
+      "name": "easter_c18_dragonflies_64_b_2_13",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_13",
+      "x": 12,
+      "y": 47,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_14": {
+      "name": "easter_c18_dragonflies_64_b_2_14",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_14",
+      "x": 10,
+      "y": 47,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_15": {
+      "name": "easter_c18_dragonflies_64_b_2_15",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_15",
+      "x": 1,
+      "y": 54,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_16": {
+      "name": "easter_c18_dragonflies_64_b_2_16",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_16",
+      "x": -10,
+      "y": 65,
+      "exists": false
+    },
+    "easter_c18_dragonflies_64_b_2_17": {
+      "name": "easter_c18_dragonflies_64_b_2_17",
+      "flipH": 1,
+      "source": "easter_c18_dragonflies_64_b_0_17",
+      "x": -10,
+      "y": 71,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  5,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  5,
+                  5,
+                  4,
+                  4,
+                  3,
+                  3,
+                  2,
+                  2,
+                  1,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  5,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  5,
+                  5,
+                  4,
+                  4,
+                  3,
+                  3,
+                  2,
+                  2,
+                  2,
+                  1,
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  5,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  5,
+                  5,
+                  4,
+                  4,
+                  3,
+                  3,
+                  2,
+                  2,
+                  1,
+                  1,
+                  8,
+                  8,
+                  9,
+                  9,
+                  10,
+                  10,
+                  11,
+                  11,
+                  12,
+                  12,
+                  13,
+                  13,
+                  14,
+                  14,
+                  15,
+                  15,
+                  16,
+                  16,
+                  17,
+                  17,
+                  18,
+                  18,
+                  19,
+                  19,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  5,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  5,
+                  5,
+                  4,
+                  4,
+                  3,
+                  3,
+                  2,
+                  2,
+                  1,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  5,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  5,
+                  5,
+                  4,
+                  4,
+                  3,
+                  3,
+                  2,
+                  2,
+                  1,
+                  1,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  5,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  5,
+                  5,
+                  4,
+                  4,
+                  3,
+                  3,
+                  2,
+                  2,
+                  1,
+                  1,
+                  8,
+                  8,
+                  9,
+                  9,
+                  10,
+                  10,
+                  11,
+                  11,
+                  12,
+                  12,
+                  13,
+                  13,
+                  14,
+                  14,
+                  15,
+                  15,
+                  16,
+                  16,
+                  17,
+                  17,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  5,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  5,
+                  5,
+                  4,
+                  4,
+                  3,
+                  3,
+                  2,
+                  2,
+                  1,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  5,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  5,
+                  5,
+                  4,
+                  4,
+                  3,
+                  3,
+                  2,
+                  2,
+                  1,
+                  1,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 500
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "easter_c18_dragonflies",
+    "visualization": "furniture_animated"
+  }
+}

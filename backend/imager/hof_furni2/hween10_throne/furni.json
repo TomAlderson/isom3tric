@@ -1,0 +1,305 @@
+{
+  "assets": {
+    "hween10_throne_32_sd_0_0": {
+      "name": "hween10_throne_32_sd_0_0",
+      "x": 12,
+      "y": 6,
+      "exists": true
+    },
+    "hween10_throne_32_a_0_0": {
+      "name": "hween10_throne_32_a_0_0",
+      "x": 8,
+      "y": 16,
+      "exists": true
+    },
+    "hween10_throne_32_b_0_0": {
+      "name": "hween10_throne_32_b_0_0",
+      "x": 17,
+      "y": 57,
+      "exists": true
+    },
+    "hween10_throne_32_a_4_0": {
+      "name": "hween10_throne_32_a_4_0",
+      "x": 16,
+      "y": 60,
+      "exists": true
+    },
+    "hween10_throne_32_b_4_0": {
+      "name": "hween10_throne_32_b_4_0",
+      "x": 6,
+      "y": 22,
+      "exists": true
+    },
+    "hween10_throne_64_sd_0_0": {
+      "name": "hween10_throne_64_sd_0_0",
+      "source": "hween10_throne_64_sd_0_0",
+      "x": 27,
+      "y": 13,
+      "exists": true
+    },
+    "hween10_throne_64_a_0_0": {
+      "name": "hween10_throne_64_a_0_0",
+      "x": 18,
+      "y": 34,
+      "exists": true
+    },
+    "hween10_throne_64_b_0_0": {
+      "name": "hween10_throne_64_b_0_0",
+      "x": 36,
+      "y": 115,
+      "exists": true
+    },
+    "hween10_throne_64_a_4_0": {
+      "name": "hween10_throne_64_a_4_0",
+      "x": 32,
+      "y": 121,
+      "exists": true
+    },
+    "hween10_throne_64_b_4_0": {
+      "name": "hween10_throne_64_b_4_0",
+      "x": 12,
+      "y": 44,
+      "exists": true
+    },
+    "hween10_throne_icon_a": {
+      "name": "hween10_throne_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    },
+    "hween10_throne_32_sd_2_0": {
+      "name": "hween10_throne_32_sd_2_0",
+      "source": "hween10_throne_32_sd_0_0",
+      "x": 12,
+      "y": 6,
+      "exists": false
+    },
+    "hween10_throne_32_sd_4_0": {
+      "name": "hween10_throne_32_sd_4_0",
+      "source": "hween10_throne_32_sd_0_0",
+      "x": 12,
+      "y": 6,
+      "exists": false
+    },
+    "hween10_throne_32_sd_6_0": {
+      "name": "hween10_throne_32_sd_6_0",
+      "source": "hween10_throne_32_sd_0_0",
+      "x": 12,
+      "y": 6,
+      "exists": false
+    },
+    "hween10_throne_32_a_6_0": {
+      "name": "hween10_throne_32_a_6_0",
+      "flipH": 1,
+      "source": "hween10_throne_32_a_0_0",
+      "x": 8,
+      "y": 16,
+      "exists": false
+    },
+    "hween10_throne_32_b_6_0": {
+      "name": "hween10_throne_32_b_6_0",
+      "flipH": 1,
+      "source": "hween10_throne_32_b_0_0",
+      "x": 17,
+      "y": 57,
+      "exists": false
+    },
+    "hween10_throne_32_a_2_0": {
+      "name": "hween10_throne_32_a_2_0",
+      "flipH": 1,
+      "source": "hween10_throne_32_a_4_0",
+      "x": 16,
+      "y": 60,
+      "exists": false
+    },
+    "hween10_throne_32_b_2_0": {
+      "name": "hween10_throne_32_b_2_0",
+      "flipH": 1,
+      "source": "hween10_throne_32_b_4_0",
+      "x": 6,
+      "y": 22,
+      "exists": false
+    },
+    "hween10_throne_64_sd_2_0": {
+      "name": "hween10_throne_64_sd_2_0",
+      "source": "hween10_throne_64_sd_0_0",
+      "x": 27,
+      "y": 13,
+      "exists": false
+    },
+    "hween10_throne_64_sd_4_0": {
+      "name": "hween10_throne_64_sd_4_0",
+      "source": "hween10_throne_64_sd_0_0",
+      "x": 27,
+      "y": 13,
+      "exists": false
+    },
+    "hween10_throne_64_sd_6_0": {
+      "name": "hween10_throne_64_sd_6_0",
+      "source": "hween10_throne_64_sd_0_0",
+      "x": 27,
+      "y": 13,
+      "exists": false
+    },
+    "hween10_throne_64_a_6_0": {
+      "name": "hween10_throne_64_a_6_0",
+      "flipH": 1,
+      "source": "hween10_throne_64_a_0_0",
+      "x": 18,
+      "y": 34,
+      "exists": false
+    },
+    "hween10_throne_64_b_6_0": {
+      "name": "hween10_throne_64_b_6_0",
+      "flipH": 1,
+      "source": "hween10_throne_64_b_0_0",
+      "x": 36,
+      "y": 115,
+      "exists": false
+    },
+    "hween10_throne_64_a_2_0": {
+      "name": "hween10_throne_64_a_2_0",
+      "flipH": 1,
+      "source": "hween10_throne_64_a_4_0",
+      "x": 32,
+      "y": 121,
+      "exists": false
+    },
+    "hween10_throne_64_b_2_0": {
+      "name": "hween10_throne_64_b_2_0",
+      "flipH": 1,
+      "source": "hween10_throne_64_b_4_0",
+      "x": 12,
+      "y": 44,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.35
+    },
+    "directions": [
+      0,
+      180,
+      90,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 700
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 700
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "hween10_throne",
+    "visualization": "furniture_static"
+  }
+}

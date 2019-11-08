@@ -1,0 +1,143 @@
+{
+  "assets": {
+    "urban_bin_32_a_0_0": {
+      "name": "urban_bin_32_a_0_0",
+      "x": 12,
+      "y": 27,
+      "exists": true
+    },
+    "urban_bin_32_a_0_1": {
+      "name": "urban_bin_32_a_0_1",
+      "x": 12,
+      "y": 28,
+      "exists": true
+    },
+    "urban_bin_32_sd_0_0": {
+      "name": "urban_bin_32_sd_0_0",
+      "x": 10,
+      "y": 7,
+      "exists": true
+    },
+    "urban_bin_64_a_0_0": {
+      "name": "urban_bin_64_a_0_0",
+      "x": 24,
+      "y": 53,
+      "exists": true
+    },
+    "urban_bin_64_a_0_1": {
+      "name": "urban_bin_64_a_0_1",
+      "x": 24,
+      "y": 55,
+      "exists": true
+    },
+    "urban_bin_64_sd_0_0": {
+      "name": "urban_bin_64_sd_0_0",
+      "x": 22,
+      "y": 12,
+      "exists": true
+    },
+    "urban_bin_icon_a": {
+      "name": "urban_bin_icon_a",
+      "x": 13,
+      "y": 16,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "urban_bin",
+    "visualization": "furniture_animated"
+  }
+}

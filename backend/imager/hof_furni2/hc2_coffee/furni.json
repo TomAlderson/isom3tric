@@ -1,0 +1,110 @@
+{
+  "assets": {
+    "hc2_coffee_64_a_2_0": {
+      "name": "hc2_coffee_64_a_2_0",
+      "x": 30,
+      "y": 62,
+      "exists": true
+    },
+    "hc2_coffee_32_a_2_0": {
+      "name": "hc2_coffee_32_a_2_0",
+      "x": 15,
+      "y": 31,
+      "exists": true
+    },
+    "hc2_coffee_icon_a": {
+      "name": "hc2_coffee_icon_a",
+      "x": 11,
+      "y": 29,
+      "exists": true
+    },
+    "hc2_coffee_64_a_4_0": {
+      "name": "hc2_coffee_64_a_4_0",
+      "flipH": 1,
+      "source": "hc2_coffee_64_a_2_0",
+      "x": 30,
+      "y": 62,
+      "exists": false
+    },
+    "hc2_coffee_32_a_4_0": {
+      "name": "hc2_coffee_32_a_4_0",
+      "flipH": 1,
+      "source": "hc2_coffee_32_a_2_0",
+      "x": 15,
+      "y": 31,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hc2_coffee",
+    "visualization": "furniture_animated"
+  }
+}

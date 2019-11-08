@@ -1,0 +1,130 @@
+{
+  "assets": {
+    "grunge_sign_64_a_2_0": {
+      "name": "grunge_sign_64_a_2_0",
+      "x": 24,
+      "y": 106,
+      "exists": true
+    },
+    "grunge_sign_64_a_4_0": {
+      "name": "grunge_sign_64_a_4_0",
+      "x": 18,
+      "y": 106,
+      "exists": true
+    },
+    "grunge_sign_64_b_2_0": {
+      "name": "grunge_sign_64_b_2_0",
+      "x": 5,
+      "y": 51,
+      "exists": true
+    },
+    "grunge_sign_64_b_4_0": {
+      "name": "grunge_sign_64_b_4_0",
+      "x": 4,
+      "y": 51,
+      "exists": true
+    },
+    "grunge_sign_64_sd_2_0": {
+      "name": "grunge_sign_64_sd_2_0",
+      "x": 19,
+      "y": 10,
+      "exists": true
+    },
+    "grunge_sign_64_sd_4_0": {
+      "name": "grunge_sign_64_sd_4_0",
+      "flipH": 1,
+      "source": "grunge_sign_64_sd_2_0",
+      "x": 19,
+      "y": 10,
+      "exists": false
+    },
+    "grunge_sign_icon_a": {
+      "name": "grunge_sign_icon_a",
+      "x": 11,
+      "y": 14,
+      "exists": true
+    },
+    "grunge_sign_32_a_2_0": {
+      "name": "grunge_sign_32_a_2_0",
+      "x": 11,
+      "y": 52,
+      "exists": true
+    },
+    "grunge_sign_32_a_4_0": {
+      "name": "grunge_sign_32_a_4_0",
+      "x": 11,
+      "y": 52,
+      "exists": true
+    },
+    "grunge_sign_32_b_2_0": {
+      "name": "grunge_sign_32_b_2_0",
+      "x": 5,
+      "y": 47,
+      "exists": true
+    },
+    "grunge_sign_32_b_4_0": {
+      "name": "grunge_sign_32_b_4_0",
+      "x": 8,
+      "y": 47,
+      "exists": true
+    },
+    "grunge_sign_32_sd_2_0": {
+      "name": "grunge_sign_32_sd_2_0",
+      "x": 9,
+      "y": 3,
+      "exists": true
+    },
+    "grunge_sign_32_sd_4_0": {
+      "name": "grunge_sign_32_sd_4_0",
+      "flipH": 1,
+      "source": "grunge_sign_32_sd_2_0",
+      "x": 9,
+      "y": 3,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "grunge_sign",
+    "visualization": "furniture_static"
+  }
+}

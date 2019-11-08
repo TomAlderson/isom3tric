@@ -1,0 +1,127 @@
+{
+  "assets": {
+    "elmeri_64_a_2_0": {
+      "name": "elmeri_64_a_2_0",
+      "x": 21,
+      "y": 50,
+      "exists": true
+    },
+    "elmeri_64_sd_2_0": {
+      "name": "elmeri_64_sd_2_0",
+      "x": 21,
+      "y": 10,
+      "exists": true
+    },
+    "elmeri_64_a_4_0": {
+      "name": "elmeri_64_a_4_0",
+      "flipH": 1,
+      "source": "elmeri_64_a_2_0",
+      "x": 23,
+      "y": 50,
+      "exists": false
+    },
+    "elmeri_64_sd_4_0": {
+      "name": "elmeri_64_sd_4_0",
+      "flipH": 1,
+      "source": "elmeri_64_sd_2_0",
+      "x": 23,
+      "y": 10,
+      "exists": false
+    },
+    "elmeri_32_a_2_0": {
+      "name": "elmeri_32_a_2_0",
+      "x": 11,
+      "y": 26,
+      "exists": true
+    },
+    "elmeri_32_sd_2_0": {
+      "name": "elmeri_32_sd_2_0",
+      "x": 11,
+      "y": 5,
+      "exists": true
+    },
+    "elmeri_32_a_4_0": {
+      "name": "elmeri_32_a_4_0",
+      "flipH": 1,
+      "source": "elmeri_32_a_2_0",
+      "x": 9,
+      "y": 26,
+      "exists": false
+    },
+    "elmeri_32_sd_4_0": {
+      "name": "elmeri_32_sd_4_0",
+      "flipH": 1,
+      "source": "elmeri_32_sd_2_0",
+      "x": 9,
+      "y": 5,
+      "exists": false
+    },
+    "elmeri_icon_a": {
+      "name": "elmeri_icon_a",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY",
+          "alpha": 255
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "elmeri",
+    "visualization": "furniture_static"
+  }
+}

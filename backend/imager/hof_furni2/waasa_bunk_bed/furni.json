@@ -1,0 +1,630 @@
+{
+  "assets": {
+    "waasa_bunk_bed_64_sd_2_0": {
+      "name": "waasa_bunk_bed_64_sd_2_0",
+      "x": 94,
+      "y": 16,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_sd_4_0": {
+      "name": "waasa_bunk_bed_64_sd_4_0",
+      "x": 27,
+      "y": 15,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_a_2_0": {
+      "name": "waasa_bunk_bed_64_a_2_0",
+      "x": 31,
+      "y": 103,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_b_2_0": {
+      "name": "waasa_bunk_bed_64_b_2_0",
+      "x": 63,
+      "y": 90,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_c_2_0": {
+      "name": "waasa_bunk_bed_64_c_2_0",
+      "x": 97,
+      "y": 74,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_c_2_1": {
+      "name": "waasa_bunk_bed_64_c_2_1",
+      "x": 97,
+      "y": 74,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_b_2_1": {
+      "name": "waasa_bunk_bed_64_b_2_1",
+      "x": 63,
+      "y": 90,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_a_2_1": {
+      "name": "waasa_bunk_bed_64_a_2_1",
+      "x": 31,
+      "y": 103,
+      "exists": false
+    },
+    "waasa_bunk_bed_64_e_2_1": {
+      "name": "waasa_bunk_bed_64_e_2_1",
+      "x": 25,
+      "y": 79,
+      "exists": false
+    },
+    "waasa_bunk_bed_64_e_2_0": {
+      "name": "waasa_bunk_bed_64_e_2_0",
+      "x": 25,
+      "y": 79,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_d_2_1": {
+      "name": "waasa_bunk_bed_64_d_2_1",
+      "x": 2,
+      "y": 92,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_d_2_0": {
+      "name": "waasa_bunk_bed_64_d_2_0",
+      "x": 2,
+      "y": 92,
+      "exists": false
+    },
+    "waasa_bunk_bed_64_f_2_0": {
+      "name": "waasa_bunk_bed_64_f_2_0",
+      "x": 62,
+      "y": 37,
+      "exists": false
+    },
+    "waasa_bunk_bed_64_f_2_1": {
+      "name": "waasa_bunk_bed_64_f_2_1",
+      "x": 62,
+      "y": 37,
+      "exists": false
+    },
+    "waasa_bunk_bed_64_c_4_0": {
+      "name": "waasa_bunk_bed_64_c_4_0",
+      "x": -32,
+      "y": 75,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_b_4_0": {
+      "name": "waasa_bunk_bed_64_b_4_0",
+      "x": 0,
+      "y": 90,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_a_4_0": {
+      "name": "waasa_bunk_bed_64_a_4_0",
+      "x": 31,
+      "y": 102,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_c_4_1": {
+      "name": "waasa_bunk_bed_64_c_4_1",
+      "x": -32,
+      "y": 75,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_b_4_1": {
+      "name": "waasa_bunk_bed_64_b_4_1",
+      "x": 0,
+      "y": 90,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_a_4_1": {
+      "name": "waasa_bunk_bed_64_a_4_1",
+      "x": 31,
+      "y": 102,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_f_4_0": {
+      "name": "waasa_bunk_bed_64_f_4_0",
+      "x": -33,
+      "y": 62,
+      "exists": false
+    },
+    "waasa_bunk_bed_64_f_4_1": {
+      "name": "waasa_bunk_bed_64_f_4_1",
+      "x": -33,
+      "y": 62,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_e_4_0": {
+      "name": "waasa_bunk_bed_64_e_4_0",
+      "x": -7,
+      "y": 75,
+      "exists": false
+    },
+    "waasa_bunk_bed_64_e_4_1": {
+      "name": "waasa_bunk_bed_64_e_4_1",
+      "x": -7,
+      "y": 75,
+      "exists": true
+    },
+    "waasa_bunk_bed_64_d_4_0": {
+      "name": "waasa_bunk_bed_64_d_4_0",
+      "x": 28,
+      "y": 80,
+      "exists": false
+    },
+    "waasa_bunk_bed_64_d_4_1": {
+      "name": "waasa_bunk_bed_64_d_4_1",
+      "x": 28,
+      "y": 80,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_sd_2_0": {
+      "name": "waasa_bunk_bed_32_sd_2_0",
+      "x": 47,
+      "y": 7,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_sd_4_0": {
+      "name": "waasa_bunk_bed_32_sd_4_0",
+      "x": 16,
+      "y": 6,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_a_2_0": {
+      "name": "waasa_bunk_bed_32_a_2_0",
+      "x": 15,
+      "y": 53,
+      "exists": false
+    },
+    "waasa_bunk_bed_32_b_2_0": {
+      "name": "waasa_bunk_bed_32_b_2_0",
+      "x": 31,
+      "y": 46,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_c_2_0": {
+      "name": "waasa_bunk_bed_32_c_2_0",
+      "x": 49,
+      "y": 38,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_c_2_1": {
+      "name": "waasa_bunk_bed_32_c_2_1",
+      "x": 49,
+      "y": 38,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_b_2_1": {
+      "name": "waasa_bunk_bed_32_b_2_1",
+      "x": 31,
+      "y": 46,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_a_2_1": {
+      "name": "waasa_bunk_bed_32_a_2_1",
+      "x": 15,
+      "y": 53,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_f_2_1": {
+      "name": "waasa_bunk_bed_32_f_2_1",
+      "x": 31,
+      "y": 19,
+      "exists": false
+    },
+    "waasa_bunk_bed_32_f_2_0": {
+      "name": "waasa_bunk_bed_32_f_2_0",
+      "x": 31,
+      "y": 19,
+      "exists": false
+    },
+    "waasa_bunk_bed_32_e_2_1": {
+      "name": "waasa_bunk_bed_32_e_2_1",
+      "x": 13,
+      "y": 41,
+      "exists": false
+    },
+    "waasa_bunk_bed_32_e_2_0": {
+      "name": "waasa_bunk_bed_32_e_2_0",
+      "x": 13,
+      "y": 41,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_d_2_1": {
+      "name": "waasa_bunk_bed_32_d_2_1",
+      "x": 0,
+      "y": 47,
+      "exists": false
+    },
+    "waasa_bunk_bed_32_d_2_0": {
+      "name": "waasa_bunk_bed_32_d_2_0",
+      "x": 0,
+      "y": 47,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_c_4_0": {
+      "name": "waasa_bunk_bed_32_c_4_0",
+      "x": -16,
+      "y": 38,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_b_4_0": {
+      "name": "waasa_bunk_bed_32_b_4_0",
+      "x": 0,
+      "y": 45,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_a_4_0": {
+      "name": "waasa_bunk_bed_32_a_4_0",
+      "x": 16,
+      "y": 50,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_c_4_1": {
+      "name": "waasa_bunk_bed_32_c_4_1",
+      "x": -16,
+      "y": 38,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_b_4_1": {
+      "name": "waasa_bunk_bed_32_b_4_1",
+      "x": 0,
+      "y": 45,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_a_4_1": {
+      "name": "waasa_bunk_bed_32_a_4_1",
+      "x": 16,
+      "y": 50,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_f_4_1": {
+      "name": "waasa_bunk_bed_32_f_4_1",
+      "x": -16,
+      "y": 32,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_f_4_0": {
+      "name": "waasa_bunk_bed_32_f_4_0",
+      "x": -16,
+      "y": 32,
+      "exists": false
+    },
+    "waasa_bunk_bed_32_e_4_0": {
+      "name": "waasa_bunk_bed_32_e_4_0",
+      "x": -3,
+      "y": 38,
+      "exists": true
+    },
+    "waasa_bunk_bed_32_e_4_1": {
+      "name": "waasa_bunk_bed_32_e_4_1",
+      "x": -3,
+      "y": 38,
+      "exists": false
+    },
+    "waasa_bunk_bed_32_d_4_1": {
+      "name": "waasa_bunk_bed_32_d_4_1",
+      "x": 14,
+      "y": 39,
+      "exists": false
+    },
+    "waasa_bunk_bed_32_d_4_0": {
+      "name": "waasa_bunk_bed_32_d_4_0",
+      "x": 14,
+      "y": 39,
+      "exists": false
+    },
+    "waasa_bunk_bed_icon_a": {
+      "name": "waasa_bunk_bed_icon_a",
+      "x": 14,
+      "y": 16,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3,
+      "y": 1,
+      "z": 3.4
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 2000
+        },
+        {
+          "layerId": 3,
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "z": 1500
+        },
+        {
+          "layerId": 5,
+          "z": 2500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 2000
+        },
+        {
+          "layerId": 3,
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "z": 1500
+        },
+        {
+          "layerId": 5,
+          "z": 2500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "waasa_bunk_bed",
+    "visualization": "furniture_animated"
+  }
+}

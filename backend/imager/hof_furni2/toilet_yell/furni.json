@@ -1,0 +1,438 @@
+{
+  "assets": {
+    "toilet_yell_32_a_0_0": {
+      "name": "toilet_yell_32_a_0_0",
+      "flipH": 1,
+      "source": "toilet_yell_32_a_6_0",
+      "x": 13,
+      "y": 16,
+      "exists": false
+    },
+    "toilet_yell_32_a_0_1": {
+      "name": "toilet_yell_32_a_0_1",
+      "flipH": 1,
+      "source": "toilet_yell_32_a_6_1",
+      "x": 13,
+      "y": 16,
+      "exists": false
+    },
+    "toilet_yell_32_a_2_0": {
+      "name": "toilet_yell_32_a_2_0",
+      "flipH": 1,
+      "source": "toilet_yell_32_a_4_0",
+      "x": 11,
+      "y": 17,
+      "exists": false
+    },
+    "toilet_yell_32_a_2_1": {
+      "name": "toilet_yell_32_a_2_1",
+      "flipH": 1,
+      "source": "toilet_yell_32_a_4_1",
+      "x": 11,
+      "y": 17,
+      "exists": false
+    },
+    "toilet_yell_32_a_4_0": {
+      "name": "toilet_yell_32_a_4_0",
+      "x": 11,
+      "y": 17,
+      "exists": true
+    },
+    "toilet_yell_32_a_4_1": {
+      "name": "toilet_yell_32_a_4_1",
+      "x": 11,
+      "y": 17,
+      "exists": true
+    },
+    "toilet_yell_32_a_6_0": {
+      "name": "toilet_yell_32_a_6_0",
+      "x": 13,
+      "y": 16,
+      "exists": true
+    },
+    "toilet_yell_32_a_6_1": {
+      "name": "toilet_yell_32_a_6_1",
+      "x": 13,
+      "y": 16,
+      "exists": true
+    },
+    "toilet_yell_32_b_0_0": {
+      "name": "toilet_yell_32_b_0_0",
+      "flipH": 1,
+      "source": "toilet_yell_32_b_6_0",
+      "x": 13,
+      "y": 1,
+      "exists": false
+    },
+    "toilet_yell_32_b_0_1": {
+      "name": "toilet_yell_32_b_0_1",
+      "flipH": 1,
+      "source": "toilet_yell_32_b_6_1",
+      "x": 3,
+      "y": 26,
+      "exists": false
+    },
+    "toilet_yell_32_b_2_0": {
+      "name": "toilet_yell_32_b_2_0",
+      "flipH": 1,
+      "source": "toilet_yell_32_b_4_0",
+      "x": 10,
+      "y": -2,
+      "exists": false
+    },
+    "toilet_yell_32_b_2_1": {
+      "name": "toilet_yell_32_b_2_1",
+      "flipH": 1,
+      "source": "toilet_yell_32_b_4_1",
+      "x": 2,
+      "y": 35,
+      "exists": false
+    },
+    "toilet_yell_32_b_4_0": {
+      "name": "toilet_yell_32_b_4_0",
+      "x": 10,
+      "y": -2,
+      "exists": false
+    },
+    "toilet_yell_32_b_4_1": {
+      "name": "toilet_yell_32_b_4_1",
+      "x": 2,
+      "y": 35,
+      "exists": true
+    },
+    "toilet_yell_32_b_6_0": {
+      "name": "toilet_yell_32_b_6_0",
+      "x": 13,
+      "y": 1,
+      "exists": false
+    },
+    "toilet_yell_32_b_6_1": {
+      "name": "toilet_yell_32_b_6_1",
+      "x": 3,
+      "y": 26,
+      "exists": true
+    },
+    "toilet_yell_32_sd_0_0": {
+      "name": "toilet_yell_32_sd_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": true
+    },
+    "toilet_yell_32_sd_2_0": {
+      "name": "toilet_yell_32_sd_2_0",
+      "source": "toilet_yell_32_sd_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": false
+    },
+    "toilet_yell_32_sd_4_0": {
+      "name": "toilet_yell_32_sd_4_0",
+      "source": "toilet_yell_32_sd_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": false
+    },
+    "toilet_yell_32_sd_6_0": {
+      "name": "toilet_yell_32_sd_6_0",
+      "source": "toilet_yell_32_sd_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": false
+    },
+    "toilet_yell_64_a_0_0": {
+      "name": "toilet_yell_64_a_0_0",
+      "flipH": 1,
+      "source": "toilet_yell_64_a_6_0",
+      "x": 23,
+      "y": 33,
+      "exists": false
+    },
+    "toilet_yell_64_a_0_1": {
+      "name": "toilet_yell_64_a_0_1",
+      "flipH": 1,
+      "source": "toilet_yell_64_a_6_1",
+      "x": 23,
+      "y": 32,
+      "exists": false
+    },
+    "toilet_yell_64_a_2_0": {
+      "name": "toilet_yell_64_a_2_0",
+      "flipH": 1,
+      "source": "toilet_yell_64_a_4_0",
+      "x": 19,
+      "y": 34,
+      "exists": false
+    },
+    "toilet_yell_64_a_2_1": {
+      "name": "toilet_yell_64_a_2_1",
+      "flipH": 1,
+      "source": "toilet_yell_64_a_4_1",
+      "x": 19,
+      "y": 33,
+      "exists": false
+    },
+    "toilet_yell_64_a_4_0": {
+      "name": "toilet_yell_64_a_4_0",
+      "x": 19,
+      "y": 34,
+      "exists": true
+    },
+    "toilet_yell_64_a_4_1": {
+      "name": "toilet_yell_64_a_4_1",
+      "x": 19,
+      "y": 33,
+      "exists": true
+    },
+    "toilet_yell_64_a_6_0": {
+      "name": "toilet_yell_64_a_6_0",
+      "x": 23,
+      "y": 33,
+      "exists": true
+    },
+    "toilet_yell_64_a_6_1": {
+      "name": "toilet_yell_64_a_6_1",
+      "x": 23,
+      "y": 32,
+      "exists": true
+    },
+    "toilet_yell_64_b_0_0": {
+      "name": "toilet_yell_64_b_0_0",
+      "flipH": 1,
+      "source": "toilet_yell_64_b_6_0",
+      "x": 22,
+      "y": 2,
+      "exists": false
+    },
+    "toilet_yell_64_b_0_1": {
+      "name": "toilet_yell_64_b_0_1",
+      "flipH": 1,
+      "source": "toilet_yell_64_b_6_1",
+      "x": 3,
+      "y": 52,
+      "exists": false
+    },
+    "toilet_yell_64_b_2_0": {
+      "name": "toilet_yell_64_b_2_0",
+      "flipH": 1,
+      "source": "toilet_yell_64_b_4_0",
+      "x": 18,
+      "y": -3,
+      "exists": false
+    },
+    "toilet_yell_64_b_2_1": {
+      "name": "toilet_yell_64_b_2_1",
+      "flipH": 1,
+      "source": "toilet_yell_64_b_4_1",
+      "x": -2,
+      "y": 66,
+      "exists": false
+    },
+    "toilet_yell_64_b_4_0": {
+      "name": "toilet_yell_64_b_4_0",
+      "x": 18,
+      "y": -3,
+      "exists": false
+    },
+    "toilet_yell_64_b_4_1": {
+      "name": "toilet_yell_64_b_4_1",
+      "x": -2,
+      "y": 66,
+      "exists": true
+    },
+    "toilet_yell_64_b_6_0": {
+      "name": "toilet_yell_64_b_6_0",
+      "x": 22,
+      "y": 2,
+      "exists": true
+    },
+    "toilet_yell_64_b_6_1": {
+      "name": "toilet_yell_64_b_6_1",
+      "x": 3,
+      "y": 52,
+      "exists": true
+    },
+    "toilet_yell_64_sd_0_0": {
+      "name": "toilet_yell_64_sd_0_0",
+      "x": 23,
+      "y": 10,
+      "exists": true
+    },
+    "toilet_yell_64_sd_2_0": {
+      "name": "toilet_yell_64_sd_2_0",
+      "source": "toilet_yell_64_sd_0_0",
+      "x": 23,
+      "y": 10,
+      "exists": false
+    },
+    "toilet_yell_64_sd_4_0": {
+      "name": "toilet_yell_64_sd_4_0",
+      "source": "toilet_yell_64_sd_0_0",
+      "x": 23,
+      "y": 10,
+      "exists": false
+    },
+    "toilet_yell_64_sd_6_0": {
+      "name": "toilet_yell_64_sd_6_0",
+      "source": "toilet_yell_64_sd_0_0",
+      "x": 23,
+      "y": 10,
+      "exists": false
+    },
+    "toilet_yell_icon_a": {
+      "name": "toilet_yell_icon_a",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.16875
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "toilet_yell",
+    "visualization": "furniture_animated"
+  }
+}

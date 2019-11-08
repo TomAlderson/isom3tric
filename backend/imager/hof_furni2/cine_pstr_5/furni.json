@@ -1,0 +1,124 @@
+{
+  "assets": {
+    "cine_pstr_5_32_a_4_0": {
+      "name": "cine_pstr_5_32_a_4_0",
+      "x": 17,
+      "y": 36,
+      "exists": true
+    },
+    "cine_pstr_5_32_b_4_0": {
+      "name": "cine_pstr_5_32_b_4_0",
+      "x": 7,
+      "y": -6,
+      "exists": true
+    },
+    "cine_pstr_5_32_a_2_0": {
+      "name": "cine_pstr_5_32_a_2_0",
+      "x": 17,
+      "y": 36,
+      "exists": true
+    },
+    "cine_pstr_5_32_b_2_0": {
+      "name": "cine_pstr_5_32_b_2_0",
+      "x": 5,
+      "y": -6,
+      "exists": true
+    },
+    "cine_pstr_5_64_a_4_0": {
+      "name": "cine_pstr_5_64_a_4_0",
+      "x": 33,
+      "y": 74,
+      "exists": true
+    },
+    "cine_pstr_5_64_b_4_0": {
+      "name": "cine_pstr_5_64_b_4_0",
+      "x": 14,
+      "y": -9,
+      "exists": true
+    },
+    "cine_pstr_5_64_a_2_0": {
+      "name": "cine_pstr_5_64_a_2_0",
+      "x": 33,
+      "y": 74,
+      "exists": true
+    },
+    "cine_pstr_5_64_b_2_0": {
+      "name": "cine_pstr_5_64_b_2_0",
+      "x": 10,
+      "y": -9,
+      "exists": true
+    },
+    "cine_pstr_5_icon_a": {
+      "name": "cine_pstr_5_icon_a",
+      "x": 6,
+      "y": 13,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 0.2,
+      "z": 3.5
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY",
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY",
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "cine_pstr_5",
+    "visualization": "furniture_static"
+  }
+}

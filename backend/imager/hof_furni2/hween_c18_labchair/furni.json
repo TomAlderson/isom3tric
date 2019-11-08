@@ -1,0 +1,498 @@
+{
+  "assets": {
+    "hween_c18_labchair_64_a_4_0": {
+      "name": "hween_c18_labchair_64_a_4_0",
+      "x": 33,
+      "y": 83,
+      "exists": true
+    },
+    "hween_c18_labchair_64_b_4_0": {
+      "name": "hween_c18_labchair_64_b_4_0",
+      "x": 1,
+      "y": 27,
+      "exists": true
+    },
+    "hween_c18_labchair_64_c_4_1": {
+      "name": "hween_c18_labchair_64_c_4_1",
+      "x": 19,
+      "y": 91,
+      "exists": true
+    },
+    "hween_c18_labchair_64_d_4_1": {
+      "name": "hween_c18_labchair_64_d_4_1",
+      "x": 21,
+      "y": 107,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_4_2": {
+      "name": "hween_c18_labchair_64_d_4_2",
+      "x": 23,
+      "y": 109,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_4_3": {
+      "name": "hween_c18_labchair_64_d_4_3",
+      "x": 20,
+      "y": 99,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_4_4": {
+      "name": "hween_c18_labchair_64_d_4_4",
+      "x": 25,
+      "y": 104,
+      "exists": false
+    },
+    "hween_c18_labchair_64_e_4_0": {
+      "name": "hween_c18_labchair_64_e_4_0",
+      "x": 14,
+      "y": 161,
+      "exists": true
+    },
+    "hween_c18_labchair_64_e_4_1": {
+      "name": "hween_c18_labchair_64_e_4_1",
+      "x": 14,
+      "y": 161,
+      "exists": true
+    },
+    "hween_c18_labchair_64_f_4_1": {
+      "name": "hween_c18_labchair_64_f_4_1",
+      "x": -4,
+      "y": 88,
+      "exists": false
+    },
+    "hween_c18_labchair_64_g_4_1": {
+      "name": "hween_c18_labchair_64_g_4_1",
+      "x": -3,
+      "y": 90,
+      "exists": false
+    },
+    "hween_c18_labchair_64_a_0_0": {
+      "name": "hween_c18_labchair_64_a_0_0",
+      "x": 6,
+      "y": 39,
+      "exists": true
+    },
+    "hween_c18_labchair_64_b_0_0": {
+      "name": "hween_c18_labchair_64_b_0_0",
+      "x": 40,
+      "y": 61,
+      "exists": true
+    },
+    "hween_c18_labchair_64_c_0_1": {
+      "name": "hween_c18_labchair_64_c_0_1",
+      "x": 27,
+      "y": 87,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_0_1": {
+      "name": "hween_c18_labchair_64_d_0_1",
+      "x": 29,
+      "y": 103,
+      "exists": true
+    },
+    "hween_c18_labchair_64_d_0_2": {
+      "name": "hween_c18_labchair_64_d_0_2",
+      "x": 31,
+      "y": 105,
+      "exists": true
+    },
+    "hween_c18_labchair_64_d_0_3": {
+      "name": "hween_c18_labchair_64_d_0_3",
+      "x": 28,
+      "y": 95,
+      "exists": true
+    },
+    "hween_c18_labchair_64_d_0_4": {
+      "name": "hween_c18_labchair_64_d_0_4",
+      "x": 33,
+      "y": 100,
+      "exists": true
+    },
+    "hween_c18_labchair_64_e_0_0": {
+      "name": "hween_c18_labchair_64_e_0_0",
+      "x": 22,
+      "y": 157,
+      "exists": false
+    },
+    "hween_c18_labchair_64_e_0_1": {
+      "name": "hween_c18_labchair_64_e_0_1",
+      "x": 22,
+      "y": 157,
+      "exists": false
+    },
+    "hween_c18_labchair_64_f_0_1": {
+      "name": "hween_c18_labchair_64_f_0_1",
+      "x": 4,
+      "y": 84,
+      "exists": true
+    },
+    "hween_c18_labchair_64_g_0_1": {
+      "name": "hween_c18_labchair_64_g_0_1",
+      "x": 5,
+      "y": 86,
+      "exists": true
+    },
+    "hween_c18_labchair_icon_a": {
+      "name": "hween_c18_labchair_icon_a",
+      "x": 11,
+      "y": 14,
+      "exists": true
+    },
+    "hween_c18_labchair_64_a_6_0": {
+      "name": "hween_c18_labchair_64_a_6_0",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_a_0_0",
+      "x": 6,
+      "y": 39,
+      "exists": false
+    },
+    "hween_c18_labchair_64_b_6_0": {
+      "name": "hween_c18_labchair_64_b_6_0",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_b_0_0",
+      "x": 40,
+      "y": 61,
+      "exists": false
+    },
+    "hween_c18_labchair_64_c_6_1": {
+      "name": "hween_c18_labchair_64_c_6_1",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_c_0_1",
+      "x": 27,
+      "y": 87,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_6_1": {
+      "name": "hween_c18_labchair_64_d_6_1",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_d_0_1",
+      "x": 29,
+      "y": 103,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_6_2": {
+      "name": "hween_c18_labchair_64_d_6_2",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_d_0_2",
+      "x": 31,
+      "y": 105,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_6_3": {
+      "name": "hween_c18_labchair_64_d_6_3",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_d_0_3",
+      "x": 28,
+      "y": 95,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_6_4": {
+      "name": "hween_c18_labchair_64_d_6_4",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_d_0_4",
+      "x": 33,
+      "y": 100,
+      "exists": false
+    },
+    "hween_c18_labchair_64_e_6_0": {
+      "name": "hween_c18_labchair_64_e_6_0",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_e_0_0",
+      "x": 22,
+      "y": 157,
+      "exists": false
+    },
+    "hween_c18_labchair_64_e_6_1": {
+      "name": "hween_c18_labchair_64_e_6_1",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_e_0_1",
+      "x": 22,
+      "y": 157,
+      "exists": false
+    },
+    "hween_c18_labchair_64_f_6_1": {
+      "name": "hween_c18_labchair_64_f_6_1",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_f_0_1",
+      "x": 4,
+      "y": 84,
+      "exists": false
+    },
+    "hween_c18_labchair_64_g_6_1": {
+      "name": "hween_c18_labchair_64_g_6_1",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_g_0_1",
+      "x": 5,
+      "y": 86,
+      "exists": false
+    },
+    "hween_c18_labchair_64_a_2_0": {
+      "name": "hween_c18_labchair_64_a_2_0",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_a_4_0",
+      "x": 33,
+      "y": 83,
+      "exists": false
+    },
+    "hween_c18_labchair_64_b_2_0": {
+      "name": "hween_c18_labchair_64_b_2_0",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_b_4_0",
+      "x": 1,
+      "y": 27,
+      "exists": false
+    },
+    "hween_c18_labchair_64_c_2_1": {
+      "name": "hween_c18_labchair_64_c_2_1",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_c_4_1",
+      "x": 19,
+      "y": 91,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_2_1": {
+      "name": "hween_c18_labchair_64_d_2_1",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_d_4_1",
+      "x": 21,
+      "y": 107,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_2_2": {
+      "name": "hween_c18_labchair_64_d_2_2",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_d_4_2",
+      "x": 23,
+      "y": 109,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_2_3": {
+      "name": "hween_c18_labchair_64_d_2_3",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_d_4_3",
+      "x": 20,
+      "y": 99,
+      "exists": false
+    },
+    "hween_c18_labchair_64_d_2_4": {
+      "name": "hween_c18_labchair_64_d_2_4",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_d_4_4",
+      "x": 25,
+      "y": 104,
+      "exists": false
+    },
+    "hween_c18_labchair_64_e_2_0": {
+      "name": "hween_c18_labchair_64_e_2_0",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_e_4_0",
+      "x": 20,
+      "y": 161,
+      "exists": false
+    },
+    "hween_c18_labchair_64_e_2_1": {
+      "name": "hween_c18_labchair_64_e_2_1",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_e_4_1",
+      "x": 20,
+      "y": 161,
+      "exists": false
+    },
+    "hween_c18_labchair_64_f_2_1": {
+      "name": "hween_c18_labchair_64_f_2_1",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_f_4_1",
+      "x": 2,
+      "y": 88,
+      "exists": false
+    },
+    "hween_c18_labchair_64_g_2_1": {
+      "name": "hween_c18_labchair_64_g_2_1",
+      "flipH": 1,
+      "source": "hween_c18_labchair_64_g_4_1",
+      "x": 4,
+      "y": 90,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.2
+    },
+    "directions": [
+      180,
+      0,
+      90,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 7,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 200
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "alpha": 100,
+          "z": 300
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "alpha": 150,
+          "z": 300
+        },
+        {
+          "layerId": 4,
+          "z": 500
+        },
+        {
+          "layerId": 5,
+          "ink": "COPY",
+          "z": 500
+        },
+        {
+          "layerId": 6,
+          "ink": "ADD",
+          "alpha": 100,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween_c18_labchair",
+    "visualization": "furniture_animated"
+  }
+}

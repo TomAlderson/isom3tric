@@ -1,0 +1,367 @@
+{
+  "assets": {
+    "army_c15_teledoor_64_sd_0_0": {
+      "name": "army_c15_teledoor_64_sd_0_0",
+      "x": 28,
+      "y": -1,
+      "exists": true
+    },
+    "army_c15_teledoor_64_a_0_0": {
+      "name": "army_c15_teledoor_64_a_0_0",
+      "x": 37,
+      "y": 107,
+      "exists": true
+    },
+    "army_c15_teledoor_64_b_0_0": {
+      "name": "army_c15_teledoor_64_b_0_0",
+      "x": 37,
+      "y": 107,
+      "exists": true
+    },
+    "army_c15_teledoor_64_b_0_1": {
+      "name": "army_c15_teledoor_64_b_0_1",
+      "x": 37,
+      "y": 100,
+      "exists": false
+    },
+    "army_c15_teledoor_64_c_0_0": {
+      "name": "army_c15_teledoor_64_c_0_0",
+      "x": -9,
+      "y": 93,
+      "exists": true
+    },
+    "army_c15_teledoor_64_c_0_1": {
+      "name": "army_c15_teledoor_64_c_0_1",
+      "x": 37,
+      "y": 100,
+      "exists": false
+    },
+    "army_c15_teledoor_64_d_0_0": {
+      "name": "army_c15_teledoor_64_d_0_0",
+      "x": 11,
+      "y": 83,
+      "exists": false
+    },
+    "army_c15_teledoor_64_d_0_1": {
+      "name": "army_c15_teledoor_64_d_0_1",
+      "x": 11,
+      "y": 83,
+      "exists": true
+    },
+    "army_c15_teledoor_64_sd_4_0": {
+      "name": "army_c15_teledoor_64_sd_4_0",
+      "x": 1,
+      "y": 13,
+      "exists": false
+    },
+    "army_c15_teledoor_64_a_4_0": {
+      "name": "army_c15_teledoor_64_a_4_0",
+      "x": 10,
+      "y": 121,
+      "exists": false
+    },
+    "army_c15_teledoor_64_b_4_0": {
+      "name": "army_c15_teledoor_64_b_4_0",
+      "x": 10,
+      "y": 121,
+      "exists": true
+    },
+    "army_c15_teledoor_64_b_4_1": {
+      "name": "army_c15_teledoor_64_b_4_1",
+      "x": 10,
+      "y": 114,
+      "exists": false
+    },
+    "army_c15_teledoor_64_c_4_0": {
+      "name": "army_c15_teledoor_64_c_4_0",
+      "x": 9,
+      "y": 89,
+      "exists": true
+    },
+    "army_c15_teledoor_64_c_4_1": {
+      "name": "army_c15_teledoor_64_c_4_1",
+      "x": 10,
+      "y": 114,
+      "exists": false
+    },
+    "army_c15_teledoor_64_d_4_0": {
+      "name": "army_c15_teledoor_64_d_4_0",
+      "x": -3,
+      "y": 97,
+      "exists": true
+    },
+    "army_c15_teledoor_64_sd_6_0": {
+      "name": "army_c15_teledoor_64_sd_6_0",
+      "x": -2,
+      "y": -1,
+      "exists": false
+    },
+    "army_c15_teledoor_64_a_6_0": {
+      "name": "army_c15_teledoor_64_a_6_0",
+      "x": 11,
+      "y": 107,
+      "exists": true
+    },
+    "army_c15_teledoor_64_b_6_0": {
+      "name": "army_c15_teledoor_64_b_6_0",
+      "x": 11,
+      "y": 107,
+      "exists": true
+    },
+    "army_c15_teledoor_64_b_6_1": {
+      "name": "army_c15_teledoor_64_b_6_1",
+      "x": 11,
+      "y": 83,
+      "exists": false
+    },
+    "army_c15_teledoor_64_c_6_0": {
+      "name": "army_c15_teledoor_64_c_6_0",
+      "x": 35,
+      "y": 94,
+      "exists": true
+    },
+    "army_c15_teledoor_64_c_6_1": {
+      "name": "army_c15_teledoor_64_c_6_1",
+      "x": 11,
+      "y": 83,
+      "exists": false
+    },
+    "army_c15_teledoor_64_sd_2_0": {
+      "name": "army_c15_teledoor_64_sd_2_0",
+      "x": 23,
+      "y": 12,
+      "exists": true
+    },
+    "army_c15_teledoor_64_a_2_0": {
+      "name": "army_c15_teledoor_64_a_2_0",
+      "x": 36,
+      "y": 120,
+      "exists": true
+    },
+    "army_c15_teledoor_64_b_2_0": {
+      "name": "army_c15_teledoor_64_b_2_0",
+      "x": 36,
+      "y": 120,
+      "exists": true
+    },
+    "army_c15_teledoor_64_b_2_1": {
+      "name": "army_c15_teledoor_64_b_2_1",
+      "x": 36,
+      "y": 96,
+      "exists": false
+    },
+    "army_c15_teledoor_64_c_2_0": {
+      "name": "army_c15_teledoor_64_c_2_0",
+      "x": 24,
+      "y": 88,
+      "exists": true
+    },
+    "army_c15_teledoor_64_c_2_1": {
+      "name": "army_c15_teledoor_64_c_2_1",
+      "x": 36,
+      "y": 96,
+      "exists": false
+    },
+    "army_c15_teledoor_64_d_2_0": {
+      "name": "army_c15_teledoor_64_d_2_0",
+      "x": 23,
+      "y": 96,
+      "exists": true
+    },
+    "army_c15_teledoor_64_d_2_1": {
+      "name": "army_c15_teledoor_64_d_2_1",
+      "x": 36,
+      "y": 96,
+      "exists": false
+    },
+    "army_c15_teledoor_64_d_4_1": {
+      "name": "army_c15_teledoor_64_d_4_1",
+      "x": 10,
+      "y": 114,
+      "exists": false
+    },
+    "army_c15_teledoor_icon_a": {
+      "name": "army_c15_teledoor_icon_a",
+      "x": 4,
+      "y": 12,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.001
+    },
+    "directions": [
+      180,
+      0,
+      270,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "z": -100
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "army_c15_teledoor",
+    "visualization": "furniture_animated"
+  }
+}

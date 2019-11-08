@@ -1,0 +1,320 @@
+{
+  "assets": {
+    "xmas_c17_window_64_sd_4_0": {
+      "name": "xmas_c17_window_64_sd_4_0",
+      "x": 16,
+      "y": 12,
+      "exists": true
+    },
+    "xmas_c17_window_64_a_4_0": {
+      "name": "xmas_c17_window_64_a_4_0",
+      "x": 20,
+      "y": 153,
+      "exists": true
+    },
+    "xmas_c17_window_64_b_4_0": {
+      "name": "xmas_c17_window_64_b_4_0",
+      "x": -19,
+      "y": 131,
+      "exists": true
+    },
+    "xmas_c17_window_64_c_4_1": {
+      "name": "xmas_c17_window_64_c_4_1",
+      "x": 8,
+      "y": 99,
+      "exists": true
+    },
+    "xmas_c17_window_64_d_4_1": {
+      "name": "xmas_c17_window_64_d_4_1",
+      "x": -19,
+      "y": 91,
+      "exists": true
+    },
+    "xmas_c17_window_64_e_4_1": {
+      "name": "xmas_c17_window_64_e_4_1",
+      "x": 22,
+      "y": 153,
+      "exists": true
+    },
+    "xmas_c17_window_64_f_4_1": {
+      "name": "xmas_c17_window_64_f_4_1",
+      "x": -18,
+      "y": 134,
+      "exists": true
+    },
+    "xmas_c17_window_64_sd_2_0": {
+      "name": "xmas_c17_window_64_sd_2_0",
+      "x": 64,
+      "y": 12,
+      "exists": true
+    },
+    "xmas_c17_window_64_a_2_0": {
+      "name": "xmas_c17_window_64_a_2_0",
+      "x": 39,
+      "y": 153,
+      "exists": true
+    },
+    "xmas_c17_window_64_b_2_0": {
+      "name": "xmas_c17_window_64_b_2_0",
+      "x": 64,
+      "y": 131,
+      "exists": true
+    },
+    "xmas_c17_window_64_c_2_1": {
+      "name": "xmas_c17_window_64_c_2_1",
+      "x": 19,
+      "y": 99,
+      "exists": true
+    },
+    "xmas_c17_window_64_d_2_1": {
+      "name": "xmas_c17_window_64_d_2_1",
+      "x": 29,
+      "y": 91,
+      "exists": true
+    },
+    "xmas_c17_window_64_e_2_1": {
+      "name": "xmas_c17_window_64_e_2_1",
+      "x": 37,
+      "y": 153,
+      "exists": true
+    },
+    "xmas_c17_window_64_f_2_1": {
+      "name": "xmas_c17_window_64_f_2_1",
+      "x": 66,
+      "y": 134,
+      "exists": true
+    },
+    "xmas_c17_window_icon_a": {
+      "name": "xmas_c17_window_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 4.22
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3,
+          "z": 1000
+        },
+        {
+          "layerId": 4
+        },
+        {
+          "layerId": 5,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "xmas_c17_window",
+    "visualization": "furniture_animated"
+  }
+}

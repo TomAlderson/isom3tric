@@ -1,0 +1,752 @@
+{
+  "assets": {
+    "gothic_bed_64_a_2_0": {
+      "name": "gothic_bed_64_a_2_0",
+      "x": 32,
+      "y": 156,
+      "exists": true
+    },
+    "gothic_bed_64_a_4_0": {
+      "name": "gothic_bed_64_a_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_64_a_2_0",
+      "x": 32,
+      "y": 156,
+      "exists": false
+    },
+    "gothic_bed_64_b_2_0": {
+      "name": "gothic_bed_64_b_2_0",
+      "x": 18,
+      "y": 125,
+      "exists": true
+    },
+    "gothic_bed_64_b_4_0": {
+      "name": "gothic_bed_64_b_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_64_b_2_0",
+      "x": 18,
+      "y": 125,
+      "exists": false
+    },
+    "gothic_bed_64_b_2_1": {
+      "name": "gothic_bed_64_b_2_1",
+      "x": 32,
+      "y": 125,
+      "exists": true
+    },
+    "gothic_bed_64_b_4_1": {
+      "name": "gothic_bed_64_b_4_1",
+      "flipH": 1,
+      "source": "gothic_bed_64_b_2_1",
+      "x": 32,
+      "y": 125,
+      "exists": false
+    },
+    "gothic_bed_64_c_2_0": {
+      "name": "gothic_bed_64_c_2_0",
+      "x": 69,
+      "y": 167,
+      "exists": true
+    },
+    "gothic_bed_64_c_4_0": {
+      "name": "gothic_bed_64_c_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_64_c_2_0",
+      "x": 69,
+      "y": 167,
+      "exists": false
+    },
+    "gothic_bed_64_d_2_0": {
+      "name": "gothic_bed_64_d_2_0",
+      "x": 70,
+      "y": 130,
+      "exists": true
+    },
+    "gothic_bed_64_d_4_0": {
+      "name": "gothic_bed_64_d_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_64_d_2_0",
+      "x": 70,
+      "y": 130,
+      "exists": false
+    },
+    "gothic_bed_64_e_2_0": {
+      "name": "gothic_bed_64_e_2_0",
+      "x": 31,
+      "y": 109,
+      "exists": true
+    },
+    "gothic_bed_64_e_4_0": {
+      "name": "gothic_bed_64_e_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_64_e_2_0",
+      "x": 31,
+      "y": 109,
+      "exists": false
+    },
+    "gothic_bed_64_f_2_0": {
+      "name": "gothic_bed_64_f_2_0",
+      "x": 0,
+      "y": 117,
+      "exists": true
+    },
+    "gothic_bed_64_f_4_0": {
+      "name": "gothic_bed_64_f_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_64_f_2_0",
+      "x": 0,
+      "y": 117,
+      "exists": false
+    },
+    "gothic_bed_64_g_2_0": {
+      "name": "gothic_bed_64_g_2_0",
+      "x": 53,
+      "y": 110,
+      "exists": true
+    },
+    "gothic_bed_64_g_4_0": {
+      "name": "gothic_bed_64_g_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_64_g_2_0",
+      "x": 53,
+      "y": 110,
+      "exists": false
+    },
+    "gothic_bed_64_h_2_0": {
+      "name": "gothic_bed_64_h_2_0",
+      "x": 58,
+      "y": 93,
+      "exists": true
+    },
+    "gothic_bed_64_h_4_0": {
+      "name": "gothic_bed_64_h_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_64_h_2_0",
+      "x": 58,
+      "y": 93,
+      "exists": false
+    },
+    "gothic_bed_64_i_2_0": {
+      "name": "gothic_bed_64_i_2_0",
+      "x": -79,
+      "y": 75,
+      "exists": true
+    },
+    "gothic_bed_64_i_4_0": {
+      "name": "gothic_bed_64_i_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_64_i_2_0",
+      "x": -79,
+      "y": 75,
+      "exists": false
+    },
+    "gothic_bed_64_j_2_0": {
+      "name": "gothic_bed_64_j_2_0",
+      "x": -19,
+      "y": 55,
+      "exists": true
+    },
+    "gothic_bed_64_j_4_0": {
+      "name": "gothic_bed_64_j_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_64_j_2_0",
+      "x": -19,
+      "y": 55,
+      "exists": false
+    },
+    "gothic_bed_64_g_2_1": {
+      "name": "gothic_bed_64_g_2_1",
+      "x": 53,
+      "y": 114,
+      "exists": true
+    },
+    "gothic_bed_64_g_4_1": {
+      "name": "gothic_bed_64_g_4_1",
+      "flipH": 1,
+      "source": "gothic_bed_64_g_2_1",
+      "x": 53,
+      "y": 114,
+      "exists": false
+    },
+    "gothic_bed_64_h_2_1": {
+      "name": "gothic_bed_64_h_2_1",
+      "x": 58,
+      "y": 94,
+      "exists": true
+    },
+    "gothic_bed_64_h_4_1": {
+      "name": "gothic_bed_64_h_4_1",
+      "flipH": 1,
+      "source": "gothic_bed_64_h_2_1",
+      "x": 58,
+      "y": 94,
+      "exists": false
+    },
+    "gothic_bed_64_i_2_1": {
+      "name": "gothic_bed_64_i_2_1",
+      "x": 31,
+      "y": 78,
+      "exists": true
+    },
+    "gothic_bed_64_i_4_1": {
+      "name": "gothic_bed_64_i_4_1",
+      "flipH": 1,
+      "source": "gothic_bed_64_i_2_1",
+      "x": 31,
+      "y": 78,
+      "exists": false
+    },
+    "gothic_bed_64_j_2_1": {
+      "name": "gothic_bed_64_j_2_1",
+      "x": 0,
+      "y": 63,
+      "exists": true
+    },
+    "gothic_bed_64_j_4_1": {
+      "name": "gothic_bed_64_j_4_1",
+      "flipH": 1,
+      "source": "gothic_bed_64_j_2_1",
+      "x": 0,
+      "y": 63,
+      "exists": false
+    },
+    "gothic_bed_icon_a": {
+      "name": "gothic_bed_icon_a",
+      "x": 0,
+      "y": 0,
+      "exists": true
+    },
+    "gothic_bed_32_a_2_0": {
+      "name": "gothic_bed_32_a_2_0",
+      "x": 13,
+      "y": 78,
+      "exists": true
+    },
+    "gothic_bed_32_a_4_0": {
+      "name": "gothic_bed_32_a_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_32_a_2_0",
+      "x": 13,
+      "y": 78,
+      "exists": false
+    },
+    "gothic_bed_32_b_2_0": {
+      "name": "gothic_bed_32_b_2_0",
+      "x": 10,
+      "y": 62,
+      "exists": true
+    },
+    "gothic_bed_32_b_4_0": {
+      "name": "gothic_bed_32_b_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_32_b_2_0",
+      "x": 10,
+      "y": 62,
+      "exists": false
+    },
+    "gothic_bed_32_b_2_1": {
+      "name": "gothic_bed_32_b_2_1",
+      "x": 13,
+      "y": 62,
+      "exists": true
+    },
+    "gothic_bed_32_b_4_1": {
+      "name": "gothic_bed_32_b_4_1",
+      "flipH": 1,
+      "source": "gothic_bed_32_b_2_1",
+      "x": 13,
+      "y": 62,
+      "exists": false
+    },
+    "gothic_bed_32_c_2_0": {
+      "name": "gothic_bed_32_c_2_0",
+      "x": 36,
+      "y": 84,
+      "exists": true
+    },
+    "gothic_bed_32_c_4_0": {
+      "name": "gothic_bed_32_c_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_32_c_2_0",
+      "x": 36,
+      "y": 84,
+      "exists": false
+    },
+    "gothic_bed_32_d_2_0": {
+      "name": "gothic_bed_32_d_2_0",
+      "x": 35,
+      "y": 65,
+      "exists": true
+    },
+    "gothic_bed_32_d_4_0": {
+      "name": "gothic_bed_32_d_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_32_d_2_0",
+      "x": 35,
+      "y": 65,
+      "exists": false
+    },
+    "gothic_bed_32_e_2_0": {
+      "name": "gothic_bed_32_e_2_0",
+      "x": 19,
+      "y": 59,
+      "exists": true
+    },
+    "gothic_bed_32_e_4_0": {
+      "name": "gothic_bed_32_e_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_32_e_2_0",
+      "x": 19,
+      "y": 59,
+      "exists": false
+    },
+    "gothic_bed_32_f_2_0": {
+      "name": "gothic_bed_32_f_2_0",
+      "x": 3,
+      "y": 51,
+      "exists": true
+    },
+    "gothic_bed_32_f_4_0": {
+      "name": "gothic_bed_32_f_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_32_f_2_0",
+      "x": 3,
+      "y": 51,
+      "exists": false
+    },
+    "gothic_bed_32_g_2_0": {
+      "name": "gothic_bed_32_g_2_0",
+      "x": 27,
+      "y": 52,
+      "exists": true
+    },
+    "gothic_bed_32_g_4_0": {
+      "name": "gothic_bed_32_g_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_32_g_2_0",
+      "x": 27,
+      "y": 52,
+      "exists": false
+    },
+    "gothic_bed_32_h_2_0": {
+      "name": "gothic_bed_32_h_2_0",
+      "x": 29,
+      "y": 45,
+      "exists": true
+    },
+    "gothic_bed_32_h_4_0": {
+      "name": "gothic_bed_32_h_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_32_h_2_0",
+      "x": 29,
+      "y": 45,
+      "exists": false
+    },
+    "gothic_bed_32_i_2_0": {
+      "name": "gothic_bed_32_i_2_0",
+      "x": -37,
+      "y": 36,
+      "exists": true
+    },
+    "gothic_bed_32_i_4_0": {
+      "name": "gothic_bed_32_i_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_32_i_2_0",
+      "x": -37,
+      "y": 36,
+      "exists": false
+    },
+    "gothic_bed_32_j_2_0": {
+      "name": "gothic_bed_32_j_2_0",
+      "x": -9,
+      "y": 26,
+      "exists": true
+    },
+    "gothic_bed_32_j_4_0": {
+      "name": "gothic_bed_32_j_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_32_j_2_0",
+      "x": -9,
+      "y": 26,
+      "exists": false
+    },
+    "gothic_bed_32_g_2_1": {
+      "name": "gothic_bed_32_g_2_1",
+      "x": 27,
+      "y": 57,
+      "exists": true
+    },
+    "gothic_bed_32_g_4_1": {
+      "name": "gothic_bed_32_g_4_1",
+      "flipH": 1,
+      "source": "gothic_bed_32_g_2_1",
+      "x": 27,
+      "y": 57,
+      "exists": false
+    },
+    "gothic_bed_32_h_2_1": {
+      "name": "gothic_bed_32_h_2_1",
+      "x": 29,
+      "y": 47,
+      "exists": true
+    },
+    "gothic_bed_32_h_4_1": {
+      "name": "gothic_bed_32_h_4_1",
+      "flipH": 1,
+      "source": "gothic_bed_32_h_2_1",
+      "x": 29,
+      "y": 47,
+      "exists": false
+    },
+    "gothic_bed_32_i_2_1": {
+      "name": "gothic_bed_32_i_2_1",
+      "x": 19,
+      "y": 40,
+      "exists": true
+    },
+    "gothic_bed_32_i_4_1": {
+      "name": "gothic_bed_32_i_4_1",
+      "flipH": 1,
+      "source": "gothic_bed_32_i_2_1",
+      "x": 19,
+      "y": 40,
+      "exists": false
+    },
+    "gothic_bed_32_j_2_1": {
+      "name": "gothic_bed_32_j_2_1",
+      "x": 3,
+      "y": 32,
+      "exists": true
+    },
+    "gothic_bed_32_j_4_1": {
+      "name": "gothic_bed_32_j_4_1",
+      "flipH": 1,
+      "source": "gothic_bed_32_j_2_1",
+      "x": 3,
+      "y": 32,
+      "exists": false
+    },
+    "gothic_bed_64_sd_2_0": {
+      "name": "gothic_bed_64_sd_2_0",
+      "x": 66,
+      "y": 15,
+      "exists": true
+    },
+    "gothic_bed_64_sd_4_0": {
+      "name": "gothic_bed_64_sd_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_64_sd_2_0",
+      "x": 66,
+      "y": 15,
+      "exists": false
+    },
+    "gothic_bed_32_sd_2_0": {
+      "name": "gothic_bed_32_sd_2_0",
+      "x": 33,
+      "y": 7,
+      "exists": true
+    },
+    "gothic_bed_32_sd_4_0": {
+      "name": "gothic_bed_32_sd_4_0",
+      "flipH": 1,
+      "source": "gothic_bed_32_sd_2_0",
+      "x": 33,
+      "y": 7,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 3,
+      "z": 1.6
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 10,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "alpha": 220,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 1900
+        },
+        {
+          "layerId": 4,
+          "z": 3000
+        },
+        {
+          "layerId": 5,
+          "z": 3600
+        },
+        {
+          "layerId": 6,
+          "alpha": 220,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 7,
+          "alpha": 220,
+          "ignoreMouse": 1,
+          "z": 1900
+        },
+        {
+          "layerId": 8,
+          "alpha": 220,
+          "ignoreMouse": 1,
+          "z": 3200
+        },
+        {
+          "layerId": 9,
+          "alpha": 220,
+          "ignoreMouse": 1,
+          "z": 3500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 10,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "alpha": 220,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 1900
+        },
+        {
+          "layerId": 4,
+          "z": 3000
+        },
+        {
+          "layerId": 5,
+          "z": 3600
+        },
+        {
+          "layerId": 6,
+          "alpha": 220,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 7,
+          "alpha": 220,
+          "ignoreMouse": 1,
+          "z": 1900
+        },
+        {
+          "layerId": 8,
+          "alpha": 220,
+          "ignoreMouse": 1,
+          "z": 3200
+        },
+        {
+          "layerId": 9,
+          "alpha": 220,
+          "ignoreMouse": 1,
+          "z": 3500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "gothic_bed",
+    "visualization": "furniture_animated"
+  }
+}

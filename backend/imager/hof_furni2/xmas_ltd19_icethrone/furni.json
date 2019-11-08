@@ -1,0 +1,410 @@
+{
+  "assets": {
+    "xmas_ltd19_icethrone_64_sd_4_0": {
+      "name": "xmas_ltd19_icethrone_64_sd_4_0",
+      "x": 29,
+      "y": 14,
+      "exists": true
+    },
+    "xmas_ltd19_icethrone_64_a_4_0": {
+      "name": "xmas_ltd19_icethrone_64_a_4_0",
+      "x": 32,
+      "y": 81,
+      "exists": true
+    },
+    "xmas_ltd19_icethrone_64_b_4_0": {
+      "name": "xmas_ltd19_icethrone_64_b_4_0",
+      "x": 6,
+      "y": 27,
+      "exists": true
+    },
+    "xmas_ltd19_icethrone_64_c_4_0": {
+      "name": "xmas_ltd19_icethrone_64_c_4_0",
+      "x": -13,
+      "y": 16,
+      "exists": true
+    },
+    "xmas_ltd19_icethrone_64_c_4_1": {
+      "name": "xmas_ltd19_icethrone_64_c_4_1",
+      "x": -12,
+      "y": 17,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_4_2": {
+      "name": "xmas_ltd19_icethrone_64_c_4_2",
+      "x": -11,
+      "y": 18,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_4_3": {
+      "name": "xmas_ltd19_icethrone_64_c_4_3",
+      "x": -10,
+      "y": 19,
+      "exists": true
+    },
+    "xmas_ltd19_icethrone_64_c_4_4": {
+      "name": "xmas_ltd19_icethrone_64_c_4_4",
+      "x": -8,
+      "y": 21,
+      "exists": true
+    },
+    "xmas_ltd19_icethrone_64_c_4_5": {
+      "name": "xmas_ltd19_icethrone_64_c_4_5",
+      "x": -6,
+      "y": 23,
+      "exists": true
+    },
+    "xmas_ltd19_icethrone_64_c_4_6": {
+      "name": "xmas_ltd19_icethrone_64_c_4_6",
+      "x": 19,
+      "y": 24,
+      "exists": true
+    },
+    "xmas_ltd19_icethrone_64_c_4_7": {
+      "name": "xmas_ltd19_icethrone_64_c_4_7",
+      "x": 20,
+      "y": 25,
+      "exists": true
+    },
+    "xmas_ltd19_icethrone_64_c_4_8": {
+      "name": "xmas_ltd19_icethrone_64_c_4_8",
+      "x": 21,
+      "y": 26,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_4_9": {
+      "name": "xmas_ltd19_icethrone_64_c_4_9",
+      "x": 23,
+      "y": 28,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_4_10": {
+      "name": "xmas_ltd19_icethrone_64_c_4_10",
+      "x": 25,
+      "y": 30,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_4_11": {
+      "name": "xmas_ltd19_icethrone_64_c_4_11",
+      "x": -12,
+      "y": 63,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_4_12": {
+      "name": "xmas_ltd19_icethrone_64_c_4_12",
+      "x": -11,
+      "y": 64,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_4_13": {
+      "name": "xmas_ltd19_icethrone_64_c_4_13",
+      "x": -10,
+      "y": 65,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_4_14": {
+      "name": "xmas_ltd19_icethrone_64_c_4_14",
+      "x": -8,
+      "y": 67,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_4_15": {
+      "name": "xmas_ltd19_icethrone_64_c_4_15",
+      "x": -6,
+      "y": 69,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_icon_a": {
+      "name": "xmas_ltd19_icethrone_icon_a",
+      "x": 11,
+      "y": 14,
+      "exists": true
+    },
+    "xmas_ltd19_icethrone_64_sd_2_0": {
+      "name": "xmas_ltd19_icethrone_64_sd_2_0",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_sd_4_0",
+      "x": 29,
+      "y": 14,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_a_2_0": {
+      "name": "xmas_ltd19_icethrone_64_a_2_0",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_a_4_0",
+      "x": 32,
+      "y": 81,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_b_2_0": {
+      "name": "xmas_ltd19_icethrone_64_b_2_0",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_b_4_0",
+      "x": 6,
+      "y": 27,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_0": {
+      "name": "xmas_ltd19_icethrone_64_c_2_0",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_0",
+      "x": -13,
+      "y": 16,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_1": {
+      "name": "xmas_ltd19_icethrone_64_c_2_1",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_1",
+      "x": -12,
+      "y": 17,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_2": {
+      "name": "xmas_ltd19_icethrone_64_c_2_2",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_2",
+      "x": -11,
+      "y": 18,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_3": {
+      "name": "xmas_ltd19_icethrone_64_c_2_3",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_3",
+      "x": -10,
+      "y": 19,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_4": {
+      "name": "xmas_ltd19_icethrone_64_c_2_4",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_4",
+      "x": -8,
+      "y": 21,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_5": {
+      "name": "xmas_ltd19_icethrone_64_c_2_5",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_5",
+      "x": -6,
+      "y": 23,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_6": {
+      "name": "xmas_ltd19_icethrone_64_c_2_6",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_6",
+      "x": 19,
+      "y": 24,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_7": {
+      "name": "xmas_ltd19_icethrone_64_c_2_7",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_7",
+      "x": 20,
+      "y": 25,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_8": {
+      "name": "xmas_ltd19_icethrone_64_c_2_8",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_8",
+      "x": 21,
+      "y": 26,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_9": {
+      "name": "xmas_ltd19_icethrone_64_c_2_9",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_9",
+      "x": 23,
+      "y": 28,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_10": {
+      "name": "xmas_ltd19_icethrone_64_c_2_10",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_10",
+      "x": 25,
+      "y": 30,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_11": {
+      "name": "xmas_ltd19_icethrone_64_c_2_11",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_11",
+      "x": -12,
+      "y": 63,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_12": {
+      "name": "xmas_ltd19_icethrone_64_c_2_12",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_12",
+      "x": -11,
+      "y": 64,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_13": {
+      "name": "xmas_ltd19_icethrone_64_c_2_13",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_13",
+      "x": -10,
+      "y": 65,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_14": {
+      "name": "xmas_ltd19_icethrone_64_c_2_14",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_14",
+      "x": -8,
+      "y": 67,
+      "exists": false
+    },
+    "xmas_ltd19_icethrone_64_c_2_15": {
+      "name": "xmas_ltd19_icethrone_64_c_2_15",
+      "flipH": 1,
+      "source": "xmas_ltd19_icethrone_64_c_4_15",
+      "x": -6,
+      "y": 69,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "xmas_ltd19_icethrone",
+    "visualization": "furniture_animated"
+  }
+}

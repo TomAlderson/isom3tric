@@ -1,0 +1,216 @@
+{
+  "assets": {
+    "classic8_sofa_64_sd_4_0": {
+      "name": "classic8_sofa_64_sd_4_0",
+      "x": 23,
+      "y": 10,
+      "exists": true
+    },
+    "classic8_sofa_64_a_4_0": {
+      "name": "classic8_sofa_64_a_4_0",
+      "x": 24,
+      "y": 37,
+      "exists": true
+    },
+    "classic8_sofa_64_b_4_0": {
+      "name": "classic8_sofa_64_b_4_0",
+      "x": -9,
+      "y": 23,
+      "exists": true
+    },
+    "classic8_sofa_64_c_4_0": {
+      "name": "classic8_sofa_64_c_4_0",
+      "x": -30,
+      "y": 9,
+      "exists": true
+    },
+    "classic8_sofa_64_d_4_0": {
+      "name": "classic8_sofa_64_d_4_0",
+      "x": -35,
+      "y": -28,
+      "exists": true
+    },
+    "classic8_sofa_64_a_0_0": {
+      "name": "classic8_sofa_64_a_0_0",
+      "x": 23,
+      "y": 35,
+      "exists": true
+    },
+    "classic8_sofa_64_b_0_0": {
+      "name": "classic8_sofa_64_b_0_0",
+      "x": 24,
+      "y": 24,
+      "exists": true
+    },
+    "classic8_sofa_64_c_0_0": {
+      "name": "classic8_sofa_64_c_0_0",
+      "x": -17,
+      "y": 9,
+      "exists": true
+    },
+    "classic8_sofa_64_d_0_0": {
+      "name": "classic8_sofa_64_d_0_0",
+      "x": -5,
+      "y": 9,
+      "exists": true
+    },
+    "classic8_sofa_icon_a": {
+      "name": "classic8_sofa_icon_a",
+      "x": 14,
+      "y": 12,
+      "exists": true
+    },
+    "classic8_sofa_64_a_6_0": {
+      "name": "classic8_sofa_64_a_6_0",
+      "flipH": 1,
+      "source": "classic8_sofa_64_a_0_0",
+      "x": 23,
+      "y": 35,
+      "exists": false
+    },
+    "classic8_sofa_64_b_6_0": {
+      "name": "classic8_sofa_64_b_6_0",
+      "flipH": 1,
+      "source": "classic8_sofa_64_b_0_0",
+      "x": 24,
+      "y": 24,
+      "exists": false
+    },
+    "classic8_sofa_64_c_6_0": {
+      "name": "classic8_sofa_64_c_6_0",
+      "flipH": 1,
+      "source": "classic8_sofa_64_c_0_0",
+      "x": -17,
+      "y": 9,
+      "exists": false
+    },
+    "classic8_sofa_64_d_6_0": {
+      "name": "classic8_sofa_64_d_6_0",
+      "flipH": 1,
+      "source": "classic8_sofa_64_d_0_0",
+      "x": -5,
+      "y": 9,
+      "exists": false
+    },
+    "classic8_sofa_64_sd_2_0": {
+      "name": "classic8_sofa_64_sd_2_0",
+      "flipH": 1,
+      "source": "classic8_sofa_64_sd_4_0",
+      "x": 23,
+      "y": 10,
+      "exists": false
+    },
+    "classic8_sofa_64_a_2_0": {
+      "name": "classic8_sofa_64_a_2_0",
+      "flipH": 1,
+      "source": "classic8_sofa_64_a_4_0",
+      "x": 24,
+      "y": 37,
+      "exists": false
+    },
+    "classic8_sofa_64_b_2_0": {
+      "name": "classic8_sofa_64_b_2_0",
+      "flipH": 1,
+      "source": "classic8_sofa_64_b_4_0",
+      "x": -9,
+      "y": 23,
+      "exists": false
+    },
+    "classic8_sofa_64_c_2_0": {
+      "name": "classic8_sofa_64_c_2_0",
+      "flipH": 1,
+      "source": "classic8_sofa_64_c_4_0",
+      "x": -30,
+      "y": 9,
+      "exists": false
+    },
+    "classic8_sofa_64_d_2_0": {
+      "name": "classic8_sofa_64_d_2_0",
+      "flipH": 1,
+      "source": "classic8_sofa_64_d_4_0",
+      "x": -35,
+      "y": -28,
+      "exists": false
+    },
+    "classic8_sofa_64_sd_0_0": {
+      "name": "classic8_sofa_64_sd_0_0",
+      "source": "classic8_sofa_64_sd_4_0",
+      "x": 23,
+      "y": 10,
+      "exists": false
+    },
+    "classic8_sofa_64_sd_6_0": {
+      "name": "classic8_sofa_64_sd_6_0",
+      "flipH": 1,
+      "source": "classic8_sofa_64_sd_4_0",
+      "x": 23,
+      "y": 10,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0.8
+    },
+    "directions": [
+      0,
+      180,
+      270,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "classic8_sofa",
+    "visualization": "furniture_static"
+  }
+}

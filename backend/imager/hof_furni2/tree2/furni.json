@@ -1,0 +1,75 @@
+{
+  "assets": {
+    "tree2_32_a_0_0": {
+      "name": "tree2_32_a_0_0",
+      "x": 15,
+      "y": 52,
+      "exists": true
+    },
+    "tree2_32_sd_0_0": {
+      "name": "tree2_32_sd_0_0",
+      "x": 11,
+      "y": 4,
+      "exists": true
+    },
+    "tree2_64_a_0_0": {
+      "name": "tree2_64_a_0_0",
+      "x": 30,
+      "y": 108,
+      "exists": true
+    },
+    "tree2_64_sd_0_0": {
+      "name": "tree2_64_sd_0_0",
+      "x": 22,
+      "y": 8,
+      "exists": true
+    },
+    "tree2_icon_a": {
+      "name": "tree2_icon_a",
+      "x": 8,
+      "y": 15,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.5625
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "tree2",
+    "visualization": "furniture_static"
+  }
+}

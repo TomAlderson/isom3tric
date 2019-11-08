@@ -6,13 +6,14 @@ const userSchema = mongoose.Schema({
   username: { type: String, required: true, unique: true },
   password: { type: String, required: true },
   figure: { type: String, required: true, default: process.env.DEFAULT_FIGURE },
-  dob: { type: Date, required: true },
+  date_of_birth: { type: Date, required: true },
   mission: { type: String, max: 140 },
   gender: { type: Number, required: true, default: 1 },
   swearing: { type: Boolean, default: false },
   private: { type: Boolean, default: false },
-  friend_requests: { type: Boolean, default: true },
-  credits: { type: Number, default: 0 }
+  credits: { type: Number, default: 0 },
+  club_days: { type: Number, default: 0 },
+  console_mission: { type: String }
 });
 
 userSchema.plugin(uniqueValidator);

@@ -1,0 +1,502 @@
+{
+  "assets": {
+    "bw_sofa_p_64_a_2_0": {
+      "name": "bw_sofa_p_64_a_2_0",
+      "x": 33,
+      "y": 57,
+      "exists": true
+    },
+    "bw_sofa_p_64_b_2_0": {
+      "name": "bw_sofa_p_64_b_2_0",
+      "x": 64,
+      "y": 42,
+      "exists": true
+    },
+    "bw_sofa_p_64_c_2_0": {
+      "name": "bw_sofa_p_64_c_2_0",
+      "x": 74,
+      "y": 14,
+      "exists": true
+    },
+    "bw_sofa_p_64_c_2_1": {
+      "name": "bw_sofa_p_64_c_2_1",
+      "x": 74,
+      "y": 20,
+      "exists": true
+    },
+    "bw_sofa_p_64_d_2_0": {
+      "name": "bw_sofa_p_64_d_2_0",
+      "x": 7,
+      "y": -2,
+      "exists": true
+    },
+    "bw_sofa_p_64_e_2_0": {
+      "name": "bw_sofa_p_64_e_2_0",
+      "x": 64,
+      "y": -14,
+      "exists": true
+    },
+    "bw_sofa_p_64_d_2_1": {
+      "name": "bw_sofa_p_64_d_2_1",
+      "x": 7,
+      "y": 11,
+      "exists": true
+    },
+    "bw_sofa_p_64_e_2_1": {
+      "name": "bw_sofa_p_64_e_2_1",
+      "x": 64,
+      "y": -8,
+      "exists": true
+    },
+    "bw_sofa_p_32_a_2_0": {
+      "name": "bw_sofa_p_32_a_2_0",
+      "x": 15,
+      "y": 29,
+      "exists": true
+    },
+    "bw_sofa_p_32_b_2_0": {
+      "name": "bw_sofa_p_32_b_2_0",
+      "x": 31,
+      "y": 21,
+      "exists": true
+    },
+    "bw_sofa_p_32_c_2_0": {
+      "name": "bw_sofa_p_32_c_2_0",
+      "x": 36,
+      "y": 7,
+      "exists": true
+    },
+    "bw_sofa_p_32_c_2_1": {
+      "name": "bw_sofa_p_32_c_2_1",
+      "x": 36,
+      "y": 10,
+      "exists": true
+    },
+    "bw_sofa_p_32_d_2_0": {
+      "name": "bw_sofa_p_32_d_2_0",
+      "x": 2,
+      "y": -1,
+      "exists": true
+    },
+    "bw_sofa_p_32_e_2_0": {
+      "name": "bw_sofa_p_32_e_2_0",
+      "x": 31,
+      "y": -7,
+      "exists": true
+    },
+    "bw_sofa_p_32_d_2_1": {
+      "name": "bw_sofa_p_32_d_2_1",
+      "x": 2,
+      "y": 5,
+      "exists": true
+    },
+    "bw_sofa_p_32_e_2_1": {
+      "name": "bw_sofa_p_32_e_2_1",
+      "x": 31,
+      "y": -4,
+      "exists": true
+    },
+    "bw_sofa_p_icon_a": {
+      "name": "bw_sofa_p_icon_a",
+      "x": 20,
+      "y": 17,
+      "exists": true
+    },
+    "bw_sofa_p_64_a_4_0": {
+      "name": "bw_sofa_p_64_a_4_0",
+      "flipH": 1,
+      "source": "bw_sofa_p_64_a_2_0",
+      "x": 33,
+      "y": 57,
+      "exists": false
+    },
+    "bw_sofa_p_64_b_4_0": {
+      "name": "bw_sofa_p_64_b_4_0",
+      "flipH": 1,
+      "source": "bw_sofa_p_64_b_2_0",
+      "x": 64,
+      "y": 42,
+      "exists": false
+    },
+    "bw_sofa_p_64_c_4_0": {
+      "name": "bw_sofa_p_64_c_4_0",
+      "flipH": 1,
+      "source": "bw_sofa_p_64_c_2_0",
+      "x": 74,
+      "y": 14,
+      "exists": false
+    },
+    "bw_sofa_p_64_c_4_1": {
+      "name": "bw_sofa_p_64_c_4_1",
+      "flipH": 1,
+      "source": "bw_sofa_p_64_c_2_1",
+      "x": 74,
+      "y": 20,
+      "exists": false
+    },
+    "bw_sofa_p_64_d_4_0": {
+      "name": "bw_sofa_p_64_d_4_0",
+      "flipH": 1,
+      "source": "bw_sofa_p_64_d_2_0",
+      "x": 7,
+      "y": -2,
+      "exists": false
+    },
+    "bw_sofa_p_64_e_4_0": {
+      "name": "bw_sofa_p_64_e_4_0",
+      "flipH": 1,
+      "source": "bw_sofa_p_64_e_2_0",
+      "x": 64,
+      "y": -14,
+      "exists": false
+    },
+    "bw_sofa_p_64_d_4_1": {
+      "name": "bw_sofa_p_64_d_4_1",
+      "flipH": 1,
+      "source": "bw_sofa_p_64_d_2_1",
+      "x": 7,
+      "y": 11,
+      "exists": false
+    },
+    "bw_sofa_p_64_e_4_1": {
+      "name": "bw_sofa_p_64_e_4_1",
+      "flipH": 1,
+      "source": "bw_sofa_p_64_e_2_1",
+      "x": 64,
+      "y": -8,
+      "exists": false
+    },
+    "bw_sofa_p_32_a_4_0": {
+      "name": "bw_sofa_p_32_a_4_0",
+      "flipH": 1,
+      "source": "bw_sofa_p_32_a_2_0",
+      "x": 15,
+      "y": 29,
+      "exists": false
+    },
+    "bw_sofa_p_32_b_4_0": {
+      "name": "bw_sofa_p_32_b_4_0",
+      "flipH": 1,
+      "source": "bw_sofa_p_32_b_2_0",
+      "x": 31,
+      "y": 21,
+      "exists": false
+    },
+    "bw_sofa_p_32_c_4_0": {
+      "name": "bw_sofa_p_32_c_4_0",
+      "flipH": 1,
+      "source": "bw_sofa_p_32_c_2_0",
+      "x": 36,
+      "y": 7,
+      "exists": false
+    },
+    "bw_sofa_p_32_c_4_1": {
+      "name": "bw_sofa_p_32_c_4_1",
+      "flipH": 1,
+      "source": "bw_sofa_p_32_c_2_1",
+      "x": 36,
+      "y": 10,
+      "exists": false
+    },
+    "bw_sofa_p_32_d_4_0": {
+      "name": "bw_sofa_p_32_d_4_0",
+      "flipH": 1,
+      "source": "bw_sofa_p_32_d_2_0",
+      "x": 2,
+      "y": -1,
+      "exists": false
+    },
+    "bw_sofa_p_32_e_4_0": {
+      "name": "bw_sofa_p_32_e_4_0",
+      "flipH": 1,
+      "source": "bw_sofa_p_32_e_2_0",
+      "x": 31,
+      "y": -7,
+      "exists": false
+    },
+    "bw_sofa_p_32_d_4_1": {
+      "name": "bw_sofa_p_32_d_4_1",
+      "flipH": 1,
+      "source": "bw_sofa_p_32_d_2_1",
+      "x": 2,
+      "y": 5,
+      "exists": false
+    },
+    "bw_sofa_p_32_e_4_1": {
+      "name": "bw_sofa_p_32_e_4_1",
+      "flipH": 1,
+      "source": "bw_sofa_p_32_e_2_1",
+      "x": 31,
+      "y": -4,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1100
+        },
+        {
+          "layerId": 3,
+          "z": 1
+        },
+        {
+          "layerId": 4,
+          "z": 1001
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1100
+        },
+        {
+          "layerId": 3,
+          "z": 1
+        },
+        {
+          "layerId": 4,
+          "z": 1001
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "bw_sofa_p",
+    "visualization": "furniture_animated"
+  }
+}

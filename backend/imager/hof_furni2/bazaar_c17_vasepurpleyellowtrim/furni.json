@@ -1,0 +1,80 @@
+{
+  "assets": {
+    "bazaar_c17_vasepurpleyellowtrim_64_sd_0_0": {
+      "name": "bazaar_c17_vasepurpleyellowtrim_64_sd_0_0",
+      "x": 18,
+      "y": 8,
+      "exists": true
+    },
+    "bazaar_c17_vasepurpleyellowtrim_64_a_0_0": {
+      "name": "bazaar_c17_vasepurpleyellowtrim_64_a_0_0",
+      "x": 22,
+      "y": 70,
+      "exists": true
+    },
+    "bazaar_c17_vasepurpleyellowtrim_icon_a": {
+      "name": "bazaar_c17_vasepurpleyellowtrim_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "bazaar_c17_vasepurpleyellowtrim_64_sd_6_0": {
+      "name": "bazaar_c17_vasepurpleyellowtrim_64_sd_6_0",
+      "flipH": 1,
+      "source": "bazaar_c17_vasepurpleyellowtrim_64_sd_0_0",
+      "x": 18,
+      "y": 8,
+      "exists": false
+    },
+    "bazaar_c17_vasepurpleyellowtrim_64_a_6_0": {
+      "name": "bazaar_c17_vasepurpleyellowtrim_64_a_6_0",
+      "flipH": 1,
+      "source": "bazaar_c17_vasepurpleyellowtrim_64_a_0_0",
+      "x": 22,
+      "y": 70,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "bazaar_c17_vasepurpleyellowtrim",
+    "visualization": "furniture_static"
+  }
+}

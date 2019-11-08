@@ -1,0 +1,845 @@
+{
+  "assets": {
+    "stories_oldmusic_neon_64_sd_4_0": {
+      "name": "stories_oldmusic_neon_64_sd_4_0",
+      "x": 20,
+      "y": 9,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_sd_2_0": {
+      "name": "stories_oldmusic_neon_64_sd_2_0",
+      "x": 50,
+      "y": 9,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_a_4_0": {
+      "name": "stories_oldmusic_neon_64_a_4_0",
+      "x": 24,
+      "y": 255,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_a_2_0": {
+      "name": "stories_oldmusic_neon_64_a_2_0",
+      "x": 50,
+      "y": 256,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_b_4_0": {
+      "name": "stories_oldmusic_neon_64_b_4_0",
+      "x": 3,
+      "y": 136,
+      "exists": false
+    },
+    "stories_oldmusic_neon_64_b_2_0": {
+      "name": "stories_oldmusic_neon_64_b_2_0",
+      "x": 3,
+      "y": 136,
+      "exists": false
+    },
+    "stories_oldmusic_neon_64_b_4_1": {
+      "name": "stories_oldmusic_neon_64_b_4_1",
+      "x": 24,
+      "y": 140,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_b_2_1": {
+      "name": "stories_oldmusic_neon_64_b_2_1",
+      "x": 44,
+      "y": 141,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_4_0": {
+      "name": "stories_oldmusic_neon_64_c_4_0",
+      "x": 3,
+      "y": 136,
+      "exists": false
+    },
+    "stories_oldmusic_neon_64_c_2_0": {
+      "name": "stories_oldmusic_neon_64_c_2_0",
+      "x": 3,
+      "y": 136,
+      "exists": false
+    },
+    "stories_oldmusic_neon_64_c_4_1": {
+      "name": "stories_oldmusic_neon_64_c_4_1",
+      "x": 16,
+      "y": 128,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_4_2": {
+      "name": "stories_oldmusic_neon_64_c_4_2",
+      "x": 16,
+      "y": 128,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_4_3": {
+      "name": "stories_oldmusic_neon_64_c_4_3",
+      "x": 12,
+      "y": 126,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_4_4": {
+      "name": "stories_oldmusic_neon_64_c_4_4",
+      "x": 8,
+      "y": 124,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_4_5": {
+      "name": "stories_oldmusic_neon_64_c_4_5",
+      "x": 4,
+      "y": 122,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_4_6": {
+      "name": "stories_oldmusic_neon_64_c_4_6",
+      "x": 4,
+      "y": 120,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_4_7": {
+      "name": "stories_oldmusic_neon_64_c_4_7",
+      "x": 8,
+      "y": 118,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_4_8": {
+      "name": "stories_oldmusic_neon_64_c_4_8",
+      "x": 12,
+      "y": 116,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_4_9": {
+      "name": "stories_oldmusic_neon_64_c_4_9",
+      "x": 16,
+      "y": 114,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_2_1": {
+      "name": "stories_oldmusic_neon_64_c_2_1",
+      "x": 21,
+      "y": 129,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_2_2": {
+      "name": "stories_oldmusic_neon_64_c_2_2",
+      "x": 21,
+      "y": 129,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_2_3": {
+      "name": "stories_oldmusic_neon_64_c_2_3",
+      "x": 17,
+      "y": 127,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_2_4": {
+      "name": "stories_oldmusic_neon_64_c_2_4",
+      "x": 13,
+      "y": 125,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_2_5": {
+      "name": "stories_oldmusic_neon_64_c_2_5",
+      "x": 9,
+      "y": 123,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_2_6": {
+      "name": "stories_oldmusic_neon_64_c_2_6",
+      "x": 9,
+      "y": 121,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_2_7": {
+      "name": "stories_oldmusic_neon_64_c_2_7",
+      "x": 13,
+      "y": 119,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_2_8": {
+      "name": "stories_oldmusic_neon_64_c_2_8",
+      "x": 17,
+      "y": 117,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_c_2_9": {
+      "name": "stories_oldmusic_neon_64_c_2_9",
+      "x": 21,
+      "y": 115,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_d_2_0": {
+      "name": "stories_oldmusic_neon_64_d_2_0",
+      "x": 3,
+      "y": 136,
+      "exists": false
+    },
+    "stories_oldmusic_neon_64_d_4_0": {
+      "name": "stories_oldmusic_neon_64_d_4_0",
+      "x": 3,
+      "y": 136,
+      "exists": false
+    },
+    "stories_oldmusic_neon_64_d_2_1": {
+      "name": "stories_oldmusic_neon_64_d_2_1",
+      "x": 48,
+      "y": 145,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_d_4_1": {
+      "name": "stories_oldmusic_neon_64_d_4_1",
+      "x": 28,
+      "y": 144,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_4_0": {
+      "name": "stories_oldmusic_neon_64_e_4_0",
+      "x": 3,
+      "y": 136,
+      "exists": false
+    },
+    "stories_oldmusic_neon_64_e_2_0": {
+      "name": "stories_oldmusic_neon_64_e_2_0",
+      "x": 3,
+      "y": 136,
+      "exists": false
+    },
+    "stories_oldmusic_neon_64_e_4_1": {
+      "name": "stories_oldmusic_neon_64_e_4_1",
+      "x": 19,
+      "y": 131,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_4_2": {
+      "name": "stories_oldmusic_neon_64_e_4_2",
+      "x": 19,
+      "y": 131,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_4_3": {
+      "name": "stories_oldmusic_neon_64_e_4_3",
+      "x": 15,
+      "y": 129,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_4_4": {
+      "name": "stories_oldmusic_neon_64_e_4_4",
+      "x": 11,
+      "y": 127,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_4_5": {
+      "name": "stories_oldmusic_neon_64_e_4_5",
+      "x": 7,
+      "y": 125,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_4_6": {
+      "name": "stories_oldmusic_neon_64_e_4_6",
+      "x": 7,
+      "y": 123,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_4_7": {
+      "name": "stories_oldmusic_neon_64_e_4_7",
+      "x": 11,
+      "y": 121,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_4_8": {
+      "name": "stories_oldmusic_neon_64_e_4_8",
+      "x": 15,
+      "y": 119,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_4_9": {
+      "name": "stories_oldmusic_neon_64_e_4_9",
+      "x": 19,
+      "y": 117,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_2_1": {
+      "name": "stories_oldmusic_neon_64_e_2_1",
+      "x": 24,
+      "y": 132,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_2_2": {
+      "name": "stories_oldmusic_neon_64_e_2_2",
+      "x": 24,
+      "y": 132,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_2_3": {
+      "name": "stories_oldmusic_neon_64_e_2_3",
+      "x": 20,
+      "y": 130,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_2_4": {
+      "name": "stories_oldmusic_neon_64_e_2_4",
+      "x": 16,
+      "y": 128,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_2_5": {
+      "name": "stories_oldmusic_neon_64_e_2_5",
+      "x": 12,
+      "y": 126,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_2_6": {
+      "name": "stories_oldmusic_neon_64_e_2_6",
+      "x": 12,
+      "y": 124,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_2_7": {
+      "name": "stories_oldmusic_neon_64_e_2_7",
+      "x": 16,
+      "y": 122,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_2_8": {
+      "name": "stories_oldmusic_neon_64_e_2_8",
+      "x": 20,
+      "y": 120,
+      "exists": true
+    },
+    "stories_oldmusic_neon_64_e_2_9": {
+      "name": "stories_oldmusic_neon_64_e_2_9",
+      "x": 24,
+      "y": 118,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_sd_2_0": {
+      "name": "stories_oldmusic_neon_32_sd_2_0",
+      "x": 24,
+      "y": 4,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_a_2_0": {
+      "name": "stories_oldmusic_neon_32_a_2_0",
+      "x": 26,
+      "y": 127,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_b_2_0": {
+      "name": "stories_oldmusic_neon_32_b_2_0",
+      "x": 0,
+      "y": 69,
+      "exists": false
+    },
+    "stories_oldmusic_neon_32_b_2_1": {
+      "name": "stories_oldmusic_neon_32_b_2_1",
+      "x": 22,
+      "y": 71,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_2_0": {
+      "name": "stories_oldmusic_neon_32_c_2_0",
+      "x": 0,
+      "y": 69,
+      "exists": false
+    },
+    "stories_oldmusic_neon_32_c_2_1": {
+      "name": "stories_oldmusic_neon_32_c_2_1",
+      "x": 11,
+      "y": 56,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_2_2": {
+      "name": "stories_oldmusic_neon_32_c_2_2",
+      "x": 11,
+      "y": 64,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_2_3": {
+      "name": "stories_oldmusic_neon_32_c_2_3",
+      "x": 9,
+      "y": 63,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_2_4": {
+      "name": "stories_oldmusic_neon_32_c_2_4",
+      "x": 7,
+      "y": 62,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_2_5": {
+      "name": "stories_oldmusic_neon_32_c_2_5",
+      "x": 5,
+      "y": 61,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_2_6": {
+      "name": "stories_oldmusic_neon_32_c_2_6",
+      "x": 5,
+      "y": 60,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_2_7": {
+      "name": "stories_oldmusic_neon_32_c_2_7",
+      "x": 7,
+      "y": 59,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_2_8": {
+      "name": "stories_oldmusic_neon_32_c_2_8",
+      "x": 9,
+      "y": 58,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_2_9": {
+      "name": "stories_oldmusic_neon_32_c_2_9",
+      "x": 11,
+      "y": 57,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_d_2_0": {
+      "name": "stories_oldmusic_neon_32_d_2_0",
+      "x": 0,
+      "y": 69,
+      "exists": false
+    },
+    "stories_oldmusic_neon_32_d_2_1": {
+      "name": "stories_oldmusic_neon_32_d_2_1",
+      "x": 24,
+      "y": 72,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_2_0": {
+      "name": "stories_oldmusic_neon_32_e_2_0",
+      "x": 0,
+      "y": 69,
+      "exists": false
+    },
+    "stories_oldmusic_neon_32_e_2_1": {
+      "name": "stories_oldmusic_neon_32_e_2_1",
+      "x": 12,
+      "y": 66,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_2_2": {
+      "name": "stories_oldmusic_neon_32_e_2_2",
+      "x": 12,
+      "y": 66,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_2_3": {
+      "name": "stories_oldmusic_neon_32_e_2_3",
+      "x": 10,
+      "y": 65,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_2_4": {
+      "name": "stories_oldmusic_neon_32_e_2_4",
+      "x": 8,
+      "y": 64,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_2_5": {
+      "name": "stories_oldmusic_neon_32_e_2_5",
+      "x": 6,
+      "y": 63,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_2_6": {
+      "name": "stories_oldmusic_neon_32_e_2_6",
+      "x": 6,
+      "y": 62,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_2_7": {
+      "name": "stories_oldmusic_neon_32_e_2_7",
+      "x": 8,
+      "y": 61,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_2_8": {
+      "name": "stories_oldmusic_neon_32_e_2_8",
+      "x": 10,
+      "y": 60,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_2_9": {
+      "name": "stories_oldmusic_neon_32_e_2_9",
+      "x": 12,
+      "y": 59,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_sd_4_0": {
+      "name": "stories_oldmusic_neon_32_sd_4_0",
+      "x": 9,
+      "y": 4,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_a_4_0": {
+      "name": "stories_oldmusic_neon_32_a_4_0",
+      "x": 12,
+      "y": 127,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_b_4_0": {
+      "name": "stories_oldmusic_neon_32_b_4_0",
+      "x": 0,
+      "y": 69,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_b_4_1": {
+      "name": "stories_oldmusic_neon_32_b_4_1",
+      "x": 12,
+      "y": 71,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_4_0": {
+      "name": "stories_oldmusic_neon_32_c_4_0",
+      "x": 0,
+      "y": 69,
+      "exists": false
+    },
+    "stories_oldmusic_neon_32_c_4_1": {
+      "name": "stories_oldmusic_neon_32_c_4_1",
+      "x": 7,
+      "y": 56,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_4_2": {
+      "name": "stories_oldmusic_neon_32_c_4_2",
+      "x": 7,
+      "y": 64,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_4_3": {
+      "name": "stories_oldmusic_neon_32_c_4_3",
+      "x": 5,
+      "y": 63,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_4_4": {
+      "name": "stories_oldmusic_neon_32_c_4_4",
+      "x": 3,
+      "y": 62,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_4_5": {
+      "name": "stories_oldmusic_neon_32_c_4_5",
+      "x": 1,
+      "y": 61,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_4_6": {
+      "name": "stories_oldmusic_neon_32_c_4_6",
+      "x": 1,
+      "y": 60,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_4_7": {
+      "name": "stories_oldmusic_neon_32_c_4_7",
+      "x": 3,
+      "y": 59,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_4_8": {
+      "name": "stories_oldmusic_neon_32_c_4_8",
+      "x": 5,
+      "y": 58,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_c_4_9": {
+      "name": "stories_oldmusic_neon_32_c_4_9",
+      "x": 7,
+      "y": 57,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_d_4_0": {
+      "name": "stories_oldmusic_neon_32_d_4_0",
+      "x": 0,
+      "y": 69,
+      "exists": false
+    },
+    "stories_oldmusic_neon_32_d_4_1": {
+      "name": "stories_oldmusic_neon_32_d_4_1",
+      "x": 13,
+      "y": 72,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_4_0": {
+      "name": "stories_oldmusic_neon_32_e_4_0",
+      "x": 0,
+      "y": 69,
+      "exists": false
+    },
+    "stories_oldmusic_neon_32_e_4_1": {
+      "name": "stories_oldmusic_neon_32_e_4_1",
+      "x": 9,
+      "y": 66,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_4_2": {
+      "name": "stories_oldmusic_neon_32_e_4_2",
+      "x": 9,
+      "y": 66,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_4_3": {
+      "name": "stories_oldmusic_neon_32_e_4_3",
+      "x": 7,
+      "y": 65,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_4_4": {
+      "name": "stories_oldmusic_neon_32_e_4_4",
+      "x": 5,
+      "y": 64,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_4_5": {
+      "name": "stories_oldmusic_neon_32_e_4_5",
+      "x": 3,
+      "y": 63,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_4_6": {
+      "name": "stories_oldmusic_neon_32_e_4_6",
+      "x": 3,
+      "y": 62,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_4_7": {
+      "name": "stories_oldmusic_neon_32_e_4_7",
+      "x": 5,
+      "y": 61,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_4_8": {
+      "name": "stories_oldmusic_neon_32_e_4_8",
+      "x": 7,
+      "y": 60,
+      "exists": true
+    },
+    "stories_oldmusic_neon_32_e_4_9": {
+      "name": "stories_oldmusic_neon_32_e_4_9",
+      "x": 9,
+      "y": 59,
+      "exists": true
+    },
+    "stories_oldmusic_neon_icon_a": {
+      "name": "stories_oldmusic_neon_icon_a",
+      "x": 15,
+      "y": 19,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD"
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 500
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "stories_oldmusic_neon",
+    "visualization": "furniture_animated"
+  }
+}

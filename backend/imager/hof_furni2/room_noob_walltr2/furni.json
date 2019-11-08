@@ -1,0 +1,253 @@
+{
+  "assets": {
+    "room_noob_walltr2_32_a_0_0": {
+      "name": "room_noob_walltr2_32_a_0_0",
+      "x": 14,
+      "y": 240,
+      "exists": true
+    },
+    "room_noob_walltr2_32_b_0_0": {
+      "name": "room_noob_walltr2_32_b_0_0",
+      "x": -1,
+      "y": 225,
+      "exists": true
+    },
+    "room_noob_walltr2_32_c_0_0": {
+      "name": "room_noob_walltr2_32_c_0_0",
+      "x": -17,
+      "y": 223,
+      "exists": true
+    },
+    "room_noob_walltr2_32_d_0_0": {
+      "name": "room_noob_walltr2_32_d_0_0",
+      "x": -33,
+      "y": 215,
+      "exists": true
+    },
+    "room_noob_walltr2_32_e_0_0": {
+      "name": "room_noob_walltr2_32_e_0_0",
+      "x": -49,
+      "y": 207,
+      "exists": true
+    },
+    "room_noob_walltr2_32_f_0_0": {
+      "name": "room_noob_walltr2_32_f_0_0",
+      "x": -64,
+      "y": 200,
+      "exists": true
+    },
+    "room_noob_walltr2_32_g_0_0": {
+      "name": "room_noob_walltr2_32_g_0_0",
+      "x": -81,
+      "y": 191,
+      "exists": true
+    },
+    "room_noob_walltr2_32_h_0_0": {
+      "name": "room_noob_walltr2_32_h_0_0",
+      "x": -97,
+      "y": 183,
+      "exists": true
+    },
+    "room_noob_walltr2_32_i_0_0": {
+      "name": "room_noob_walltr2_32_i_0_0",
+      "x": 13,
+      "y": 179,
+      "exists": true
+    },
+    "room_noob_walltr2_64_a_0_0": {
+      "name": "room_noob_walltr2_64_a_0_0",
+      "x": 26,
+      "y": 480,
+      "exists": true
+    },
+    "room_noob_walltr2_64_b_0_0": {
+      "name": "room_noob_walltr2_64_b_0_0",
+      "x": -1,
+      "y": 450,
+      "exists": true
+    },
+    "room_noob_walltr2_64_c_0_0": {
+      "name": "room_noob_walltr2_64_c_0_0",
+      "x": -33,
+      "y": 447,
+      "exists": true
+    },
+    "room_noob_walltr2_64_d_0_0": {
+      "name": "room_noob_walltr2_64_d_0_0",
+      "x": -65,
+      "y": 431,
+      "exists": true
+    },
+    "room_noob_walltr2_64_e_0_0": {
+      "name": "room_noob_walltr2_64_e_0_0",
+      "x": -97,
+      "y": 415,
+      "exists": true
+    },
+    "room_noob_walltr2_64_f_0_0": {
+      "name": "room_noob_walltr2_64_f_0_0",
+      "x": -129,
+      "y": 399,
+      "exists": true
+    },
+    "room_noob_walltr2_64_g_0_0": {
+      "name": "room_noob_walltr2_64_g_0_0",
+      "x": -161,
+      "y": 383,
+      "exists": true
+    },
+    "room_noob_walltr2_64_h_0_0": {
+      "name": "room_noob_walltr2_64_h_0_0",
+      "x": -193,
+      "y": 367,
+      "exists": true
+    },
+    "room_noob_walltr2_64_i_0_0": {
+      "name": "room_noob_walltr2_64_i_0_0",
+      "x": 27,
+      "y": 357,
+      "exists": true
+    },
+    "room_noob_walltr2_icon_a": {
+      "name": "room_noob_walltr2_icon_a",
+      "x": 11,
+      "y": 13,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 8,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 9,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 2000
+        },
+        {
+          "layerId": 3,
+          "ignoreMouse": 1,
+          "z": 3000
+        },
+        {
+          "layerId": 4,
+          "ignoreMouse": 1,
+          "z": 4000
+        },
+        {
+          "layerId": 5,
+          "ignoreMouse": 1,
+          "z": 5000
+        },
+        {
+          "layerId": 6,
+          "ignoreMouse": 1,
+          "z": 6000
+        },
+        {
+          "layerId": 7,
+          "ink": "COPY",
+          "ignoreMouse": 1,
+          "z": 7000
+        },
+        {
+          "layerId": 8,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": 7000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 9,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 2000
+        },
+        {
+          "layerId": 3,
+          "ignoreMouse": 1,
+          "z": 3000
+        },
+        {
+          "layerId": 4,
+          "ignoreMouse": 1,
+          "z": 4000
+        },
+        {
+          "layerId": 5,
+          "ignoreMouse": 1,
+          "z": 5000
+        },
+        {
+          "layerId": 6,
+          "ignoreMouse": 1,
+          "z": 6000
+        },
+        {
+          "layerId": 7,
+          "ink": "COPY",
+          "ignoreMouse": 1,
+          "z": 7000
+        },
+        {
+          "layerId": 8,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": 7000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "room_noob_walltr2",
+    "visualization": "furniture_static"
+  }
+}

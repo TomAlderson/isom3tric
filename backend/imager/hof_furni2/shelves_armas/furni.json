@@ -1,0 +1,158 @@
+{
+  "assets": {
+    "shelves_armas_32_a_0_0": {
+      "name": "shelves_armas_32_a_0_0",
+      "x": 11,
+      "y": 55,
+      "exists": true
+    },
+    "shelves_armas_32_a_2_0": {
+      "name": "shelves_armas_32_a_2_0",
+      "flipH": 1,
+      "source": "shelves_armas_32_a_0_0",
+      "x": 11,
+      "y": 55,
+      "exists": false
+    },
+    "shelves_armas_32_b_0_0": {
+      "name": "shelves_armas_32_b_0_0",
+      "x": -1,
+      "y": 56,
+      "exists": true
+    },
+    "shelves_armas_32_b_2_0": {
+      "name": "shelves_armas_32_b_2_0",
+      "flipH": 1,
+      "source": "shelves_armas_32_b_0_0",
+      "x": -1,
+      "y": 56,
+      "exists": false
+    },
+    "shelves_armas_32_sd_0_0": {
+      "name": "shelves_armas_32_sd_0_0",
+      "x": 13,
+      "y": 6,
+      "exists": true
+    },
+    "shelves_armas_32_sd_2_0": {
+      "name": "shelves_armas_32_sd_2_0",
+      "flipH": 1,
+      "source": "shelves_armas_32_sd_0_0",
+      "x": 13,
+      "y": 6,
+      "exists": false
+    },
+    "shelves_armas_64_a_0_0": {
+      "name": "shelves_armas_64_a_0_0",
+      "x": 20,
+      "y": 112,
+      "exists": true
+    },
+    "shelves_armas_64_a_2_0": {
+      "name": "shelves_armas_64_a_2_0",
+      "flipH": 1,
+      "source": "shelves_armas_64_a_0_0",
+      "x": 20,
+      "y": 112,
+      "exists": false
+    },
+    "shelves_armas_64_b_0_0": {
+      "name": "shelves_armas_64_b_0_0",
+      "x": -2,
+      "y": 114,
+      "exists": true
+    },
+    "shelves_armas_64_b_2_0": {
+      "name": "shelves_armas_64_b_2_0",
+      "flipH": 1,
+      "source": "shelves_armas_64_b_0_0",
+      "x": -2,
+      "y": 114,
+      "exists": false
+    },
+    "shelves_armas_64_sd_0_0": {
+      "name": "shelves_armas_64_sd_0_0",
+      "x": 26,
+      "y": 13,
+      "exists": true
+    },
+    "shelves_armas_64_sd_2_0": {
+      "name": "shelves_armas_64_sd_2_0",
+      "flipH": 1,
+      "source": "shelves_armas_64_sd_0_0",
+      "x": 26,
+      "y": 13,
+      "exists": false
+    },
+    "shelves_armas_icon_a": {
+      "name": "shelves_armas_icon_a",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 3.1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 210
+        },
+        {
+          "layerId": 1,
+          "z": 1200
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 210
+        },
+        {
+          "layerId": 1,
+          "z": 1200
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "shelves_armas",
+    "visualization": "furniture_static"
+  }
+}

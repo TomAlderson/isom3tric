@@ -1,0 +1,151 @@
+{
+  "assets": {
+    "ktchn_c15_chair_b_64_sd_2_0": {
+      "name": "ktchn_c15_chair_b_64_sd_2_0",
+      "x": 25,
+      "y": 12,
+      "exists": true
+    },
+    "ktchn_c15_chair_b_64_sd_0_0": {
+      "name": "ktchn_c15_chair_b_64_sd_0_0",
+      "x": 25,
+      "y": 12,
+      "exists": false
+    },
+    "ktchn_c15_chair_b_64_a_2_0": {
+      "name": "ktchn_c15_chair_b_64_a_2_0",
+      "x": 25,
+      "y": 61,
+      "exists": true
+    },
+    "ktchn_c15_chair_b_64_b_2_0": {
+      "name": "ktchn_c15_chair_b_64_b_2_0",
+      "x": 1,
+      "y": -12,
+      "exists": true
+    },
+    "ktchn_c15_chair_b_64_a_0_0": {
+      "name": "ktchn_c15_chair_b_64_a_0_0",
+      "x": 18,
+      "y": 32,
+      "exists": true
+    },
+    "ktchn_c15_chair_b_64_b_0_0": {
+      "name": "ktchn_c15_chair_b_64_b_0_0",
+      "x": 25,
+      "y": 51,
+      "exists": true
+    },
+    "ktchn_c15_chair_b_icon_a": {
+      "name": "ktchn_c15_chair_b_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    },
+    "ktchn_c15_chair_b_64_sd_6_0": {
+      "name": "ktchn_c15_chair_b_64_sd_6_0",
+      "flipH": 1,
+      "source": "ktchn_c15_chair_b_64_sd_0_0",
+      "x": 25,
+      "y": 12,
+      "exists": false
+    },
+    "ktchn_c15_chair_b_64_a_6_0": {
+      "name": "ktchn_c15_chair_b_64_a_6_0",
+      "flipH": 1,
+      "source": "ktchn_c15_chair_b_64_a_0_0",
+      "x": 18,
+      "y": 32,
+      "exists": false
+    },
+    "ktchn_c15_chair_b_64_b_6_0": {
+      "name": "ktchn_c15_chair_b_64_b_6_0",
+      "flipH": 1,
+      "source": "ktchn_c15_chair_b_64_b_0_0",
+      "x": 25,
+      "y": 51,
+      "exists": false
+    },
+    "ktchn_c15_chair_b_64_sd_4_0": {
+      "name": "ktchn_c15_chair_b_64_sd_4_0",
+      "flipH": 1,
+      "source": "ktchn_c15_chair_b_64_sd_2_0",
+      "x": 25,
+      "y": 12,
+      "exists": false
+    },
+    "ktchn_c15_chair_b_64_a_4_0": {
+      "name": "ktchn_c15_chair_b_64_a_4_0",
+      "flipH": 1,
+      "source": "ktchn_c15_chair_b_64_a_2_0",
+      "x": 25,
+      "y": 61,
+      "exists": false
+    },
+    "ktchn_c15_chair_b_64_b_4_0": {
+      "name": "ktchn_c15_chair_b_64_b_4_0",
+      "flipH": 1,
+      "source": "ktchn_c15_chair_b_64_b_2_0",
+      "x": 1,
+      "y": -12,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.2
+    },
+    "directions": [
+      90,
+      0,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 300
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "ktchn_c15_chair_b",
+    "visualization": "furniture_static"
+  }
+}

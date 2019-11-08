@@ -1,0 +1,283 @@
+{
+  "assets": {
+    "hween10_tree_32_a_0_0": {
+      "name": "hween10_tree_32_a_0_0",
+      "x": 30,
+      "y": 106,
+      "exists": true
+    },
+    "hween10_tree_32_b_0_1": {
+      "name": "hween10_tree_32_b_0_1",
+      "flipH": 1,
+      "x": 8,
+      "y": 78,
+      "exists": true
+    },
+    "hween10_tree_32_b_0_0": {
+      "name": "hween10_tree_32_b_0_0",
+      "x": -8,
+      "y": 44,
+      "exists": true
+    },
+    "hween10_tree_64_a_0_0": {
+      "name": "hween10_tree_64_a_0_0",
+      "x": 56,
+      "y": 212,
+      "exists": true
+    },
+    "hween10_tree_64_b_0_0": {
+      "name": "hween10_tree_64_b_0_0",
+      "x": -14,
+      "y": 110,
+      "exists": false
+    },
+    "hween10_tree_64_b_0_1": {
+      "name": "hween10_tree_64_b_0_1",
+      "x": 18,
+      "y": 151,
+      "exists": true
+    },
+    "hween10_tree_icon_a": {
+      "name": "hween10_tree_icon_a",
+      "x": 8,
+      "y": 20,
+      "exists": true
+    },
+    "hween10_tree_32_a_6_0": {
+      "name": "hween10_tree_32_a_6_0",
+      "flipH": 1,
+      "source": "hween10_tree_32_a_0_0",
+      "x": 30,
+      "y": 106,
+      "exists": false
+    },
+    "hween10_tree_32_b_6_1": {
+      "name": "hween10_tree_32_b_6_1",
+      "flipH": 1,
+      "source": "hween10_tree_32_b_0_1",
+      "x": 8,
+      "y": 78,
+      "exists": false
+    },
+    "hween10_tree_32_b_6_0": {
+      "name": "hween10_tree_32_b_6_0",
+      "flipH": 1,
+      "source": "hween10_tree_32_b_0_0",
+      "x": -8,
+      "y": 44,
+      "exists": false
+    },
+    "hween10_tree_64_a_6_0": {
+      "name": "hween10_tree_64_a_6_0",
+      "flipH": 1,
+      "source": "hween10_tree_64_a_0_0",
+      "x": 56,
+      "y": 212,
+      "exists": false
+    },
+    "hween10_tree_64_b_6_0": {
+      "name": "hween10_tree_64_b_6_0",
+      "flipH": 1,
+      "source": "hween10_tree_64_b_0_0",
+      "x": -14,
+      "y": 110,
+      "exists": false
+    },
+    "hween10_tree_64_b_6_1": {
+      "name": "hween10_tree_64_b_6_1",
+      "flipH": 1,
+      "source": "hween10_tree_64_b_0_1",
+      "x": 18,
+      "y": 151,
+      "exists": false
+    },
+    "hween10_tree_64_a_0_1": {
+      "name": "hween10_tree_64_a_0_1",
+      "source": "hween10_tree_64_a_0_0",
+      "x": 56,
+      "y": 212,
+      "exists": false
+    },
+    "hween10_tree_64_a_6_1": {
+      "name": "hween10_tree_64_a_6_1",
+      "flipH": 1,
+      "source": "hween10_tree_64_a_0_0",
+      "x": 56,
+      "y": 212,
+      "exists": false
+    },
+    "hween10_tree_32_a_0_1": {
+      "name": "hween10_tree_32_a_0_1",
+      "source": "hween10_tree_32_a_0_0",
+      "x": 30,
+      "y": 106,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 10
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween10_tree",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,735 @@
+{
+  "assets": {
+    "scifirocket_32_a_0_0": {
+      "name": "scifirocket_32_a_0_0",
+      "x": 9,
+      "y": 32,
+      "exists": true
+    },
+    "scifirocket_32_b_0_0": {
+      "name": "scifirocket_32_b_0_0",
+      "x": 2,
+      "y": 30,
+      "exists": false
+    },
+    "scifirocket_32_b_0_1": {
+      "name": "scifirocket_32_b_0_1",
+      "x": 17,
+      "y": 40,
+      "exists": true
+    },
+    "scifirocket_32_c_0_0": {
+      "name": "scifirocket_32_c_0_0",
+      "x": 10,
+      "y": 20,
+      "exists": true
+    },
+    "scifirocket_32_d_0_0": {
+      "name": "scifirocket_32_d_0_0",
+      "x": 13,
+      "y": 33,
+      "exists": true
+    },
+    "scifirocket_32_e_0_0": {
+      "name": "scifirocket_32_e_0_0",
+      "source": "scifirocket_32_b_0_0",
+      "x": 2,
+      "y": 30,
+      "exists": false
+    },
+    "scifirocket_32_e_0_1": {
+      "name": "scifirocket_32_e_0_1",
+      "x": 4,
+      "y": 32,
+      "exists": true
+    },
+    "scifirocket_32_e_0_10": {
+      "name": "scifirocket_32_e_0_10",
+      "x": 6,
+      "y": 51,
+      "exists": false
+    },
+    "scifirocket_32_e_0_11": {
+      "name": "scifirocket_32_e_0_11",
+      "x": 7,
+      "y": 53,
+      "exists": false
+    },
+    "scifirocket_32_e_0_12": {
+      "name": "scifirocket_32_e_0_12",
+      "x": 6,
+      "y": 55,
+      "exists": true
+    },
+    "scifirocket_32_e_0_13": {
+      "name": "scifirocket_32_e_0_13",
+      "x": 7,
+      "y": 56,
+      "exists": true
+    },
+    "scifirocket_32_e_0_14": {
+      "name": "scifirocket_32_e_0_14",
+      "x": 6,
+      "y": 57,
+      "exists": true
+    },
+    "scifirocket_32_e_0_15": {
+      "name": "scifirocket_32_e_0_15",
+      "x": 7,
+      "y": 59,
+      "exists": true
+    },
+    "scifirocket_32_e_0_16": {
+      "name": "scifirocket_32_e_0_16",
+      "x": 6,
+      "y": 61,
+      "exists": true
+    },
+    "scifirocket_32_e_0_17": {
+      "name": "scifirocket_32_e_0_17",
+      "x": 0,
+      "y": 61,
+      "exists": true
+    },
+    "scifirocket_32_e_0_2": {
+      "name": "scifirocket_32_e_0_2",
+      "x": 3,
+      "y": 34,
+      "exists": false
+    },
+    "scifirocket_32_e_0_3": {
+      "name": "scifirocket_32_e_0_3",
+      "x": 4,
+      "y": 35,
+      "exists": false
+    },
+    "scifirocket_32_e_0_4": {
+      "name": "scifirocket_32_e_0_4",
+      "x": 4,
+      "y": 37,
+      "exists": false
+    },
+    "scifirocket_32_e_0_5": {
+      "name": "scifirocket_32_e_0_5",
+      "x": 3,
+      "y": 39,
+      "exists": true
+    },
+    "scifirocket_32_e_0_6": {
+      "name": "scifirocket_32_e_0_6",
+      "x": 4,
+      "y": 41,
+      "exists": false
+    },
+    "scifirocket_32_e_0_7": {
+      "name": "scifirocket_32_e_0_7",
+      "x": 4,
+      "y": 44,
+      "exists": false
+    },
+    "scifirocket_32_e_0_8": {
+      "name": "scifirocket_32_e_0_8",
+      "x": 4,
+      "y": 46,
+      "exists": false
+    },
+    "scifirocket_32_e_0_9": {
+      "name": "scifirocket_32_e_0_9",
+      "x": 3,
+      "y": 48,
+      "exists": true
+    },
+    "scifirocket_32_sd_0_0": {
+      "name": "scifirocket_32_sd_0_0",
+      "x": 12,
+      "y": 3,
+      "exists": true
+    },
+    "scifirocket_64_a_0_0": {
+      "name": "scifirocket_64_a_0_0",
+      "x": 17,
+      "y": 64,
+      "exists": true
+    },
+    "scifirocket_64_b_0_0": {
+      "name": "scifirocket_64_b_0_0",
+      "x": 3,
+      "y": 59,
+      "exists": true
+    },
+    "scifirocket_64_b_0_1": {
+      "name": "scifirocket_64_b_0_1",
+      "x": 34,
+      "y": 80,
+      "exists": true
+    },
+    "scifirocket_64_c_0_0": {
+      "name": "scifirocket_64_c_0_0",
+      "x": 20,
+      "y": 40,
+      "exists": true
+    },
+    "scifirocket_64_d_0_0": {
+      "name": "scifirocket_64_d_0_0",
+      "x": 26,
+      "y": 66,
+      "exists": true
+    },
+    "scifirocket_64_e_0_0": {
+      "name": "scifirocket_64_e_0_0",
+      "source": "scifirocket_64_b_0_0",
+      "x": 3,
+      "y": 59,
+      "exists": false
+    },
+    "scifirocket_64_e_0_1": {
+      "name": "scifirocket_64_e_0_1",
+      "x": 7,
+      "y": 62,
+      "exists": true
+    },
+    "scifirocket_64_e_0_10": {
+      "name": "scifirocket_64_e_0_10",
+      "x": 13,
+      "y": 89,
+      "exists": false
+    },
+    "scifirocket_64_e_0_11": {
+      "name": "scifirocket_64_e_0_11",
+      "x": 14,
+      "y": 91,
+      "exists": false
+    },
+    "scifirocket_64_e_0_12": {
+      "name": "scifirocket_64_e_0_12",
+      "x": 13,
+      "y": 93,
+      "exists": true
+    },
+    "scifirocket_64_e_0_13": {
+      "name": "scifirocket_64_e_0_13",
+      "x": 14,
+      "y": 93,
+      "exists": true
+    },
+    "scifirocket_64_e_0_14": {
+      "name": "scifirocket_64_e_0_14",
+      "x": 16,
+      "y": 96,
+      "exists": true
+    },
+    "scifirocket_64_e_0_15": {
+      "name": "scifirocket_64_e_0_15",
+      "x": 16,
+      "y": 98,
+      "exists": true
+    },
+    "scifirocket_64_e_0_16": {
+      "name": "scifirocket_64_e_0_16",
+      "x": 15,
+      "y": 101,
+      "exists": true
+    },
+    "scifirocket_64_e_0_17": {
+      "name": "scifirocket_64_e_0_17",
+      "x": 15,
+      "y": 104,
+      "exists": true
+    },
+    "scifirocket_64_e_0_18": {
+      "name": "scifirocket_64_e_0_18",
+      "x": 16,
+      "y": 107,
+      "exists": true
+    },
+    "scifirocket_64_e_0_19": {
+      "name": "scifirocket_64_e_0_19",
+      "x": 4,
+      "y": 108,
+      "exists": true
+    },
+    "scifirocket_64_e_0_2": {
+      "name": "scifirocket_64_e_0_2",
+      "x": 8,
+      "y": 64,
+      "exists": false
+    },
+    "scifirocket_64_e_0_3": {
+      "name": "scifirocket_64_e_0_3",
+      "x": 7,
+      "y": 66,
+      "exists": false
+    },
+    "scifirocket_64_e_0_4": {
+      "name": "scifirocket_64_e_0_4",
+      "x": 8,
+      "y": 70,
+      "exists": false
+    },
+    "scifirocket_64_e_0_5": {
+      "name": "scifirocket_64_e_0_5",
+      "x": 7,
+      "y": 72,
+      "exists": false
+    },
+    "scifirocket_64_e_0_6": {
+      "name": "scifirocket_64_e_0_6",
+      "x": 8,
+      "y": 74,
+      "exists": true
+    },
+    "scifirocket_64_e_0_7": {
+      "name": "scifirocket_64_e_0_7",
+      "x": 10,
+      "y": 79,
+      "exists": false
+    },
+    "scifirocket_64_e_0_8": {
+      "name": "scifirocket_64_e_0_8",
+      "x": 11,
+      "y": 81,
+      "exists": false
+    },
+    "scifirocket_64_e_0_9": {
+      "name": "scifirocket_64_e_0_9",
+      "x": 10,
+      "y": 83,
+      "exists": true
+    },
+    "scifirocket_64_sd_0_0": {
+      "name": "scifirocket_64_sd_0_0",
+      "x": 22,
+      "y": 8,
+      "exists": true
+    },
+    "scifirocket_icon_a": {
+      "name": "scifirocket_icon_a",
+      "x": 10,
+      "y": 15,
+      "exists": true
+    },
+    "scifirocket_icon_b": {
+      "name": "scifirocket_icon_b",
+      "x": 7,
+      "y": 5,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 1,
+            "color": "DD2D22"
+          }
+        ],
+        "1": [
+          {
+            "layerId": 1,
+            "color": "FFBC00"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "5599FF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "02BB70"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "FF5577"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": 555555
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "00CCCC"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "BB55CC"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "7733FF"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "9c0247"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 2,
+            "color": "DD2D22"
+          }
+        ],
+        "1": [
+          {
+            "layerId": 2,
+            "color": "FFBC00"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 2,
+            "color": "5599FF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 2,
+            "color": "02BB70"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 2,
+            "color": "FF5577"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 2,
+            "color": 555555
+          }
+        ],
+        "7": [
+          {
+            "layerId": 2,
+            "color": "00CCCC"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 2,
+            "color": "BB55CC"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 2,
+            "color": "7733FF"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 2,
+            "color": "9c0247"
+          }
+        ]
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "alpha": 204
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 2,
+            "color": "DD2D22"
+          }
+        ],
+        "1": [
+          {
+            "layerId": 2,
+            "color": "FFBC00"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 2,
+            "color": "5599FF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 2,
+            "color": "02BB70"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 2,
+            "color": "FF5577"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 2,
+            "color": 555555
+          }
+        ],
+        "7": [
+          {
+            "layerId": 2,
+            "color": "00CCCC"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 2,
+            "color": "BB55CC"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 2,
+            "color": "7733FF"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 2,
+            "color": "9c0247"
+          }
+        ]
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "alpha": 204
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "scifirocket",
+    "visualization": "furniture_animated"
+  }
+}

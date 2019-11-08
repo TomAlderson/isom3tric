@@ -1,0 +1,262 @@
+{
+  "assets": {
+    "matic_light_cam_orange_64_sd_4_0": {
+      "name": "matic_light_cam_orange_64_sd_4_0",
+      "x": 17,
+      "y": 8,
+      "exists": true
+    },
+    "matic_light_cam_orange_64_a_4_0": {
+      "name": "matic_light_cam_orange_64_a_4_0",
+      "x": 27,
+      "y": 231,
+      "exists": true
+    },
+    "matic_light_cam_orange_64_b_4_0": {
+      "name": "matic_light_cam_orange_64_b_4_0",
+      "x": -26,
+      "y": 126,
+      "exists": true
+    },
+    "matic_light_cam_orange_64_b_4_1": {
+      "name": "matic_light_cam_orange_64_b_4_1",
+      "x": 65,
+      "y": 164,
+      "exists": true
+    },
+    "matic_light_cam_orange_32_sd_4_0": {
+      "name": "matic_light_cam_orange_32_sd_4_0",
+      "x": 8,
+      "y": 4,
+      "exists": true
+    },
+    "matic_light_cam_orange_32_a_4_0": {
+      "name": "matic_light_cam_orange_32_a_4_0",
+      "x": 12,
+      "y": 116,
+      "exists": true
+    },
+    "matic_light_cam_orange_32_b_4_0": {
+      "name": "matic_light_cam_orange_32_b_4_0",
+      "x": -14,
+      "y": 61,
+      "exists": false
+    },
+    "matic_light_cam_orange_32_b_4_1": {
+      "name": "matic_light_cam_orange_32_b_4_1",
+      "x": 34,
+      "y": 85,
+      "exists": true
+    },
+    "matic_light_cam_orange_icon_a": {
+      "name": "matic_light_cam_orange_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "matic_light_cam_orange_64_sd_2_0": {
+      "name": "matic_light_cam_orange_64_sd_2_0",
+      "flipH": 1,
+      "source": "matic_light_cam_orange_64_sd_4_0",
+      "x": 17,
+      "y": 8,
+      "exists": false
+    },
+    "matic_light_cam_orange_64_a_2_0": {
+      "name": "matic_light_cam_orange_64_a_2_0",
+      "flipH": 1,
+      "source": "matic_light_cam_orange_64_a_4_0",
+      "x": 27,
+      "y": 231,
+      "exists": false
+    },
+    "matic_light_cam_orange_64_b_2_0": {
+      "name": "matic_light_cam_orange_64_b_2_0",
+      "flipH": 1,
+      "source": "matic_light_cam_orange_64_b_4_0",
+      "x": -26,
+      "y": 126,
+      "exists": false
+    },
+    "matic_light_cam_orange_64_b_2_1": {
+      "name": "matic_light_cam_orange_64_b_2_1",
+      "flipH": 1,
+      "source": "matic_light_cam_orange_64_b_4_1",
+      "x": 65,
+      "y": 164,
+      "exists": false
+    },
+    "matic_light_cam_orange_32_sd_2_0": {
+      "name": "matic_light_cam_orange_32_sd_2_0",
+      "flipH": 1,
+      "source": "matic_light_cam_orange_32_sd_4_0",
+      "x": 8,
+      "y": 4,
+      "exists": false
+    },
+    "matic_light_cam_orange_32_a_2_0": {
+      "name": "matic_light_cam_orange_32_a_2_0",
+      "flipH": 1,
+      "source": "matic_light_cam_orange_32_a_4_0",
+      "x": 12,
+      "y": 116,
+      "exists": false
+    },
+    "matic_light_cam_orange_32_b_2_0": {
+      "name": "matic_light_cam_orange_32_b_2_0",
+      "flipH": 1,
+      "source": "matic_light_cam_orange_32_b_4_0",
+      "x": -14,
+      "y": 61,
+      "exists": false
+    },
+    "matic_light_cam_orange_32_b_2_1": {
+      "name": "matic_light_cam_orange_32_b_2_1",
+      "flipH": 1,
+      "source": "matic_light_cam_orange_32_b_4_1",
+      "x": 34,
+      "y": 85,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.01
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "matic_light_cam_orange",
+    "visualization": "furniture_animated"
+  }
+}

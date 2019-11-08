@@ -1,0 +1,129 @@
+{
+  "assets": {
+    "val_c18_wardrobe_64_sd_2_0": {
+      "name": "val_c18_wardrobe_64_sd_2_0",
+      "x": 33,
+      "y": 16,
+      "exists": true
+    },
+    "val_c18_wardrobe_64_a_2_0": {
+      "name": "val_c18_wardrobe_64_a_2_0",
+      "x": 31,
+      "y": 115,
+      "exists": true
+    },
+    "val_c18_wardrobe_64_b_2_0": {
+      "name": "val_c18_wardrobe_64_b_2_0",
+      "x": 35,
+      "y": 100,
+      "exists": true
+    },
+    "val_c18_wardrobe_64_c_2_0": {
+      "name": "val_c18_wardrobe_64_c_2_0",
+      "x": -17,
+      "y": 95,
+      "exists": true
+    },
+    "val_c18_wardrobe_64_d_2_0": {
+      "name": "val_c18_wardrobe_64_d_2_0",
+      "x": 2,
+      "y": 96,
+      "exists": true
+    },
+    "val_c18_wardrobe_64_sd_0_0": {
+      "name": "val_c18_wardrobe_64_sd_0_0",
+      "x": 65,
+      "y": 16,
+      "exists": true
+    },
+    "val_c18_wardrobe_64_a_0_0": {
+      "name": "val_c18_wardrobe_64_a_0_0",
+      "x": 39,
+      "y": 115,
+      "exists": true
+    },
+    "val_c18_wardrobe_64_b_0_0": {
+      "name": "val_c18_wardrobe_64_b_0_0",
+      "x": 4,
+      "y": 100,
+      "exists": true
+    },
+    "val_c18_wardrobe_64_c_0_0": {
+      "name": "val_c18_wardrobe_64_c_0_0",
+      "x": 63,
+      "y": 95,
+      "exists": true
+    },
+    "val_c18_wardrobe_64_d_0_0": {
+      "name": "val_c18_wardrobe_64_d_0_0",
+      "x": 67,
+      "y": 96,
+      "exists": true
+    },
+    "val_c18_wardrobe_icon_a": {
+      "name": "val_c18_wardrobe_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 2.9
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "val_c18_wardrobe",
+    "visualization": "furniture_animated"
+  }
+}

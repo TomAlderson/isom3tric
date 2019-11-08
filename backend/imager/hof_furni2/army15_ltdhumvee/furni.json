@@ -1,0 +1,360 @@
+{
+  "assets": {
+    "army15_ltdhumvee_icon_a": {
+      "name": "army15_ltdhumvee_icon_a",
+      "x": 14,
+      "y": 11,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_sd_4_0": {
+      "name": "army15_ltdhumvee_64_sd_4_0",
+      "x": 101,
+      "y": 18,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_a_4_0": {
+      "name": "army15_ltdhumvee_64_a_4_0",
+      "x": 15,
+      "y": 67,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_b_4_0": {
+      "name": "army15_ltdhumvee_64_b_4_0",
+      "x": 44,
+      "y": 86,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_c_4_0": {
+      "name": "army15_ltdhumvee_64_c_4_0",
+      "x": 79,
+      "y": 73,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_d_4_0": {
+      "name": "army15_ltdhumvee_64_d_4_0",
+      "x": 41,
+      "y": 60,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_e_4_0": {
+      "name": "army15_ltdhumvee_64_e_4_0",
+      "x": -33,
+      "y": 38,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_f_4_0": {
+      "name": "army15_ltdhumvee_64_f_4_0",
+      "x": 105,
+      "y": 60,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_g_4_0": {
+      "name": "army15_ltdhumvee_64_g_4_0",
+      "x": 74,
+      "y": 49,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_h_4_0": {
+      "name": "army15_ltdhumvee_64_h_4_0",
+      "x": 85,
+      "y": -4,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_h_4_1": {
+      "name": "army15_ltdhumvee_64_h_4_1",
+      "x": 152,
+      "y": -1,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_i_4_0": {
+      "name": "army15_ltdhumvee_64_i_4_0",
+      "x": 57,
+      "y": -18,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_i_4_1": {
+      "name": "army15_ltdhumvee_64_i_4_1",
+      "x": 124,
+      "y": -15,
+      "exists": true
+    },
+    "army15_ltdhumvee_64_sd_2_0": {
+      "name": "army15_ltdhumvee_64_sd_2_0",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_sd_4_0",
+      "x": 101,
+      "y": 18,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_a_2_0": {
+      "name": "army15_ltdhumvee_64_a_2_0",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_a_4_0",
+      "x": 15,
+      "y": 67,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_b_2_0": {
+      "name": "army15_ltdhumvee_64_b_2_0",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_b_4_0",
+      "x": 44,
+      "y": 86,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_c_2_0": {
+      "name": "army15_ltdhumvee_64_c_2_0",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_c_4_0",
+      "x": 79,
+      "y": 73,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_d_2_0": {
+      "name": "army15_ltdhumvee_64_d_2_0",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_d_4_0",
+      "x": 41,
+      "y": 60,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_e_2_0": {
+      "name": "army15_ltdhumvee_64_e_2_0",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_e_4_0",
+      "x": -33,
+      "y": 38,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_f_2_0": {
+      "name": "army15_ltdhumvee_64_f_2_0",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_f_4_0",
+      "x": 105,
+      "y": 60,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_g_2_0": {
+      "name": "army15_ltdhumvee_64_g_2_0",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_g_4_0",
+      "x": 74,
+      "y": 49,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_h_2_0": {
+      "name": "army15_ltdhumvee_64_h_2_0",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_h_4_0",
+      "x": 85,
+      "y": -4,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_h_2_1": {
+      "name": "army15_ltdhumvee_64_h_2_1",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_h_4_1",
+      "x": 152,
+      "y": -1,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_i_2_0": {
+      "name": "army15_ltdhumvee_64_i_2_0",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_i_4_0",
+      "x": 57,
+      "y": -18,
+      "exists": false
+    },
+    "army15_ltdhumvee_64_i_2_1": {
+      "name": "army15_ltdhumvee_64_i_2_1",
+      "flipH": 1,
+      "source": "army15_ltdhumvee_64_i_4_1",
+      "x": 124,
+      "y": -15,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 3,
+      "z": 1.3
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 9,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 2000
+        },
+        {
+          "layerId": 3,
+          "z": 3000
+        },
+        {
+          "layerId": 4,
+          "z": 1500
+        },
+        {
+          "layerId": 5,
+          "z": 2500
+        },
+        {
+          "layerId": 6,
+          "z": 3500
+        },
+        {
+          "layerId": 7,
+          "ink": "ADD",
+          "alpha": 255,
+          "z": 2500
+        },
+        {
+          "layerId": 8,
+          "ink": "ADD",
+          "z": 3500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "army15_ltdhumvee",
+    "visualization": "furniture_animated"
+  }
+}

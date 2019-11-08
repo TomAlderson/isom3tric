@@ -1,0 +1,422 @@
+{
+  "assets": {
+    "hween14_rare2_64_a_4_0": {
+      "name": "hween14_rare2_64_a_4_0",
+      "x": 31,
+      "y": 89,
+      "exists": false
+    },
+    "hween14_rare2_64_b_4_0": {
+      "name": "hween14_rare2_64_b_4_0",
+      "x": 60,
+      "y": -1,
+      "exists": true
+    },
+    "hween14_rare2_64_a_4_1": {
+      "name": "hween14_rare2_64_a_4_1",
+      "x": 31,
+      "y": 89,
+      "exists": true
+    },
+    "hween14_rare2_64_b_4_1": {
+      "name": "hween14_rare2_64_b_4_1",
+      "x": 60,
+      "y": 12,
+      "exists": true
+    },
+    "hween14_rare2_64_b_4_2": {
+      "name": "hween14_rare2_64_b_4_2",
+      "x": 60,
+      "y": 12,
+      "exists": true
+    },
+    "hween14_rare2_64_b_4_3": {
+      "name": "hween14_rare2_64_b_4_3",
+      "x": 60,
+      "y": 12,
+      "exists": true
+    },
+    "hween14_rare2_32_a_4_0": {
+      "name": "hween14_rare2_32_a_4_0",
+      "x": 15,
+      "y": 45,
+      "exists": true
+    },
+    "hween14_rare2_32_b_4_0": {
+      "name": "hween14_rare2_32_b_4_0",
+      "x": 31,
+      "y": 0,
+      "exists": true
+    },
+    "hween14_rare2_32_b_4_1": {
+      "name": "hween14_rare2_32_b_4_1",
+      "x": 31,
+      "y": 6,
+      "exists": true
+    },
+    "hween14_rare2_32_b_4_2": {
+      "name": "hween14_rare2_32_b_4_2",
+      "x": 31,
+      "y": 6,
+      "exists": true
+    },
+    "hween14_rare2_32_b_4_3": {
+      "name": "hween14_rare2_32_b_4_3",
+      "x": 31,
+      "y": 6,
+      "exists": true
+    },
+    "hween14_rare2_icon_a": {
+      "name": "hween14_rare2_icon_a",
+      "x": 10,
+      "y": 16,
+      "exists": true
+    },
+    "hween14_rare2_64_a_2_0": {
+      "name": "hween14_rare2_64_a_2_0",
+      "flipH": 1,
+      "source": "hween14_rare2_64_a_4_0",
+      "x": 31,
+      "y": 89,
+      "exists": false
+    },
+    "hween14_rare2_64_b_2_0": {
+      "name": "hween14_rare2_64_b_2_0",
+      "flipH": 1,
+      "source": "hween14_rare2_64_b_4_0",
+      "x": 60,
+      "y": -1,
+      "exists": false
+    },
+    "hween14_rare2_64_a_2_1": {
+      "name": "hween14_rare2_64_a_2_1",
+      "flipH": 1,
+      "source": "hween14_rare2_64_a_4_1",
+      "x": 31,
+      "y": 89,
+      "exists": false
+    },
+    "hween14_rare2_64_b_2_1": {
+      "name": "hween14_rare2_64_b_2_1",
+      "flipH": 1,
+      "source": "hween14_rare2_64_b_4_1",
+      "x": 60,
+      "y": 12,
+      "exists": false
+    },
+    "hween14_rare2_64_b_2_2": {
+      "name": "hween14_rare2_64_b_2_2",
+      "flipH": 1,
+      "source": "hween14_rare2_64_b_4_2",
+      "x": 60,
+      "y": 12,
+      "exists": false
+    },
+    "hween14_rare2_64_b_2_3": {
+      "name": "hween14_rare2_64_b_2_3",
+      "flipH": 1,
+      "source": "hween14_rare2_64_b_4_3",
+      "x": 60,
+      "y": 12,
+      "exists": false
+    },
+    "hween14_rare2_32_a_2_0": {
+      "name": "hween14_rare2_32_a_2_0",
+      "flipH": 1,
+      "source": "hween14_rare2_32_a_4_0",
+      "x": 15,
+      "y": 45,
+      "exists": false
+    },
+    "hween14_rare2_32_b_2_0": {
+      "name": "hween14_rare2_32_b_2_0",
+      "flipH": 1,
+      "source": "hween14_rare2_32_b_4_0",
+      "x": 31,
+      "y": 0,
+      "exists": false
+    },
+    "hween14_rare2_32_b_2_1": {
+      "name": "hween14_rare2_32_b_2_1",
+      "flipH": 1,
+      "source": "hween14_rare2_32_b_4_1",
+      "x": 31,
+      "y": 6,
+      "exists": false
+    },
+    "hween14_rare2_32_b_2_2": {
+      "name": "hween14_rare2_32_b_2_2",
+      "flipH": 1,
+      "source": "hween14_rare2_32_b_4_2",
+      "x": 31,
+      "y": 6,
+      "exists": false
+    },
+    "hween14_rare2_32_b_2_3": {
+      "name": "hween14_rare2_32_b_2_3",
+      "flipH": 1,
+      "source": "hween14_rare2_32_b_4_3",
+      "x": 31,
+      "y": 6,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 0.1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  2,
+                  2,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  1,
+                  1,
+                  2,
+                  3,
+                  3,
+                  3,
+                  3,
+                  2,
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  1,
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -50
+        },
+        {
+          "layerId": 1,
+          "z": 950
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  2,
+                  2,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  1,
+                  1,
+                  2,
+                  3,
+                  3,
+                  3,
+                  3,
+                  2,
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  1,
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -50
+        },
+        {
+          "layerId": 1,
+          "z": 950
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween14_rare2",
+    "visualization": "furniture_animated"
+  }
+}

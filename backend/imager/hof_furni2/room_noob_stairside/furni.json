@@ -1,0 +1,194 @@
+{
+  "assets": {
+    "room_noob_stairside_64_a_2_0": {
+      "name": "room_noob_stairside_64_a_2_0",
+      "x": 31,
+      "y": 85,
+      "exists": true
+    },
+    "room_noob_stairside_64_b_2_0": {
+      "name": "room_noob_stairside_64_b_2_0",
+      "x": 51,
+      "y": 98,
+      "exists": true
+    },
+    "room_noob_stairside_64_a_0_0": {
+      "name": "room_noob_stairside_64_a_0_0",
+      "x": 19,
+      "y": 79,
+      "exists": true
+    },
+    "room_noob_stairside_64_b_0_0": {
+      "name": "room_noob_stairside_64_b_0_0",
+      "x": 55,
+      "y": 97,
+      "exists": true
+    },
+    "room_noob_stairside_32_a_2_0": {
+      "name": "room_noob_stairside_32_a_2_0",
+      "x": 17,
+      "y": 41,
+      "exists": true
+    },
+    "room_noob_stairside_32_b_2_0": {
+      "name": "room_noob_stairside_32_b_2_0",
+      "x": 27,
+      "y": 48,
+      "exists": true
+    },
+    "room_noob_stairside_32_a_0_0": {
+      "name": "room_noob_stairside_32_a_0_0",
+      "x": 11,
+      "y": 38,
+      "exists": true
+    },
+    "room_noob_stairside_32_b_0_0": {
+      "name": "room_noob_stairside_32_b_0_0",
+      "x": 29,
+      "y": 47,
+      "exists": true
+    },
+    "room_noob_stairside_icon_a": {
+      "name": "room_noob_stairside_icon_a",
+      "x": 10,
+      "y": 13,
+      "exists": true
+    },
+    "room_noob_stairside_64_a_4_0": {
+      "name": "room_noob_stairside_64_a_4_0",
+      "flipH": 1,
+      "source": "room_noob_stairside_64_a_0_0",
+      "x": 19,
+      "y": 79,
+      "exists": false
+    },
+    "room_noob_stairside_64_b_4_0": {
+      "name": "room_noob_stairside_64_b_4_0",
+      "flipH": 1,
+      "source": "room_noob_stairside_64_b_0_0",
+      "x": 55,
+      "y": 97,
+      "exists": false
+    },
+    "room_noob_stairside_32_a_4_0": {
+      "name": "room_noob_stairside_32_a_4_0",
+      "flipH": 1,
+      "source": "room_noob_stairside_32_a_0_0",
+      "x": 11,
+      "y": 38,
+      "exists": false
+    },
+    "room_noob_stairside_32_b_4_0": {
+      "name": "room_noob_stairside_32_b_4_0",
+      "flipH": 1,
+      "source": "room_noob_stairside_32_b_0_0",
+      "x": 29,
+      "y": 47,
+      "exists": false
+    },
+    "room_noob_stairside_64_a_6_0": {
+      "name": "room_noob_stairside_64_a_6_0",
+      "flipH": 1,
+      "source": "room_noob_stairside_64_a_2_0",
+      "x": 31,
+      "y": 85,
+      "exists": false
+    },
+    "room_noob_stairside_64_b_6_0": {
+      "name": "room_noob_stairside_64_b_6_0",
+      "flipH": 1,
+      "source": "room_noob_stairside_64_b_2_0",
+      "x": 51,
+      "y": 98,
+      "exists": false
+    },
+    "room_noob_stairside_32_a_6_0": {
+      "name": "room_noob_stairside_32_a_6_0",
+      "flipH": 1,
+      "source": "room_noob_stairside_32_a_2_0",
+      "x": 17,
+      "y": 41,
+      "exists": false
+    },
+    "room_noob_stairside_32_b_6_0": {
+      "name": "room_noob_stairside_32_b_6_0",
+      "flipH": 1,
+      "source": "room_noob_stairside_32_b_2_0",
+      "x": 27,
+      "y": 48,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "room_noob_stairside",
+    "visualization": "furniture_static"
+  }
+}

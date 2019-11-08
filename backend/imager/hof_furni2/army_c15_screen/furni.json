@@ -1,0 +1,955 @@
+{
+  "assets": {
+    "army_c15_screen_64_sd_2_0": {
+      "name": "army_c15_screen_64_sd_2_0",
+      "x": 64,
+      "y": 16,
+      "exists": true
+    },
+    "army_c15_screen_64_a_2_0": {
+      "name": "army_c15_screen_64_a_2_0",
+      "x": 74,
+      "y": 142,
+      "exists": true
+    },
+    "army_c15_screen_64_a_2_1": {
+      "name": "army_c15_screen_64_a_2_1",
+      "x": 74,
+      "y": 142,
+      "exists": true
+    },
+    "army_c15_screen_64_a_2_2": {
+      "name": "army_c15_screen_64_a_2_2",
+      "x": 74,
+      "y": 142,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_0": {
+      "name": "army_c15_screen_64_b_2_0",
+      "x": 44,
+      "y": 69,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_1": {
+      "name": "army_c15_screen_64_b_2_1",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_2": {
+      "name": "army_c15_screen_64_b_2_2",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_3": {
+      "name": "army_c15_screen_64_b_2_3",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_4": {
+      "name": "army_c15_screen_64_b_2_4",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_5": {
+      "name": "army_c15_screen_64_b_2_5",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_6": {
+      "name": "army_c15_screen_64_b_2_6",
+      "x": 49,
+      "y": 105,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_7": {
+      "name": "army_c15_screen_64_b_2_7",
+      "x": 48,
+      "y": 105,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_8": {
+      "name": "army_c15_screen_64_b_2_8",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_9": {
+      "name": "army_c15_screen_64_b_2_9",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_10": {
+      "name": "army_c15_screen_64_b_2_10",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_11": {
+      "name": "army_c15_screen_64_b_2_11",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_12": {
+      "name": "army_c15_screen_64_b_2_12",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_13": {
+      "name": "army_c15_screen_64_b_2_13",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_14": {
+      "name": "army_c15_screen_64_b_2_14",
+      "x": 57,
+      "y": 110,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_15": {
+      "name": "army_c15_screen_64_b_2_15",
+      "x": 40,
+      "y": 89,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_16": {
+      "name": "army_c15_screen_64_b_2_16",
+      "x": 45,
+      "y": 97,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_17": {
+      "name": "army_c15_screen_64_b_2_17",
+      "x": 46,
+      "y": 108,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_18": {
+      "name": "army_c15_screen_64_b_2_18",
+      "x": 46,
+      "y": 111,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_19": {
+      "name": "army_c15_screen_64_b_2_19",
+      "x": 52,
+      "y": 116,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_20": {
+      "name": "army_c15_screen_64_b_2_20",
+      "x": 54,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_21": {
+      "name": "army_c15_screen_64_b_2_21",
+      "x": 57,
+      "y": 117,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_22": {
+      "name": "army_c15_screen_64_b_2_22",
+      "x": 57,
+      "y": 117,
+      "exists": true
+    },
+    "army_c15_screen_64_b_2_23": {
+      "name": "army_c15_screen_64_b_2_23",
+      "x": 52,
+      "y": 115,
+      "exists": true
+    },
+    "army_c15_screen_64_c_2_0": {
+      "name": "army_c15_screen_64_c_2_0",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_64_c_2_1": {
+      "name": "army_c15_screen_64_c_2_1",
+      "x": 59,
+      "y": 125,
+      "exists": true
+    },
+    "army_c15_screen_icon_a": {
+      "name": "army_c15_screen_icon_a",
+      "x": 11,
+      "y": 10,
+      "exists": true
+    },
+    "army_c15_screen_64_sd_0_0": {
+      "name": "army_c15_screen_64_sd_0_0",
+      "flipH": 1,
+      "source": "army_c15_screen_64_sd_2_0",
+      "x": 64,
+      "y": 16,
+      "exists": false
+    },
+    "army_c15_screen_64_a_0_0": {
+      "name": "army_c15_screen_64_a_0_0",
+      "flipH": 1,
+      "source": "army_c15_screen_64_a_2_0",
+      "x": 74,
+      "y": 142,
+      "exists": false
+    },
+    "army_c15_screen_64_a_0_1": {
+      "name": "army_c15_screen_64_a_0_1",
+      "flipH": 1,
+      "source": "army_c15_screen_64_a_2_1",
+      "x": 74,
+      "y": 142,
+      "exists": false
+    },
+    "army_c15_screen_64_a_0_2": {
+      "name": "army_c15_screen_64_a_0_2",
+      "flipH": 1,
+      "source": "army_c15_screen_64_a_2_2",
+      "x": 74,
+      "y": 142,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_0": {
+      "name": "army_c15_screen_64_b_0_0",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_0",
+      "x": 44,
+      "y": 69,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_1": {
+      "name": "army_c15_screen_64_b_0_1",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_1",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_2": {
+      "name": "army_c15_screen_64_b_0_2",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_2",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_3": {
+      "name": "army_c15_screen_64_b_0_3",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_3",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_4": {
+      "name": "army_c15_screen_64_b_0_4",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_4",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_5": {
+      "name": "army_c15_screen_64_b_0_5",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_5",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_6": {
+      "name": "army_c15_screen_64_b_0_6",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_6",
+      "x": 49,
+      "y": 105,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_7": {
+      "name": "army_c15_screen_64_b_0_7",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_7",
+      "x": 48,
+      "y": 105,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_8": {
+      "name": "army_c15_screen_64_b_0_8",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_8",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_9": {
+      "name": "army_c15_screen_64_b_0_9",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_9",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_10": {
+      "name": "army_c15_screen_64_b_0_10",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_10",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_11": {
+      "name": "army_c15_screen_64_b_0_11",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_11",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_12": {
+      "name": "army_c15_screen_64_b_0_12",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_12",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_13": {
+      "name": "army_c15_screen_64_b_0_13",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_13",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_14": {
+      "name": "army_c15_screen_64_b_0_14",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_14",
+      "x": 57,
+      "y": 110,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_15": {
+      "name": "army_c15_screen_64_b_0_15",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_15",
+      "x": 40,
+      "y": 89,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_16": {
+      "name": "army_c15_screen_64_b_0_16",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_16",
+      "x": 45,
+      "y": 97,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_17": {
+      "name": "army_c15_screen_64_b_0_17",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_17",
+      "x": 46,
+      "y": 108,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_18": {
+      "name": "army_c15_screen_64_b_0_18",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_18",
+      "x": 46,
+      "y": 111,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_19": {
+      "name": "army_c15_screen_64_b_0_19",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_19",
+      "x": 52,
+      "y": 116,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_20": {
+      "name": "army_c15_screen_64_b_0_20",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_20",
+      "x": 54,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_21": {
+      "name": "army_c15_screen_64_b_0_21",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_21",
+      "x": 57,
+      "y": 117,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_22": {
+      "name": "army_c15_screen_64_b_0_22",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_22",
+      "x": 57,
+      "y": 117,
+      "exists": false
+    },
+    "army_c15_screen_64_b_0_23": {
+      "name": "army_c15_screen_64_b_0_23",
+      "flipH": 1,
+      "source": "army_c15_screen_64_b_2_23",
+      "x": 52,
+      "y": 115,
+      "exists": false
+    },
+    "army_c15_screen_64_c_0_0": {
+      "name": "army_c15_screen_64_c_0_0",
+      "flipH": 1,
+      "source": "army_c15_screen_64_c_2_0",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    },
+    "army_c15_screen_64_c_0_1": {
+      "name": "army_c15_screen_64_c_0_1",
+      "flipH": 1,
+      "source": "army_c15_screen_64_c_2_1",
+      "x": 59,
+      "y": 125,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0.0001
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  23
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  2,
+                  2,
+                  2,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  3,
+                  4,
+                  3,
+                  10,
+                  11,
+                  10,
+                  12,
+                  10,
+                  12,
+                  10,
+                  10,
+                  8,
+                  8,
+                  9,
+                  8,
+                  9,
+                  8,
+                  8,
+                  8,
+                  8,
+                  9,
+                  9,
+                  8,
+                  8,
+                  8,
+                  10,
+                  10,
+                  10,
+                  10,
+                  12,
+                  10,
+                  11,
+                  13,
+                  10,
+                  10,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  8,
+                  8,
+                  9,
+                  8,
+                  9,
+                  8,
+                  10,
+                  10,
+                  10,
+                  10,
+                  10,
+                  13,
+                  13,
+                  10,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  5,
+                  5,
+                  3,
+                  4,
+                  3,
+                  4,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19,
+                  19,
+                  20,
+                  20,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  21,
+                  22,
+                  21,
+                  22,
+                  21,
+                  22,
+                  21,
+                  22,
+                  21,
+                  22,
+                  21,
+                  22,
+                  21,
+                  22,
+                  21,
+                  22,
+                  21,
+                  22,
+                  21,
+                  22,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  0,
+                  0,
+                  0,
+                  0,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "army_c15_screen",
+    "visualization": "furniture_animated"
+  }
+}

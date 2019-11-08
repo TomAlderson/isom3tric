@@ -1,0 +1,799 @@
+{
+  "assets": {
+    "garden_volcano_icon_a": {
+      "name": "garden_volcano_icon_a",
+      "x": 15,
+      "y": 13,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_14": {
+      "name": "garden_volcano_64_a_4_14",
+      "x": 57,
+      "y": 215,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_13": {
+      "name": "garden_volcano_64_a_4_13",
+      "x": 57,
+      "y": 195,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_12": {
+      "name": "garden_volcano_64_a_4_12",
+      "x": 57,
+      "y": 217,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_11": {
+      "name": "garden_volcano_64_a_4_11",
+      "x": 57,
+      "y": 227,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_10": {
+      "name": "garden_volcano_64_a_4_10",
+      "x": 57,
+      "y": 221,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_9": {
+      "name": "garden_volcano_64_a_4_9",
+      "x": 57,
+      "y": 207,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_8": {
+      "name": "garden_volcano_64_a_4_8",
+      "x": 57,
+      "y": 176,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_7": {
+      "name": "garden_volcano_64_a_4_7",
+      "x": 58,
+      "y": 141,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_6": {
+      "name": "garden_volcano_64_a_4_6",
+      "x": 53,
+      "y": 109,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_5": {
+      "name": "garden_volcano_64_a_4_5",
+      "x": 49,
+      "y": 69,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_4": {
+      "name": "garden_volcano_64_a_4_4",
+      "x": 57,
+      "y": 78,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_3": {
+      "name": "garden_volcano_64_a_4_3",
+      "x": 57,
+      "y": 87,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_2": {
+      "name": "garden_volcano_64_a_4_2",
+      "x": 72,
+      "y": 112,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_1": {
+      "name": "garden_volcano_64_a_4_1",
+      "x": 72,
+      "y": 110,
+      "exists": true
+    },
+    "garden_volcano_64_a_4_0": {
+      "name": "garden_volcano_64_a_4_0",
+      "x": 72,
+      "y": 108,
+      "exists": true
+    },
+    "garden_volcano_32_sd_0_0": {
+      "name": "garden_volcano_32_sd_0_0",
+      "x": 25,
+      "y": 0,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_14": {
+      "name": "garden_volcano_32_a_4_14",
+      "x": 28,
+      "y": 103,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_13": {
+      "name": "garden_volcano_32_a_4_13",
+      "x": 28,
+      "y": 93,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_12": {
+      "name": "garden_volcano_32_a_4_12",
+      "x": 28,
+      "y": 104,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_11": {
+      "name": "garden_volcano_32_a_4_11",
+      "x": 29,
+      "y": 109,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_10": {
+      "name": "garden_volcano_32_a_4_10",
+      "x": 29,
+      "y": 106,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_9": {
+      "name": "garden_volcano_32_a_4_9",
+      "x": 29,
+      "y": 99,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_8": {
+      "name": "garden_volcano_32_a_4_8",
+      "x": 29,
+      "y": 83,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_7": {
+      "name": "garden_volcano_32_a_4_7",
+      "x": 29,
+      "y": 65,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_6": {
+      "name": "garden_volcano_32_a_4_6",
+      "x": 27,
+      "y": 49,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_5": {
+      "name": "garden_volcano_32_a_4_5",
+      "x": 25,
+      "y": 29,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_4": {
+      "name": "garden_volcano_32_a_4_4",
+      "x": 28,
+      "y": 34,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_3": {
+      "name": "garden_volcano_32_a_4_3",
+      "x": 28,
+      "y": 39,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_2": {
+      "name": "garden_volcano_32_a_4_2",
+      "x": 36,
+      "y": 51,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_1": {
+      "name": "garden_volcano_32_a_4_1",
+      "x": 36,
+      "y": 50,
+      "exists": true
+    },
+    "garden_volcano_32_a_4_0": {
+      "name": "garden_volcano_32_a_4_0",
+      "x": 36,
+      "y": 49,
+      "exists": true
+    },
+    "garden_volcano_32_sd_4_0": {
+      "name": "garden_volcano_32_sd_4_0",
+      "source": "garden_volcano_32_sd_0_0",
+      "x": 25,
+      "y": 0,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_13": {
+      "name": "garden_volcano_64_a_0_13",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_13",
+      "x": 57,
+      "y": 195,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_12": {
+      "name": "garden_volcano_64_a_0_12",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_12",
+      "x": 57,
+      "y": 217,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_11": {
+      "name": "garden_volcano_64_a_0_11",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_11",
+      "x": 57,
+      "y": 227,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_10": {
+      "name": "garden_volcano_64_a_0_10",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_10",
+      "x": 57,
+      "y": 221,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_9": {
+      "name": "garden_volcano_64_a_0_9",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_9",
+      "x": 57,
+      "y": 207,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_8": {
+      "name": "garden_volcano_64_a_0_8",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_8",
+      "x": 57,
+      "y": 176,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_7": {
+      "name": "garden_volcano_64_a_0_7",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_7",
+      "x": 58,
+      "y": 141,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_6": {
+      "name": "garden_volcano_64_a_0_6",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_6",
+      "x": 53,
+      "y": 109,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_5": {
+      "name": "garden_volcano_64_a_0_5",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_5",
+      "x": 49,
+      "y": 69,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_4": {
+      "name": "garden_volcano_64_a_0_4",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_4",
+      "x": 57,
+      "y": 78,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_3": {
+      "name": "garden_volcano_64_a_0_3",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_3",
+      "x": 57,
+      "y": 87,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_2": {
+      "name": "garden_volcano_64_a_0_2",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_2",
+      "x": 72,
+      "y": 112,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_1": {
+      "name": "garden_volcano_64_a_0_1",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_1",
+      "x": 72,
+      "y": 110,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_0": {
+      "name": "garden_volcano_64_a_0_0",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_0",
+      "x": 72,
+      "y": 108,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_14": {
+      "name": "garden_volcano_32_a_0_14",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_14",
+      "x": 28,
+      "y": 103,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_12": {
+      "name": "garden_volcano_32_a_0_12",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_12",
+      "x": 28,
+      "y": 104,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_11": {
+      "name": "garden_volcano_32_a_0_11",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_11",
+      "x": 29,
+      "y": 109,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_10": {
+      "name": "garden_volcano_32_a_0_10",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_10",
+      "x": 29,
+      "y": 106,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_9": {
+      "name": "garden_volcano_32_a_0_9",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_9",
+      "x": 29,
+      "y": 99,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_8": {
+      "name": "garden_volcano_32_a_0_8",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_8",
+      "x": 29,
+      "y": 83,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_7": {
+      "name": "garden_volcano_32_a_0_7",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_7",
+      "x": 29,
+      "y": 65,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_6": {
+      "name": "garden_volcano_32_a_0_6",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_6",
+      "x": 27,
+      "y": 49,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_5": {
+      "name": "garden_volcano_32_a_0_5",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_5",
+      "x": 25,
+      "y": 29,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_4": {
+      "name": "garden_volcano_32_a_0_4",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_4",
+      "x": 28,
+      "y": 34,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_3": {
+      "name": "garden_volcano_32_a_0_3",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_3",
+      "x": 28,
+      "y": 39,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_2": {
+      "name": "garden_volcano_32_a_0_2",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_2",
+      "x": 36,
+      "y": 51,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_1": {
+      "name": "garden_volcano_32_a_0_1",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_1",
+      "x": 36,
+      "y": 50,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_0": {
+      "name": "garden_volcano_32_a_0_0",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_0",
+      "x": 36,
+      "y": 49,
+      "exists": false
+    },
+    "garden_volcano_64_sd_0_0": {
+      "name": "garden_volcano_64_sd_0_0",
+      "x": 56,
+      "y": 3,
+      "exists": true
+    },
+    "garden_volcano_64_sd_4_0": {
+      "name": "garden_volcano_64_sd_4_0",
+      "source": "garden_volcano_64_sd_0_0",
+      "x": 56,
+      "y": 3,
+      "exists": false
+    },
+    "garden_volcano_64_a_0_14": {
+      "name": "garden_volcano_64_a_0_14",
+      "flipH": 1,
+      "source": "garden_volcano_64_a_4_14",
+      "x": 57,
+      "y": 215,
+      "exists": false
+    },
+    "garden_volcano_32_a_0_13": {
+      "name": "garden_volcano_32_a_0_13",
+      "flipH": 1,
+      "source": "garden_volcano_32_a_4_13",
+      "x": 28,
+      "y": 93,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    },
+    "directions": [
+      180,
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  4,
+                  4,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3,
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  4,
+                  4,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "garden_volcano",
+    "visualization": "furniture_animated"
+  }
+}

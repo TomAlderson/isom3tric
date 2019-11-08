@@ -1,0 +1,296 @@
+{
+  "assets": {
+    "tiki_c15_tele_64_sd_4_0": {
+      "name": "tiki_c15_tele_64_sd_4_0",
+      "x": 24,
+      "y": 12,
+      "exists": true
+    },
+    "tiki_c15_tele_64_a_4_0": {
+      "name": "tiki_c15_tele_64_a_4_0",
+      "x": 27,
+      "y": 99,
+      "exists": true
+    },
+    "tiki_c15_tele_64_b_4_0": {
+      "name": "tiki_c15_tele_64_b_4_0",
+      "x": 27,
+      "y": 96,
+      "exists": false
+    },
+    "tiki_c15_tele_64_b_4_1": {
+      "name": "tiki_c15_tele_64_b_4_1",
+      "x": 31,
+      "y": 95,
+      "exists": true
+    },
+    "tiki_c15_tele_64_b_4_2": {
+      "name": "tiki_c15_tele_64_b_4_2",
+      "x": 80,
+      "y": 205,
+      "exists": true
+    },
+    "tiki_c15_tele_64_c_4_0": {
+      "name": "tiki_c15_tele_64_c_4_0",
+      "x": 39,
+      "y": 160,
+      "exists": true
+    },
+    "tiki_c15_tele_64_d_4_0": {
+      "name": "tiki_c15_tele_64_d_4_0",
+      "x": 25,
+      "y": 92,
+      "exists": true
+    },
+    "tiki_c15_tele_64_d_4_1": {
+      "name": "tiki_c15_tele_64_d_4_1",
+      "x": 25,
+      "y": 94,
+      "exists": true
+    },
+    "tiki_c15_tele_64_e_4_0": {
+      "name": "tiki_c15_tele_64_e_4_0",
+      "x": 27,
+      "y": 93,
+      "exists": true
+    },
+    "tiki_c15_tele_64_e_4_1": {
+      "name": "tiki_c15_tele_64_e_4_1",
+      "x": 42,
+      "y": 157,
+      "exists": true
+    },
+    "tiki_c15_tele_64_e_4_2": {
+      "name": "tiki_c15_tele_64_e_4_2",
+      "x": 42,
+      "y": 163,
+      "exists": true
+    },
+    "tiki_c15_tele_icon_a": {
+      "name": "tiki_c15_tele_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "tiki_c15_tele_64_sd_2_0": {
+      "name": "tiki_c15_tele_64_sd_2_0",
+      "flipH": 1,
+      "source": "tiki_c15_tele_64_sd_4_0",
+      "x": 24,
+      "y": 12,
+      "exists": false
+    },
+    "tiki_c15_tele_64_a_2_0": {
+      "name": "tiki_c15_tele_64_a_2_0",
+      "flipH": 1,
+      "source": "tiki_c15_tele_64_a_4_0",
+      "x": 27,
+      "y": 99,
+      "exists": false
+    },
+    "tiki_c15_tele_64_b_2_0": {
+      "name": "tiki_c15_tele_64_b_2_0",
+      "flipH": 1,
+      "source": "tiki_c15_tele_64_b_4_0",
+      "x": 27,
+      "y": 96,
+      "exists": false
+    },
+    "tiki_c15_tele_64_b_2_1": {
+      "name": "tiki_c15_tele_64_b_2_1",
+      "flipH": 1,
+      "source": "tiki_c15_tele_64_b_4_1",
+      "x": 31,
+      "y": 95,
+      "exists": false
+    },
+    "tiki_c15_tele_64_b_2_2": {
+      "name": "tiki_c15_tele_64_b_2_2",
+      "flipH": 1,
+      "source": "tiki_c15_tele_64_b_4_2",
+      "x": 80,
+      "y": 205,
+      "exists": false
+    },
+    "tiki_c15_tele_64_c_2_0": {
+      "name": "tiki_c15_tele_64_c_2_0",
+      "flipH": 1,
+      "source": "tiki_c15_tele_64_c_4_0",
+      "x": 39,
+      "y": 160,
+      "exists": false
+    },
+    "tiki_c15_tele_64_d_2_0": {
+      "name": "tiki_c15_tele_64_d_2_0",
+      "flipH": 1,
+      "source": "tiki_c15_tele_64_d_4_0",
+      "x": 25,
+      "y": 92,
+      "exists": false
+    },
+    "tiki_c15_tele_64_d_2_1": {
+      "name": "tiki_c15_tele_64_d_2_1",
+      "flipH": 1,
+      "source": "tiki_c15_tele_64_d_4_1",
+      "x": 25,
+      "y": 94,
+      "exists": false
+    },
+    "tiki_c15_tele_64_e_2_0": {
+      "name": "tiki_c15_tele_64_e_2_0",
+      "flipH": 1,
+      "source": "tiki_c15_tele_64_e_4_0",
+      "x": 27,
+      "y": 93,
+      "exists": false
+    },
+    "tiki_c15_tele_64_e_2_1": {
+      "name": "tiki_c15_tele_64_e_2_1",
+      "flipH": 1,
+      "source": "tiki_c15_tele_64_e_4_1",
+      "x": 42,
+      "y": 157,
+      "exists": false
+    },
+    "tiki_c15_tele_64_e_2_2": {
+      "name": "tiki_c15_tele_64_e_2_2",
+      "flipH": 1,
+      "source": "tiki_c15_tele_64_e_4_2",
+      "x": 42,
+      "y": 163,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.01
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1,
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -200
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "z": 600
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "tiki_c15_tele",
+    "visualization": "furniture_animated"
+  }
+}

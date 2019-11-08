@@ -1,0 +1,995 @@
+{
+  "assets": {
+    "xmas_c18_bounceycastle_64_a_2_0": {
+      "name": "xmas_c18_bounceycastle_64_a_2_0",
+      "x": 43,
+      "y": 138,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_b_2_0": {
+      "name": "xmas_c18_bounceycastle_64_b_2_0",
+      "x": 80,
+      "y": 143,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_c_2_0": {
+      "name": "xmas_c18_bounceycastle_64_c_2_0",
+      "x": 2,
+      "y": 32,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_d_2_0": {
+      "name": "xmas_c18_bounceycastle_64_d_2_0",
+      "x": 104,
+      "y": 104,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_e_2_0": {
+      "name": "xmas_c18_bounceycastle_64_e_2_0",
+      "x": 92,
+      "y": -2,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_f_2_0": {
+      "name": "xmas_c18_bounceycastle_64_f_2_0",
+      "x": 33,
+      "y": 2,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_g_2_0": {
+      "name": "xmas_c18_bounceycastle_64_g_2_0",
+      "x": -28,
+      "y": 30,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_h_2_0": {
+      "name": "xmas_c18_bounceycastle_64_h_2_0",
+      "x": 62,
+      "y": -14,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_i_2_0": {
+      "name": "xmas_c18_bounceycastle_64_i_2_0",
+      "x": 62,
+      "y": -16,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_j_2_0": {
+      "name": "xmas_c18_bounceycastle_64_j_2_0",
+      "x": -11,
+      "y": -13,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_k_2_0": {
+      "name": "xmas_c18_bounceycastle_64_k_2_0",
+      "x": 32,
+      "y": -32,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_l_2_0": {
+      "name": "xmas_c18_bounceycastle_64_l_2_0",
+      "x": 32,
+      "y": -8,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_a_2_1": {
+      "name": "xmas_c18_bounceycastle_64_a_2_1",
+      "x": 39,
+      "y": 132,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_b_2_1": {
+      "name": "xmas_c18_bounceycastle_64_b_2_1",
+      "x": 81,
+      "y": 140,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_c_2_1": {
+      "name": "xmas_c18_bounceycastle_64_c_2_1",
+      "x": 2,
+      "y": 32,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_d_2_1": {
+      "name": "xmas_c18_bounceycastle_64_d_2_1",
+      "x": 105,
+      "y": 100,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_e_2_1": {
+      "name": "xmas_c18_bounceycastle_64_e_2_1",
+      "x": 93,
+      "y": -4,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_f_2_1": {
+      "name": "xmas_c18_bounceycastle_64_f_2_1",
+      "x": 33,
+      "y": 2,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_g_2_1": {
+      "name": "xmas_c18_bounceycastle_64_g_2_1",
+      "x": -28,
+      "y": 27,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_h_2_1": {
+      "name": "xmas_c18_bounceycastle_64_h_2_1",
+      "x": 62,
+      "y": -14,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_i_2_1": {
+      "name": "xmas_c18_bounceycastle_64_i_2_1",
+      "x": 63,
+      "y": -18,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_j_2_1": {
+      "name": "xmas_c18_bounceycastle_64_j_2_1",
+      "x": -4,
+      "y": -13,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_k_2_1": {
+      "name": "xmas_c18_bounceycastle_64_k_2_1",
+      "x": 32,
+      "y": -39,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_l_2_1": {
+      "name": "xmas_c18_bounceycastle_64_l_2_1",
+      "x": 33,
+      "y": -13,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_a_6_0": {
+      "name": "xmas_c18_bounceycastle_64_a_6_0",
+      "x": 31,
+      "y": 88,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_b_6_0": {
+      "name": "xmas_c18_bounceycastle_64_b_6_0",
+      "x": 63,
+      "y": 18,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_c_6_0": {
+      "name": "xmas_c18_bounceycastle_64_c_6_0",
+      "x": -8,
+      "y": 40,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_d_6_0": {
+      "name": "xmas_c18_bounceycastle_64_d_6_0",
+      "x": 94,
+      "y": 2,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_e_6_0": {
+      "name": "xmas_c18_bounceycastle_64_e_6_0",
+      "x": 91,
+      "y": 19,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_f_6_0": {
+      "name": "xmas_c18_bounceycastle_64_f_6_0",
+      "x": 47,
+      "y": 6,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_g_6_0": {
+      "name": "xmas_c18_bounceycastle_64_g_6_0",
+      "x": -8,
+      "y": 40,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_h_6_0": {
+      "name": "xmas_c18_bounceycastle_64_h_6_0",
+      "x": -8,
+      "y": 40,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_i_6_0": {
+      "name": "xmas_c18_bounceycastle_64_i_6_0",
+      "x": 63,
+      "y": -15,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_j_6_0": {
+      "name": "xmas_c18_bounceycastle_64_j_6_0",
+      "x": -57,
+      "y": 89,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_k_6_0": {
+      "name": "xmas_c18_bounceycastle_64_k_6_0",
+      "x": -20,
+      "y": 97,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_l_6_0": {
+      "name": "xmas_c18_bounceycastle_64_l_6_0",
+      "x": 31,
+      "y": 71,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_a_6_1": {
+      "name": "xmas_c18_bounceycastle_64_a_6_1",
+      "x": 30,
+      "y": 85,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_b_6_1": {
+      "name": "xmas_c18_bounceycastle_64_b_6_1",
+      "x": 64,
+      "y": 17,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_c_6_1": {
+      "name": "xmas_c18_bounceycastle_64_c_6_1",
+      "x": -8,
+      "y": 40,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_d_6_1": {
+      "name": "xmas_c18_bounceycastle_64_d_6_1",
+      "x": 95,
+      "y": 0,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_e_6_1": {
+      "name": "xmas_c18_bounceycastle_64_e_6_1",
+      "x": 92,
+      "y": 15,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_f_6_1": {
+      "name": "xmas_c18_bounceycastle_64_f_6_1",
+      "x": 50,
+      "y": 5,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_g_6_1": {
+      "name": "xmas_c18_bounceycastle_64_g_6_1",
+      "x": -8,
+      "y": 40,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_h_6_1": {
+      "name": "xmas_c18_bounceycastle_64_h_6_1",
+      "x": -8,
+      "y": 40,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_i_6_1": {
+      "name": "xmas_c18_bounceycastle_64_i_6_1",
+      "x": 64,
+      "y": -17,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_j_6_1": {
+      "name": "xmas_c18_bounceycastle_64_j_6_1",
+      "x": -60,
+      "y": 83,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_k_6_1": {
+      "name": "xmas_c18_bounceycastle_64_k_6_1",
+      "x": -19,
+      "y": 94,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_l_6_1": {
+      "name": "xmas_c18_bounceycastle_64_l_6_1",
+      "x": 32,
+      "y": 68,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_icon_a": {
+      "name": "xmas_c18_bounceycastle_icon_a",
+      "x": 13,
+      "y": 13,
+      "exists": true
+    },
+    "xmas_c18_bounceycastle_64_a_4_0": {
+      "name": "xmas_c18_bounceycastle_64_a_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_a_2_0",
+      "x": 43,
+      "y": 138,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_b_4_0": {
+      "name": "xmas_c18_bounceycastle_64_b_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_b_2_0",
+      "x": 80,
+      "y": 143,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_c_4_0": {
+      "name": "xmas_c18_bounceycastle_64_c_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_c_2_0",
+      "x": 2,
+      "y": 32,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_d_4_0": {
+      "name": "xmas_c18_bounceycastle_64_d_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_d_2_0",
+      "x": 104,
+      "y": 104,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_e_4_0": {
+      "name": "xmas_c18_bounceycastle_64_e_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_e_2_0",
+      "x": 92,
+      "y": -2,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_f_4_0": {
+      "name": "xmas_c18_bounceycastle_64_f_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_f_2_0",
+      "x": 33,
+      "y": 2,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_g_4_0": {
+      "name": "xmas_c18_bounceycastle_64_g_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_g_2_0",
+      "x": -28,
+      "y": 30,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_h_4_0": {
+      "name": "xmas_c18_bounceycastle_64_h_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_h_2_0",
+      "x": 62,
+      "y": -14,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_i_4_0": {
+      "name": "xmas_c18_bounceycastle_64_i_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_i_2_0",
+      "x": 62,
+      "y": -16,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_j_4_0": {
+      "name": "xmas_c18_bounceycastle_64_j_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_j_2_0",
+      "x": -11,
+      "y": -13,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_k_4_0": {
+      "name": "xmas_c18_bounceycastle_64_k_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_k_2_0",
+      "x": 32,
+      "y": -32,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_l_4_0": {
+      "name": "xmas_c18_bounceycastle_64_l_4_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_l_2_0",
+      "x": 32,
+      "y": -8,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_a_4_1": {
+      "name": "xmas_c18_bounceycastle_64_a_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_a_2_1",
+      "x": 39,
+      "y": 132,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_b_4_1": {
+      "name": "xmas_c18_bounceycastle_64_b_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_b_2_1",
+      "x": 81,
+      "y": 140,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_c_4_1": {
+      "name": "xmas_c18_bounceycastle_64_c_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_c_2_1",
+      "x": 2,
+      "y": 32,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_d_4_1": {
+      "name": "xmas_c18_bounceycastle_64_d_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_d_2_1",
+      "x": 105,
+      "y": 100,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_e_4_1": {
+      "name": "xmas_c18_bounceycastle_64_e_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_e_2_1",
+      "x": 93,
+      "y": -4,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_f_4_1": {
+      "name": "xmas_c18_bounceycastle_64_f_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_f_2_1",
+      "x": 33,
+      "y": 2,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_g_4_1": {
+      "name": "xmas_c18_bounceycastle_64_g_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_g_2_1",
+      "x": -28,
+      "y": 27,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_h_4_1": {
+      "name": "xmas_c18_bounceycastle_64_h_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_h_2_1",
+      "x": 62,
+      "y": -14,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_i_4_1": {
+      "name": "xmas_c18_bounceycastle_64_i_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_i_2_1",
+      "x": 63,
+      "y": -18,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_j_4_1": {
+      "name": "xmas_c18_bounceycastle_64_j_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_j_2_1",
+      "x": -4,
+      "y": -13,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_k_4_1": {
+      "name": "xmas_c18_bounceycastle_64_k_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_k_2_1",
+      "x": 32,
+      "y": -39,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_l_4_1": {
+      "name": "xmas_c18_bounceycastle_64_l_4_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_l_2_1",
+      "x": 33,
+      "y": -13,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_a_0_0": {
+      "name": "xmas_c18_bounceycastle_64_a_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_a_6_0",
+      "x": 31,
+      "y": 88,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_b_0_0": {
+      "name": "xmas_c18_bounceycastle_64_b_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_b_6_0",
+      "x": 63,
+      "y": 18,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_c_0_0": {
+      "name": "xmas_c18_bounceycastle_64_c_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_c_6_0",
+      "x": -8,
+      "y": 40,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_d_0_0": {
+      "name": "xmas_c18_bounceycastle_64_d_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_d_6_0",
+      "x": 94,
+      "y": 2,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_e_0_0": {
+      "name": "xmas_c18_bounceycastle_64_e_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_e_6_0",
+      "x": 91,
+      "y": 19,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_f_0_0": {
+      "name": "xmas_c18_bounceycastle_64_f_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_f_6_0",
+      "x": 47,
+      "y": 6,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_g_0_0": {
+      "name": "xmas_c18_bounceycastle_64_g_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_g_6_0",
+      "x": -8,
+      "y": 40,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_h_0_0": {
+      "name": "xmas_c18_bounceycastle_64_h_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_h_6_0",
+      "x": -8,
+      "y": 40,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_i_0_0": {
+      "name": "xmas_c18_bounceycastle_64_i_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_i_6_0",
+      "x": 63,
+      "y": -15,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_j_0_0": {
+      "name": "xmas_c18_bounceycastle_64_j_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_j_6_0",
+      "x": -57,
+      "y": 89,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_k_0_0": {
+      "name": "xmas_c18_bounceycastle_64_k_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_k_6_0",
+      "x": -20,
+      "y": 97,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_l_0_0": {
+      "name": "xmas_c18_bounceycastle_64_l_0_0",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_l_6_0",
+      "x": 31,
+      "y": 71,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_a_0_1": {
+      "name": "xmas_c18_bounceycastle_64_a_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_a_6_1",
+      "x": 30,
+      "y": 85,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_b_0_1": {
+      "name": "xmas_c18_bounceycastle_64_b_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_b_6_1",
+      "x": 64,
+      "y": 17,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_c_0_1": {
+      "name": "xmas_c18_bounceycastle_64_c_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_c_6_1",
+      "x": -8,
+      "y": 40,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_d_0_1": {
+      "name": "xmas_c18_bounceycastle_64_d_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_d_6_1",
+      "x": 95,
+      "y": 0,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_e_0_1": {
+      "name": "xmas_c18_bounceycastle_64_e_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_e_6_1",
+      "x": 92,
+      "y": 15,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_f_0_1": {
+      "name": "xmas_c18_bounceycastle_64_f_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_f_6_1",
+      "x": 50,
+      "y": 5,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_g_0_1": {
+      "name": "xmas_c18_bounceycastle_64_g_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_g_6_1",
+      "x": -8,
+      "y": 40,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_h_0_1": {
+      "name": "xmas_c18_bounceycastle_64_h_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_h_6_1",
+      "x": -8,
+      "y": 40,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_i_0_1": {
+      "name": "xmas_c18_bounceycastle_64_i_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_i_6_1",
+      "x": 64,
+      "y": -17,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_j_0_1": {
+      "name": "xmas_c18_bounceycastle_64_j_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_j_6_1",
+      "x": -60,
+      "y": 83,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_k_0_1": {
+      "name": "xmas_c18_bounceycastle_64_k_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_k_6_1",
+      "x": -19,
+      "y": 94,
+      "exists": false
+    },
+    "xmas_c18_bounceycastle_64_l_0_1": {
+      "name": "xmas_c18_bounceycastle_64_l_0_1",
+      "flipH": 1,
+      "source": "xmas_c18_bounceycastle_64_l_6_1",
+      "x": 32,
+      "y": 68,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3,
+      "y": 3,
+      "z": 0.6
+    },
+    "directions": [
+      0,
+      90,
+      270,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 12,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            },
+            {
+              "layerId": 7,
+              "frameSequence": []
+            },
+            {
+              "layerId": 8,
+              "frameSequence": []
+            },
+            {
+              "layerId": 9,
+              "frameSequence": []
+            },
+            {
+              "layerId": 10,
+              "frameSequence": []
+            },
+            {
+              "layerId": 11,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 10,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 11,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 2000
+        },
+        {
+          "layerId": 4,
+          "z": 2300
+        },
+        {
+          "layerId": 5,
+          "z": 2000
+        },
+        {
+          "layerId": 6,
+          "z": 2000
+        },
+        {
+          "layerId": 7,
+          "z": 2300
+        },
+        {
+          "layerId": 8,
+          "z": 3200
+        },
+        {
+          "layerId": 9,
+          "z": 3000
+        },
+        {
+          "layerId": 10,
+          "z": 4000
+        },
+        {
+          "layerId": 11,
+          "z": 4300
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "xmas_c18_bounceycastle",
+    "visualization": "furniture_animated"
+  }
+}

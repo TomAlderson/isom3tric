@@ -1,0 +1,201 @@
+{
+  "assets": {
+    "stories_oldmusic_guitarcase_64_sd_4_0": {
+      "name": "stories_oldmusic_guitarcase_64_sd_4_0",
+      "x": 24,
+      "y": 10,
+      "exists": true
+    },
+    "stories_oldmusic_guitarcase_64_a_4_0": {
+      "name": "stories_oldmusic_guitarcase_64_a_4_0",
+      "x": 23,
+      "y": 90,
+      "exists": true
+    },
+    "stories_oldmusic_guitarcase_64_b_4_1": {
+      "name": "stories_oldmusic_guitarcase_64_b_4_1",
+      "x": 23,
+      "y": 92,
+      "exists": true
+    },
+    "stories_oldmusic_guitarcase_32_sd_4_0": {
+      "name": "stories_oldmusic_guitarcase_32_sd_4_0",
+      "x": 10,
+      "y": 5,
+      "exists": true
+    },
+    "stories_oldmusic_guitarcase_32_a_4_0": {
+      "name": "stories_oldmusic_guitarcase_32_a_4_0",
+      "x": 10,
+      "y": 47,
+      "exists": true
+    },
+    "stories_oldmusic_guitarcase_32_b_4_1": {
+      "name": "stories_oldmusic_guitarcase_32_b_4_1",
+      "x": 10,
+      "y": 49,
+      "exists": true
+    },
+    "stories_oldmusic_guitarcase_icon_a": {
+      "name": "stories_oldmusic_guitarcase_icon_a",
+      "x": 7,
+      "y": 26,
+      "exists": true
+    },
+    "stories_oldmusic_guitarcase_64_sd_2_0": {
+      "name": "stories_oldmusic_guitarcase_64_sd_2_0",
+      "flipH": 1,
+      "source": "stories_oldmusic_guitarcase_64_sd_4_0",
+      "x": 24,
+      "y": 10,
+      "exists": false
+    },
+    "stories_oldmusic_guitarcase_64_a_2_0": {
+      "name": "stories_oldmusic_guitarcase_64_a_2_0",
+      "flipH": 1,
+      "source": "stories_oldmusic_guitarcase_64_a_4_0",
+      "x": 23,
+      "y": 90,
+      "exists": false
+    },
+    "stories_oldmusic_guitarcase_64_b_2_1": {
+      "name": "stories_oldmusic_guitarcase_64_b_2_1",
+      "flipH": 1,
+      "source": "stories_oldmusic_guitarcase_64_b_4_1",
+      "x": 23,
+      "y": 92,
+      "exists": false
+    },
+    "stories_oldmusic_guitarcase_32_sd_2_0": {
+      "name": "stories_oldmusic_guitarcase_32_sd_2_0",
+      "flipH": 1,
+      "source": "stories_oldmusic_guitarcase_32_sd_4_0",
+      "x": 10,
+      "y": 5,
+      "exists": false
+    },
+    "stories_oldmusic_guitarcase_32_a_2_0": {
+      "name": "stories_oldmusic_guitarcase_32_a_2_0",
+      "flipH": 1,
+      "source": "stories_oldmusic_guitarcase_32_a_4_0",
+      "x": 10,
+      "y": 47,
+      "exists": false
+    },
+    "stories_oldmusic_guitarcase_32_b_2_1": {
+      "name": "stories_oldmusic_guitarcase_32_b_2_1",
+      "flipH": 1,
+      "source": "stories_oldmusic_guitarcase_32_b_4_1",
+      "x": 10,
+      "y": 49,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "stories_oldmusic_guitarcase",
+    "visualization": "furniture_animated"
+  }
+}

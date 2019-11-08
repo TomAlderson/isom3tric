@@ -1,0 +1,302 @@
+{
+  "assets": {
+    "army_c15_bed_64_sd_2_0": {
+      "name": "army_c15_bed_64_sd_2_0",
+      "x": 22,
+      "y": 11,
+      "exists": true
+    },
+    "army_c15_bed_64_c_2_0": {
+      "name": "army_c15_bed_64_c_2_0",
+      "x": -33,
+      "y": 2,
+      "exists": true
+    },
+    "army_c15_bed_64_b_2_0": {
+      "name": "army_c15_bed_64_b_2_0",
+      "x": -1,
+      "y": 18,
+      "exists": true
+    },
+    "army_c15_bed_64_a_2_0": {
+      "name": "army_c15_bed_64_a_2_0",
+      "x": 29,
+      "y": 34,
+      "exists": true
+    },
+    "army_c15_bed_64_d_2_0": {
+      "name": "army_c15_bed_64_d_2_0",
+      "x": 21,
+      "y": -5,
+      "exists": false
+    },
+    "army_c15_bed_64_d_2_1": {
+      "name": "army_c15_bed_64_d_2_1",
+      "x": 12,
+      "y": 31,
+      "exists": true
+    },
+    "army_c15_bed_64_e_2_0": {
+      "name": "army_c15_bed_64_e_2_0",
+      "x": -62,
+      "y": -46,
+      "exists": true
+    },
+    "army_c15_bed_64_e_2_1": {
+      "name": "army_c15_bed_64_e_2_1",
+      "x": -37,
+      "y": 4,
+      "exists": true
+    },
+    "army_c15_bed_icon_a": {
+      "name": "army_c15_bed_icon_a",
+      "x": 13,
+      "y": 9,
+      "exists": true
+    },
+    "army_c15_bed_64_sd_0_0": {
+      "name": "army_c15_bed_64_sd_0_0",
+      "flipH": 1,
+      "source": "army_c15_bed_64_sd_2_0",
+      "x": 22,
+      "y": 11,
+      "exists": false
+    },
+    "army_c15_bed_64_c_0_0": {
+      "name": "army_c15_bed_64_c_0_0",
+      "flipH": 1,
+      "source": "army_c15_bed_64_c_2_0",
+      "x": -33,
+      "y": 2,
+      "exists": false
+    },
+    "army_c15_bed_64_b_0_0": {
+      "name": "army_c15_bed_64_b_0_0",
+      "flipH": 1,
+      "source": "army_c15_bed_64_b_2_0",
+      "x": -1,
+      "y": 18,
+      "exists": false
+    },
+    "army_c15_bed_64_a_0_0": {
+      "name": "army_c15_bed_64_a_0_0",
+      "flipH": 1,
+      "source": "army_c15_bed_64_a_2_0",
+      "x": 29,
+      "y": 34,
+      "exists": false
+    },
+    "army_c15_bed_64_d_0_0": {
+      "name": "army_c15_bed_64_d_0_0",
+      "flipH": 1,
+      "source": "army_c15_bed_64_d_2_0",
+      "x": 21,
+      "y": -5,
+      "exists": false
+    },
+    "army_c15_bed_64_d_0_1": {
+      "name": "army_c15_bed_64_d_0_1",
+      "flipH": 1,
+      "source": "army_c15_bed_64_d_2_1",
+      "x": 12,
+      "y": 31,
+      "exists": false
+    },
+    "army_c15_bed_64_e_0_0": {
+      "name": "army_c15_bed_64_e_0_0",
+      "flipH": 1,
+      "source": "army_c15_bed_64_e_2_0",
+      "x": -62,
+      "y": -46,
+      "exists": false
+    },
+    "army_c15_bed_64_e_0_1": {
+      "name": "army_c15_bed_64_e_0_1",
+      "flipH": 1,
+      "source": "army_c15_bed_64_e_2_1",
+      "x": -37,
+      "y": 4,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 3,
+      "z": 1.3
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1500
+        },
+        {
+          "layerId": 3
+        },
+        {
+          "layerId": 4,
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "army_c15_bed",
+    "visualization": "furniture_animated"
+  }
+}

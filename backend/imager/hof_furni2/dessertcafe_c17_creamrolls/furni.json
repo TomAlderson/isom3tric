@@ -1,0 +1,172 @@
+{
+  "assets": {
+    "dessertcafe_c17_creamrolls_64_sd_0_0": {
+      "name": "dessertcafe_c17_creamrolls_64_sd_0_0",
+      "x": 18,
+      "y": 8,
+      "exists": true
+    },
+    "dessertcafe_c17_creamrolls_64_a_0_0": {
+      "name": "dessertcafe_c17_creamrolls_64_a_0_0",
+      "x": 18,
+      "y": 19,
+      "exists": true
+    },
+    "dessertcafe_c17_creamrolls_64_a_0_1": {
+      "name": "dessertcafe_c17_creamrolls_64_a_0_1",
+      "x": 18,
+      "y": 20,
+      "exists": true
+    },
+    "dessertcafe_c17_creamrolls_64_a_0_2": {
+      "name": "dessertcafe_c17_creamrolls_64_a_0_2",
+      "x": 18,
+      "y": 16,
+      "exists": true
+    },
+    "dessertcafe_c17_creamrolls_64_a_0_3": {
+      "name": "dessertcafe_c17_creamrolls_64_a_0_3",
+      "x": 18,
+      "y": 17,
+      "exists": true
+    },
+    "dessertcafe_c17_creamrolls_icon_a": {
+      "name": "dessertcafe_c17_creamrolls_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "dessertcafe_c17_creamrolls_64_sd_2_0": {
+      "name": "dessertcafe_c17_creamrolls_64_sd_2_0",
+      "flipH": 1,
+      "source": "dessertcafe_c17_creamrolls_64_sd_0_0",
+      "x": 18,
+      "y": 8,
+      "exists": false
+    },
+    "dessertcafe_c17_creamrolls_64_a_2_0": {
+      "name": "dessertcafe_c17_creamrolls_64_a_2_0",
+      "flipH": 1,
+      "source": "dessertcafe_c17_creamrolls_64_a_0_0",
+      "x": 18,
+      "y": 19,
+      "exists": false
+    },
+    "dessertcafe_c17_creamrolls_64_a_2_1": {
+      "name": "dessertcafe_c17_creamrolls_64_a_2_1",
+      "flipH": 1,
+      "source": "dessertcafe_c17_creamrolls_64_a_0_1",
+      "x": 18,
+      "y": 20,
+      "exists": false
+    },
+    "dessertcafe_c17_creamrolls_64_a_2_2": {
+      "name": "dessertcafe_c17_creamrolls_64_a_2_2",
+      "flipH": 1,
+      "source": "dessertcafe_c17_creamrolls_64_a_0_2",
+      "x": 18,
+      "y": 16,
+      "exists": false
+    },
+    "dessertcafe_c17_creamrolls_64_a_2_3": {
+      "name": "dessertcafe_c17_creamrolls_64_a_2_3",
+      "flipH": 1,
+      "source": "dessertcafe_c17_creamrolls_64_a_0_3",
+      "x": 18,
+      "y": 17,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "dessertcafe_c17_creamrolls",
+    "visualization": "furniture_animated"
+  }
+}

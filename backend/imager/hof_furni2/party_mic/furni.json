@@ -1,0 +1,170 @@
+{
+  "assets": {
+    "party_mic_64_a_0_0": {
+      "name": "party_mic_64_a_0_0",
+      "x": 27,
+      "y": 70,
+      "exists": true
+    },
+    "party_mic_64_a_2_0": {
+      "name": "party_mic_64_a_2_0",
+      "flipH": 1,
+      "source": "party_mic_64_a_4_0",
+      "x": 25,
+      "y": 57,
+      "exists": false
+    },
+    "party_mic_64_a_4_0": {
+      "name": "party_mic_64_a_4_0",
+      "x": 25,
+      "y": 57,
+      "exists": true
+    },
+    "party_mic_64_a_6_0": {
+      "name": "party_mic_64_a_6_0",
+      "flipH": 1,
+      "source": "party_mic_64_a_0_0",
+      "x": 27,
+      "y": 70,
+      "exists": false
+    },
+    "party_mic_64_sd_0_0": {
+      "name": "party_mic_64_sd_0_0",
+      "x": 20,
+      "y": 0,
+      "exists": true
+    },
+    "party_mic_64_sd_2_0": {
+      "name": "party_mic_64_sd_2_0",
+      "source": "party_mic_64_sd_0_0",
+      "x": 20,
+      "y": 0,
+      "exists": false
+    },
+    "party_mic_64_sd_4_0": {
+      "name": "party_mic_64_sd_4_0",
+      "source": "party_mic_64_sd_0_0",
+      "x": 20,
+      "y": 0,
+      "exists": false
+    },
+    "party_mic_64_sd_6_0": {
+      "name": "party_mic_64_sd_6_0",
+      "source": "party_mic_64_sd_0_0",
+      "x": 20,
+      "y": 0,
+      "exists": false
+    },
+    "party_mic_icon_a": {
+      "name": "party_mic_icon_a",
+      "x": 12,
+      "y": 15,
+      "exists": true
+    },
+    "party_mic_32_a_0_0": {
+      "name": "party_mic_32_a_0_0",
+      "x": 14,
+      "y": 36,
+      "exists": true
+    },
+    "party_mic_32_a_2_0": {
+      "name": "party_mic_32_a_2_0",
+      "x": 15,
+      "y": 28,
+      "exists": true
+    },
+    "party_mic_32_a_4_0": {
+      "name": "party_mic_32_a_4_0",
+      "flipH": 1,
+      "source": "party_mic_32_a_2_0",
+      "x": 15,
+      "y": 28,
+      "exists": false
+    },
+    "party_mic_32_a_6_0": {
+      "name": "party_mic_32_a_6_0",
+      "flipH": 1,
+      "source": "party_mic_32_a_0_0",
+      "x": 14,
+      "y": 36,
+      "exists": false
+    },
+    "party_mic_32_sd_0_0": {
+      "name": "party_mic_32_sd_0_0",
+      "x": 12,
+      "y": -1,
+      "exists": true
+    },
+    "party_mic_32_sd_2_0": {
+      "name": "party_mic_32_sd_2_0",
+      "source": "party_mic_32_sd_0_0",
+      "x": 12,
+      "y": -1,
+      "exists": false
+    },
+    "party_mic_32_sd_4_0": {
+      "name": "party_mic_32_sd_4_0",
+      "source": "party_mic_32_sd_0_0",
+      "x": 12,
+      "y": -1,
+      "exists": false
+    },
+    "party_mic_32_sd_6_0": {
+      "name": "party_mic_32_sd_6_0",
+      "source": "party_mic_32_sd_0_0",
+      "x": 12,
+      "y": -1,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "party_mic",
+    "visualization": "furniture_static"
+  }
+}

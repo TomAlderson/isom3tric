@@ -1,0 +1,121 @@
+{
+  "assets": {
+    "cpunk15_robo_64_a_4_0": {
+      "name": "cpunk15_robo_64_a_4_0",
+      "x": 18,
+      "y": 164,
+      "exists": true
+    },
+    "cpunk15_robo_64_a_4_1": {
+      "name": "cpunk15_robo_64_a_4_1",
+      "x": 19,
+      "y": 164,
+      "exists": true
+    },
+    "cpunk15_robo_icon_a": {
+      "name": "cpunk15_robo_icon_a",
+      "x": 9,
+      "y": 13,
+      "exists": true
+    },
+    "cpunk15_robo_64_a_2_0": {
+      "name": "cpunk15_robo_64_a_2_0",
+      "flipH": 1,
+      "source": "cpunk15_robo_64_a_4_0",
+      "x": 18,
+      "y": 164,
+      "exists": false
+    },
+    "cpunk15_robo_64_a_2_1": {
+      "name": "cpunk15_robo_64_a_2_1",
+      "flipH": 1,
+      "source": "cpunk15_robo_64_a_4_1",
+      "x": 19,
+      "y": 164,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "cpunk15_robo",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "assets": {
+    "dino_c15_log_64_a_2_0": {
+      "name": "dino_c15_log_64_a_2_0",
+      "x": 18,
+      "y": 39,
+      "exists": true
+    },
+    "dino_c15_log_64_b_2_0": {
+      "name": "dino_c15_log_64_b_2_0",
+      "x": 63,
+      "y": 41,
+      "exists": true
+    },
+    "dino_c15_log_64_c_2_0": {
+      "name": "dino_c15_log_64_c_2_0",
+      "x": -12,
+      "y": 16,
+      "exists": true
+    },
+    "dino_c15_log_64_c_2_1": {
+      "name": "dino_c15_log_64_c_2_1",
+      "x": -4,
+      "y": 22,
+      "exists": true
+    },
+    "dino_c15_log_64_c_2_2": {
+      "name": "dino_c15_log_64_c_2_2",
+      "x": -4,
+      "y": 22,
+      "exists": true
+    },
+    "dino_c15_log_64_c_2_3": {
+      "name": "dino_c15_log_64_c_2_3",
+      "x": 2,
+      "y": 10,
+      "exists": true
+    },
+    "dino_c15_log_64_c_2_4": {
+      "name": "dino_c15_log_64_c_2_4",
+      "x": -28,
+      "y": -1,
+      "exists": true
+    },
+    "dino_c15_log_64_d_2_0": {
+      "name": "dino_c15_log_64_d_2_0",
+      "x": -28,
+      "y": -1,
+      "exists": false
+    },
+    "dino_c15_log_64_d_2_1": {
+      "name": "dino_c15_log_64_d_2_1",
+      "x": 14,
+      "y": 3,
+      "exists": false
+    },
+    "dino_c15_log_64_d_2_2": {
+      "name": "dino_c15_log_64_d_2_2",
+      "x": 28,
+      "y": -4,
+      "exists": false
+    },
+    "dino_c15_log_64_d_2_3": {
+      "name": "dino_c15_log_64_d_2_3",
+      "x": 35,
+      "y": -15,
+      "exists": true
+    },
+    "dino_c15_log_64_d_2_5": {
+      "name": "dino_c15_log_64_d_2_5",
+      "x": 49,
+      "y": -5,
+      "exists": true
+    },
+    "dino_c15_log_64_d_2_6": {
+      "name": "dino_c15_log_64_d_2_6",
+      "x": 49,
+      "y": 0,
+      "exists": true
+    },
+    "dino_c15_log_icon_a": {
+      "name": "dino_c15_log_icon_a",
+      "x": 14,
+      "y": 9,
+      "exists": true
+    },
+    "dino_c15_log_64_d_2_4": {
+      "name": "dino_c15_log_64_d_2_4",
+      "x": 46,
+      "y": -14,
+      "exists": true
+    },
+    "dino_c15_log_64_a_4_0": {
+      "name": "dino_c15_log_64_a_4_0",
+      "flipH": 1,
+      "source": "dino_c15_log_64_a_2_0",
+      "x": 18,
+      "y": 39,
+      "exists": false
+    },
+    "dino_c15_log_64_b_4_0": {
+      "name": "dino_c15_log_64_b_4_0",
+      "flipH": 1,
+      "source": "dino_c15_log_64_b_2_0",
+      "x": 63,
+      "y": 41,
+      "exists": false
+    },
+    "dino_c15_log_64_c_4_0": {
+      "name": "dino_c15_log_64_c_4_0",
+      "flipH": 1,
+      "source": "dino_c15_log_64_c_2_0",
+      "x": -12,
+      "y": 16,
+      "exists": false
+    },
+    "dino_c15_log_64_c_4_1": {
+      "name": "dino_c15_log_64_c_4_1",
+      "flipH": 1,
+      "source": "dino_c15_log_64_c_2_1",
+      "x": -4,
+      "y": 22,
+      "exists": false
+    },
+    "dino_c15_log_64_c_4_2": {
+      "name": "dino_c15_log_64_c_4_2",
+      "flipH": 1,
+      "source": "dino_c15_log_64_c_2_2",
+      "x": -4,
+      "y": 22,
+      "exists": false
+    },
+    "dino_c15_log_64_c_4_3": {
+      "name": "dino_c15_log_64_c_4_3",
+      "flipH": 1,
+      "source": "dino_c15_log_64_c_2_3",
+      "x": 2,
+      "y": 10,
+      "exists": false
+    },
+    "dino_c15_log_64_c_4_4": {
+      "name": "dino_c15_log_64_c_4_4",
+      "flipH": 1,
+      "source": "dino_c15_log_64_c_2_4",
+      "x": -28,
+      "y": -1,
+      "exists": false
+    },
+    "dino_c15_log_64_d_4_0": {
+      "name": "dino_c15_log_64_d_4_0",
+      "flipH": 1,
+      "source": "dino_c15_log_64_d_2_0",
+      "x": -28,
+      "y": -1,
+      "exists": false
+    },
+    "dino_c15_log_64_d_4_1": {
+      "name": "dino_c15_log_64_d_4_1",
+      "flipH": 1,
+      "source": "dino_c15_log_64_d_2_1",
+      "x": 14,
+      "y": 3,
+      "exists": false
+    },
+    "dino_c15_log_64_d_4_2": {
+      "name": "dino_c15_log_64_d_4_2",
+      "flipH": 1,
+      "source": "dino_c15_log_64_d_2_2",
+      "x": 28,
+      "y": -4,
+      "exists": false
+    },
+    "dino_c15_log_64_d_4_3": {
+      "name": "dino_c15_log_64_d_4_3",
+      "flipH": 1,
+      "source": "dino_c15_log_64_d_2_3",
+      "x": 35,
+      "y": -15,
+      "exists": false
+    },
+    "dino_c15_log_64_d_4_5": {
+      "name": "dino_c15_log_64_d_4_5",
+      "flipH": 1,
+      "source": "dino_c15_log_64_d_2_5",
+      "x": 49,
+      "y": -5,
+      "exists": false
+    },
+    "dino_c15_log_64_d_4_6": {
+      "name": "dino_c15_log_64_d_4_6",
+      "flipH": 1,
+      "source": "dino_c15_log_64_d_2_6",
+      "x": 49,
+      "y": 0,
+      "exists": false
+    },
+    "dino_c15_log_64_d_4_4": {
+      "name": "dino_c15_log_64_d_4_4",
+      "flipH": 1,
+      "source": "dino_c15_log_64_d_2_4",
+      "x": 46,
+      "y": -14,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1.4
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "dino_c15_log",
+    "visualization": "furniture_animated"
+  }
+}

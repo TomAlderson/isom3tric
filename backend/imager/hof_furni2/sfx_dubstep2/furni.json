@@ -1,0 +1,225 @@
+{
+  "assets": {
+    "sfx_dubstep2_32_sd_0_0": {
+      "name": "sfx_dubstep2_32_sd_0_0",
+      "x": 12,
+      "y": 1,
+      "exists": true
+    },
+    "sfx_dubstep2_32_a_0_0": {
+      "name": "sfx_dubstep2_32_a_0_0",
+      "x": 17,
+      "y": 23,
+      "exists": true
+    },
+    "sfx_dubstep2_32_a_0_1": {
+      "name": "sfx_dubstep2_32_a_0_1",
+      "x": 17,
+      "y": 28,
+      "exists": true
+    },
+    "sfx_dubstep2_32_a_0_2": {
+      "name": "sfx_dubstep2_32_a_0_2",
+      "x": 17,
+      "y": 25,
+      "exists": true
+    },
+    "sfx_dubstep2_32_a_0_3": {
+      "name": "sfx_dubstep2_32_a_0_3",
+      "x": 17,
+      "y": 23,
+      "exists": true
+    },
+    "sfx_dubstep2_32_a_0_4": {
+      "name": "sfx_dubstep2_32_a_0_4",
+      "x": 17,
+      "y": 24,
+      "exists": true
+    },
+    "sfx_dubstep2_64_sd_0_0": {
+      "name": "sfx_dubstep2_64_sd_0_0",
+      "x": 24,
+      "y": -2,
+      "exists": true
+    },
+    "sfx_dubstep2_64_a_0_0": {
+      "name": "sfx_dubstep2_64_a_0_0",
+      "x": 33,
+      "y": 41,
+      "exists": true
+    },
+    "sfx_dubstep2_64_a_0_1": {
+      "name": "sfx_dubstep2_64_a_0_1",
+      "x": 33,
+      "y": 51,
+      "exists": true
+    },
+    "sfx_dubstep2_64_a_0_2": {
+      "name": "sfx_dubstep2_64_a_0_2",
+      "x": 33,
+      "y": 46,
+      "exists": true
+    },
+    "sfx_dubstep2_64_a_0_3": {
+      "name": "sfx_dubstep2_64_a_0_3",
+      "x": 33,
+      "y": 41,
+      "exists": true
+    },
+    "sfx_dubstep2_64_a_0_4": {
+      "name": "sfx_dubstep2_64_a_0_4",
+      "x": 33,
+      "y": 43,
+      "exists": true
+    },
+    "sfx_dubstep2_icon_a": {
+      "name": "sfx_dubstep2_icon_a",
+      "x": 12,
+      "y": 12,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_soundblock",
+    "type": "sfx_dubstep2",
+    "visualization": "furniture_soundblock"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "assets": {
+    "bolly_pillow_64_a_0_0": {
+      "name": "bolly_pillow_64_a_0_0",
+      "x": 31,
+      "y": 22,
+      "exists": true
+    },
+    "bolly_pillow_64_a_2_0": {
+      "name": "bolly_pillow_64_a_2_0",
+      "source": "bolly_pillow_64_a_0_0",
+      "x": 31,
+      "y": 22,
+      "exists": false
+    },
+    "bolly_pillow_64_a_4_0": {
+      "name": "bolly_pillow_64_a_4_0",
+      "source": "bolly_pillow_64_a_0_0",
+      "x": 31,
+      "y": 22,
+      "exists": false
+    },
+    "bolly_pillow_64_a_6_0": {
+      "name": "bolly_pillow_64_a_6_0",
+      "source": "bolly_pillow_64_a_0_0",
+      "x": 31,
+      "y": 22,
+      "exists": false
+    },
+    "bolly_pillow_64_sd_0_0": {
+      "name": "bolly_pillow_64_sd_0_0",
+      "x": 26,
+      "y": 8,
+      "exists": true
+    },
+    "bolly_pillow_64_sd_2_0": {
+      "name": "bolly_pillow_64_sd_2_0",
+      "source": "bolly_pillow_64_sd_0_0",
+      "x": 26,
+      "y": 8,
+      "exists": false
+    },
+    "bolly_pillow_64_sd_4_0": {
+      "name": "bolly_pillow_64_sd_4_0",
+      "source": "bolly_pillow_64_sd_0_0",
+      "x": 26,
+      "y": 8,
+      "exists": false
+    },
+    "bolly_pillow_64_sd_6_0": {
+      "name": "bolly_pillow_64_sd_6_0",
+      "source": "bolly_pillow_64_sd_0_0",
+      "x": 26,
+      "y": 8,
+      "exists": false
+    },
+    "bolly_pillow_icon_a": {
+      "name": "bolly_pillow_icon_a",
+      "x": 14,
+      "y": 11,
+      "exists": true
+    },
+    "bolly_pillow_32_a_0_0": {
+      "name": "bolly_pillow_32_a_0_0",
+      "x": 13,
+      "y": 12,
+      "exists": false
+    },
+    "bolly_pillow_32_a_2_0": {
+      "name": "bolly_pillow_32_a_2_0",
+      "source": "bolly_pillow_32_a_0_0",
+      "x": 13,
+      "y": 12,
+      "exists": false
+    },
+    "bolly_pillow_32_a_4_0": {
+      "name": "bolly_pillow_32_a_4_0",
+      "source": "bolly_pillow_32_a_0_0",
+      "x": 13,
+      "y": 12,
+      "exists": false
+    },
+    "bolly_pillow_32_a_6_0": {
+      "name": "bolly_pillow_32_a_6_0",
+      "source": "bolly_pillow_32_a_0_0",
+      "x": 13,
+      "y": 12,
+      "exists": false
+    },
+    "bolly_pillow_32_sd_0_0": {
+      "name": "bolly_pillow_32_sd_0_0",
+      "x": 12,
+      "y": 5,
+      "exists": true
+    },
+    "bolly_pillow_32_sd_2_0": {
+      "name": "bolly_pillow_32_sd_2_0",
+      "source": "bolly_pillow_32_sd_0_0",
+      "x": 12,
+      "y": 5,
+      "exists": false
+    },
+    "bolly_pillow_32_sd_4_0": {
+      "name": "bolly_pillow_32_sd_4_0",
+      "source": "bolly_pillow_32_sd_0_0",
+      "x": 12,
+      "y": 5,
+      "exists": false
+    },
+    "bolly_pillow_32_sd_6_0": {
+      "name": "bolly_pillow_32_sd_6_0",
+      "source": "bolly_pillow_32_sd_0_0",
+      "x": 12,
+      "y": 5,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.8
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "bolly_pillow",
+    "visualization": "furniture_static"
+  }
+}

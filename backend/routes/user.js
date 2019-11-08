@@ -11,7 +11,8 @@ router.post("/register", (req, res, next) => {
     const user = new User({
       username: req.body.username,
       password: hash,
-      figure: req.body.figure
+      figure: req.body.figure,
+      date_of_birth: req.body.date_of_birth
     });
     user
       .save()

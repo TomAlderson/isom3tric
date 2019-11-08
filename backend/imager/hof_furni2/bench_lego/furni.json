@@ -1,0 +1,378 @@
+{
+  "assets": {
+    "bench_lego_64_a_0_0": {
+      "name": "bench_lego_64_a_0_0",
+      "flipH": 1,
+      "source": "bench_lego_64_a_2_0",
+      "x": 32,
+      "y": 24,
+      "exists": false
+    },
+    "bench_lego_64_a_2_0": {
+      "name": "bench_lego_64_a_2_0",
+      "x": 32,
+      "y": 24,
+      "exists": true
+    },
+    "bench_lego_64_a_4_0": {
+      "name": "bench_lego_64_a_4_0",
+      "flipH": 1,
+      "source": "bench_lego_64_a_2_0",
+      "x": 32,
+      "y": 24,
+      "exists": false
+    },
+    "bench_lego_64_a_6_0": {
+      "name": "bench_lego_64_a_6_0",
+      "source": "bench_lego_64_a_2_0",
+      "x": 32,
+      "y": 24,
+      "exists": false
+    },
+    "bench_lego_64_b_0_0": {
+      "name": "bench_lego_64_b_0_0",
+      "flipH": 1,
+      "source": "bench_lego_64_b_2_0",
+      "x": 64,
+      "y": 6,
+      "exists": false
+    },
+    "bench_lego_64_b_2_0": {
+      "name": "bench_lego_64_b_2_0",
+      "x": 64,
+      "y": 6,
+      "exists": true
+    },
+    "bench_lego_64_b_4_0": {
+      "name": "bench_lego_64_b_4_0",
+      "flipH": 1,
+      "source": "bench_lego_64_b_2_0",
+      "x": 64,
+      "y": 6,
+      "exists": false
+    },
+    "bench_lego_64_b_6_0": {
+      "name": "bench_lego_64_b_6_0",
+      "source": "bench_lego_64_b_2_0",
+      "x": 64,
+      "y": 6,
+      "exists": false
+    },
+    "bench_lego_64_c_0_0": {
+      "name": "bench_lego_64_c_0_0",
+      "flipH": 1,
+      "source": "bench_lego_64_c_2_0",
+      "x": 96,
+      "y": -10,
+      "exists": false
+    },
+    "bench_lego_64_c_2_0": {
+      "name": "bench_lego_64_c_2_0",
+      "x": 96,
+      "y": -10,
+      "exists": false
+    },
+    "bench_lego_64_c_4_0": {
+      "name": "bench_lego_64_c_4_0",
+      "flipH": 1,
+      "source": "bench_lego_64_c_2_0",
+      "x": 96,
+      "y": -10,
+      "exists": false
+    },
+    "bench_lego_64_c_6_0": {
+      "name": "bench_lego_64_c_6_0",
+      "source": "bench_lego_64_c_2_0",
+      "x": 96,
+      "y": -10,
+      "exists": false
+    },
+    "bench_lego_64_d_0_0": {
+      "name": "bench_lego_64_d_0_0",
+      "flipH": 1,
+      "source": "bench_lego_64_d_2_0",
+      "x": 118,
+      "y": -26,
+      "exists": false
+    },
+    "bench_lego_64_d_2_0": {
+      "name": "bench_lego_64_d_2_0",
+      "x": 118,
+      "y": -26,
+      "exists": true
+    },
+    "bench_lego_64_d_4_0": {
+      "name": "bench_lego_64_d_4_0",
+      "flipH": 1,
+      "source": "bench_lego_64_d_2_0",
+      "x": 118,
+      "y": -26,
+      "exists": false
+    },
+    "bench_lego_64_d_6_0": {
+      "name": "bench_lego_64_d_6_0",
+      "source": "bench_lego_64_d_2_0",
+      "x": 118,
+      "y": -26,
+      "exists": false
+    },
+    "bench_lego_64_sd_0_0": {
+      "name": "bench_lego_64_sd_0_0",
+      "flipH": 1,
+      "source": "bench_lego_64_sd_2_0",
+      "x": 117,
+      "y": 11,
+      "exists": false
+    },
+    "bench_lego_64_sd_2_0": {
+      "name": "bench_lego_64_sd_2_0",
+      "x": 117,
+      "y": 11,
+      "exists": true
+    },
+    "bench_lego_64_sd_4_0": {
+      "name": "bench_lego_64_sd_4_0",
+      "flipH": 1,
+      "source": "bench_lego_64_sd_2_0",
+      "x": 117,
+      "y": 11,
+      "exists": false
+    },
+    "bench_lego_64_sd_6_0": {
+      "name": "bench_lego_64_sd_6_0",
+      "source": "bench_lego_64_sd_2_0",
+      "x": 117,
+      "y": 11,
+      "exists": false
+    },
+    "bench_lego_icon_a": {
+      "name": "bench_lego_icon_a",
+      "x": 15,
+      "y": 9,
+      "exists": true
+    },
+    "bench_lego_32_a_0_0": {
+      "name": "bench_lego_32_a_0_0",
+      "flipH": 1,
+      "source": "bench_lego_32_a_2_0",
+      "x": 17,
+      "y": 11,
+      "exists": false
+    },
+    "bench_lego_32_a_2_0": {
+      "name": "bench_lego_32_a_2_0",
+      "x": 17,
+      "y": 11,
+      "exists": true
+    },
+    "bench_lego_32_a_4_0": {
+      "name": "bench_lego_32_a_4_0",
+      "flipH": 1,
+      "source": "bench_lego_32_a_2_0",
+      "x": 17,
+      "y": 11,
+      "exists": false
+    },
+    "bench_lego_32_a_6_0": {
+      "name": "bench_lego_32_a_6_0",
+      "source": "bench_lego_32_a_2_0",
+      "x": 17,
+      "y": 11,
+      "exists": false
+    },
+    "bench_lego_32_b_0_0": {
+      "name": "bench_lego_32_b_0_0",
+      "flipH": 1,
+      "source": "bench_lego_32_b_2_0",
+      "x": 31,
+      "y": 3,
+      "exists": false
+    },
+    "bench_lego_32_b_2_0": {
+      "name": "bench_lego_32_b_2_0",
+      "x": 31,
+      "y": 3,
+      "exists": true
+    },
+    "bench_lego_32_b_4_0": {
+      "name": "bench_lego_32_b_4_0",
+      "flipH": 1,
+      "source": "bench_lego_32_b_2_0",
+      "x": 31,
+      "y": 3,
+      "exists": false
+    },
+    "bench_lego_32_b_6_0": {
+      "name": "bench_lego_32_b_6_0",
+      "source": "bench_lego_32_b_2_0",
+      "x": 31,
+      "y": 3,
+      "exists": false
+    },
+    "bench_lego_32_c_0_0": {
+      "name": "bench_lego_32_c_0_0",
+      "flipH": 1,
+      "source": "bench_lego_32_c_2_0",
+      "x": 47,
+      "y": -5,
+      "exists": false
+    },
+    "bench_lego_32_c_2_0": {
+      "name": "bench_lego_32_c_2_0",
+      "x": 47,
+      "y": -5,
+      "exists": true
+    },
+    "bench_lego_32_c_4_0": {
+      "name": "bench_lego_32_c_4_0",
+      "flipH": 1,
+      "source": "bench_lego_32_c_2_0",
+      "x": 47,
+      "y": -5,
+      "exists": false
+    },
+    "bench_lego_32_c_6_0": {
+      "name": "bench_lego_32_c_6_0",
+      "source": "bench_lego_32_c_2_0",
+      "x": 47,
+      "y": -5,
+      "exists": false
+    },
+    "bench_lego_32_d_0_0": {
+      "name": "bench_lego_32_d_0_0",
+      "flipH": 1,
+      "source": "bench_lego_32_d_2_0",
+      "x": 58,
+      "y": -13,
+      "exists": false
+    },
+    "bench_lego_32_d_2_0": {
+      "name": "bench_lego_32_d_2_0",
+      "x": 58,
+      "y": -13,
+      "exists": true
+    },
+    "bench_lego_32_d_4_0": {
+      "name": "bench_lego_32_d_4_0",
+      "flipH": 1,
+      "source": "bench_lego_32_d_2_0",
+      "x": 58,
+      "y": -13,
+      "exists": false
+    },
+    "bench_lego_32_d_6_0": {
+      "name": "bench_lego_32_d_6_0",
+      "source": "bench_lego_32_d_2_0",
+      "x": 58,
+      "y": -13,
+      "exists": false
+    },
+    "bench_lego_32_sd_0_0": {
+      "name": "bench_lego_32_sd_0_0",
+      "flipH": 1,
+      "source": "bench_lego_32_sd_2_0",
+      "x": 58,
+      "y": 5,
+      "exists": false
+    },
+    "bench_lego_32_sd_2_0": {
+      "name": "bench_lego_32_sd_2_0",
+      "x": 58,
+      "y": 5,
+      "exists": true
+    },
+    "bench_lego_32_sd_4_0": {
+      "name": "bench_lego_32_sd_4_0",
+      "flipH": 1,
+      "source": "bench_lego_32_sd_2_0",
+      "x": 58,
+      "y": 5,
+      "exists": false
+    },
+    "bench_lego_32_sd_6_0": {
+      "name": "bench_lego_32_sd_6_0",
+      "source": "bench_lego_32_sd_2_0",
+      "x": 58,
+      "y": 5,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 4,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 2000
+        },
+        {
+          "layerId": 3,
+          "z": 3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 2000
+        },
+        {
+          "layerId": 3,
+          "z": 3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "bench_lego",
+    "visualization": "furniture_static"
+  }
+}

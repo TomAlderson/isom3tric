@@ -1,0 +1,150 @@
+{
+  "assets": {
+    "ads_711shelf_64_a_0_0": {
+      "name": "ads_711shelf_64_a_0_0",
+      "x": 26,
+      "y": 96,
+      "exists": true
+    },
+    "ads_711shelf_64_a_2_0": {
+      "name": "ads_711shelf_64_a_2_0",
+      "flipH": 1,
+      "source": "ads_711shelf_64_a_0_0",
+      "x": 26,
+      "y": 96,
+      "exists": false
+    },
+    "ads_711shelf_64_b_0_0": {
+      "name": "ads_711shelf_64_b_0_0",
+      "x": 59,
+      "y": 84,
+      "exists": true
+    },
+    "ads_711shelf_64_b_2_0": {
+      "name": "ads_711shelf_64_b_2_0",
+      "flipH": 1,
+      "source": "ads_711shelf_64_b_0_0",
+      "x": 59,
+      "y": 84,
+      "exists": false
+    },
+    "ads_711shelf_64_sd_0_0": {
+      "name": "ads_711shelf_64_sd_0_0",
+      "x": 59,
+      "y": 0,
+      "exists": true
+    },
+    "ads_711shelf_64_sd_2_0": {
+      "name": "ads_711shelf_64_sd_2_0",
+      "flipH": 1,
+      "source": "ads_711shelf_64_sd_0_0",
+      "x": 59,
+      "y": 0,
+      "exists": false
+    },
+    "ads_711shelf_icon_a": {
+      "name": "ads_711shelf_icon_a",
+      "x": 11,
+      "y": 15,
+      "exists": true
+    },
+    "ads_711shelf_32_a_0_0": {
+      "name": "ads_711shelf_32_a_0_0",
+      "x": 15,
+      "y": 49,
+      "exists": true
+    },
+    "ads_711shelf_32_a_2_0": {
+      "name": "ads_711shelf_32_a_2_0",
+      "flipH": 1,
+      "source": "ads_711shelf_32_a_0_0",
+      "x": 15,
+      "y": 49,
+      "exists": false
+    },
+    "ads_711shelf_32_b_0_0": {
+      "name": "ads_711shelf_32_b_0_0",
+      "x": 30,
+      "y": 42,
+      "exists": true
+    },
+    "ads_711shelf_32_b_2_0": {
+      "name": "ads_711shelf_32_b_2_0",
+      "flipH": 1,
+      "source": "ads_711shelf_32_b_0_0",
+      "x": 30,
+      "y": 42,
+      "exists": false
+    },
+    "ads_711shelf_32_sd_0_0": {
+      "name": "ads_711shelf_32_sd_0_0",
+      "x": 31,
+      "y": 1,
+      "exists": true
+    },
+    "ads_711shelf_32_sd_2_0": {
+      "name": "ads_711shelf_32_sd_2_0",
+      "flipH": 1,
+      "source": "ads_711shelf_32_sd_0_0",
+      "x": 31,
+      "y": 1,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 3
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "ads_711shelf",
+    "visualization": "furniture_static"
+  }
+}

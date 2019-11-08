@@ -1,0 +1,2144 @@
+{
+  "assets": {
+    "bolly_wdw_wd_icon_a": {
+      "name": "bolly_wdw_wd_icon_a",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_a_2_0": {
+      "name": "bolly_wdw_wd_64_a_2_0",
+      "x": 37,
+      "y": 66,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_b_2_0": {
+      "name": "bolly_wdw_wd_64_b_2_0",
+      "x": 37,
+      "y": -60,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_c_2_0": {
+      "name": "bolly_wdw_wd_64_c_2_0",
+      "x": 26,
+      "y": 59,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_c_2_1": {
+      "name": "bolly_wdw_wd_64_c_2_1",
+      "x": 26,
+      "y": 59,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_c_2_2": {
+      "name": "bolly_wdw_wd_64_c_2_2",
+      "x": 26,
+      "y": -15,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_d_2_0": {
+      "name": "bolly_wdw_wd_64_d_2_0",
+      "x": 26,
+      "y": 59,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_d_2_1": {
+      "name": "bolly_wdw_wd_64_d_2_1",
+      "x": 26,
+      "y": 59,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_d_2_2": {
+      "name": "bolly_wdw_wd_64_d_2_2",
+      "source": "bolly_wdw_wd_64_c_2_2",
+      "x": 26,
+      "y": -15,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_0": {
+      "name": "bolly_wdw_wd_64_e_2_0",
+      "x": 17,
+      "y": 51,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_1": {
+      "name": "bolly_wdw_wd_64_e_2_1",
+      "x": 18,
+      "y": 52,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_10": {
+      "name": "bolly_wdw_wd_64_e_2_10",
+      "x": -17,
+      "y": 21,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_11": {
+      "name": "bolly_wdw_wd_64_e_2_11",
+      "x": -15,
+      "y": 23,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_12": {
+      "name": "bolly_wdw_wd_64_e_2_12",
+      "x": -24,
+      "y": 57,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_13": {
+      "name": "bolly_wdw_wd_64_e_2_13",
+      "x": -23,
+      "y": 58,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_14": {
+      "name": "bolly_wdw_wd_64_e_2_14",
+      "x": -22,
+      "y": 59,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_15": {
+      "name": "bolly_wdw_wd_64_e_2_15",
+      "x": -26,
+      "y": 43,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_16": {
+      "name": "bolly_wdw_wd_64_e_2_16",
+      "x": -24,
+      "y": 45,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_17": {
+      "name": "bolly_wdw_wd_64_e_2_17",
+      "x": -23,
+      "y": 46,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_18": {
+      "name": "bolly_wdw_wd_64_e_2_18",
+      "x": -6,
+      "y": 65,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_19": {
+      "name": "bolly_wdw_wd_64_e_2_19",
+      "x": -4,
+      "y": 67,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_2": {
+      "name": "bolly_wdw_wd_64_e_2_2",
+      "x": 19,
+      "y": 53,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_20": {
+      "name": "bolly_wdw_wd_64_e_2_20",
+      "x": -3,
+      "y": 68,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_21": {
+      "name": "bolly_wdw_wd_64_e_2_21",
+      "x": -1,
+      "y": 70,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_22": {
+      "name": "bolly_wdw_wd_64_e_2_22",
+      "x": -31,
+      "y": 25,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_23": {
+      "name": "bolly_wdw_wd_64_e_2_23",
+      "x": -29,
+      "y": 27,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_24": {
+      "name": "bolly_wdw_wd_64_e_2_24",
+      "x": -28,
+      "y": 28,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_25": {
+      "name": "bolly_wdw_wd_64_e_2_25",
+      "x": -26,
+      "y": 30,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_26": {
+      "name": "bolly_wdw_wd_64_e_2_26",
+      "x": 11,
+      "y": -46,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_27": {
+      "name": "bolly_wdw_wd_64_e_2_27",
+      "x": 12,
+      "y": -45,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_28": {
+      "name": "bolly_wdw_wd_64_e_2_28",
+      "x": 13,
+      "y": -44,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_29": {
+      "name": "bolly_wdw_wd_64_e_2_29",
+      "x": 15,
+      "y": -42,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_3": {
+      "name": "bolly_wdw_wd_64_e_2_3",
+      "x": -19,
+      "y": -22,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_30": {
+      "name": "bolly_wdw_wd_64_e_2_30",
+      "x": -6,
+      "y": -37,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_31": {
+      "name": "bolly_wdw_wd_64_e_2_31",
+      "x": -4,
+      "y": -35,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_32": {
+      "name": "bolly_wdw_wd_64_e_2_32",
+      "x": -3,
+      "y": -34,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_33": {
+      "name": "bolly_wdw_wd_64_e_2_33",
+      "x": 1,
+      "y": 1,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_34": {
+      "name": "bolly_wdw_wd_64_e_2_34",
+      "x": 19,
+      "y": 59,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_35": {
+      "name": "bolly_wdw_wd_64_e_2_35",
+      "x": 21,
+      "y": 60,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_36": {
+      "name": "bolly_wdw_wd_64_e_2_36",
+      "x": 22,
+      "y": 61,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_37": {
+      "name": "bolly_wdw_wd_64_e_2_37",
+      "x": 24,
+      "y": -6,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_38": {
+      "name": "bolly_wdw_wd_64_e_2_38",
+      "x": 10,
+      "y": -4,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_39": {
+      "name": "bolly_wdw_wd_64_e_2_39",
+      "x": 11,
+      "y": -3,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_4": {
+      "name": "bolly_wdw_wd_64_e_2_4",
+      "x": 31,
+      "y": 19,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_40": {
+      "name": "bolly_wdw_wd_64_e_2_40",
+      "x": 12,
+      "y": -2,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_41": {
+      "name": "bolly_wdw_wd_64_e_2_41",
+      "x": 14,
+      "y": 0,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_42": {
+      "name": "bolly_wdw_wd_64_e_2_42",
+      "x": -15,
+      "y": 5,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_43": {
+      "name": "bolly_wdw_wd_64_e_2_43",
+      "x": -13,
+      "y": 7,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_44": {
+      "name": "bolly_wdw_wd_64_e_2_44",
+      "x": -12,
+      "y": 8,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_e_2_5": {
+      "name": "bolly_wdw_wd_64_e_2_5",
+      "x": 32,
+      "y": 20,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_6": {
+      "name": "bolly_wdw_wd_64_e_2_6",
+      "x": 33,
+      "y": 21,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_7": {
+      "name": "bolly_wdw_wd_64_e_2_7",
+      "x": 35,
+      "y": 23,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_8": {
+      "name": "bolly_wdw_wd_64_e_2_8",
+      "x": -19,
+      "y": 19,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_2_9": {
+      "name": "bolly_wdw_wd_64_e_2_9",
+      "x": -18,
+      "y": 20,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_2_mask": {
+      "name": "bolly_wdw_wd_64_2_mask",
+      "x": 26,
+      "y": 59,
+      "exists": true
+    },
+    "bolly_wdw_wd_64_a_4_0": {
+      "name": "bolly_wdw_wd_64_a_4_0",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_a_2_0",
+      "x": 37,
+      "y": 66,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_c_4_0": {
+      "name": "bolly_wdw_wd_64_c_4_0",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_c_2_0",
+      "x": 26,
+      "y": 59,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_c_4_1": {
+      "name": "bolly_wdw_wd_64_c_4_1",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_c_2_1",
+      "x": 26,
+      "y": 59,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_c_4_2": {
+      "name": "bolly_wdw_wd_64_c_4_2",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_c_2_2",
+      "x": 26,
+      "y": -15,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_d_4_0": {
+      "name": "bolly_wdw_wd_64_d_4_0",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_d_2_0",
+      "x": 26,
+      "y": 59,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_d_4_1": {
+      "name": "bolly_wdw_wd_64_d_4_1",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_d_2_1",
+      "x": 26,
+      "y": 59,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_d_4_2": {
+      "name": "bolly_wdw_wd_64_d_4_2",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_c_2_2",
+      "x": 26,
+      "y": -15,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_0": {
+      "name": "bolly_wdw_wd_64_e_4_0",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_0",
+      "x": 17,
+      "y": 51,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_1": {
+      "name": "bolly_wdw_wd_64_e_4_1",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_1",
+      "x": 18,
+      "y": 52,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_10": {
+      "name": "bolly_wdw_wd_64_e_4_10",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_10",
+      "x": -17,
+      "y": 21,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_11": {
+      "name": "bolly_wdw_wd_64_e_4_11",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_11",
+      "x": -15,
+      "y": 23,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_12": {
+      "name": "bolly_wdw_wd_64_e_4_12",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_12",
+      "x": -24,
+      "y": 57,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_13": {
+      "name": "bolly_wdw_wd_64_e_4_13",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_13",
+      "x": -23,
+      "y": 58,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_14": {
+      "name": "bolly_wdw_wd_64_e_4_14",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_14",
+      "x": -22,
+      "y": 59,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_15": {
+      "name": "bolly_wdw_wd_64_e_4_15",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_15",
+      "x": -26,
+      "y": 43,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_16": {
+      "name": "bolly_wdw_wd_64_e_4_16",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_16",
+      "x": -24,
+      "y": 45,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_17": {
+      "name": "bolly_wdw_wd_64_e_4_17",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_17",
+      "x": -23,
+      "y": 46,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_18": {
+      "name": "bolly_wdw_wd_64_e_4_18",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_18",
+      "x": -6,
+      "y": 65,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_19": {
+      "name": "bolly_wdw_wd_64_e_4_19",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_19",
+      "x": -4,
+      "y": 67,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_2": {
+      "name": "bolly_wdw_wd_64_e_4_2",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_2",
+      "x": 19,
+      "y": 53,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_20": {
+      "name": "bolly_wdw_wd_64_e_4_20",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_20",
+      "x": -3,
+      "y": 68,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_21": {
+      "name": "bolly_wdw_wd_64_e_4_21",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_21",
+      "x": -1,
+      "y": 70,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_22": {
+      "name": "bolly_wdw_wd_64_e_4_22",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_22",
+      "x": -31,
+      "y": 25,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_23": {
+      "name": "bolly_wdw_wd_64_e_4_23",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_23",
+      "x": -29,
+      "y": 27,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_24": {
+      "name": "bolly_wdw_wd_64_e_4_24",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_24",
+      "x": -28,
+      "y": 28,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_25": {
+      "name": "bolly_wdw_wd_64_e_4_25",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_25",
+      "x": -26,
+      "y": 30,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_26": {
+      "name": "bolly_wdw_wd_64_e_4_26",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_26",
+      "x": 11,
+      "y": -46,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_27": {
+      "name": "bolly_wdw_wd_64_e_4_27",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_27",
+      "x": 12,
+      "y": -45,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_28": {
+      "name": "bolly_wdw_wd_64_e_4_28",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_28",
+      "x": 13,
+      "y": -44,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_29": {
+      "name": "bolly_wdw_wd_64_e_4_29",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_29",
+      "x": 15,
+      "y": -42,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_3": {
+      "name": "bolly_wdw_wd_64_e_4_3",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_3",
+      "x": -19,
+      "y": -22,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_30": {
+      "name": "bolly_wdw_wd_64_e_4_30",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_30",
+      "x": -6,
+      "y": -37,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_31": {
+      "name": "bolly_wdw_wd_64_e_4_31",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_31",
+      "x": -4,
+      "y": -35,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_32": {
+      "name": "bolly_wdw_wd_64_e_4_32",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_32",
+      "x": -3,
+      "y": -34,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_33": {
+      "name": "bolly_wdw_wd_64_e_4_33",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_33",
+      "x": 1,
+      "y": 1,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_34": {
+      "name": "bolly_wdw_wd_64_e_4_34",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_34",
+      "x": 19,
+      "y": 59,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_35": {
+      "name": "bolly_wdw_wd_64_e_4_35",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_35",
+      "x": 21,
+      "y": 60,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_36": {
+      "name": "bolly_wdw_wd_64_e_4_36",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_36",
+      "x": 22,
+      "y": 61,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_37": {
+      "name": "bolly_wdw_wd_64_e_4_37",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_37",
+      "x": 24,
+      "y": -6,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_38": {
+      "name": "bolly_wdw_wd_64_e_4_38",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_38",
+      "x": 10,
+      "y": -4,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_39": {
+      "name": "bolly_wdw_wd_64_e_4_39",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_39",
+      "x": 11,
+      "y": -3,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_4": {
+      "name": "bolly_wdw_wd_64_e_4_4",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_4",
+      "x": 31,
+      "y": 19,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_40": {
+      "name": "bolly_wdw_wd_64_e_4_40",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_40",
+      "x": 12,
+      "y": -2,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_41": {
+      "name": "bolly_wdw_wd_64_e_4_41",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_41",
+      "x": 14,
+      "y": 0,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_42": {
+      "name": "bolly_wdw_wd_64_e_4_42",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_42",
+      "x": -15,
+      "y": 5,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_43": {
+      "name": "bolly_wdw_wd_64_e_4_43",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_43",
+      "x": -13,
+      "y": 7,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_44": {
+      "name": "bolly_wdw_wd_64_e_4_44",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_44",
+      "x": -12,
+      "y": 8,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_5": {
+      "name": "bolly_wdw_wd_64_e_4_5",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_5",
+      "x": 32,
+      "y": 20,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_6": {
+      "name": "bolly_wdw_wd_64_e_4_6",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_6",
+      "x": 33,
+      "y": 21,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_7": {
+      "name": "bolly_wdw_wd_64_e_4_7",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_7",
+      "x": 35,
+      "y": 23,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_8": {
+      "name": "bolly_wdw_wd_64_e_4_8",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_8",
+      "x": -19,
+      "y": 19,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_e_4_9": {
+      "name": "bolly_wdw_wd_64_e_4_9",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_e_2_9",
+      "x": -18,
+      "y": 20,
+      "exists": false
+    },
+    "bolly_wdw_wd_64_4_mask": {
+      "name": "bolly_wdw_wd_64_4_mask",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_64_2_mask",
+      "x": 26,
+      "y": 59,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_a_2_0": {
+      "name": "bolly_wdw_wd_32_a_2_0",
+      "x": 19,
+      "y": 33,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_b_2_0": {
+      "name": "bolly_wdw_wd_32_b_2_0",
+      "x": 19,
+      "y": -31,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_c_2_0": {
+      "name": "bolly_wdw_wd_32_c_2_0",
+      "x": 13,
+      "y": 28,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_c_2_1": {
+      "name": "bolly_wdw_wd_32_c_2_1",
+      "x": 13,
+      "y": 28,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_c_2_2": {
+      "name": "bolly_wdw_wd_32_c_2_2",
+      "x": 8,
+      "y": 2,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_d_2_0": {
+      "name": "bolly_wdw_wd_32_d_2_0",
+      "x": 13,
+      "y": 28,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_d_2_1": {
+      "name": "bolly_wdw_wd_32_d_2_1",
+      "x": 13,
+      "y": 28,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_d_2_2": {
+      "name": "bolly_wdw_wd_32_d_2_2",
+      "source": "bolly_wdw_wd_32_c_2_2",
+      "x": 8,
+      "y": 2,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_0": {
+      "name": "bolly_wdw_wd_32_e_2_0",
+      "x": 9,
+      "y": 24,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_e_2_1": {
+      "name": "bolly_wdw_wd_32_e_2_1",
+      "x": 10,
+      "y": 25,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_e_2_10": {
+      "name": "bolly_wdw_wd_32_e_2_10",
+      "x": -7,
+      "y": 12,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_11": {
+      "name": "bolly_wdw_wd_32_e_2_11",
+      "x": -6,
+      "y": 13,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_12": {
+      "name": "bolly_wdw_wd_32_e_2_12",
+      "x": -14,
+      "y": 20,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_13": {
+      "name": "bolly_wdw_wd_32_e_2_13",
+      "x": -13,
+      "y": 21,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_14": {
+      "name": "bolly_wdw_wd_32_e_2_14",
+      "x": -12,
+      "y": 22,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_15": {
+      "name": "bolly_wdw_wd_32_e_2_15",
+      "x": -9,
+      "y": 10,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_16": {
+      "name": "bolly_wdw_wd_32_e_2_16",
+      "x": -8,
+      "y": 11,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_17": {
+      "name": "bolly_wdw_wd_32_e_2_17",
+      "x": -7,
+      "y": 12,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_18": {
+      "name": "bolly_wdw_wd_32_e_2_18",
+      "x": 3,
+      "y": 29,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_19": {
+      "name": "bolly_wdw_wd_32_e_2_19",
+      "x": 4,
+      "y": 30,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_2": {
+      "name": "bolly_wdw_wd_32_e_2_2",
+      "x": 11,
+      "y": 26,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_e_2_20": {
+      "name": "bolly_wdw_wd_32_e_2_20",
+      "x": 5,
+      "y": 31,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_21": {
+      "name": "bolly_wdw_wd_32_e_2_21",
+      "x": 6,
+      "y": 32,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_22": {
+      "name": "bolly_wdw_wd_32_e_2_22",
+      "x": 15,
+      "y": 15,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_23": {
+      "name": "bolly_wdw_wd_32_e_2_23",
+      "x": 16,
+      "y": 16,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_24": {
+      "name": "bolly_wdw_wd_32_e_2_24",
+      "x": 17,
+      "y": 17,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_25": {
+      "name": "bolly_wdw_wd_32_e_2_25",
+      "x": 18,
+      "y": 18,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_26": {
+      "name": "bolly_wdw_wd_32_e_2_26",
+      "x": -3,
+      "y": -21,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_27": {
+      "name": "bolly_wdw_wd_32_e_2_27",
+      "x": -2,
+      "y": -20,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_28": {
+      "name": "bolly_wdw_wd_32_e_2_28",
+      "x": -1,
+      "y": -19,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_29": {
+      "name": "bolly_wdw_wd_32_e_2_29",
+      "x": 0,
+      "y": -18,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_3": {
+      "name": "bolly_wdw_wd_32_e_2_3",
+      "x": -8,
+      "y": -13,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_e_2_30": {
+      "name": "bolly_wdw_wd_32_e_2_30",
+      "x": 5,
+      "y": -25,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_31": {
+      "name": "bolly_wdw_wd_32_e_2_31",
+      "x": 6,
+      "y": -24,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_32": {
+      "name": "bolly_wdw_wd_32_e_2_32",
+      "x": 7,
+      "y": -23,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_33": {
+      "name": "bolly_wdw_wd_32_e_2_33",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_34": {
+      "name": "bolly_wdw_wd_32_e_2_34",
+      "x": 8,
+      "y": 30,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_e_2_35": {
+      "name": "bolly_wdw_wd_32_e_2_35",
+      "x": 9,
+      "y": 31,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_e_2_36": {
+      "name": "bolly_wdw_wd_32_e_2_36",
+      "x": 10,
+      "y": 32,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_e_2_37": {
+      "name": "bolly_wdw_wd_32_e_2_37",
+      "x": 11,
+      "y": -4,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_38": {
+      "name": "bolly_wdw_wd_32_e_2_38",
+      "x": 1,
+      "y": 4,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_39": {
+      "name": "bolly_wdw_wd_32_e_2_39",
+      "x": 2,
+      "y": 5,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_4": {
+      "name": "bolly_wdw_wd_32_e_2_4",
+      "x": 15,
+      "y": 5,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_e_2_40": {
+      "name": "bolly_wdw_wd_32_e_2_40",
+      "x": 3,
+      "y": 6,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_41": {
+      "name": "bolly_wdw_wd_32_e_2_41",
+      "x": 4,
+      "y": 7,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_42": {
+      "name": "bolly_wdw_wd_32_e_2_42",
+      "x": -11,
+      "y": -4,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_43": {
+      "name": "bolly_wdw_wd_32_e_2_43",
+      "x": -10,
+      "y": -3,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_44": {
+      "name": "bolly_wdw_wd_32_e_2_44",
+      "x": -9,
+      "y": -2,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_5": {
+      "name": "bolly_wdw_wd_32_e_2_5",
+      "x": 16,
+      "y": 6,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_e_2_6": {
+      "name": "bolly_wdw_wd_32_e_2_6",
+      "x": 17,
+      "y": 7,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_e_2_7": {
+      "name": "bolly_wdw_wd_32_e_2_7",
+      "x": 18,
+      "y": 8,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_8": {
+      "name": "bolly_wdw_wd_32_e_2_8",
+      "x": -9,
+      "y": 10,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_2_9": {
+      "name": "bolly_wdw_wd_32_e_2_9",
+      "x": -8,
+      "y": 11,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_2_mask": {
+      "name": "bolly_wdw_wd_32_2_mask",
+      "x": 13,
+      "y": 28,
+      "exists": true
+    },
+    "bolly_wdw_wd_32_a_4_0": {
+      "name": "bolly_wdw_wd_32_a_4_0",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_a_2_0",
+      "x": 19,
+      "y": 33,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_c_4_0": {
+      "name": "bolly_wdw_wd_32_c_4_0",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_c_2_0",
+      "x": 13,
+      "y": 28,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_c_4_1": {
+      "name": "bolly_wdw_wd_32_c_4_1",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_c_2_1",
+      "x": 13,
+      "y": 28,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_c_4_2": {
+      "name": "bolly_wdw_wd_32_c_4_2",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_c_2_2",
+      "x": 8,
+      "y": 2,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_d_4_0": {
+      "name": "bolly_wdw_wd_32_d_4_0",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_d_2_0",
+      "x": 13,
+      "y": 28,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_d_4_1": {
+      "name": "bolly_wdw_wd_32_d_4_1",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_d_2_1",
+      "x": 13,
+      "y": 28,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_d_4_2": {
+      "name": "bolly_wdw_wd_32_d_4_2",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_c_2_2",
+      "x": 8,
+      "y": 2,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_0": {
+      "name": "bolly_wdw_wd_32_e_4_0",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_0",
+      "x": 9,
+      "y": 24,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_1": {
+      "name": "bolly_wdw_wd_32_e_4_1",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_1",
+      "x": 10,
+      "y": 25,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_10": {
+      "name": "bolly_wdw_wd_32_e_4_10",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_10",
+      "x": -7,
+      "y": 12,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_11": {
+      "name": "bolly_wdw_wd_32_e_4_11",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_11",
+      "x": -6,
+      "y": 13,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_12": {
+      "name": "bolly_wdw_wd_32_e_4_12",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_12",
+      "x": -14,
+      "y": 20,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_13": {
+      "name": "bolly_wdw_wd_32_e_4_13",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_13",
+      "x": -13,
+      "y": 21,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_14": {
+      "name": "bolly_wdw_wd_32_e_4_14",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_14",
+      "x": -12,
+      "y": 22,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_15": {
+      "name": "bolly_wdw_wd_32_e_4_15",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_15",
+      "x": -9,
+      "y": 10,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_16": {
+      "name": "bolly_wdw_wd_32_e_4_16",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_16",
+      "x": -8,
+      "y": 11,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_17": {
+      "name": "bolly_wdw_wd_32_e_4_17",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_17",
+      "x": -7,
+      "y": 12,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_18": {
+      "name": "bolly_wdw_wd_32_e_4_18",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_18",
+      "x": 3,
+      "y": 29,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_19": {
+      "name": "bolly_wdw_wd_32_e_4_19",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_19",
+      "x": 4,
+      "y": 30,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_2": {
+      "name": "bolly_wdw_wd_32_e_4_2",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_2",
+      "x": 11,
+      "y": 26,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_20": {
+      "name": "bolly_wdw_wd_32_e_4_20",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_20",
+      "x": 5,
+      "y": 31,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_21": {
+      "name": "bolly_wdw_wd_32_e_4_21",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_21",
+      "x": 6,
+      "y": 32,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_22": {
+      "name": "bolly_wdw_wd_32_e_4_22",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_22",
+      "x": 15,
+      "y": 15,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_23": {
+      "name": "bolly_wdw_wd_32_e_4_23",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_23",
+      "x": 16,
+      "y": 16,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_24": {
+      "name": "bolly_wdw_wd_32_e_4_24",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_24",
+      "x": 17,
+      "y": 17,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_25": {
+      "name": "bolly_wdw_wd_32_e_4_25",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_25",
+      "x": 18,
+      "y": 18,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_26": {
+      "name": "bolly_wdw_wd_32_e_4_26",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_26",
+      "x": -3,
+      "y": -21,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_27": {
+      "name": "bolly_wdw_wd_32_e_4_27",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_27",
+      "x": -2,
+      "y": -20,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_28": {
+      "name": "bolly_wdw_wd_32_e_4_28",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_28",
+      "x": -1,
+      "y": -19,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_29": {
+      "name": "bolly_wdw_wd_32_e_4_29",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_29",
+      "x": 0,
+      "y": -18,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_3": {
+      "name": "bolly_wdw_wd_32_e_4_3",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_3",
+      "x": -8,
+      "y": -13,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_30": {
+      "name": "bolly_wdw_wd_32_e_4_30",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_30",
+      "x": 5,
+      "y": -25,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_31": {
+      "name": "bolly_wdw_wd_32_e_4_31",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_31",
+      "x": 6,
+      "y": -24,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_32": {
+      "name": "bolly_wdw_wd_32_e_4_32",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_32",
+      "x": 7,
+      "y": -23,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_33": {
+      "name": "bolly_wdw_wd_32_e_4_33",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_33",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_34": {
+      "name": "bolly_wdw_wd_32_e_4_34",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_34",
+      "x": 8,
+      "y": 30,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_35": {
+      "name": "bolly_wdw_wd_32_e_4_35",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_35",
+      "x": 9,
+      "y": 31,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_36": {
+      "name": "bolly_wdw_wd_32_e_4_36",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_36",
+      "x": 10,
+      "y": 32,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_37": {
+      "name": "bolly_wdw_wd_32_e_4_37",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_37",
+      "x": 11,
+      "y": -4,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_38": {
+      "name": "bolly_wdw_wd_32_e_4_38",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_38",
+      "x": 1,
+      "y": 4,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_39": {
+      "name": "bolly_wdw_wd_32_e_4_39",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_39",
+      "x": 2,
+      "y": 5,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_4": {
+      "name": "bolly_wdw_wd_32_e_4_4",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_4",
+      "x": 15,
+      "y": 5,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_40": {
+      "name": "bolly_wdw_wd_32_e_4_40",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_40",
+      "x": 3,
+      "y": 6,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_41": {
+      "name": "bolly_wdw_wd_32_e_4_41",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_41",
+      "x": 4,
+      "y": 7,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_42": {
+      "name": "bolly_wdw_wd_32_e_4_42",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_42",
+      "x": -11,
+      "y": -4,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_43": {
+      "name": "bolly_wdw_wd_32_e_4_43",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_43",
+      "x": -10,
+      "y": -3,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_44": {
+      "name": "bolly_wdw_wd_32_e_4_44",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_44",
+      "x": -9,
+      "y": -2,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_5": {
+      "name": "bolly_wdw_wd_32_e_4_5",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_5",
+      "x": 16,
+      "y": 6,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_6": {
+      "name": "bolly_wdw_wd_32_e_4_6",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_6",
+      "x": 17,
+      "y": 7,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_7": {
+      "name": "bolly_wdw_wd_32_e_4_7",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_7",
+      "x": 18,
+      "y": 8,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_8": {
+      "name": "bolly_wdw_wd_32_e_4_8",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_8",
+      "x": -9,
+      "y": 10,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_e_4_9": {
+      "name": "bolly_wdw_wd_32_e_4_9",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_e_2_9",
+      "x": -8,
+      "y": 11,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_4_mask": {
+      "name": "bolly_wdw_wd_32_4_mask",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_2_mask",
+      "x": 13,
+      "y": 28,
+      "exists": false
+    },
+    "bolly_wdw_wd_32_b_4_0": {
+      "name": "bolly_wdw_wd_32_b_4_0",
+      "flipH": 1,
+      "source": "bolly_wdw_wd_32_b_2_0",
+      "x": 19,
+      "y": -31,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1.875,
+      "y": 0.2,
+      "z": 3.3438
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  33,
+                  33,
+                  33,
+                  0,
+                  1,
+                  2,
+                  3,
+                  33,
+                  33,
+                  33,
+                  33,
+                  4,
+                  5,
+                  6,
+                  7,
+                  33,
+                  33,
+                  8,
+                  9,
+                  10,
+                  11,
+                  33,
+                  33,
+                  33,
+                  12,
+                  13,
+                  14,
+                  33,
+                  33,
+                  33,
+                  33,
+                  15,
+                  16,
+                  17,
+                  33,
+                  33,
+                  33,
+                  18,
+                  19,
+                  20,
+                  21,
+                  33,
+                  33,
+                  33,
+                  33,
+                  33,
+                  22,
+                  23,
+                  24,
+                  25,
+                  33,
+                  33,
+                  33,
+                  26,
+                  27,
+                  28,
+                  29,
+                  33,
+                  33,
+                  30,
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  33,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  33,
+                  33,
+                  33,
+                  4,
+                  5,
+                  6,
+                  7,
+                  33,
+                  33,
+                  33,
+                  8,
+                  9,
+                  10,
+                  11,
+                  33,
+                  33,
+                  33,
+                  33,
+                  12,
+                  13,
+                  14,
+                  33,
+                  33,
+                  33,
+                  15,
+                  16,
+                  17,
+                  33,
+                  33,
+                  33,
+                  33,
+                  18,
+                  19,
+                  20,
+                  21,
+                  33,
+                  33,
+                  33,
+                  22,
+                  23,
+                  24,
+                  25,
+                  33,
+                  33,
+                  33,
+                  38,
+                  39,
+                  40,
+                  41,
+                  33,
+                  33,
+                  33,
+                  42,
+                  43,
+                  44
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  33,
+                  33,
+                  33,
+                  4,
+                  5,
+                  6,
+                  7,
+                  33,
+                  33,
+                  33,
+                  8,
+                  9,
+                  10,
+                  11,
+                  33,
+                  33,
+                  33,
+                  33,
+                  12,
+                  13,
+                  14,
+                  33,
+                  33,
+                  33,
+                  15,
+                  16,
+                  17,
+                  33,
+                  33,
+                  33,
+                  33,
+                  18,
+                  19,
+                  20,
+                  21,
+                  33,
+                  33,
+                  33,
+                  22,
+                  23,
+                  24,
+                  25
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "z": -3000
+        },
+        {
+          "layerId": 3,
+          "alpha": 199,
+          "z": -3000
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  33,
+                  33,
+                  33,
+                  0,
+                  1,
+                  2,
+                  3,
+                  33,
+                  33,
+                  33,
+                  33,
+                  4,
+                  5,
+                  6,
+                  7,
+                  33,
+                  33,
+                  8,
+                  9,
+                  10,
+                  11,
+                  33,
+                  33,
+                  33,
+                  12,
+                  13,
+                  14,
+                  33,
+                  33,
+                  33,
+                  33,
+                  15,
+                  16,
+                  17,
+                  33,
+                  33,
+                  33,
+                  18,
+                  19,
+                  20,
+                  21,
+                  33,
+                  33,
+                  33,
+                  33,
+                  33,
+                  22,
+                  23,
+                  24,
+                  25,
+                  33,
+                  33,
+                  33,
+                  26,
+                  27,
+                  28,
+                  29,
+                  33,
+                  33,
+                  30,
+                  31,
+                  32
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  33,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  33,
+                  33,
+                  33,
+                  4,
+                  5,
+                  6,
+                  7,
+                  33,
+                  33,
+                  33,
+                  8,
+                  9,
+                  10,
+                  11,
+                  33,
+                  33,
+                  33,
+                  33,
+                  12,
+                  13,
+                  14,
+                  33,
+                  33,
+                  33,
+                  15,
+                  16,
+                  17,
+                  33,
+                  33,
+                  33,
+                  33,
+                  18,
+                  19,
+                  20,
+                  21,
+                  33,
+                  33,
+                  33,
+                  22,
+                  23,
+                  24,
+                  25,
+                  33,
+                  33,
+                  33,
+                  38,
+                  39,
+                  40,
+                  41,
+                  33,
+                  33,
+                  33,
+                  42,
+                  43,
+                  44
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  33,
+                  33,
+                  33,
+                  4,
+                  5,
+                  6,
+                  7,
+                  33,
+                  33,
+                  33,
+                  8,
+                  9,
+                  10,
+                  11,
+                  33,
+                  33,
+                  33,
+                  33,
+                  12,
+                  13,
+                  14,
+                  33,
+                  33,
+                  33,
+                  15,
+                  16,
+                  17,
+                  33,
+                  33,
+                  33,
+                  33,
+                  18,
+                  19,
+                  20,
+                  21,
+                  33,
+                  33,
+                  33,
+                  22,
+                  23,
+                  24,
+                  25
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "z": -3000
+        },
+        {
+          "layerId": 3,
+          "alpha": 199,
+          "z": -3000
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_window",
+    "type": "bolly_wdw_wd",
+    "visualization": "furniture_animated"
+  }
+}

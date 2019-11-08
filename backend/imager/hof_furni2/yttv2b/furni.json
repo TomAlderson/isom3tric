@@ -1,0 +1,242 @@
+{
+  "assets": {
+    "yttv2b_64_sd_4_0": {
+      "name": "yttv2b_64_sd_4_0",
+      "x": 34,
+      "y": 1,
+      "exists": true
+    },
+    "yttv2b_64_a_4_0": {
+      "name": "yttv2b_64_a_4_0",
+      "x": 35,
+      "y": 75,
+      "exists": true
+    },
+    "yttv2b_64_b_4_0": {
+      "name": "yttv2b_64_b_4_0",
+      "x": 6,
+      "y": 58,
+      "exists": true
+    },
+    "yttv2b_64_c_4_0": {
+      "name": "yttv2b_64_c_4_0",
+      "x": -26,
+      "y": 42,
+      "exists": true
+    },
+    "yttv2b_64_d_4_0": {
+      "name": "yttv2b_64_d_4_0",
+      "x": 31,
+      "y": 66,
+      "exists": true
+    },
+    "yttv2b_64_e_4_0": {
+      "name": "yttv2b_64_e_4_0",
+      "x": -19,
+      "y": 36,
+      "exists": true
+    },
+    "yttv2b_64_sd_2_0": {
+      "name": "yttv2b_64_sd_2_0",
+      "x": 65,
+      "y": 1,
+      "exists": true
+    },
+    "yttv2b_64_a_2_0": {
+      "name": "yttv2b_64_a_2_0",
+      "x": 20,
+      "y": 75,
+      "exists": true
+    },
+    "yttv2b_64_b_2_0": {
+      "name": "yttv2b_64_b_2_0",
+      "x": 52,
+      "y": 58,
+      "exists": true
+    },
+    "yttv2b_64_c_2_0": {
+      "name": "yttv2b_64_c_2_0",
+      "x": 65,
+      "y": 42,
+      "exists": true
+    },
+    "yttv2b_64_d_2_0": {
+      "name": "yttv2b_64_d_2_0",
+      "x": 53,
+      "y": 66,
+      "exists": true
+    },
+    "yttv2b_64_e_2_0": {
+      "name": "yttv2b_64_e_2_0",
+      "x": 1,
+      "y": 61,
+      "exists": true
+    },
+    "yttv2b_32_sd_4_0": {
+      "name": "yttv2b_32_sd_4_0",
+      "x": 18,
+      "y": -4,
+      "exists": true
+    },
+    "yttv2b_32_a_4_0": {
+      "name": "yttv2b_32_a_4_0",
+      "x": 20,
+      "y": 35,
+      "exists": true
+    },
+    "yttv2b_32_b_4_0": {
+      "name": "yttv2b_32_b_4_0",
+      "x": 7,
+      "y": 28,
+      "exists": true
+    },
+    "yttv2b_32_c_4_0": {
+      "name": "yttv2b_32_c_4_0",
+      "x": -9,
+      "y": 20,
+      "exists": true
+    },
+    "yttv2b_32_d_4_0": {
+      "name": "yttv2b_32_d_4_0",
+      "x": 17,
+      "y": 29,
+      "exists": true
+    },
+    "yttv2b_32_e_4_0": {
+      "name": "yttv2b_32_e_4_0",
+      "x": -7,
+      "y": 14,
+      "exists": true
+    },
+    "yttv2b_32_sd_2_0": {
+      "name": "yttv2b_32_sd_2_0",
+      "x": 30,
+      "y": -4,
+      "exists": true
+    },
+    "yttv2b_32_a_2_0": {
+      "name": "yttv2b_32_a_2_0",
+      "x": 5,
+      "y": 35,
+      "exists": true
+    },
+    "yttv2b_32_b_2_0": {
+      "name": "yttv2b_32_b_2_0",
+      "x": 21,
+      "y": 28,
+      "exists": true
+    },
+    "yttv2b_32_c_2_0": {
+      "name": "yttv2b_32_c_2_0",
+      "x": 31,
+      "y": 20,
+      "exists": true
+    },
+    "yttv2b_32_d_2_0": {
+      "name": "yttv2b_32_d_2_0",
+      "x": 24,
+      "y": 29,
+      "exists": true
+    },
+    "yttv2b_32_e_2_0": {
+      "name": "yttv2b_32_e_2_0",
+      "x": 0,
+      "y": 26,
+      "exists": true
+    },
+    "yttv2b_icon_a": {
+      "name": "yttv2b_icon_a",
+      "x": 15,
+      "y": 18,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3,
+      "y": 2,
+      "z": 2.45
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 250
+        },
+        {
+          "layerId": 1,
+          "z": 1250
+        },
+        {
+          "layerId": 2,
+          "z": 2250
+        },
+        {
+          "layerId": 3,
+          "z": 2260
+        },
+        {
+          "layerId": 4,
+          "alpha": 0,
+          "z": 2270
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 250
+        },
+        {
+          "layerId": 1,
+          "z": 1250
+        },
+        {
+          "layerId": 2,
+          "z": 2250
+        },
+        {
+          "layerId": 3,
+          "z": 2260
+        },
+        {
+          "layerId": 4,
+          "alpha": 0,
+          "z": 2270
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_youtube",
+    "type": "yttv2b",
+    "visualization": "furniture_youtube"
+  }
+}

@@ -1,0 +1,433 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding: 20px 0 0;
+	margin: 0;
+
+	background: url('/assets/images/habbo_pattern2.gif');
+
+	font-family: Verdana;
+	font-size: 11px;
+	line-height: 1.2;
+	color: #000;
+}
+
+.wrapper {
+	width: 720px;
+
+	padding: 3px;
+	margin: 0 auto;
+
+	background: #fff;
+
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 11px;
+}
+
+.wrapper__content {
+	background: #47839D;
+
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000;
+	border-radius: 8px;
+
+	overflow: hidden;
+}
+
+.register > .register__top {
+	position: relative;
+
+	height: 74px;
+
+	background: url('/assets/images/registerTop.png');
+	background-repeat: repeat-x;
+	background-position: top left;
+}
+
+.register > .register__top::before {
+	position: absolute;
+	top: 0;
+	left: 0;
+
+	width: 208px;
+	height: 74px;
+
+	background: url('/assets/images/registrationLogo.png');
+	background-repeat: no-repeat;
+	background-position: top left;
+
+	content: '';
+}
+
+.register > .register__content {
+	padding: 7px;
+}
+
+.register__footer {
+	padding: 9px;
+	margin: 4px;
+
+	background: #0A4362;
+
+    font-size: 10px;
+	font-weight: bold;
+	color: #7295AA;
+
+	text-align: center;
+
+	border-radius: 8px;
+}
+
+.box__body > .date-of-birth-container {
+    margin: 40px 0 0;
+    padding: 5px 15px 14px;
+
+    background: #fff;
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000;
+    border-radius: 10px;
+
+    text-align: center;
+}
+
+.box__body > .login-container {
+    margin: 20px 0 0;
+    padding: 10px;
+
+    background: #fff;
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000;
+    border-radius: 10px;
+
+    overflow: hidden;
+
+    text-align: right;
+}
+
+.login-container__error {
+	margin: 0 0 15px;
+
+	color: red;
+
+	text-align: center;
+}
+
+.date-of-birth > .date-of-bith__input {
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.date-of-birth__buttons > .date-of-bith__submit {
+	margin: 10px 0 0;
+}
+
+.box__body > .reasons-to-register {
+	margin: 20px 0 0;
+}
+
+#dobError {
+    display: block;
+
+	margin: 5px 0 0;
+
+    font-weight: bold;
+    color: red;
+}
+
+.checkbox-hidden {
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+}
+
+.register__steps {
+    position: absolute;
+    right: 0;
+    bottom: 4px;
+}
+
+.register__steps-step {
+    height: 26px;
+    width: 42px;
+    float: left;
+    margin: 0 5px;
+}
+
+.register__steps-step1 {
+    background: url('/assets/images/steps/1-deselected.png');
+}
+
+#registration-step1:checked ~ .wrapper > .wrapper__content > .register > .register__top > .register__steps > .register__steps-step1 {
+    background: url('/assets/images/steps/1-selected.png');
+}
+
+.box__body-step1 {
+	// display: none;
+}
+
+#registration-step1:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step1 {
+	display: block;
+}
+
+#registration-step1:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step2 {
+	display: none;
+}
+
+#registration-step1:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step3 {
+	display: none;
+}
+
+#registration-step1:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step4 {
+	display: none;
+}
+
+#registration-step1:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step5 {
+	display: none;
+}
+
+.register__steps-step2 {
+    background: url('/assets/images/steps/2-deselected.png');
+}
+
+#registration-step2:checked ~ .wrapper > .wrapper__content > .register > .register__top > .register__steps > .register__steps-step2 {
+    background: url('/assets/images/steps/2-selected.png');
+}
+
+.box__body-step2 {
+	display: none;
+}
+
+#registration-step2:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step1 {
+	display: none;
+}
+
+#registration-step2:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step2 {
+	display: block;
+}
+
+#registration-step2:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step3 {
+	display: none;
+}
+
+#registration-step2:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step4 {
+	display: none;
+}
+
+#registration-step2:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step5 {
+	display: none;
+}
+
+.register__steps-step3 {
+    background: url('/assets/images/steps/3-deselected.png');
+}
+
+#registration-step3:checked ~ .wrapper > .wrapper__content > .register > .register__top > .register__steps > .register__steps-step3 {
+    background: url('/assets/images/steps/3-selected.png');
+}
+
+.box__body-step3 {
+	display: none;
+}
+
+#registration-step3:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step1 {
+	display: none;
+}
+
+#registration-step3:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step2 {
+	display: none;
+}
+
+#registration-step3:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step3 {
+	display: block;
+}
+
+#registration-step3:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step4 {
+	display: none;
+}
+
+#registration-step3:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step5 {
+	display: none;
+}
+
+.register__steps-step4 {
+    background: url('/assets/images/steps/4-deselected.png');
+}
+
+#registration-step4:checked ~ .wrapper > .wrapper__content > .register > .register__top > .register__steps > .register__steps-step4 {
+    background: url('/assets/images/steps/4-selected.png');
+}
+
+.box__body-step4 {
+	display: none;
+}
+
+#registration-step4:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step1 {
+	display: none;
+}
+
+#registration-step4:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step2 {
+	display: none;
+}
+
+#registration-step4:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step3 {
+	display: none;
+}
+
+#registration-step4:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step4 {
+	display: block;
+}
+
+#registration-step4:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step5 {
+	display: none;
+}
+
+.register__steps-step5 {
+    background: url('/assets/images/steps/5-deselected.png');
+    width: 30px;
+}
+
+#registration-step5:checked ~ .wrapper > .wrapper__content > .register > .register__top > .register__steps > .register__steps-step5 {
+    background: url('/assets/images/steps/5-selected.png');
+}
+
+.box__body-step5 {
+	display: none;
+}
+
+#registration-step5:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step1 {
+	display: none;
+}
+
+#registration-step5:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step2 {
+	display: none;
+}
+
+#registration-step5:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step3 {
+	display: none;
+}
+
+#registration-step5:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step4 {
+	display: none;
+}
+
+#registration-step5:checked ~ .wrapper > .wrapper__content > .register > .register__content > .container-fluid > .row > .box-wrapper > .box > .box__wrapper > .box__body > form > .box__body-step5 {
+	display: block;
+}
+
+.step__buttons {
+	position: absolute;
+    bottom: 8px;
+    right: 8px;
+    left: 8px;
+}
+
+.frank {
+	float: left;
+	width: 245px;
+}
+
+.frank > .frank__speech {
+    padding: 5px 10px 5px;
+    margin: 0 0 20px;
+
+    background: #fff;
+    
+    border-color: #b93f1b;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 9px;
+}
+
+.frank > .frank__speech > p {
+	margin: 0;
+}
+
+.step-content {
+	position: relative;
+
+    float: left;
+
+    width: 409px;
+
+    padding: 8px 8px 40px;
+    margin: 0 0 10px 10px;
+
+    background: #fff;
+    
+    border-style: solid;
+    border-color: #000;
+    border-width: 1px;
+    border-radius: 8px;
+}
+
+.step-content > h1 {
+	padding: 0;
+	margin: 0;
+
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.step-content > hr {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border-top: 1px solid #000;
+}
+
+.step-content > input[type="text"] {
+	display: block;
+    width: 240px;
+}
+
+.step-content > input[type="password"] {
+	display: block;
+    width: 240px;
+}
+
+.step-content > input[type="email"] {
+	display: block;
+    width: 240px;
+}
+
+.step-content > label {
+	text-transform: uppercase;
+}
+
+.checkbox-label {
+	text-transform: none !important;
+	font-weight: normal;
+    margin: 3px 0px 0 3px;
+    display: block;
+    float: left;
+}
+
+#subscribe {
+	float: left;
+}
+
+#accept-terms {
+	float: left;
+}
+
+.terms-and-conditions {
+	height: 160px;
+    overflow: auto;
+    border-style: solid;
+    border-width: 1px;
+    padding: 6px;
+}
+
+.step-loading {
+	margin: 0 auto;
+	text-align: center;
+}

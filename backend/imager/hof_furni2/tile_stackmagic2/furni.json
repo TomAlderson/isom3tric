@@ -1,0 +1,168 @@
+{
+  "assets": {
+    "tile_stackmagic2_32_a_0_0": {
+      "name": "tile_stackmagic2_32_a_0_0",
+      "x": 31,
+      "y": 8,
+      "exists": true
+    },
+    "tile_stackmagic2_32_a_0_1": {
+      "name": "tile_stackmagic2_32_a_0_1",
+      "x": 31,
+      "y": 8,
+      "exists": true
+    },
+    "tile_stackmagic2_64_a_0_0": {
+      "name": "tile_stackmagic2_64_a_0_0",
+      "x": 63,
+      "y": 16,
+      "exists": true
+    },
+    "tile_stackmagic2_64_a_0_1": {
+      "name": "tile_stackmagic2_64_a_0_1",
+      "x": 63,
+      "y": 16,
+      "exists": true
+    },
+    "tile_stackmagic2_icon_a": {
+      "name": "tile_stackmagic2_icon_a",
+      "x": 11,
+      "y": 13,
+      "exists": true
+    },
+    "tile_stackmagic2_32_a_2_0": {
+      "name": "tile_stackmagic2_32_a_2_0",
+      "flipH": 1,
+      "source": "tile_stackmagic2_32_a_0_0",
+      "x": 31,
+      "y": 8,
+      "exists": false
+    },
+    "tile_stackmagic2_32_a_2_1": {
+      "name": "tile_stackmagic2_32_a_2_1",
+      "flipH": 1,
+      "source": "tile_stackmagic2_32_a_0_1",
+      "x": 31,
+      "y": 8,
+      "exists": false
+    },
+    "tile_stackmagic2_64_a_2_0": {
+      "name": "tile_stackmagic2_64_a_2_0",
+      "flipH": 1,
+      "source": "tile_stackmagic2_64_a_0_0",
+      "x": 63,
+      "y": 16,
+      "exists": false
+    },
+    "tile_stackmagic2_64_a_2_1": {
+      "name": "tile_stackmagic2_64_a_2_1",
+      "flipH": 1,
+      "source": "tile_stackmagic2_64_a_0_1",
+      "x": 63,
+      "y": 16,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 100000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 100000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_custom_stack_height",
+    "type": "tile_stackmagic2",
+    "visualization": "furniture_static"
+  }
+}

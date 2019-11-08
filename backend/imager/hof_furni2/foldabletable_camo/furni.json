@@ -1,0 +1,108 @@
+{
+  "assets": {
+    "foldabletable_camo_64_sd_0_0": {
+      "name": "foldabletable_camo_64_sd_0_0",
+      "x": 28,
+      "y": 14,
+      "exists": true
+    },
+    "foldabletable_camo_64_a_0_0": {
+      "name": "foldabletable_camo_64_a_0_0",
+      "x": 30,
+      "y": 48,
+      "exists": true
+    },
+    "foldabletable_camo_32_sd_0_0": {
+      "name": "foldabletable_camo_32_sd_0_0",
+      "x": 14,
+      "y": 7,
+      "exists": true
+    },
+    "foldabletable_camo_32_a_0_0": {
+      "name": "foldabletable_camo_32_a_0_0",
+      "x": 15,
+      "y": 24,
+      "exists": false
+    },
+    "foldabletable_camo_icon_a": {
+      "name": "foldabletable_camo_icon_a",
+      "x": 15,
+      "y": 17,
+      "exists": true
+    },
+    "foldabletable_camo_64_sd_2_0": {
+      "name": "foldabletable_camo_64_sd_2_0",
+      "flipH": 1,
+      "source": "foldabletable_camo_64_sd_0_0",
+      "x": 28,
+      "y": 14,
+      "exists": false
+    },
+    "foldabletable_camo_64_a_2_0": {
+      "name": "foldabletable_camo_64_a_2_0",
+      "flipH": 1,
+      "source": "foldabletable_camo_64_a_0_0",
+      "x": 30,
+      "y": 48,
+      "exists": false
+    },
+    "foldabletable_camo_32_sd_2_0": {
+      "name": "foldabletable_camo_32_sd_2_0",
+      "flipH": 1,
+      "source": "foldabletable_camo_32_sd_0_0",
+      "x": 14,
+      "y": 7,
+      "exists": false
+    },
+    "foldabletable_camo_32_a_2_0": {
+      "name": "foldabletable_camo_32_a_2_0",
+      "flipH": 1,
+      "source": "foldabletable_camo_32_a_0_0",
+      "x": 15,
+      "y": 24,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "foldabletable_camo",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "assets": {
+    "xmas14_inflatabletree_64_sd_0_0": {
+      "name": "xmas14_inflatabletree_64_sd_0_0",
+      "x": 18,
+      "y": 10,
+      "exists": true
+    },
+    "xmas14_inflatabletree_64_a_0_0": {
+      "name": "xmas14_inflatabletree_64_a_0_0",
+      "x": 38,
+      "y": 127,
+      "exists": true
+    },
+    "xmas14_inflatabletree_icon_a": {
+      "name": "xmas14_inflatabletree_icon_a",
+      "x": 7,
+      "y": 13,
+      "exists": true
+    },
+    "xmas14_inflatabletree_64_sd_6_0": {
+      "name": "xmas14_inflatabletree_64_sd_6_0",
+      "flipH": 1,
+      "source": "xmas14_inflatabletree_64_sd_0_0",
+      "x": 18,
+      "y": 10,
+      "exists": false
+    },
+    "xmas14_inflatabletree_64_a_6_0": {
+      "name": "xmas14_inflatabletree_64_a_6_0",
+      "flipH": 1,
+      "source": "xmas14_inflatabletree_64_a_0_0",
+      "x": 38,
+      "y": 127,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "xmas14_inflatabletree",
+    "visualization": "furniture_animated"
+  }
+}

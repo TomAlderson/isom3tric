@@ -1,0 +1,108 @@
+{
+  "assets": {
+    "vikings_woodcrn_64_sd_0_0": {
+      "name": "vikings_woodcrn_64_sd_0_0",
+      "x": 29,
+      "y": 13,
+      "exists": true
+    },
+    "vikings_woodcrn_64_a_0_0": {
+      "name": "vikings_woodcrn_64_a_0_0",
+      "x": 29,
+      "y": 57,
+      "exists": true
+    },
+    "vikings_woodcrn_32_sd_0_0": {
+      "name": "vikings_woodcrn_32_sd_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": true
+    },
+    "vikings_woodcrn_32_a_0_0": {
+      "name": "vikings_woodcrn_32_a_0_0",
+      "x": 15,
+      "y": 29,
+      "exists": true
+    },
+    "vikings_woodcrn_icon_a": {
+      "name": "vikings_woodcrn_icon_a",
+      "x": 12,
+      "y": 14,
+      "exists": true
+    },
+    "vikings_woodcrn_64_sd_6_0": {
+      "name": "vikings_woodcrn_64_sd_6_0",
+      "flipH": 1,
+      "source": "vikings_woodcrn_64_sd_0_0",
+      "x": 29,
+      "y": 13,
+      "exists": false
+    },
+    "vikings_woodcrn_64_a_6_0": {
+      "name": "vikings_woodcrn_64_a_6_0",
+      "flipH": 1,
+      "source": "vikings_woodcrn_64_a_0_0",
+      "x": 29,
+      "y": 57,
+      "exists": false
+    },
+    "vikings_woodcrn_32_sd_6_0": {
+      "name": "vikings_woodcrn_32_sd_6_0",
+      "flipH": 1,
+      "source": "vikings_woodcrn_32_sd_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": false
+    },
+    "vikings_woodcrn_32_a_6_0": {
+      "name": "vikings_woodcrn_32_a_6_0",
+      "flipH": 1,
+      "source": "vikings_woodcrn_32_a_0_0",
+      "x": 15,
+      "y": 29,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.4
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "vikings_woodcrn",
+    "visualization": "furniture_static"
+  }
+}

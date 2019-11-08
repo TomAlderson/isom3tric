@@ -1,0 +1,108 @@
+{
+  "assets": {
+    "typingmachine_32_a_0_0": {
+      "name": "typingmachine_32_a_0_0",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "typingmachine_32_a_2_0": {
+      "name": "typingmachine_32_a_2_0",
+      "flipH": 1,
+      "source": "typingmachine_32_a_0_0",
+      "x": 13,
+      "y": 14,
+      "exists": false
+    },
+    "typingmachine_32_sd_0_0": {
+      "name": "typingmachine_32_sd_0_0",
+      "x": 11,
+      "y": 1,
+      "exists": true
+    },
+    "typingmachine_32_sd_2_0": {
+      "name": "typingmachine_32_sd_2_0",
+      "source": "typingmachine_32_sd_0_0",
+      "x": 11,
+      "y": 1,
+      "exists": false
+    },
+    "typingmachine_64_a_0_0": {
+      "name": "typingmachine_64_a_0_0",
+      "x": 24,
+      "y": 29,
+      "exists": true
+    },
+    "typingmachine_64_a_2_0": {
+      "name": "typingmachine_64_a_2_0",
+      "flipH": 1,
+      "source": "typingmachine_64_a_0_0",
+      "x": 24,
+      "y": 29,
+      "exists": false
+    },
+    "typingmachine_64_sd_0_0": {
+      "name": "typingmachine_64_sd_0_0",
+      "x": 21,
+      "y": 3,
+      "exists": true
+    },
+    "typingmachine_64_sd_2_0": {
+      "name": "typingmachine_64_sd_2_0",
+      "source": "typingmachine_64_sd_0_0",
+      "x": 21,
+      "y": 3,
+      "exists": false
+    },
+    "typingmachine_icon_a": {
+      "name": "typingmachine_icon_a",
+      "x": 15,
+      "y": 12,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "typingmachine",
+    "visualization": "furniture_static"
+  }
+}

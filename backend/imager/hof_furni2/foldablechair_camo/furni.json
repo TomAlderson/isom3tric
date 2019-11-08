@@ -1,0 +1,244 @@
+{
+  "assets": {
+    "foldablechair_camo_64_sd_2_0": {
+      "name": "foldablechair_camo_64_sd_2_0",
+      "x": 23,
+      "y": 12,
+      "exists": true
+    },
+    "foldablechair_camo_64_a_2_0": {
+      "name": "foldablechair_camo_64_a_2_0",
+      "x": 25,
+      "y": 57,
+      "exists": true
+    },
+    "foldablechair_camo_64_b_2_0": {
+      "name": "foldablechair_camo_64_b_2_0",
+      "x": 9,
+      "y": 6,
+      "exists": true
+    },
+    "foldablechair_camo_64_a_6_0": {
+      "name": "foldablechair_camo_64_a_6_0",
+      "x": 19,
+      "y": 43,
+      "exists": true
+    },
+    "foldablechair_camo_64_b_6_0": {
+      "name": "foldablechair_camo_64_b_6_0",
+      "x": 3,
+      "y": 43,
+      "exists": true
+    },
+    "foldablechair_camo_32_b_2_0": {
+      "name": "foldablechair_camo_32_b_2_0",
+      "x": 4,
+      "y": 15,
+      "exists": false
+    },
+    "foldablechair_camo_32_sd_2_0": {
+      "name": "foldablechair_camo_32_sd_2_0",
+      "x": 13,
+      "y": 6,
+      "exists": true
+    },
+    "foldablechair_camo_32_a_2_0": {
+      "name": "foldablechair_camo_32_a_2_0",
+      "x": 13,
+      "y": 29,
+      "exists": true
+    },
+    "foldablechair_camo_32_a_6_0": {
+      "name": "foldablechair_camo_32_a_6_0",
+      "x": 10,
+      "y": 23,
+      "exists": true
+    },
+    "foldablechair_camo_32_b_6_0": {
+      "name": "foldablechair_camo_32_b_6_0",
+      "x": 2,
+      "y": 23,
+      "exists": true
+    },
+    "foldablechair_camo_icon_a": {
+      "name": "foldablechair_camo_icon_a",
+      "x": 12,
+      "y": 16,
+      "exists": true
+    },
+    "foldablechair_camo_64_a_4_0": {
+      "name": "foldablechair_camo_64_a_4_0",
+      "flipH": 1,
+      "source": "foldablechair_camo_64_a_2_0",
+      "x": 25,
+      "y": 57,
+      "exists": false
+    },
+    "foldablechair_camo_64_b_4_0": {
+      "name": "foldablechair_camo_64_b_4_0",
+      "flipH": 1,
+      "source": "foldablechair_camo_64_b_2_0",
+      "x": 9,
+      "y": 6,
+      "exists": false
+    },
+    "foldablechair_camo_32_b_4_0": {
+      "name": "foldablechair_camo_32_b_4_0",
+      "flipH": 1,
+      "source": "foldablechair_camo_32_b_2_0",
+      "x": 4,
+      "y": 15,
+      "exists": false
+    },
+    "foldablechair_camo_32_a_4_0": {
+      "name": "foldablechair_camo_32_a_4_0",
+      "flipH": 1,
+      "source": "foldablechair_camo_32_a_2_0",
+      "x": 13,
+      "y": 29,
+      "exists": false
+    },
+    "foldablechair_camo_64_a_0_0": {
+      "name": "foldablechair_camo_64_a_0_0",
+      "flipH": 1,
+      "source": "foldablechair_camo_64_a_6_0",
+      "x": 19,
+      "y": 43,
+      "exists": false
+    },
+    "foldablechair_camo_64_b_0_0": {
+      "name": "foldablechair_camo_64_b_0_0",
+      "flipH": 1,
+      "source": "foldablechair_camo_64_b_6_0",
+      "x": 3,
+      "y": 43,
+      "exists": false
+    },
+    "foldablechair_camo_32_a_0_0": {
+      "name": "foldablechair_camo_32_a_0_0",
+      "flipH": 1,
+      "source": "foldablechair_camo_32_a_6_0",
+      "x": 10,
+      "y": 23,
+      "exists": false
+    },
+    "foldablechair_camo_32_b_0_0": {
+      "name": "foldablechair_camo_32_b_0_0",
+      "flipH": 1,
+      "source": "foldablechair_camo_32_b_6_0",
+      "x": 2,
+      "y": 23,
+      "exists": false
+    },
+    "foldablechair_camo_64_sd_0_0": {
+      "name": "foldablechair_camo_64_sd_0_0",
+      "source": "foldablechair_camo_64_sd_2_0",
+      "x": 23,
+      "y": 12,
+      "exists": false
+    },
+    "foldablechair_camo_32_sd_0_0": {
+      "name": "foldablechair_camo_32_sd_0_0",
+      "source": "foldablechair_camo_32_sd_2_0",
+      "x": 13,
+      "y": 6,
+      "exists": false
+    },
+    "foldablechair_camo_64_sd_6_0": {
+      "name": "foldablechair_camo_64_sd_6_0",
+      "source": "foldablechair_camo_64_sd_2_0",
+      "x": 23,
+      "y": 12,
+      "exists": false
+    },
+    "foldablechair_camo_32_sd_6_0": {
+      "name": "foldablechair_camo_32_sd_6_0",
+      "source": "foldablechair_camo_32_sd_2_0",
+      "x": 13,
+      "y": 6,
+      "exists": false
+    },
+    "foldablechair_camo_64_sd_4_0": {
+      "name": "foldablechair_camo_64_sd_4_0",
+      "source": "foldablechair_camo_64_sd_2_0",
+      "x": 23,
+      "y": 12,
+      "exists": false
+    },
+    "foldablechair_camo_32_sd_4_0": {
+      "name": "foldablechair_camo_32_sd_4_0",
+      "source": "foldablechair_camo_32_sd_2_0",
+      "x": 13,
+      "y": 6,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.75
+    },
+    "directions": [
+      90,
+      270,
+      0,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -50
+        },
+        {
+          "layerId": 1,
+          "z": 100
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -50
+        },
+        {
+          "layerId": 1,
+          "z": 100
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "foldablechair_camo",
+    "visualization": "furniture_static"
+  }
+}

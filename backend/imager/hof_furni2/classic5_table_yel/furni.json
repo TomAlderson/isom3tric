@@ -1,0 +1,121 @@
+{
+  "assets": {
+    "classic5_table_yel_64_sd_0_0": {
+      "name": "classic5_table_yel_64_sd_0_0",
+      "x": 47,
+      "y": 7,
+      "exists": true
+    },
+    "classic5_table_yel_64_a_0_0": {
+      "name": "classic5_table_yel_64_a_0_0",
+      "x": 31,
+      "y": 35,
+      "exists": true
+    },
+    "classic5_table_yel_64_b_0_0": {
+      "name": "classic5_table_yel_64_b_0_0",
+      "x": 47,
+      "y": 29,
+      "exists": true
+    },
+    "classic5_table_yel_64_c_0_0": {
+      "name": "classic5_table_yel_64_c_0_0",
+      "x": 33,
+      "y": 13,
+      "exists": true
+    },
+    "classic5_table_yel_icon_a": {
+      "name": "classic5_table_yel_icon_a",
+      "x": 13,
+      "y": 9,
+      "exists": true
+    },
+    "classic5_table_yel_64_sd_6_0": {
+      "name": "classic5_table_yel_64_sd_6_0",
+      "flipH": 1,
+      "source": "classic5_table_yel_64_sd_0_0",
+      "x": 47,
+      "y": 7,
+      "exists": false
+    },
+    "classic5_table_yel_64_a_6_0": {
+      "name": "classic5_table_yel_64_a_6_0",
+      "flipH": 1,
+      "source": "classic5_table_yel_64_a_0_0",
+      "x": 31,
+      "y": 35,
+      "exists": false
+    },
+    "classic5_table_yel_64_b_6_0": {
+      "name": "classic5_table_yel_64_b_6_0",
+      "flipH": 1,
+      "source": "classic5_table_yel_64_b_0_0",
+      "x": 47,
+      "y": 29,
+      "exists": false
+    },
+    "classic5_table_yel_64_c_6_0": {
+      "name": "classic5_table_yel_64_c_6_0",
+      "flipH": 1,
+      "source": "classic5_table_yel_64_c_0_0",
+      "x": 33,
+      "y": 13,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0.9
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "classic5_table_yel",
+    "visualization": "furniture_static"
+  }
+}

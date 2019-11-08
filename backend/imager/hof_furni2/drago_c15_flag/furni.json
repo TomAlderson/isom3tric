@@ -1,0 +1,263 @@
+{
+  "assets": {
+    "drago_c15_flag_64_a_2_0": {
+      "name": "drago_c15_flag_64_a_2_0",
+      "x": 38,
+      "y": 184,
+      "exists": true
+    },
+    "drago_c15_flag_64_a_2_1": {
+      "name": "drago_c15_flag_64_a_2_1",
+      "x": 38,
+      "y": 184,
+      "exists": true
+    },
+    "drago_c15_flag_64_b_2_0": {
+      "name": "drago_c15_flag_64_b_2_0",
+      "x": 23,
+      "y": 154,
+      "exists": false
+    },
+    "drago_c15_flag_64_b_2_1": {
+      "name": "drago_c15_flag_64_b_2_1",
+      "x": 45,
+      "y": 129,
+      "exists": true
+    },
+    "drago_c15_flag_64_b_2_2": {
+      "name": "drago_c15_flag_64_b_2_2",
+      "x": 44,
+      "y": 153,
+      "exists": true
+    },
+    "drago_c15_flag_64_b_2_3": {
+      "name": "drago_c15_flag_64_b_2_3",
+      "x": 45,
+      "y": 180,
+      "exists": true
+    },
+    "drago_c15_flag_64_c_2_0": {
+      "name": "drago_c15_flag_64_c_2_0",
+      "x": 23,
+      "y": 154,
+      "exists": true
+    },
+    "drago_c15_flag_64_c_2_1": {
+      "name": "drago_c15_flag_64_c_2_1",
+      "x": 77,
+      "y": 198,
+      "exists": true
+    },
+    "drago_c15_flag_64_c_2_2": {
+      "name": "drago_c15_flag_64_c_2_2",
+      "x": 71,
+      "y": 194,
+      "exists": true
+    },
+    "drago_c15_flag_64_c_2_3": {
+      "name": "drago_c15_flag_64_c_2_3",
+      "x": 89,
+      "y": 196,
+      "exists": true
+    },
+    "drago_c15_flag_icon_a": {
+      "name": "drago_c15_flag_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "drago_c15_flag_64_a_4_0": {
+      "name": "drago_c15_flag_64_a_4_0",
+      "flipH": 1,
+      "source": "drago_c15_flag_64_a_2_0",
+      "x": 38,
+      "y": 184,
+      "exists": false
+    },
+    "drago_c15_flag_64_a_4_1": {
+      "name": "drago_c15_flag_64_a_4_1",
+      "flipH": 1,
+      "source": "drago_c15_flag_64_a_2_1",
+      "x": 38,
+      "y": 184,
+      "exists": false
+    },
+    "drago_c15_flag_64_b_4_0": {
+      "name": "drago_c15_flag_64_b_4_0",
+      "flipH": 1,
+      "source": "drago_c15_flag_64_b_2_0",
+      "x": 23,
+      "y": 154,
+      "exists": false
+    },
+    "drago_c15_flag_64_b_4_1": {
+      "name": "drago_c15_flag_64_b_4_1",
+      "flipH": 1,
+      "source": "drago_c15_flag_64_b_2_1",
+      "x": 45,
+      "y": 129,
+      "exists": false
+    },
+    "drago_c15_flag_64_b_4_2": {
+      "name": "drago_c15_flag_64_b_4_2",
+      "flipH": 1,
+      "source": "drago_c15_flag_64_b_2_2",
+      "x": 44,
+      "y": 153,
+      "exists": false
+    },
+    "drago_c15_flag_64_b_4_3": {
+      "name": "drago_c15_flag_64_b_4_3",
+      "flipH": 1,
+      "source": "drago_c15_flag_64_b_2_3",
+      "x": 45,
+      "y": 180,
+      "exists": false
+    },
+    "drago_c15_flag_64_c_4_0": {
+      "name": "drago_c15_flag_64_c_4_0",
+      "flipH": 1,
+      "source": "drago_c15_flag_64_c_2_0",
+      "x": 23,
+      "y": 154,
+      "exists": false
+    },
+    "drago_c15_flag_64_c_4_1": {
+      "name": "drago_c15_flag_64_c_4_1",
+      "flipH": 1,
+      "source": "drago_c15_flag_64_c_2_1",
+      "x": 77,
+      "y": 198,
+      "exists": false
+    },
+    "drago_c15_flag_64_c_4_2": {
+      "name": "drago_c15_flag_64_c_4_2",
+      "flipH": 1,
+      "source": "drago_c15_flag_64_c_2_2",
+      "x": 71,
+      "y": 194,
+      "exists": false
+    },
+    "drago_c15_flag_64_c_4_3": {
+      "name": "drago_c15_flag_64_c_4_3",
+      "flipH": 1,
+      "source": "drago_c15_flag_64_c_2_3",
+      "x": 89,
+      "y": 196,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1.9,
+      "y": 0.2,
+      "z": 3.5
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        },
+        {
+          "layerId": 1,
+          "z": -1000
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "z": -1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "drago_c15_flag",
+    "visualization": "furniture_animated"
+  }
+}

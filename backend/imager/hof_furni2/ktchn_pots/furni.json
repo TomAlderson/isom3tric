@@ -1,0 +1,170 @@
+{
+  "assets": {
+    "ktchn_pots_64_a_0_0": {
+      "name": "ktchn_pots_64_a_0_0",
+      "x": -2,
+      "y": 103,
+      "exists": true
+    },
+    "ktchn_pots_64_a_2_0": {
+      "name": "ktchn_pots_64_a_2_0",
+      "flipH": 1,
+      "source": "ktchn_pots_64_a_0_0",
+      "x": -2,
+      "y": 103,
+      "exists": false
+    },
+    "ktchn_pots_64_b_0_0": {
+      "name": "ktchn_pots_64_b_0_0",
+      "x": 29,
+      "y": 165,
+      "exists": true
+    },
+    "ktchn_pots_64_b_2_0": {
+      "name": "ktchn_pots_64_b_2_0",
+      "flipH": 1,
+      "source": "ktchn_pots_64_b_0_0",
+      "x": 29,
+      "y": 165,
+      "exists": false
+    },
+    "ktchn_pots_64_c_0_0": {
+      "name": "ktchn_pots_64_c_0_0",
+      "x": 24,
+      "y": 9,
+      "exists": true
+    },
+    "ktchn_pots_64_c_2_0": {
+      "name": "ktchn_pots_64_c_2_0",
+      "flipH": 1,
+      "source": "ktchn_pots_64_c_0_0",
+      "x": 24,
+      "y": 9,
+      "exists": false
+    },
+    "ktchn_pots_icon_a": {
+      "name": "ktchn_pots_icon_a",
+      "x": 12,
+      "y": 14,
+      "exists": true
+    },
+    "ktchn_pots_32_a_0_0": {
+      "name": "ktchn_pots_32_a_0_0",
+      "x": -5,
+      "y": 42,
+      "exists": true
+    },
+    "ktchn_pots_32_a_2_0": {
+      "name": "ktchn_pots_32_a_2_0",
+      "flipH": 1,
+      "source": "ktchn_pots_32_a_0_0",
+      "x": -5,
+      "y": 42,
+      "exists": false
+    },
+    "ktchn_pots_32_b_0_0": {
+      "name": "ktchn_pots_32_b_0_0",
+      "x": 15,
+      "y": 83,
+      "exists": true
+    },
+    "ktchn_pots_32_b_2_0": {
+      "name": "ktchn_pots_32_b_2_0",
+      "flipH": 1,
+      "source": "ktchn_pots_32_b_0_0",
+      "x": 15,
+      "y": 83,
+      "exists": false
+    },
+    "ktchn_pots_32_c_0_0": {
+      "name": "ktchn_pots_32_c_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": true
+    },
+    "ktchn_pots_32_c_2_0": {
+      "name": "ktchn_pots_32_c_2_0",
+      "flipH": 1,
+      "source": "ktchn_pots_32_c_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -100
+        },
+        {
+          "layerId": 1,
+          "z": 5500
+        },
+        {
+          "layerId": 2,
+          "alpha": 41,
+          "ignoreMouse": 1,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -100
+        },
+        {
+          "layerId": 1,
+          "z": 5500
+        },
+        {
+          "layerId": 2,
+          "alpha": 41,
+          "ignoreMouse": 1,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "ktchn_pots",
+    "visualization": "furniture_static"
+  }
+}

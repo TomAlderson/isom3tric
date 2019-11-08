@@ -1,0 +1,756 @@
+{
+  "assets": {
+    "army_c15_telemine_64_a_0_0": {
+      "name": "army_c15_telemine_64_a_0_0",
+      "x": 12,
+      "y": 10,
+      "exists": true
+    },
+    "army_c15_telemine_64_a_0_1": {
+      "name": "army_c15_telemine_64_a_0_1",
+      "x": 12,
+      "y": 9,
+      "exists": true
+    },
+    "army_c15_telemine_64_a_0_2": {
+      "name": "army_c15_telemine_64_a_0_2",
+      "x": 29,
+      "y": 13,
+      "exists": true
+    },
+    "army_c15_telemine_64_b_0_0": {
+      "name": "army_c15_telemine_64_b_0_0",
+      "x": -5,
+      "y": -5,
+      "exists": false
+    },
+    "army_c15_telemine_64_b_0_1": {
+      "name": "army_c15_telemine_64_b_0_1",
+      "x": 22,
+      "y": 20,
+      "exists": true
+    },
+    "army_c15_telemine_64_b_0_2": {
+      "name": "army_c15_telemine_64_b_0_2",
+      "x": 30,
+      "y": 36,
+      "exists": true
+    },
+    "army_c15_telemine_64_b_0_3": {
+      "name": "army_c15_telemine_64_b_0_3",
+      "x": 40,
+      "y": 31,
+      "exists": true
+    },
+    "army_c15_telemine_64_c_0_0": {
+      "name": "army_c15_telemine_64_c_0_0",
+      "x": -5,
+      "y": -5,
+      "exists": true
+    },
+    "army_c15_telemine_64_c_0_1": {
+      "name": "army_c15_telemine_64_c_0_1",
+      "x": 92,
+      "y": 114,
+      "exists": true
+    },
+    "army_c15_telemine_64_c_0_2": {
+      "name": "army_c15_telemine_64_c_0_2",
+      "x": 104,
+      "y": 143,
+      "exists": true
+    },
+    "army_c15_telemine_64_c_0_3": {
+      "name": "army_c15_telemine_64_c_0_3",
+      "x": 101,
+      "y": 160,
+      "exists": true
+    },
+    "army_c15_telemine_64_c_0_4": {
+      "name": "army_c15_telemine_64_c_0_4",
+      "x": 97,
+      "y": 166,
+      "exists": true
+    },
+    "army_c15_telemine_64_c_0_5": {
+      "name": "army_c15_telemine_64_c_0_5",
+      "x": 101,
+      "y": 181,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_0": {
+      "name": "army_c15_telemine_64_d_0_0",
+      "x": -5,
+      "y": -5,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_1": {
+      "name": "army_c15_telemine_64_d_0_1",
+      "x": 29,
+      "y": 64,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_2": {
+      "name": "army_c15_telemine_64_d_0_2",
+      "x": 43,
+      "y": 96,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_3": {
+      "name": "army_c15_telemine_64_d_0_3",
+      "x": 47,
+      "y": 120,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_4": {
+      "name": "army_c15_telemine_64_d_0_4",
+      "x": 55,
+      "y": 134,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_5": {
+      "name": "army_c15_telemine_64_d_0_5",
+      "x": 58,
+      "y": 153,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_6": {
+      "name": "army_c15_telemine_64_d_0_6",
+      "x": 58,
+      "y": 161,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_7": {
+      "name": "army_c15_telemine_64_d_0_7",
+      "x": 57,
+      "y": 175,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_8": {
+      "name": "army_c15_telemine_64_d_0_8",
+      "x": 57,
+      "y": 183,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_9": {
+      "name": "army_c15_telemine_64_d_0_9",
+      "x": 55,
+      "y": 192,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_10": {
+      "name": "army_c15_telemine_64_d_0_10",
+      "x": 55,
+      "y": 195,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_11": {
+      "name": "army_c15_telemine_64_d_0_11",
+      "x": 42,
+      "y": 202,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_12": {
+      "name": "army_c15_telemine_64_d_0_12",
+      "x": 38,
+      "y": 206,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_13": {
+      "name": "army_c15_telemine_64_d_0_13",
+      "x": 36,
+      "y": 210,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_14": {
+      "name": "army_c15_telemine_64_d_0_14",
+      "x": 30,
+      "y": 216,
+      "exists": true
+    },
+    "army_c15_telemine_64_d_0_15": {
+      "name": "army_c15_telemine_64_d_0_15",
+      "x": 36,
+      "y": 221,
+      "exists": true
+    },
+    "army_c15_telemine_64_e_0_0": {
+      "name": "army_c15_telemine_64_e_0_0",
+      "x": -5,
+      "y": -5,
+      "exists": false
+    },
+    "army_c15_telemine_64_e_0_1": {
+      "name": "army_c15_telemine_64_e_0_1",
+      "x": 21,
+      "y": 72,
+      "exists": true
+    },
+    "army_c15_telemine_64_e_0_2": {
+      "name": "army_c15_telemine_64_e_0_2",
+      "x": 31,
+      "y": 86,
+      "exists": true
+    },
+    "army_c15_telemine_64_e_0_3": {
+      "name": "army_c15_telemine_64_e_0_3",
+      "x": 33,
+      "y": 59,
+      "exists": true
+    },
+    "army_c15_telemine_icon_a": {
+      "name": "army_c15_telemine_icon_a",
+      "x": 11,
+      "y": 7,
+      "exists": false
+    },
+    "army_c15_telemine_64_a_2_0": {
+      "name": "army_c15_telemine_64_a_2_0",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_a_0_0",
+      "x": 12,
+      "y": 10,
+      "exists": false
+    },
+    "army_c15_telemine_64_a_2_1": {
+      "name": "army_c15_telemine_64_a_2_1",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_a_0_1",
+      "x": 12,
+      "y": 9,
+      "exists": false
+    },
+    "army_c15_telemine_64_a_2_2": {
+      "name": "army_c15_telemine_64_a_2_2",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_a_0_2",
+      "x": 29,
+      "y": 13,
+      "exists": false
+    },
+    "army_c15_telemine_64_b_2_0": {
+      "name": "army_c15_telemine_64_b_2_0",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_b_0_0",
+      "x": -5,
+      "y": -5,
+      "exists": false
+    },
+    "army_c15_telemine_64_b_2_1": {
+      "name": "army_c15_telemine_64_b_2_1",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_b_0_1",
+      "x": 22,
+      "y": 20,
+      "exists": false
+    },
+    "army_c15_telemine_64_b_2_2": {
+      "name": "army_c15_telemine_64_b_2_2",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_b_0_2",
+      "x": 30,
+      "y": 36,
+      "exists": false
+    },
+    "army_c15_telemine_64_b_2_3": {
+      "name": "army_c15_telemine_64_b_2_3",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_b_0_3",
+      "x": 40,
+      "y": 31,
+      "exists": false
+    },
+    "army_c15_telemine_64_c_2_0": {
+      "name": "army_c15_telemine_64_c_2_0",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_c_0_0",
+      "x": -5,
+      "y": -5,
+      "exists": false
+    },
+    "army_c15_telemine_64_c_2_1": {
+      "name": "army_c15_telemine_64_c_2_1",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_c_0_1",
+      "x": 92,
+      "y": 114,
+      "exists": false
+    },
+    "army_c15_telemine_64_c_2_2": {
+      "name": "army_c15_telemine_64_c_2_2",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_c_0_2",
+      "x": 104,
+      "y": 143,
+      "exists": false
+    },
+    "army_c15_telemine_64_c_2_3": {
+      "name": "army_c15_telemine_64_c_2_3",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_c_0_3",
+      "x": 101,
+      "y": 160,
+      "exists": false
+    },
+    "army_c15_telemine_64_c_2_4": {
+      "name": "army_c15_telemine_64_c_2_4",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_c_0_4",
+      "x": 97,
+      "y": 166,
+      "exists": false
+    },
+    "army_c15_telemine_64_c_2_5": {
+      "name": "army_c15_telemine_64_c_2_5",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_c_0_5",
+      "x": 101,
+      "y": 181,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_0": {
+      "name": "army_c15_telemine_64_d_2_0",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_0",
+      "x": -5,
+      "y": -5,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_1": {
+      "name": "army_c15_telemine_64_d_2_1",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_1",
+      "x": 29,
+      "y": 64,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_2": {
+      "name": "army_c15_telemine_64_d_2_2",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_2",
+      "x": 43,
+      "y": 96,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_3": {
+      "name": "army_c15_telemine_64_d_2_3",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_3",
+      "x": 47,
+      "y": 120,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_4": {
+      "name": "army_c15_telemine_64_d_2_4",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_4",
+      "x": 55,
+      "y": 134,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_5": {
+      "name": "army_c15_telemine_64_d_2_5",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_5",
+      "x": 58,
+      "y": 153,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_6": {
+      "name": "army_c15_telemine_64_d_2_6",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_6",
+      "x": 58,
+      "y": 161,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_7": {
+      "name": "army_c15_telemine_64_d_2_7",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_7",
+      "x": 57,
+      "y": 175,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_8": {
+      "name": "army_c15_telemine_64_d_2_8",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_8",
+      "x": 57,
+      "y": 183,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_9": {
+      "name": "army_c15_telemine_64_d_2_9",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_9",
+      "x": 55,
+      "y": 192,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_10": {
+      "name": "army_c15_telemine_64_d_2_10",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_10",
+      "x": 55,
+      "y": 195,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_11": {
+      "name": "army_c15_telemine_64_d_2_11",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_11",
+      "x": 42,
+      "y": 202,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_12": {
+      "name": "army_c15_telemine_64_d_2_12",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_12",
+      "x": 38,
+      "y": 206,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_13": {
+      "name": "army_c15_telemine_64_d_2_13",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_13",
+      "x": 36,
+      "y": 210,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_14": {
+      "name": "army_c15_telemine_64_d_2_14",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_14",
+      "x": 30,
+      "y": 216,
+      "exists": false
+    },
+    "army_c15_telemine_64_d_2_15": {
+      "name": "army_c15_telemine_64_d_2_15",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_d_0_15",
+      "x": 36,
+      "y": 221,
+      "exists": false
+    },
+    "army_c15_telemine_64_e_2_0": {
+      "name": "army_c15_telemine_64_e_2_0",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_e_0_0",
+      "x": -5,
+      "y": -5,
+      "exists": false
+    },
+    "army_c15_telemine_64_e_2_1": {
+      "name": "army_c15_telemine_64_e_2_1",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_e_0_1",
+      "x": 21,
+      "y": 72,
+      "exists": false
+    },
+    "army_c15_telemine_64_e_2_2": {
+      "name": "army_c15_telemine_64_e_2_2",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_e_0_2",
+      "x": 31,
+      "y": 86,
+      "exists": false
+    },
+    "army_c15_telemine_64_e_2_3": {
+      "name": "army_c15_telemine_64_e_2_3",
+      "flipH": 1,
+      "source": "army_c15_telemine_64_e_0_3",
+      "x": 33,
+      "y": 59,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "army_c15_telemine",
+    "visualization": "furniture_animated"
+  }
+}

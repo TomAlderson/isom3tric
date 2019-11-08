@@ -1,0 +1,105 @@
+{
+  "assets": {
+    "horse_dye_00_32_a_0_0": {
+      "name": "horse_dye_00_32_a_0_0",
+      "x": 6,
+      "y": 11,
+      "exists": true
+    },
+    "horse_dye_00_32_b_0_0": {
+      "name": "horse_dye_00_32_b_0_0",
+      "x": 5,
+      "y": 18,
+      "exists": true
+    },
+    "horse_dye_00_64_a_0_0": {
+      "name": "horse_dye_00_64_a_0_0",
+      "x": 13,
+      "y": 24,
+      "exists": true
+    },
+    "horse_dye_00_64_b_0_0": {
+      "name": "horse_dye_00_64_b_0_0",
+      "x": 11,
+      "y": 37,
+      "exists": true
+    },
+    "horse_dye_00_icon_a": {
+      "name": "horse_dye_00_icon_a",
+      "x": 6,
+      "y": 11,
+      "exists": false
+    },
+    "horse_dye_00_icon_b": {
+      "name": "horse_dye_00_icon_b",
+      "x": 5,
+      "y": 18,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.6
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {},
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 0
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_pet_customization",
+    "type": "horse_dye_00",
+    "visualization": "furniture_static"
+  }
+}

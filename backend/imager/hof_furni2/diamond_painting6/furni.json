@@ -1,0 +1,88 @@
+{
+  "assets": {
+    "diamond_painting6_64_a_2_0": {
+      "name": "diamond_painting6_64_a_2_0",
+      "x": 41,
+      "y": 49,
+      "exists": true
+    },
+    "diamond_painting6_64_a_4_0": {
+      "name": "diamond_painting6_64_a_4_0",
+      "x": 41,
+      "y": 49,
+      "exists": true
+    },
+    "diamond_painting6_32_a_2_0": {
+      "name": "diamond_painting6_32_a_2_0",
+      "x": 22,
+      "y": 27,
+      "exists": true
+    },
+    "diamond_painting6_32_a_4_0": {
+      "name": "diamond_painting6_32_a_4_0",
+      "x": 22,
+      "y": 27,
+      "exists": true
+    },
+    "diamond_painting6_icon_a": {
+      "name": "diamond_painting6_icon_a",
+      "x": 34,
+      "y": 155,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2.3,
+      "y": 0.2,
+      "z": 1.8
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "diamond_painting6",
+    "visualization": "furniture_static"
+  }
+}

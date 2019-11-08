@@ -1,0 +1,73 @@
+{
+  "assets": {
+    "ads_woz_mpu_32_a_4_0": {
+      "name": "ads_woz_mpu_32_a_4_0",
+      "x": 82,
+      "y": 193,
+      "exists": true
+    },
+    "ads_woz_mpu_64_a_4_0": {
+      "name": "ads_woz_mpu_64_a_4_0",
+      "x": 154,
+      "y": 364,
+      "exists": true
+    },
+    "ads_woz_mpu_icon_a": {
+      "name": "ads_woz_mpu_icon_a",
+      "x": 14,
+      "y": 12,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 5000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 5000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_internal_link",
+    "type": "ads_woz_mpu",
+    "visualization": "furniture_static"
+  }
+}

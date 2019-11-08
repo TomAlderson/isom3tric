@@ -1,0 +1,370 @@
+{
+  "assets": {
+    "sporttrack3_32_a_0_0": {
+      "name": "sporttrack3_32_a_0_0",
+      "x": 32,
+      "y": 8,
+      "exists": true
+    },
+    "sporttrack3_32_a_2_0": {
+      "name": "sporttrack3_32_a_2_0",
+      "source": "sporttrack3_32_a_0_0",
+      "x": 32,
+      "y": 8,
+      "exists": false
+    },
+    "sporttrack3_32_a_4_0": {
+      "name": "sporttrack3_32_a_4_0",
+      "source": "sporttrack3_32_a_0_0",
+      "x": 32,
+      "y": 8,
+      "exists": false
+    },
+    "sporttrack3_32_a_6_0": {
+      "name": "sporttrack3_32_a_6_0",
+      "source": "sporttrack3_32_a_0_0",
+      "x": 32,
+      "y": 8,
+      "exists": false
+    },
+    "sporttrack3_32_b_0_0": {
+      "name": "sporttrack3_32_b_0_0",
+      "x": 32,
+      "y": 7,
+      "exists": true
+    },
+    "sporttrack3_32_b_2_0": {
+      "name": "sporttrack3_32_b_2_0",
+      "source": "sporttrack3_32_b_0_0",
+      "x": 32,
+      "y": 7,
+      "exists": false
+    },
+    "sporttrack3_32_b_4_0": {
+      "name": "sporttrack3_32_b_4_0",
+      "source": "sporttrack3_32_b_0_0",
+      "x": 32,
+      "y": 7,
+      "exists": false
+    },
+    "sporttrack3_32_b_6_0": {
+      "name": "sporttrack3_32_b_6_0",
+      "source": "sporttrack3_32_b_0_0",
+      "x": 32,
+      "y": 7,
+      "exists": false
+    },
+    "sporttrack3_32_c_0_0": {
+      "name": "sporttrack3_32_c_0_0",
+      "x": 32,
+      "y": 8,
+      "exists": true
+    },
+    "sporttrack3_32_c_2_0": {
+      "name": "sporttrack3_32_c_2_0",
+      "x": 32,
+      "y": 8,
+      "exists": true
+    },
+    "sporttrack3_32_c_4_0": {
+      "name": "sporttrack3_32_c_4_0",
+      "x": 32,
+      "y": 8,
+      "exists": true
+    },
+    "sporttrack3_32_c_6_0": {
+      "name": "sporttrack3_32_c_6_0",
+      "x": 32,
+      "y": 8,
+      "exists": true
+    },
+    "sporttrack3_32_d_0_0": {
+      "name": "sporttrack3_32_d_0_0",
+      "x": -31,
+      "y": 3,
+      "exists": true
+    },
+    "sporttrack3_32_d_2_0": {
+      "name": "sporttrack3_32_d_2_0",
+      "x": -31,
+      "y": 3,
+      "exists": false
+    },
+    "sporttrack3_32_d_4_0": {
+      "name": "sporttrack3_32_d_4_0",
+      "x": 30,
+      "y": 3,
+      "exists": false
+    },
+    "sporttrack3_32_d_6_0": {
+      "name": "sporttrack3_32_d_6_0",
+      "x": 30,
+      "y": 3,
+      "exists": false
+    },
+    "sporttrack3_64_a_0_0": {
+      "name": "sporttrack3_64_a_0_0",
+      "x": 65,
+      "y": 17,
+      "exists": true
+    },
+    "sporttrack3_64_a_2_0": {
+      "name": "sporttrack3_64_a_2_0",
+      "source": "sporttrack3_64_a_0_0",
+      "x": 65,
+      "y": 17,
+      "exists": false
+    },
+    "sporttrack3_64_a_4_0": {
+      "name": "sporttrack3_64_a_4_0",
+      "source": "sporttrack3_64_a_0_0",
+      "x": 65,
+      "y": 17,
+      "exists": false
+    },
+    "sporttrack3_64_a_6_0": {
+      "name": "sporttrack3_64_a_6_0",
+      "source": "sporttrack3_64_a_0_0",
+      "x": 65,
+      "y": 17,
+      "exists": false
+    },
+    "sporttrack3_64_b_0_0": {
+      "name": "sporttrack3_64_b_0_0",
+      "x": 65,
+      "y": 16,
+      "exists": true
+    },
+    "sporttrack3_64_b_2_0": {
+      "name": "sporttrack3_64_b_2_0",
+      "source": "sporttrack3_64_b_0_0",
+      "x": 65,
+      "y": 16,
+      "exists": false
+    },
+    "sporttrack3_64_b_4_0": {
+      "name": "sporttrack3_64_b_4_0",
+      "source": "sporttrack3_64_b_0_0",
+      "x": 65,
+      "y": 16,
+      "exists": false
+    },
+    "sporttrack3_64_b_6_0": {
+      "name": "sporttrack3_64_b_6_0",
+      "source": "sporttrack3_64_b_0_0",
+      "x": 65,
+      "y": 16,
+      "exists": false
+    },
+    "sporttrack3_64_c_0_0": {
+      "name": "sporttrack3_64_c_0_0",
+      "flipH": 1,
+      "source": "sporttrack3_64_c_6_0",
+      "x": 65,
+      "y": 19,
+      "exists": false
+    },
+    "sporttrack3_64_c_2_0": {
+      "name": "sporttrack3_64_c_2_0",
+      "flipH": 1,
+      "source": "sporttrack3_64_c_4_0",
+      "x": 65,
+      "y": 18,
+      "exists": false
+    },
+    "sporttrack3_64_c_4_0": {
+      "name": "sporttrack3_64_c_4_0",
+      "x": 65,
+      "y": 18,
+      "exists": true
+    },
+    "sporttrack3_64_c_6_0": {
+      "name": "sporttrack3_64_c_6_0",
+      "x": 65,
+      "y": 19,
+      "exists": true
+    },
+    "sporttrack3_64_d_0_0": {
+      "name": "sporttrack3_64_d_0_0",
+      "x": -57,
+      "y": 10,
+      "exists": true
+    },
+    "sporttrack3_64_d_2_0": {
+      "name": "sporttrack3_64_d_2_0",
+      "x": -57,
+      "y": 10,
+      "exists": false
+    },
+    "sporttrack3_64_d_4_0": {
+      "name": "sporttrack3_64_d_4_0",
+      "x": 60,
+      "y": 9,
+      "exists": false
+    },
+    "sporttrack3_64_d_6_0": {
+      "name": "sporttrack3_64_d_6_0",
+      "x": 60,
+      "y": 9,
+      "exists": false
+    },
+    "sporttrack3_icon_a": {
+      "name": "sporttrack3_icon_a",
+      "x": 97,
+      "y": 34,
+      "exists": true
+    },
+    "sporttrack3_icon_b": {
+      "name": "sporttrack3_icon_b",
+      "x": 89,
+      "y": 24,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "e4592d"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "62818b"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "5cb800"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "e4592d"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "62818b"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "5cb800"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2000
+        },
+        {
+          "layerId": 1,
+          "z": -2000
+        },
+        {
+          "layerId": 2,
+          "z": -2000
+        },
+        {
+          "layerId": 3,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "e4592d"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "62818b"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "5cb800"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2000
+        },
+        {
+          "layerId": 1,
+          "z": -2000
+        },
+        {
+          "layerId": 2,
+          "z": -2000
+        },
+        {
+          "layerId": 3,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "sporttrack3",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "assets": {
+    "hblooza14_horsecarop_64_sd_4_0": {
+      "name": "hblooza14_horsecarop_64_sd_4_0",
+      "x": 27,
+      "y": 15,
+      "exists": true
+    },
+    "hblooza14_horsecarop_64_a_4_0": {
+      "name": "hblooza14_horsecarop_64_a_4_0",
+      "x": 46,
+      "y": 86,
+      "exists": true
+    },
+    "hblooza14_horsecarop_64_b_4_0": {
+      "name": "hblooza14_horsecarop_64_b_4_0",
+      "x": 46,
+      "y": 86,
+      "exists": true
+    },
+    "hblooza14_horsecarop_32_sd_4_0": {
+      "name": "hblooza14_horsecarop_32_sd_4_0",
+      "x": 13,
+      "y": 7,
+      "exists": true
+    },
+    "hblooza14_horsecarop_32_a_4_0": {
+      "name": "hblooza14_horsecarop_32_a_4_0",
+      "x": 24,
+      "y": 44,
+      "exists": true
+    },
+    "hblooza14_horsecarop_32_b_4_0": {
+      "name": "hblooza14_horsecarop_32_b_4_0",
+      "x": 24,
+      "y": 44,
+      "exists": true
+    },
+    "hblooza14_horsecarop_icon_a": {
+      "name": "hblooza14_horsecarop_icon_a",
+      "x": 8,
+      "y": 12,
+      "exists": true
+    },
+    "hblooza14_horsecarop_64_sd_2_0": {
+      "name": "hblooza14_horsecarop_64_sd_2_0",
+      "flipH": 1,
+      "source": "hblooza14_horsecarop_64_sd_4_0",
+      "x": 27,
+      "y": 15,
+      "exists": false
+    },
+    "hblooza14_horsecarop_64_a_2_0": {
+      "name": "hblooza14_horsecarop_64_a_2_0",
+      "flipH": 1,
+      "source": "hblooza14_horsecarop_64_a_4_0",
+      "x": 46,
+      "y": 86,
+      "exists": false
+    },
+    "hblooza14_horsecarop_64_b_2_0": {
+      "name": "hblooza14_horsecarop_64_b_2_0",
+      "flipH": 1,
+      "source": "hblooza14_horsecarop_64_b_4_0",
+      "x": 46,
+      "y": 86,
+      "exists": false
+    },
+    "hblooza14_horsecarop_32_sd_2_0": {
+      "name": "hblooza14_horsecarop_32_sd_2_0",
+      "flipH": 1,
+      "source": "hblooza14_horsecarop_32_sd_4_0",
+      "x": 13,
+      "y": 7,
+      "exists": false
+    },
+    "hblooza14_horsecarop_32_a_2_0": {
+      "name": "hblooza14_horsecarop_32_a_2_0",
+      "flipH": 1,
+      "source": "hblooza14_horsecarop_32_a_4_0",
+      "x": 24,
+      "y": 44,
+      "exists": false
+    },
+    "hblooza14_horsecarop_32_b_2_0": {
+      "name": "hblooza14_horsecarop_32_b_2_0",
+      "flipH": 1,
+      "source": "hblooza14_horsecarop_32_b_4_0",
+      "x": 24,
+      "y": 44,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 2.57
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "hblooza14_horsecarop",
+    "visualization": "furniture_static"
+  }
+}

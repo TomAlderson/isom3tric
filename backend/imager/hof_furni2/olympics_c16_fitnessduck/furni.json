@@ -1,0 +1,80 @@
+{
+  "assets": {
+    "olympics_c16_fitnessduck_64_sd_4_0": {
+      "name": "olympics_c16_fitnessduck_64_sd_4_0",
+      "x": 20,
+      "y": 9,
+      "exists": true
+    },
+    "olympics_c16_fitnessduck_64_a_4_0": {
+      "name": "olympics_c16_fitnessduck_64_a_4_0",
+      "x": 21,
+      "y": 40,
+      "exists": true
+    },
+    "olympics_c16_fitnessduck_icon_a": {
+      "name": "olympics_c16_fitnessduck_icon_a",
+      "x": 15,
+      "y": 14,
+      "exists": true
+    },
+    "olympics_c16_fitnessduck_64_sd_2_0": {
+      "name": "olympics_c16_fitnessduck_64_sd_2_0",
+      "flipH": 1,
+      "source": "olympics_c16_fitnessduck_64_sd_4_0",
+      "x": 20,
+      "y": 9,
+      "exists": false
+    },
+    "olympics_c16_fitnessduck_64_a_2_0": {
+      "name": "olympics_c16_fitnessduck_64_a_2_0",
+      "flipH": 1,
+      "source": "olympics_c16_fitnessduck_64_a_4_0",
+      "x": 21,
+      "y": 40,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.0001
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "olympics_c16_fitnessduck",
+    "visualization": "furniture_static"
+  }
+}

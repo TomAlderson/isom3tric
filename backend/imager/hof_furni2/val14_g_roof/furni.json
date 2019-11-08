@@ -1,0 +1,111 @@
+{
+  "assets": {
+    "val14_g_roof_64_a_2_0": {
+      "name": "val14_g_roof_64_a_2_0",
+      "x": 33,
+      "y": 56,
+      "exists": true
+    },
+    "val14_g_roof_64_a_3_0": {
+      "name": "val14_g_roof_64_a_3_0",
+      "x": 35,
+      "y": 56,
+      "exists": true
+    },
+    "val14_g_roof_64_a_4_0": {
+      "name": "val14_g_roof_64_a_4_0",
+      "x": 35,
+      "y": 56,
+      "exists": true
+    },
+    "val14_g_roof_64_a_7_0": {
+      "name": "val14_g_roof_64_a_7_0",
+      "x": 35,
+      "y": 57,
+      "exists": true
+    },
+    "val14_g_roof_32_a_2_0": {
+      "name": "val14_g_roof_32_a_2_0",
+      "x": 16,
+      "y": 28,
+      "exists": true
+    },
+    "val14_g_roof_32_a_3_0": {
+      "name": "val14_g_roof_32_a_3_0",
+      "x": 17,
+      "y": 28,
+      "exists": true
+    },
+    "val14_g_roof_32_a_4_0": {
+      "name": "val14_g_roof_32_a_4_0",
+      "x": 18,
+      "y": 28,
+      "exists": true
+    },
+    "val14_g_roof_32_a_7_0": {
+      "name": "val14_g_roof_32_a_7_0",
+      "x": 17,
+      "y": 29,
+      "exists": true
+    },
+    "val14_g_roof_icon_a": {
+      "name": "val14_g_roof_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      135,
+      180,
+      315
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "7": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "7": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "val14_g_roof",
+    "visualization": "furniture_static"
+  }
+}

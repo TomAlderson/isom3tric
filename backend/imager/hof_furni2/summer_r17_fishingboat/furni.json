@@ -1,0 +1,692 @@
+{
+  "assets": {
+    "summer_r17_fishingboat_64_a_4_0": {
+      "name": "summer_r17_fishingboat_64_a_4_0",
+      "x": -14,
+      "y": 46,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_b_4_0": {
+      "name": "summer_r17_fishingboat_64_b_4_0",
+      "x": 44,
+      "y": 89,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_c_4_0": {
+      "name": "summer_r17_fishingboat_64_c_4_0",
+      "x": 81,
+      "y": 42,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_d_4_0": {
+      "name": "summer_r17_fishingboat_64_d_4_0",
+      "x": 95,
+      "y": 92,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_e_4_0": {
+      "name": "summer_r17_fishingboat_64_e_4_0",
+      "x": 59,
+      "y": 159,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_f_4_0": {
+      "name": "summer_r17_fishingboat_64_f_4_0",
+      "x": 127,
+      "y": 14,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_g_4_0": {
+      "name": "summer_r17_fishingboat_64_g_4_0",
+      "x": -29,
+      "y": 18,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_h_4_0": {
+      "name": "summer_r17_fishingboat_64_h_4_0",
+      "x": 3,
+      "y": 1,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_i_4_0": {
+      "name": "summer_r17_fishingboat_64_i_4_0",
+      "x": 38,
+      "y": -15,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_j_4_0": {
+      "name": "summer_r17_fishingboat_64_j_4_0",
+      "x": 111,
+      "y": -24,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_f_4_1": {
+      "name": "summer_r17_fishingboat_64_f_4_1",
+      "x": 127,
+      "y": 14,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_g_4_1": {
+      "name": "summer_r17_fishingboat_64_g_4_1",
+      "x": -29,
+      "y": 18,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_h_4_1": {
+      "name": "summer_r17_fishingboat_64_h_4_1",
+      "x": 3,
+      "y": 1,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_i_4_1": {
+      "name": "summer_r17_fishingboat_64_i_4_1",
+      "x": 38,
+      "y": -15,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_j_4_1": {
+      "name": "summer_r17_fishingboat_64_j_4_1",
+      "x": 111,
+      "y": -24,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_k_4_0": {
+      "name": "summer_r17_fishingboat_64_k_4_0",
+      "x": 14,
+      "y": 26,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_a_0_0": {
+      "name": "summer_r17_fishingboat_64_a_0_0",
+      "x": -34,
+      "y": 61,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_b_0_0": {
+      "name": "summer_r17_fishingboat_64_b_0_0",
+      "x": 36,
+      "y": 60,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_c_0_0": {
+      "name": "summer_r17_fishingboat_64_c_0_0",
+      "x": 92,
+      "y": -9,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_f_0_0": {
+      "name": "summer_r17_fishingboat_64_f_0_0",
+      "x": 127,
+      "y": 10,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_f_0_1": {
+      "name": "summer_r17_fishingboat_64_f_0_1",
+      "x": 127,
+      "y": 10,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_g_0_0": {
+      "name": "summer_r17_fishingboat_64_g_0_0",
+      "x": 95,
+      "y": 41,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_h_0_0": {
+      "name": "summer_r17_fishingboat_64_h_0_0",
+      "x": -1,
+      "y": 2,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_i_0_0": {
+      "name": "summer_r17_fishingboat_64_i_0_0",
+      "x": 135,
+      "y": 68,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_j_0_0": {
+      "name": "summer_r17_fishingboat_64_j_0_0",
+      "x": 94,
+      "y": -26,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_g_0_1": {
+      "name": "summer_r17_fishingboat_64_g_0_1",
+      "x": 95,
+      "y": 41,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_h_0_1": {
+      "name": "summer_r17_fishingboat_64_h_0_1",
+      "x": -1,
+      "y": 2,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_i_0_1": {
+      "name": "summer_r17_fishingboat_64_i_0_1",
+      "x": 135,
+      "y": 68,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_j_0_1": {
+      "name": "summer_r17_fishingboat_64_j_0_1",
+      "x": 94,
+      "y": -26,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_m_0_0": {
+      "name": "summer_r17_fishingboat_64_m_0_0",
+      "x": 105,
+      "y": 163,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_l_0_0": {
+      "name": "summer_r17_fishingboat_64_l_0_0",
+      "x": 39,
+      "y": 97,
+      "exists": true
+    },
+    "summer_r17_fishingboat_icon_a": {
+      "name": "summer_r17_fishingboat_icon_a",
+      "x": 12,
+      "y": 14,
+      "exists": true
+    },
+    "summer_r17_fishingboat_64_a_6_0": {
+      "name": "summer_r17_fishingboat_64_a_6_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_a_0_0",
+      "x": -34,
+      "y": 61,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_b_6_0": {
+      "name": "summer_r17_fishingboat_64_b_6_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_b_0_0",
+      "x": 36,
+      "y": 60,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_c_6_0": {
+      "name": "summer_r17_fishingboat_64_c_6_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_c_0_0",
+      "x": 92,
+      "y": -9,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_f_6_0": {
+      "name": "summer_r17_fishingboat_64_f_6_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_f_0_0",
+      "x": 127,
+      "y": 10,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_f_6_1": {
+      "name": "summer_r17_fishingboat_64_f_6_1",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_f_0_1",
+      "x": 127,
+      "y": 10,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_g_6_0": {
+      "name": "summer_r17_fishingboat_64_g_6_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_g_0_0",
+      "x": 95,
+      "y": 41,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_h_6_0": {
+      "name": "summer_r17_fishingboat_64_h_6_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_h_0_0",
+      "x": -1,
+      "y": 2,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_i_6_0": {
+      "name": "summer_r17_fishingboat_64_i_6_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_i_0_0",
+      "x": 135,
+      "y": 68,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_j_6_0": {
+      "name": "summer_r17_fishingboat_64_j_6_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_j_0_0",
+      "x": 94,
+      "y": -26,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_g_6_1": {
+      "name": "summer_r17_fishingboat_64_g_6_1",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_g_0_1",
+      "x": 95,
+      "y": 41,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_h_6_1": {
+      "name": "summer_r17_fishingboat_64_h_6_1",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_h_0_1",
+      "x": -1,
+      "y": 2,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_i_6_1": {
+      "name": "summer_r17_fishingboat_64_i_6_1",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_i_0_1",
+      "x": 135,
+      "y": 68,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_j_6_1": {
+      "name": "summer_r17_fishingboat_64_j_6_1",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_j_0_1",
+      "x": 94,
+      "y": -26,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_m_6_0": {
+      "name": "summer_r17_fishingboat_64_m_6_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_m_0_0",
+      "x": 105,
+      "y": 163,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_l_6_0": {
+      "name": "summer_r17_fishingboat_64_l_6_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_l_0_0",
+      "x": 39,
+      "y": 97,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_a_2_0": {
+      "name": "summer_r17_fishingboat_64_a_2_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_a_4_0",
+      "x": -14,
+      "y": 46,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_b_2_0": {
+      "name": "summer_r17_fishingboat_64_b_2_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_b_4_0",
+      "x": 44,
+      "y": 89,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_c_2_0": {
+      "name": "summer_r17_fishingboat_64_c_2_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_c_4_0",
+      "x": 81,
+      "y": 42,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_d_2_0": {
+      "name": "summer_r17_fishingboat_64_d_2_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_d_4_0",
+      "x": 95,
+      "y": 92,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_e_2_0": {
+      "name": "summer_r17_fishingboat_64_e_2_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_e_4_0",
+      "x": 59,
+      "y": 159,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_f_2_0": {
+      "name": "summer_r17_fishingboat_64_f_2_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_f_4_0",
+      "x": 127,
+      "y": 14,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_g_2_0": {
+      "name": "summer_r17_fishingboat_64_g_2_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_g_4_0",
+      "x": -29,
+      "y": 18,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_h_2_0": {
+      "name": "summer_r17_fishingboat_64_h_2_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_h_4_0",
+      "x": 3,
+      "y": 1,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_i_2_0": {
+      "name": "summer_r17_fishingboat_64_i_2_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_i_4_0",
+      "x": 38,
+      "y": -15,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_j_2_0": {
+      "name": "summer_r17_fishingboat_64_j_2_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_j_4_0",
+      "x": 111,
+      "y": -24,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_f_2_1": {
+      "name": "summer_r17_fishingboat_64_f_2_1",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_f_4_1",
+      "x": 127,
+      "y": 14,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_g_2_1": {
+      "name": "summer_r17_fishingboat_64_g_2_1",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_g_4_1",
+      "x": -29,
+      "y": 18,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_h_2_1": {
+      "name": "summer_r17_fishingboat_64_h_2_1",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_h_4_1",
+      "x": 3,
+      "y": 1,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_i_2_1": {
+      "name": "summer_r17_fishingboat_64_i_2_1",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_i_4_1",
+      "x": 38,
+      "y": -15,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_j_2_1": {
+      "name": "summer_r17_fishingboat_64_j_2_1",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_j_4_1",
+      "x": 111,
+      "y": -24,
+      "exists": false
+    },
+    "summer_r17_fishingboat_64_k_2_0": {
+      "name": "summer_r17_fishingboat_64_k_2_0",
+      "flipH": 1,
+      "source": "summer_r17_fishingboat_64_k_4_0",
+      "x": 14,
+      "y": 26,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 4,
+      "z": 0.4
+    },
+    "directions": [
+      180,
+      0,
+      90,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 13,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            },
+            {
+              "layerId": 7,
+              "frameSequence": []
+            },
+            {
+              "layerId": 8,
+              "frameSequence": []
+            },
+            {
+              "layerId": 9,
+              "frameSequence": []
+            },
+            {
+              "layerId": 10,
+              "frameSequence": []
+            },
+            {
+              "layerId": 11,
+              "frameSequence": []
+            },
+            {
+              "layerId": 12,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 10,
+              "frameSequence": []
+            },
+            {
+              "layerId": 11,
+              "frameSequence": []
+            },
+            {
+              "layerId": 12,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1500
+        },
+        {
+          "layerId": 3,
+          "z": 3000
+        },
+        {
+          "layerId": 4,
+          "z": 4000
+        },
+        {
+          "layerId": 5,
+          "z": 3000
+        },
+        {
+          "layerId": 6,
+          "z": 1100
+        },
+        {
+          "layerId": 7,
+          "z": 2100
+        },
+        {
+          "layerId": 8,
+          "z": 4000
+        },
+        {
+          "layerId": 9,
+          "z": 4500
+        },
+        {
+          "layerId": 10,
+          "z": 2200
+        },
+        {
+          "layerId": 11,
+          "z": 3000
+        },
+        {
+          "layerId": 12,
+          "z": 2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "summer_r17_fishingboat",
+    "visualization": "furniture_animated"
+  }
+}

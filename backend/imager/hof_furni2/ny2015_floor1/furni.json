@@ -1,0 +1,120 @@
+{
+  "assets": {
+    "ny2015_floor1_64_sd_0_0": {
+      "name": "ny2015_floor1_64_sd_0_0",
+      "x": 55,
+      "y": 10,
+      "exists": true
+    },
+    "ny2015_floor1_64_a_0_0": {
+      "name": "ny2015_floor1_64_a_0_0",
+      "x": 55,
+      "y": 13,
+      "exists": true
+    },
+    "ny2015_floor1_64_sd_2_0": {
+      "name": "ny2015_floor1_64_sd_2_0",
+      "x": 55,
+      "y": 12,
+      "exists": true
+    },
+    "ny2015_floor1_64_a_2_0": {
+      "name": "ny2015_floor1_64_a_2_0",
+      "x": 55,
+      "y": 12,
+      "exists": true
+    },
+    "ny2015_floor1_icon_a": {
+      "name": "ny2015_floor1_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "ny2015_floor1_64_sd_6_0": {
+      "name": "ny2015_floor1_64_sd_6_0",
+      "flipH": 1,
+      "source": "ny2015_floor1_64_sd_0_0",
+      "x": 55,
+      "y": 10,
+      "exists": false
+    },
+    "ny2015_floor1_64_a_6_0": {
+      "name": "ny2015_floor1_64_a_6_0",
+      "flipH": 1,
+      "source": "ny2015_floor1_64_a_0_0",
+      "x": 55,
+      "y": 13,
+      "exists": false
+    },
+    "ny2015_floor1_64_sd_4_0": {
+      "name": "ny2015_floor1_64_sd_4_0",
+      "flipH": 1,
+      "source": "ny2015_floor1_64_sd_2_0",
+      "x": 55,
+      "y": 12,
+      "exists": false
+    },
+    "ny2015_floor1_64_a_4_0": {
+      "name": "ny2015_floor1_64_a_4_0",
+      "flipH": 1,
+      "source": "ny2015_floor1_64_a_2_0",
+      "x": 55,
+      "y": 12,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.001
+    },
+    "directions": [
+      0,
+      270,
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "ny2015_floor1",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "assets": {
+    "hc16_5_64_sd_0_0": {
+      "name": "hc16_5_64_sd_0_0",
+      "x": 22,
+      "y": 10,
+      "exists": true
+    },
+    "hc16_5_64_a_0_0": {
+      "name": "hc16_5_64_a_0_0",
+      "x": 65,
+      "y": 158,
+      "exists": true
+    },
+    "hc16_5_icon_a": {
+      "name": "hc16_5_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "hc16_5_64_sd_2_0": {
+      "name": "hc16_5_64_sd_2_0",
+      "flipH": 1,
+      "source": "hc16_5_64_sd_0_0",
+      "x": 22,
+      "y": 10,
+      "exists": false
+    },
+    "hc16_5_64_a_2_0": {
+      "name": "hc16_5_64_a_2_0",
+      "flipH": 1,
+      "source": "hc16_5_64_a_0_0",
+      "x": 65,
+      "y": 158,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "hc16_5",
+    "visualization": "furniture_static"
+  }
+}

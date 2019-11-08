@@ -1,0 +1,432 @@
+{
+  "assets": {
+    "garden_wall_icon_a": {
+      "name": "garden_wall_icon_a",
+      "x": 12,
+      "y": 15,
+      "exists": true
+    },
+    "garden_wall_64_a_2_0": {
+      "name": "garden_wall_64_a_2_0",
+      "flipH": 1,
+      "source": "garden_wall_64_a_4_0",
+      "x": 28,
+      "y": 36,
+      "exists": false
+    },
+    "garden_wall_64_a_2_1": {
+      "name": "garden_wall_64_a_2_1",
+      "flipH": 1,
+      "source": "garden_wall_64_a_4_1",
+      "x": 28,
+      "y": 36,
+      "exists": false
+    },
+    "garden_wall_64_b_2_0": {
+      "name": "garden_wall_64_b_2_0",
+      "flipH": 1,
+      "source": "garden_wall_64_b_4_0",
+      "x": 43,
+      "y": 67,
+      "exists": false
+    },
+    "garden_wall_64_b_2_1": {
+      "name": "garden_wall_64_b_2_1",
+      "flipH": 1,
+      "source": "garden_wall_64_b_4_1",
+      "x": 43,
+      "y": 70,
+      "exists": false
+    },
+    "garden_wall_64_c_2_0": {
+      "name": "garden_wall_64_c_2_0",
+      "flipH": 1,
+      "source": "garden_wall_64_c_4_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "garden_wall_64_c_2_1": {
+      "name": "garden_wall_64_c_2_1",
+      "flipH": 1,
+      "source": "garden_wall_64_c_4_1",
+      "x": 56,
+      "y": 86,
+      "exists": false
+    },
+    "garden_wall_64_a_4_0": {
+      "name": "garden_wall_64_a_4_0",
+      "x": 28,
+      "y": 36,
+      "exists": true
+    },
+    "garden_wall_64_a_4_1": {
+      "name": "garden_wall_64_a_4_1",
+      "x": 28,
+      "y": 36,
+      "exists": true
+    },
+    "garden_wall_64_b_4_0": {
+      "name": "garden_wall_64_b_4_0",
+      "x": 43,
+      "y": 67,
+      "exists": true
+    },
+    "garden_wall_64_b_4_1": {
+      "name": "garden_wall_64_b_4_1",
+      "x": 43,
+      "y": 70,
+      "exists": true
+    },
+    "garden_wall_64_c_4_0": {
+      "name": "garden_wall_64_c_4_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "garden_wall_64_c_4_1": {
+      "name": "garden_wall_64_c_4_1",
+      "x": 56,
+      "y": 86,
+      "exists": true
+    },
+    "garden_wall_32_a_2_0": {
+      "name": "garden_wall_32_a_2_0",
+      "flipH": 1,
+      "source": "garden_wall_32_a_4_0",
+      "x": 14,
+      "y": 23,
+      "exists": false
+    },
+    "garden_wall_32_a_2_1": {
+      "name": "garden_wall_32_a_2_1",
+      "flipH": 1,
+      "source": "garden_wall_32_a_4_1",
+      "x": 14,
+      "y": 23,
+      "exists": false
+    },
+    "garden_wall_32_b_2_0": {
+      "name": "garden_wall_32_b_2_0",
+      "flipH": 1,
+      "source": "garden_wall_32_b_4_0",
+      "x": 21,
+      "y": 39,
+      "exists": false
+    },
+    "garden_wall_32_b_2_1": {
+      "name": "garden_wall_32_b_2_1",
+      "flipH": 1,
+      "source": "garden_wall_32_b_4_1",
+      "x": 21,
+      "y": 40,
+      "exists": false
+    },
+    "garden_wall_32_c_2_0": {
+      "name": "garden_wall_32_c_2_0",
+      "flipH": 1,
+      "source": "garden_wall_32_c_4_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "garden_wall_32_c_2_1": {
+      "name": "garden_wall_32_c_2_1",
+      "flipH": 1,
+      "source": "garden_wall_32_c_4_1",
+      "x": 26,
+      "y": 48,
+      "exists": false
+    },
+    "garden_wall_32_a_4_0": {
+      "name": "garden_wall_32_a_4_0",
+      "x": 14,
+      "y": 23,
+      "exists": true
+    },
+    "garden_wall_32_a_4_1": {
+      "name": "garden_wall_32_a_4_1",
+      "x": 14,
+      "y": 23,
+      "exists": true
+    },
+    "garden_wall_32_b_4_0": {
+      "name": "garden_wall_32_b_4_0",
+      "x": 21,
+      "y": 39,
+      "exists": true
+    },
+    "garden_wall_32_b_4_1": {
+      "name": "garden_wall_32_b_4_1",
+      "x": 21,
+      "y": 40,
+      "exists": true
+    },
+    "garden_wall_32_c_4_0": {
+      "name": "garden_wall_32_c_4_0",
+      "x": 0,
+      "y": 0,
+      "exists": true
+    },
+    "garden_wall_32_c_4_1": {
+      "name": "garden_wall_32_c_4_1",
+      "x": 26,
+      "y": 48,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1.6875,
+      "y": 0.2,
+      "z": 2.375
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": -2950
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": -2950
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "garden_wall",
+    "visualization": "furniture_animated"
+  }
+}

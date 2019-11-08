@@ -1,0 +1,192 @@
+{
+  "assets": {
+    "qt_sum11_ictrolley_64_sd_4_0": {
+      "name": "qt_sum11_ictrolley_64_sd_4_0",
+      "x": 20,
+      "y": 10,
+      "exists": true
+    },
+    "qt_sum11_ictrolley_64_a_4_0": {
+      "name": "qt_sum11_ictrolley_64_a_4_0",
+      "x": 26,
+      "y": 74,
+      "exists": true
+    },
+    "qt_sum11_ictrolley_32_sd_4_0": {
+      "name": "qt_sum11_ictrolley_32_sd_4_0",
+      "x": 9,
+      "y": 5,
+      "exists": true
+    },
+    "qt_sum11_ictrolley_32_a_4_0": {
+      "name": "qt_sum11_ictrolley_32_a_4_0",
+      "x": 14,
+      "y": 41,
+      "exists": true
+    },
+    "qt_sum11_ictrolley_icon_a": {
+      "name": "qt_sum11_ictrolley_icon_a",
+      "x": 12,
+      "y": 18,
+      "exists": true
+    },
+    "qt_sum11_ictrolley_64_sd_2_0": {
+      "name": "qt_sum11_ictrolley_64_sd_2_0",
+      "flipH": 1,
+      "source": "qt_sum11_ictrolley_64_sd_4_0",
+      "x": 20,
+      "y": 10,
+      "exists": false
+    },
+    "qt_sum11_ictrolley_64_a_2_0": {
+      "name": "qt_sum11_ictrolley_64_a_2_0",
+      "flipH": 1,
+      "source": "qt_sum11_ictrolley_64_a_4_0",
+      "x": 26,
+      "y": 74,
+      "exists": false
+    },
+    "qt_sum11_ictrolley_32_sd_2_0": {
+      "name": "qt_sum11_ictrolley_32_sd_2_0",
+      "flipH": 1,
+      "source": "qt_sum11_ictrolley_32_sd_4_0",
+      "x": 9,
+      "y": 5,
+      "exists": false
+    },
+    "qt_sum11_ictrolley_32_a_2_0": {
+      "name": "qt_sum11_ictrolley_32_a_2_0",
+      "flipH": 1,
+      "source": "qt_sum11_ictrolley_32_a_4_0",
+      "x": 14,
+      "y": 41,
+      "exists": false
+    },
+    "qt_sum11_ictrolley_64_a_4_1": {
+      "name": "qt_sum11_ictrolley_64_a_4_1",
+      "x": 26,
+      "y": 74,
+      "exists": true
+    },
+    "qt_sum11_ictrolley_32_a_4_1": {
+      "name": "qt_sum11_ictrolley_32_a_4_1",
+      "x": 14,
+      "y": 41,
+      "exists": true
+    },
+    "qt_sum11_ictrolley_64_a_2_1": {
+      "name": "qt_sum11_ictrolley_64_a_2_1",
+      "flipH": 1,
+      "source": "qt_sum11_ictrolley_64_a_4_1",
+      "x": 26,
+      "y": 74,
+      "exists": false
+    },
+    "qt_sum11_ictrolley_32_a_2_1": {
+      "name": "qt_sum11_ictrolley_32_a_2_1",
+      "flipH": 1,
+      "source": "qt_sum11_ictrolley_32_a_4_1",
+      "x": 14,
+      "y": 41,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "qt_sum11_ictrolley",
+    "visualization": "furniture_animated"
+  }
+}

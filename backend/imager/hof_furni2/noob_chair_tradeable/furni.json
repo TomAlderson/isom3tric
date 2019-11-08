@@ -1,0 +1,756 @@
+{
+  "assets": {
+    "noob_chair_tradeable_64_a_0_0": {
+      "name": "noob_chair_tradeable_64_a_0_0",
+      "x": 30,
+      "y": 42,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_a_2_0": {
+      "name": "noob_chair_tradeable_64_a_2_0",
+      "x": -2,
+      "y": 41,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_a_4_0": {
+      "name": "noob_chair_tradeable_64_a_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_a_2_0",
+      "x": -2,
+      "y": 41,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_a_6_0": {
+      "name": "noob_chair_tradeable_64_a_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_a_0_0",
+      "x": 30,
+      "y": 42,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_b_0_0": {
+      "name": "noob_chair_tradeable_64_b_0_0",
+      "x": -2,
+      "y": 25,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_b_2_0": {
+      "name": "noob_chair_tradeable_64_b_2_0",
+      "x": 22,
+      "y": 26,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_b_4_0": {
+      "name": "noob_chair_tradeable_64_b_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_b_2_0",
+      "x": 22,
+      "y": 26,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_b_6_0": {
+      "name": "noob_chair_tradeable_64_b_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_b_0_0",
+      "x": -2,
+      "y": 25,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_c_0_0": {
+      "name": "noob_chair_tradeable_64_c_0_0",
+      "x": -2,
+      "y": 27,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_c_2_0": {
+      "name": "noob_chair_tradeable_64_c_2_0",
+      "x": 25,
+      "y": 29,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_c_4_0": {
+      "name": "noob_chair_tradeable_64_c_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_c_2_0",
+      "x": 25,
+      "y": 29,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_c_6_0": {
+      "name": "noob_chair_tradeable_64_c_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_c_0_0",
+      "x": -2,
+      "y": 27,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_d_0_0": {
+      "name": "noob_chair_tradeable_64_d_0_0",
+      "x": 2,
+      "y": 28,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_d_2_0": {
+      "name": "noob_chair_tradeable_64_d_2_0",
+      "x": 29,
+      "y": 27,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_d_4_0": {
+      "name": "noob_chair_tradeable_64_d_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_d_2_0",
+      "x": 29,
+      "y": 27,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_d_6_0": {
+      "name": "noob_chair_tradeable_64_d_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_d_0_0",
+      "x": 2,
+      "y": 28,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_e_0_0": {
+      "name": "noob_chair_tradeable_64_e_0_0",
+      "x": 28,
+      "y": 44,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_e_2_0": {
+      "name": "noob_chair_tradeable_64_e_2_0",
+      "x": 28,
+      "y": 54,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_e_4_0": {
+      "name": "noob_chair_tradeable_64_e_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_e_2_0",
+      "x": 28,
+      "y": 54,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_e_6_0": {
+      "name": "noob_chair_tradeable_64_e_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_e_0_0",
+      "x": 28,
+      "y": 44,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_f_0_0": {
+      "name": "noob_chair_tradeable_64_f_0_0",
+      "x": 24,
+      "y": 42,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_f_2_0": {
+      "name": "noob_chair_tradeable_64_f_2_0",
+      "x": 26,
+      "y": 52,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_f_4_0": {
+      "name": "noob_chair_tradeable_64_f_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_f_2_0",
+      "x": 26,
+      "y": 52,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_f_6_0": {
+      "name": "noob_chair_tradeable_64_f_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_64_f_0_0",
+      "x": 24,
+      "y": 42,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_sd_0_0": {
+      "name": "noob_chair_tradeable_64_sd_0_0",
+      "x": 24,
+      "y": 14,
+      "exists": true
+    },
+    "noob_chair_tradeable_64_sd_2_0": {
+      "name": "noob_chair_tradeable_64_sd_2_0",
+      "source": "noob_chair_tradeable_64_sd_0_0",
+      "x": 24,
+      "y": 14,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_sd_4_0": {
+      "name": "noob_chair_tradeable_64_sd_4_0",
+      "source": "noob_chair_tradeable_64_sd_0_0",
+      "x": 24,
+      "y": 14,
+      "exists": false
+    },
+    "noob_chair_tradeable_64_sd_6_0": {
+      "name": "noob_chair_tradeable_64_sd_6_0",
+      "source": "noob_chair_tradeable_64_sd_0_0",
+      "x": 24,
+      "y": 14,
+      "exists": false
+    },
+    "noob_chair_tradeable_icon_a": {
+      "name": "noob_chair_tradeable_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "noob_chair_tradeable_icon_b": {
+      "name": "noob_chair_tradeable_icon_b",
+      "x": 10,
+      "y": 13,
+      "exists": true
+    },
+    "noob_chair_tradeable_icon_c": {
+      "name": "noob_chair_tradeable_icon_c",
+      "x": 8,
+      "y": 12,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_a_0_0": {
+      "name": "noob_chair_tradeable_32_a_0_0",
+      "x": 14,
+      "y": 19,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_a_2_0": {
+      "name": "noob_chair_tradeable_32_a_2_0",
+      "x": -3,
+      "y": 19,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_a_4_0": {
+      "name": "noob_chair_tradeable_32_a_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_a_2_0",
+      "x": -3,
+      "y": 19,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_a_6_0": {
+      "name": "noob_chair_tradeable_32_a_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_a_0_0",
+      "x": 14,
+      "y": 19,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_b_0_0": {
+      "name": "noob_chair_tradeable_32_b_0_0",
+      "x": -4,
+      "y": 10,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_b_2_0": {
+      "name": "noob_chair_tradeable_32_b_2_0",
+      "x": 8,
+      "y": 12,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_b_4_0": {
+      "name": "noob_chair_tradeable_32_b_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_b_2_0",
+      "x": 8,
+      "y": 12,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_b_6_0": {
+      "name": "noob_chair_tradeable_32_b_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_b_0_0",
+      "x": -4,
+      "y": 10,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_c_0_0": {
+      "name": "noob_chair_tradeable_32_c_0_0",
+      "x": -3,
+      "y": 12,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_c_2_0": {
+      "name": "noob_chair_tradeable_32_c_2_0",
+      "x": 10,
+      "y": 13,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_c_4_0": {
+      "name": "noob_chair_tradeable_32_c_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_c_2_0",
+      "x": 10,
+      "y": 13,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_c_6_0": {
+      "name": "noob_chair_tradeable_32_c_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_c_0_0",
+      "x": -3,
+      "y": 12,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_d_0_0": {
+      "name": "noob_chair_tradeable_32_d_0_0",
+      "x": 0,
+      "y": 12,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_d_2_0": {
+      "name": "noob_chair_tradeable_32_d_2_0",
+      "x": 13,
+      "y": 12,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_d_4_0": {
+      "name": "noob_chair_tradeable_32_d_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_d_2_0",
+      "x": 13,
+      "y": 12,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_d_6_0": {
+      "name": "noob_chair_tradeable_32_d_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_d_0_0",
+      "x": 0,
+      "y": 12,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_e_0_0": {
+      "name": "noob_chair_tradeable_32_e_0_0",
+      "x": 12,
+      "y": 21,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_e_2_0": {
+      "name": "noob_chair_tradeable_32_e_2_0",
+      "x": 12,
+      "y": 25,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_e_4_0": {
+      "name": "noob_chair_tradeable_32_e_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_e_2_0",
+      "x": 12,
+      "y": 25,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_e_6_0": {
+      "name": "noob_chair_tradeable_32_e_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_e_0_0",
+      "x": 12,
+      "y": 21,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_f_0_0": {
+      "name": "noob_chair_tradeable_32_f_0_0",
+      "x": 9,
+      "y": 20,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_f_2_0": {
+      "name": "noob_chair_tradeable_32_f_2_0",
+      "x": 9,
+      "y": 24,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_f_4_0": {
+      "name": "noob_chair_tradeable_32_f_4_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_f_2_0",
+      "x": 9,
+      "y": 24,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_f_6_0": {
+      "name": "noob_chair_tradeable_32_f_6_0",
+      "flipH": 1,
+      "source": "noob_chair_tradeable_32_f_0_0",
+      "x": 9,
+      "y": 20,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_sd_0_0": {
+      "name": "noob_chair_tradeable_32_sd_0_0",
+      "x": 10,
+      "y": 3,
+      "exists": true
+    },
+    "noob_chair_tradeable_32_sd_2_0": {
+      "name": "noob_chair_tradeable_32_sd_2_0",
+      "source": "noob_chair_tradeable_32_sd_0_0",
+      "x": 10,
+      "y": 3,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_sd_4_0": {
+      "name": "noob_chair_tradeable_32_sd_4_0",
+      "source": "noob_chair_tradeable_32_sd_0_0",
+      "x": 10,
+      "y": 3,
+      "exists": false
+    },
+    "noob_chair_tradeable_32_sd_6_0": {
+      "name": "noob_chair_tradeable_32_sd_6_0",
+      "source": "noob_chair_tradeable_32_sd_0_0",
+      "x": 10,
+      "y": 3,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.2
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 3,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "EFE853"
+          },
+          {
+            "layerId": 2,
+            "color": "EFE853"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "4C526E"
+          },
+          {
+            "layerId": 2,
+            "color": "8D92AB"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "985A47"
+          },
+          {
+            "layerId": 2,
+            "color": "D9AD90"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "80B1BC"
+          },
+          {
+            "layerId": 2,
+            "color": "DAF4FA"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "F6C0C0"
+          },
+          {
+            "layerId": 2,
+            "color": "F6C0C0"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "FFD923"
+          },
+          {
+            "layerId": 2,
+            "color": "B1B400"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "EFE853"
+          },
+          {
+            "layerId": 2,
+            "color": "EFE853"
+          },
+          {
+            "layerId": 4,
+            "color": "EFE853"
+          },
+          {
+            "layerId": 5,
+            "color": "EFE853"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "4C526E"
+          },
+          {
+            "layerId": 2,
+            "color": "8D92AB"
+          },
+          {
+            "layerId": 4,
+            "color": "8D92AB"
+          },
+          {
+            "layerId": 5,
+            "color": "4C526E"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "985A47"
+          },
+          {
+            "layerId": 2,
+            "color": "D9AD90"
+          },
+          {
+            "layerId": 4,
+            "color": "D9AD90"
+          },
+          {
+            "layerId": 5,
+            "color": "985A47"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "80B1BC"
+          },
+          {
+            "layerId": 2,
+            "color": "DAF4FA"
+          },
+          {
+            "layerId": 4,
+            "color": "DAF4FA"
+          },
+          {
+            "layerId": 5,
+            "color": "80B1BC"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "F6C0C0"
+          },
+          {
+            "layerId": 2,
+            "color": "F6C0C0"
+          },
+          {
+            "layerId": 4,
+            "color": "F6C0C0"
+          },
+          {
+            "layerId": 5,
+            "color": "F6C0C0"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "FFD923"
+          },
+          {
+            "layerId": 2,
+            "color": "B1B400"
+          },
+          {
+            "layerId": 4,
+            "color": "B1B400"
+          },
+          {
+            "layerId": 5,
+            "color": "FFD923"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 3,
+          "z": 500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "EFE853"
+          },
+          {
+            "layerId": 2,
+            "color": "EFE853"
+          },
+          {
+            "layerId": 4,
+            "color": "EFE853"
+          },
+          {
+            "layerId": 5,
+            "color": "EFE853"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "4C526E"
+          },
+          {
+            "layerId": 2,
+            "color": "8D92AB"
+          },
+          {
+            "layerId": 4,
+            "color": "8D92AB"
+          },
+          {
+            "layerId": 5,
+            "color": "4C526E"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "985A47"
+          },
+          {
+            "layerId": 2,
+            "color": "D9AD90"
+          },
+          {
+            "layerId": 4,
+            "color": "D9AD90"
+          },
+          {
+            "layerId": 5,
+            "color": "985A47"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "80B1BC"
+          },
+          {
+            "layerId": 2,
+            "color": "DAF4FA"
+          },
+          {
+            "layerId": 4,
+            "color": "DAF4FA"
+          },
+          {
+            "layerId": 5,
+            "color": "80B1BC"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "F6C0C0"
+          },
+          {
+            "layerId": 2,
+            "color": "F6C0C0"
+          },
+          {
+            "layerId": 4,
+            "color": "F6C0C0"
+          },
+          {
+            "layerId": 5,
+            "color": "F6C0C0"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "FFD923"
+          },
+          {
+            "layerId": 2,
+            "color": "B1B400"
+          },
+          {
+            "layerId": 4,
+            "color": "B1B400"
+          },
+          {
+            "layerId": 5,
+            "color": "FFD923"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 3,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "noob_chair_tradeable",
+    "visualization": "furniture_static"
+  }
+}

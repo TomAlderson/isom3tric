@@ -1,0 +1,491 @@
+{
+  "assets": {
+    "xmas14_palm_64_a_2_0": {
+      "name": "xmas14_palm_64_a_2_0",
+      "x": 68,
+      "y": 176,
+      "exists": true
+    },
+    "xmas14_palm_64_b_2_0": {
+      "name": "xmas14_palm_64_b_2_0",
+      "x": 20,
+      "y": 48,
+      "exists": false
+    },
+    "xmas14_palm_64_b_2_1": {
+      "name": "xmas14_palm_64_b_2_1",
+      "x": 51,
+      "y": 176,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_0": {
+      "name": "xmas14_palm_64_c_2_0",
+      "x": 17,
+      "y": 38,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_1": {
+      "name": "xmas14_palm_64_c_2_1",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_2": {
+      "name": "xmas14_palm_64_c_2_2",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_3": {
+      "name": "xmas14_palm_64_c_2_3",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_4": {
+      "name": "xmas14_palm_64_c_2_4",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_5": {
+      "name": "xmas14_palm_64_c_2_5",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_6": {
+      "name": "xmas14_palm_64_c_2_6",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_7": {
+      "name": "xmas14_palm_64_c_2_7",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_8": {
+      "name": "xmas14_palm_64_c_2_8",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_9": {
+      "name": "xmas14_palm_64_c_2_9",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_10": {
+      "name": "xmas14_palm_64_c_2_10",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_11": {
+      "name": "xmas14_palm_64_c_2_11",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_12": {
+      "name": "xmas14_palm_64_c_2_12",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_13": {
+      "name": "xmas14_palm_64_c_2_13",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_14": {
+      "name": "xmas14_palm_64_c_2_14",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_15": {
+      "name": "xmas14_palm_64_c_2_15",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_16": {
+      "name": "xmas14_palm_64_c_2_16",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_17": {
+      "name": "xmas14_palm_64_c_2_17",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_64_c_2_18": {
+      "name": "xmas14_palm_64_c_2_18",
+      "x": 92,
+      "y": 185,
+      "exists": true
+    },
+    "xmas14_palm_icon_a": {
+      "name": "xmas14_palm_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "xmas14_palm_64_a_4_0": {
+      "name": "xmas14_palm_64_a_4_0",
+      "flipH": 1,
+      "source": "xmas14_palm_64_a_2_0",
+      "x": 68,
+      "y": 176,
+      "exists": false
+    },
+    "xmas14_palm_64_b_4_0": {
+      "name": "xmas14_palm_64_b_4_0",
+      "flipH": 1,
+      "source": "xmas14_palm_64_b_2_0",
+      "x": 20,
+      "y": 48,
+      "exists": false
+    },
+    "xmas14_palm_64_b_4_1": {
+      "name": "xmas14_palm_64_b_4_1",
+      "flipH": 1,
+      "source": "xmas14_palm_64_b_2_1",
+      "x": 51,
+      "y": 176,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_0": {
+      "name": "xmas14_palm_64_c_4_0",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_0",
+      "x": 17,
+      "y": 38,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_1": {
+      "name": "xmas14_palm_64_c_4_1",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_1",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_2": {
+      "name": "xmas14_palm_64_c_4_2",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_2",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_3": {
+      "name": "xmas14_palm_64_c_4_3",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_3",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_4": {
+      "name": "xmas14_palm_64_c_4_4",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_4",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_5": {
+      "name": "xmas14_palm_64_c_4_5",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_5",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_6": {
+      "name": "xmas14_palm_64_c_4_6",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_6",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_7": {
+      "name": "xmas14_palm_64_c_4_7",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_7",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_8": {
+      "name": "xmas14_palm_64_c_4_8",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_8",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_9": {
+      "name": "xmas14_palm_64_c_4_9",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_9",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_10": {
+      "name": "xmas14_palm_64_c_4_10",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_10",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_11": {
+      "name": "xmas14_palm_64_c_4_11",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_11",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_12": {
+      "name": "xmas14_palm_64_c_4_12",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_12",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_13": {
+      "name": "xmas14_palm_64_c_4_13",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_13",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_14": {
+      "name": "xmas14_palm_64_c_4_14",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_14",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_15": {
+      "name": "xmas14_palm_64_c_4_15",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_15",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_16": {
+      "name": "xmas14_palm_64_c_4_16",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_16",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_17": {
+      "name": "xmas14_palm_64_c_4_17",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_17",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    },
+    "xmas14_palm_64_c_4_18": {
+      "name": "xmas14_palm_64_c_4_18",
+      "flipH": 1,
+      "source": "xmas14_palm_64_c_2_18",
+      "x": 92,
+      "y": 185,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2,
+                  1,
+                  2
+                ],
+                [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "xmas14_palm",
+    "visualization": "furniture_animated"
+  }
+}

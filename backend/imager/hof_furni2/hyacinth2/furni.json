@@ -1,0 +1,123 @@
+{
+  "assets": {
+    "hyacinth2_64_a_2_0": {
+      "name": "hyacinth2_64_a_2_0",
+      "x": 11,
+      "y": 57,
+      "exists": true
+    },
+    "hyacinth2_64_a_2_1": {
+      "name": "hyacinth2_64_a_2_1",
+      "x": 11,
+      "y": 57,
+      "exists": true
+    },
+    "hyacinth2_64_sd_0_0": {
+      "name": "hyacinth2_64_sd_0_0",
+      "x": 12,
+      "y": 6,
+      "exists": true
+    },
+    "hyacinth2_64_sd_2_0": {
+      "name": "hyacinth2_64_sd_2_0",
+      "source": "hyacinth2_64_sd_0_0",
+      "x": 12,
+      "y": 6,
+      "exists": false
+    },
+    "hyacinth2_icon_a": {
+      "name": "hyacinth2_icon_a",
+      "x": 5,
+      "y": 15,
+      "exists": true
+    },
+    "hyacinth2_32_a_2_0": {
+      "name": "hyacinth2_32_a_2_0",
+      "x": 6,
+      "y": 29,
+      "exists": true
+    },
+    "hyacinth2_32_sd_0_0": {
+      "name": "hyacinth2_32_sd_0_0",
+      "x": 6,
+      "y": 2,
+      "exists": true
+    },
+    "hyacinth2_32_sd_2_0": {
+      "name": "hyacinth2_32_sd_2_0",
+      "source": "hyacinth2_32_sd_0_0",
+      "x": 6,
+      "y": 2,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hyacinth2",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "assets": {
+    "easter14_flower_64_a_0_0": {
+      "name": "easter14_flower_64_a_0_0",
+      "x": 33,
+      "y": 106,
+      "exists": true
+    },
+    "easter14_flower_64_a_0_1": {
+      "name": "easter14_flower_64_a_0_1",
+      "x": 33,
+      "y": 106,
+      "exists": true
+    },
+    "easter14_flower_64_a_0_2": {
+      "name": "easter14_flower_64_a_0_2",
+      "x": 33,
+      "y": 106,
+      "exists": true
+    },
+    "easter14_flower_64_a_0_3": {
+      "name": "easter14_flower_64_a_0_3",
+      "x": 33,
+      "y": 106,
+      "exists": true
+    },
+    "easter14_flower_64_a_0_4": {
+      "name": "easter14_flower_64_a_0_4",
+      "x": 33,
+      "y": 106,
+      "exists": true
+    },
+    "easter14_flower_64_a_0_5": {
+      "name": "easter14_flower_64_a_0_5",
+      "x": 33,
+      "y": 107,
+      "exists": true
+    },
+    "easter14_flower_64_a_0_6": {
+      "name": "easter14_flower_64_a_0_6",
+      "x": 35,
+      "y": 107,
+      "exists": true
+    },
+    "easter14_flower_64_a_0_7": {
+      "name": "easter14_flower_64_a_0_7",
+      "x": 31,
+      "y": 107,
+      "exists": true
+    },
+    "easter14_flower_64_a_0_8": {
+      "name": "easter14_flower_64_a_0_8",
+      "x": 31,
+      "y": 107,
+      "exists": true
+    },
+    "easter14_flower_32_a_2_0": {
+      "name": "easter14_flower_32_a_2_0",
+      "x": 17,
+      "y": 64,
+      "exists": true
+    },
+    "easter14_flower_32_a_2_1": {
+      "name": "easter14_flower_32_a_2_1",
+      "x": 17,
+      "y": 64,
+      "exists": true
+    },
+    "easter14_flower_32_a_2_2": {
+      "name": "easter14_flower_32_a_2_2",
+      "x": 17,
+      "y": 64,
+      "exists": true
+    },
+    "easter14_flower_32_a_2_3": {
+      "name": "easter14_flower_32_a_2_3",
+      "x": 17,
+      "y": 64,
+      "exists": true
+    },
+    "easter14_flower_32_a_2_4": {
+      "name": "easter14_flower_32_a_2_4",
+      "x": 17,
+      "y": 64,
+      "exists": true
+    },
+    "easter14_flower_32_a_2_5": {
+      "name": "easter14_flower_32_a_2_5",
+      "x": 17,
+      "y": 65,
+      "exists": true
+    },
+    "easter14_flower_32_a_2_6": {
+      "name": "easter14_flower_32_a_2_6",
+      "x": 19,
+      "y": 65,
+      "exists": true
+    },
+    "easter14_flower_32_a_2_7": {
+      "name": "easter14_flower_32_a_2_7",
+      "x": 16,
+      "y": 65,
+      "exists": true
+    },
+    "easter14_flower_32_a_2_8": {
+      "name": "easter14_flower_32_a_2_8",
+      "x": 16,
+      "y": 65,
+      "exists": true
+    },
+    "easter14_flower_64_a_2_0": {
+      "name": "easter14_flower_64_a_2_0",
+      "x": 33,
+      "y": 106,
+      "exists": false
+    },
+    "easter14_flower_64_a_2_1": {
+      "name": "easter14_flower_64_a_2_1",
+      "x": 33,
+      "y": 106,
+      "exists": false
+    },
+    "easter14_flower_64_a_2_2": {
+      "name": "easter14_flower_64_a_2_2",
+      "x": 33,
+      "y": 106,
+      "exists": false
+    },
+    "easter14_flower_64_a_2_3": {
+      "name": "easter14_flower_64_a_2_3",
+      "x": 33,
+      "y": 106,
+      "exists": false
+    },
+    "easter14_flower_64_a_2_4": {
+      "name": "easter14_flower_64_a_2_4",
+      "x": 33,
+      "y": 106,
+      "exists": true
+    },
+    "easter14_flower_64_a_2_5": {
+      "name": "easter14_flower_64_a_2_5",
+      "x": 33,
+      "y": 107,
+      "exists": false
+    },
+    "easter14_flower_64_a_2_6": {
+      "name": "easter14_flower_64_a_2_6",
+      "x": 35,
+      "y": 107,
+      "exists": false
+    },
+    "easter14_flower_64_a_2_7": {
+      "name": "easter14_flower_64_a_2_7",
+      "x": 31,
+      "y": 107,
+      "exists": false
+    },
+    "easter14_flower_64_a_2_8": {
+      "name": "easter14_flower_64_a_2_8",
+      "x": 31,
+      "y": 107,
+      "exists": false
+    },
+    "easter14_flower_icon_a": {
+      "name": "easter14_flower_icon_a",
+      "x": 11,
+      "y": 13,
+      "exists": true
+    },
+    "easter14_flower_32_a_4_0": {
+      "name": "easter14_flower_32_a_4_0",
+      "flipH": 1,
+      "source": "easter14_flower_32_a_2_0",
+      "x": 17,
+      "y": 64,
+      "exists": false
+    },
+    "easter14_flower_32_a_4_1": {
+      "name": "easter14_flower_32_a_4_1",
+      "flipH": 1,
+      "source": "easter14_flower_32_a_2_1",
+      "x": 17,
+      "y": 64,
+      "exists": false
+    },
+    "easter14_flower_32_a_4_2": {
+      "name": "easter14_flower_32_a_4_2",
+      "flipH": 1,
+      "source": "easter14_flower_32_a_2_2",
+      "x": 17,
+      "y": 64,
+      "exists": false
+    },
+    "easter14_flower_32_a_4_3": {
+      "name": "easter14_flower_32_a_4_3",
+      "flipH": 1,
+      "source": "easter14_flower_32_a_2_3",
+      "x": 17,
+      "y": 64,
+      "exists": false
+    },
+    "easter14_flower_32_a_4_4": {
+      "name": "easter14_flower_32_a_4_4",
+      "flipH": 1,
+      "source": "easter14_flower_32_a_2_4",
+      "x": 17,
+      "y": 64,
+      "exists": false
+    },
+    "easter14_flower_32_a_4_5": {
+      "name": "easter14_flower_32_a_4_5",
+      "flipH": 1,
+      "source": "easter14_flower_32_a_2_5",
+      "x": 17,
+      "y": 65,
+      "exists": false
+    },
+    "easter14_flower_32_a_4_6": {
+      "name": "easter14_flower_32_a_4_6",
+      "flipH": 1,
+      "source": "easter14_flower_32_a_2_6",
+      "x": 19,
+      "y": 65,
+      "exists": false
+    },
+    "easter14_flower_32_a_4_7": {
+      "name": "easter14_flower_32_a_4_7",
+      "flipH": 1,
+      "source": "easter14_flower_32_a_2_7",
+      "x": 16,
+      "y": 65,
+      "exists": false
+    },
+    "easter14_flower_32_a_4_8": {
+      "name": "easter14_flower_32_a_4_8",
+      "flipH": 1,
+      "source": "easter14_flower_32_a_2_8",
+      "x": 16,
+      "y": 65,
+      "exists": false
+    },
+    "easter14_flower_64_a_4_0": {
+      "name": "easter14_flower_64_a_4_0",
+      "flipH": 1,
+      "source": "easter14_flower_64_a_2_0",
+      "x": 33,
+      "y": 106,
+      "exists": false
+    },
+    "easter14_flower_64_a_4_1": {
+      "name": "easter14_flower_64_a_4_1",
+      "flipH": 1,
+      "source": "easter14_flower_64_a_2_1",
+      "x": 33,
+      "y": 106,
+      "exists": false
+    },
+    "easter14_flower_64_a_4_2": {
+      "name": "easter14_flower_64_a_4_2",
+      "flipH": 1,
+      "source": "easter14_flower_64_a_2_2",
+      "x": 33,
+      "y": 106,
+      "exists": false
+    },
+    "easter14_flower_64_a_4_3": {
+      "name": "easter14_flower_64_a_4_3",
+      "flipH": 1,
+      "source": "easter14_flower_64_a_2_3",
+      "x": 33,
+      "y": 106,
+      "exists": false
+    },
+    "easter14_flower_64_a_4_4": {
+      "name": "easter14_flower_64_a_4_4",
+      "flipH": 1,
+      "source": "easter14_flower_64_a_2_4",
+      "x": 33,
+      "y": 106,
+      "exists": false
+    },
+    "easter14_flower_64_a_4_5": {
+      "name": "easter14_flower_64_a_4_5",
+      "flipH": 1,
+      "source": "easter14_flower_64_a_2_5",
+      "x": 33,
+      "y": 107,
+      "exists": false
+    },
+    "easter14_flower_64_a_4_6": {
+      "name": "easter14_flower_64_a_4_6",
+      "flipH": 1,
+      "source": "easter14_flower_64_a_2_6",
+      "x": 35,
+      "y": 107,
+      "exists": false
+    },
+    "easter14_flower_64_a_4_7": {
+      "name": "easter14_flower_64_a_4_7",
+      "flipH": 1,
+      "source": "easter14_flower_64_a_2_7",
+      "x": 31,
+      "y": 107,
+      "exists": false
+    },
+    "easter14_flower_64_a_4_8": {
+      "name": "easter14_flower_64_a_4_8",
+      "flipH": 1,
+      "source": "easter14_flower_64_a_2_8",
+      "x": 31,
+      "y": 107,
+      "exists": false
+    },
+    "easter14_flower_32_sd_2_0": {
+      "name": "easter14_flower_32_sd_2_0",
+      "x": 11,
+      "y": 6,
+      "exists": true
+    },
+    "easter14_flower_64_sd_2_0": {
+      "name": "easter14_flower_64_sd_2_0",
+      "x": 26,
+      "y": 19,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  4,
+                  4,
+                  5,
+                  6,
+                  8,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  8,
+                  6,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  4,
+                  4,
+                  5,
+                  6,
+                  8,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  8,
+                  6,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "easter14_flower",
+    "visualization": "furniture_animated"
+  }
+}

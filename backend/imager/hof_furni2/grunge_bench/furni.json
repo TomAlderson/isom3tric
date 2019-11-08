@@ -1,0 +1,286 @@
+{
+  "assets": {
+    "grunge_bench_64_a_0_0": {
+      "name": "grunge_bench_64_a_0_0",
+      "flipH": 1,
+      "source": "grunge_bench_64_a_2_0",
+      "x": 31,
+      "y": 26,
+      "exists": false
+    },
+    "grunge_bench_64_a_2_0": {
+      "name": "grunge_bench_64_a_2_0",
+      "x": 31,
+      "y": 26,
+      "exists": true
+    },
+    "grunge_bench_64_a_4_0": {
+      "name": "grunge_bench_64_a_4_0",
+      "x": 20,
+      "y": 29,
+      "exists": true
+    },
+    "grunge_bench_64_a_6_0": {
+      "name": "grunge_bench_64_a_6_0",
+      "flipH": 1,
+      "source": "grunge_bench_64_a_4_0",
+      "x": 20,
+      "y": 29,
+      "exists": false
+    },
+    "grunge_bench_64_b_0_0": {
+      "name": "grunge_bench_64_b_0_0",
+      "flipH": 1,
+      "source": "grunge_bench_64_b_2_0",
+      "x": 63,
+      "y": 13,
+      "exists": false
+    },
+    "grunge_bench_64_b_2_0": {
+      "name": "grunge_bench_64_b_2_0",
+      "x": 63,
+      "y": 13,
+      "exists": true
+    },
+    "grunge_bench_64_b_4_0": {
+      "name": "grunge_bench_64_b_4_0",
+      "x": -15,
+      "y": 12,
+      "exists": true
+    },
+    "grunge_bench_64_b_6_0": {
+      "name": "grunge_bench_64_b_6_0",
+      "flipH": 1,
+      "source": "grunge_bench_64_b_4_0",
+      "x": -15,
+      "y": 12,
+      "exists": false
+    },
+    "grunge_bench_64_c_0_0": {
+      "name": "grunge_bench_64_c_0_0",
+      "flipH": 1,
+      "source": "grunge_bench_64_c_2_0",
+      "x": 83,
+      "y": -2,
+      "exists": false
+    },
+    "grunge_bench_64_c_2_0": {
+      "name": "grunge_bench_64_c_2_0",
+      "x": 83,
+      "y": -2,
+      "exists": true
+    },
+    "grunge_bench_64_c_4_0": {
+      "name": "grunge_bench_64_c_4_0",
+      "x": -43,
+      "y": -4,
+      "exists": true
+    },
+    "grunge_bench_64_c_6_0": {
+      "name": "grunge_bench_64_c_6_0",
+      "flipH": 1,
+      "source": "grunge_bench_64_c_4_0",
+      "x": -43,
+      "y": -4,
+      "exists": false
+    },
+    "grunge_bench_64_sd_0_0": {
+      "name": "grunge_bench_64_sd_0_0",
+      "flipH": 1,
+      "source": "grunge_bench_64_sd_2_0",
+      "x": 81,
+      "y": 8,
+      "exists": false
+    },
+    "grunge_bench_64_sd_2_0": {
+      "name": "grunge_bench_64_sd_2_0",
+      "x": 81,
+      "y": 8,
+      "exists": true
+    },
+    "grunge_bench_64_sd_4_0": {
+      "name": "grunge_bench_64_sd_4_0",
+      "flipH": 1,
+      "source": "grunge_bench_64_sd_2_0",
+      "x": 81,
+      "y": 8,
+      "exists": false
+    },
+    "grunge_bench_64_sd_6_0": {
+      "name": "grunge_bench_64_sd_6_0",
+      "source": "grunge_bench_64_sd_2_0",
+      "x": 81,
+      "y": 8,
+      "exists": false
+    },
+    "grunge_bench_icon_a": {
+      "name": "grunge_bench_icon_a",
+      "x": 15,
+      "y": 10,
+      "exists": true
+    },
+    "grunge_bench_32_a_0_0": {
+      "name": "grunge_bench_32_a_0_0",
+      "flipH": 1,
+      "source": "grunge_bench_32_a_2_0",
+      "x": 13,
+      "y": 12,
+      "exists": false
+    },
+    "grunge_bench_32_a_2_0": {
+      "name": "grunge_bench_32_a_2_0",
+      "x": 13,
+      "y": 12,
+      "exists": true
+    },
+    "grunge_bench_32_a_4_0": {
+      "name": "grunge_bench_32_a_4_0",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    },
+    "grunge_bench_32_a_6_0": {
+      "name": "grunge_bench_32_a_6_0",
+      "flipH": 1,
+      "source": "grunge_bench_32_a_4_0",
+      "x": 9,
+      "y": 14,
+      "exists": false
+    },
+    "grunge_bench_32_b_0_0": {
+      "name": "grunge_bench_32_b_0_0",
+      "flipH": 1,
+      "source": "grunge_bench_32_b_2_0",
+      "x": 29,
+      "y": 8,
+      "exists": false
+    },
+    "grunge_bench_32_b_2_0": {
+      "name": "grunge_bench_32_b_2_0",
+      "x": 29,
+      "y": 8,
+      "exists": true
+    },
+    "grunge_bench_32_b_4_0": {
+      "name": "grunge_bench_32_b_4_0",
+      "x": -4,
+      "y": 7,
+      "exists": true
+    },
+    "grunge_bench_32_b_6_0": {
+      "name": "grunge_bench_32_b_6_0",
+      "flipH": 1,
+      "source": "grunge_bench_32_b_4_0",
+      "x": -4,
+      "y": 7,
+      "exists": false
+    },
+    "grunge_bench_32_c_0_0": {
+      "name": "grunge_bench_32_c_0_0",
+      "flipH": 1,
+      "source": "grunge_bench_32_c_2_0",
+      "x": 43,
+      "y": 0,
+      "exists": false
+    },
+    "grunge_bench_32_c_2_0": {
+      "name": "grunge_bench_32_c_2_0",
+      "x": 43,
+      "y": 0,
+      "exists": true
+    },
+    "grunge_bench_32_c_4_0": {
+      "name": "grunge_bench_32_c_4_0",
+      "x": -22,
+      "y": -1,
+      "exists": true
+    },
+    "grunge_bench_32_c_6_0": {
+      "name": "grunge_bench_32_c_6_0",
+      "flipH": 1,
+      "source": "grunge_bench_32_c_4_0",
+      "x": -22,
+      "y": -1,
+      "exists": false
+    },
+    "grunge_bench_32_sd_0_0": {
+      "name": "grunge_bench_32_sd_0_0",
+      "flipH": 1,
+      "source": "grunge_bench_32_sd_2_0",
+      "x": 42,
+      "y": 3,
+      "exists": false
+    },
+    "grunge_bench_32_sd_2_0": {
+      "name": "grunge_bench_32_sd_2_0",
+      "x": 42,
+      "y": 3,
+      "exists": true
+    },
+    "grunge_bench_32_sd_4_0": {
+      "name": "grunge_bench_32_sd_4_0",
+      "flipH": 1,
+      "source": "grunge_bench_32_sd_2_0",
+      "x": 42,
+      "y": 3,
+      "exists": false
+    },
+    "grunge_bench_32_sd_6_0": {
+      "name": "grunge_bench_32_sd_6_0",
+      "source": "grunge_bench_32_sd_2_0",
+      "x": 42,
+      "y": 3,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3,
+      "y": 1,
+      "z": 1.1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "grunge_bench",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "assets": {
+    "uni_fridge_64_sd_0_0": {
+      "name": "uni_fridge_64_sd_0_0",
+      "x": 27,
+      "y": 13,
+      "exists": true
+    },
+    "uni_fridge_64_a_0_0": {
+      "name": "uni_fridge_64_a_0_0",
+      "x": 27,
+      "y": 50,
+      "exists": true
+    },
+    "uni_fridge_64_a_0_1": {
+      "name": "uni_fridge_64_a_0_1",
+      "x": 27,
+      "y": 50,
+      "exists": true
+    },
+    "uni_fridge_32_sd_0_0": {
+      "name": "uni_fridge_32_sd_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": true
+    },
+    "uni_fridge_32_a_0_0": {
+      "name": "uni_fridge_32_a_0_0",
+      "x": 13,
+      "y": 25,
+      "exists": false
+    },
+    "uni_fridge_32_a_0_1": {
+      "name": "uni_fridge_32_a_0_1",
+      "x": 13,
+      "y": 25,
+      "exists": true
+    },
+    "uni_fridge_icon_a": {
+      "name": "uni_fridge_icon_a",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "uni_fridge_64_sd_2_0": {
+      "name": "uni_fridge_64_sd_2_0",
+      "flipH": 1,
+      "source": "uni_fridge_64_sd_0_0",
+      "x": 27,
+      "y": 13,
+      "exists": false
+    },
+    "uni_fridge_64_a_2_0": {
+      "name": "uni_fridge_64_a_2_0",
+      "flipH": 1,
+      "source": "uni_fridge_64_a_0_0",
+      "x": 27,
+      "y": 50,
+      "exists": false
+    },
+    "uni_fridge_64_a_2_1": {
+      "name": "uni_fridge_64_a_2_1",
+      "flipH": 1,
+      "source": "uni_fridge_64_a_0_1",
+      "x": 27,
+      "y": 50,
+      "exists": false
+    },
+    "uni_fridge_32_sd_2_0": {
+      "name": "uni_fridge_32_sd_2_0",
+      "flipH": 1,
+      "source": "uni_fridge_32_sd_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": false
+    },
+    "uni_fridge_32_a_2_0": {
+      "name": "uni_fridge_32_a_2_0",
+      "flipH": 1,
+      "source": "uni_fridge_32_a_0_0",
+      "x": 13,
+      "y": 25,
+      "exists": false
+    },
+    "uni_fridge_32_a_2_1": {
+      "name": "uni_fridge_32_a_2_1",
+      "flipH": 1,
+      "source": "uni_fridge_32_a_0_1",
+      "x": 13,
+      "y": 25,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "uni_fridge",
+    "visualization": "furniture_animated"
+  }
+}

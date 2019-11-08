@@ -1,0 +1,80 @@
+{
+  "assets": {
+    "val15_shamisen_64_sd_2_0": {
+      "name": "val15_shamisen_64_sd_2_0",
+      "x": 23,
+      "y": 12,
+      "exists": true
+    },
+    "val15_shamisen_64_a_2_0": {
+      "name": "val15_shamisen_64_a_2_0",
+      "x": 24,
+      "y": 93,
+      "exists": true
+    },
+    "val15_shamisen_icon_a": {
+      "name": "val15_shamisen_icon_a",
+      "x": 6,
+      "y": 13,
+      "exists": true
+    },
+    "val15_shamisen_64_sd_4_0": {
+      "name": "val15_shamisen_64_sd_4_0",
+      "flipH": 1,
+      "source": "val15_shamisen_64_sd_2_0",
+      "x": 23,
+      "y": 12,
+      "exists": false
+    },
+    "val15_shamisen_64_a_4_0": {
+      "name": "val15_shamisen_64_a_4_0",
+      "flipH": 1,
+      "source": "val15_shamisen_64_a_2_0",
+      "x": 24,
+      "y": 93,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.00001
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "val15_shamisen",
+    "visualization": "furniture_static"
+  }
+}

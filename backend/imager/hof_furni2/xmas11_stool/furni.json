@@ -1,0 +1,111 @@
+{
+  "assets": {
+    "xmas11_stool_64_a_0_0": {
+      "name": "xmas11_stool_64_a_0_0",
+      "x": 19,
+      "y": 24,
+      "exists": true
+    },
+    "xmas11_stool_64_a_4_0": {
+      "name": "xmas11_stool_64_a_4_0",
+      "x": 18,
+      "y": 24,
+      "exists": true
+    },
+    "xmas11_stool_32_a_0_0": {
+      "name": "xmas11_stool_32_a_0_0",
+      "x": 9,
+      "y": 11,
+      "exists": true
+    },
+    "xmas11_stool_icon_a": {
+      "name": "xmas11_stool_icon_a",
+      "x": 14,
+      "y": 21,
+      "exists": true
+    },
+    "xmas11_stool_64_a_2_0": {
+      "name": "xmas11_stool_64_a_2_0",
+      "source": "xmas11_stool_64_a_0_0",
+      "x": 19,
+      "y": 24,
+      "exists": false
+    },
+    "xmas11_stool_64_a_6_0": {
+      "name": "xmas11_stool_64_a_6_0",
+      "source": "xmas11_stool_64_a_4_0",
+      "x": 18,
+      "y": 24,
+      "exists": false
+    },
+    "xmas11_stool_32_a_2_0": {
+      "name": "xmas11_stool_32_a_2_0",
+      "source": "xmas11_stool_32_a_0_0",
+      "x": 9,
+      "y": 11,
+      "exists": false
+    },
+    "xmas11_stool_32_a_6_0": {
+      "name": "xmas11_stool_32_a_6_0",
+      "source": "xmas11_stool_32_a_0_0",
+      "x": 9,
+      "y": 11,
+      "exists": false
+    },
+    "xmas11_stool_32_a_4_0": {
+      "name": "xmas11_stool_32_a_4_0",
+      "source": "xmas11_stool_32_a_0_0",
+      "x": 9,
+      "y": 11,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.1
+    },
+    "directions": [
+      0,
+      180,
+      90,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "xmas11_stool",
+    "visualization": "furniture_static"
+  }
+}

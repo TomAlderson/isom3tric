@@ -1,0 +1,126 @@
+{
+  "assets": {
+    "xmas11_throne_64_a_4_0": {
+      "name": "xmas11_throne_64_a_4_0",
+      "x": 36,
+      "y": 127,
+      "exists": true
+    },
+    "xmas11_throne_64_b_4_0": {
+      "name": "xmas11_throne_64_b_4_0",
+      "x": 8,
+      "y": 35,
+      "exists": true
+    },
+    "xmas11_throne_32_b_4_0": {
+      "name": "xmas11_throne_32_b_4_0",
+      "x": 4,
+      "y": 18,
+      "exists": true
+    },
+    "xmas11_throne_32_a_4_0": {
+      "name": "xmas11_throne_32_a_4_0",
+      "x": 18,
+      "y": 64,
+      "exists": true
+    },
+    "xmas11_throne_icon_a": {
+      "name": "xmas11_throne_icon_a",
+      "x": 9,
+      "y": 36,
+      "exists": true
+    },
+    "xmas11_throne_64_a_2_0": {
+      "name": "xmas11_throne_64_a_2_0",
+      "flipH": 1,
+      "source": "xmas11_throne_64_a_4_0",
+      "x": 36,
+      "y": 127,
+      "exists": false
+    },
+    "xmas11_throne_64_b_2_0": {
+      "name": "xmas11_throne_64_b_2_0",
+      "flipH": 1,
+      "source": "xmas11_throne_64_b_4_0",
+      "x": 8,
+      "y": 35,
+      "exists": false
+    },
+    "xmas11_throne_32_b_2_0": {
+      "name": "xmas11_throne_32_b_2_0",
+      "flipH": 1,
+      "source": "xmas11_throne_32_b_4_0",
+      "x": 4,
+      "y": 18,
+      "exists": false
+    },
+    "xmas11_throne_32_a_2_0": {
+      "name": "xmas11_throne_32_a_2_0",
+      "flipH": 1,
+      "source": "xmas11_throne_32_a_4_0",
+      "x": 18,
+      "y": 64,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.4
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 800
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 800
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "xmas11_throne",
+    "visualization": "furniture_static"
+  }
+}
