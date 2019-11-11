@@ -9,7 +9,7 @@
     "build": "webpack --config webpack.production.config.js",
     "test": "eslint --ext .js,.vue src",
     "start:client": "webpack",
-    "start:server": "nodemon server.js"
+    "start:server": "nodemon --ignore './backend/imager' server.js"
   },
   "license": "MIT",
   "devDependencies": {
@@ -42,6 +42,7 @@
     "axios": "^0.17.1",
     "bcrypt": "^3.0.6",
     "bootstrap": "^4.3.1",
+    "canvas": "^2.6.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "file-loader": "^4.2.0",

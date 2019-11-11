@@ -2,6 +2,9 @@ const express = require("express");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 const https = require("https");
+var path = require("path");
+var AvatarImager = require("../lib/avatar_imager");
+var AvatarImage = require("../lib/avatar_image");
 
 const router = express.Router();
 
@@ -104,6 +107,37 @@ router.get("/imager/part", (req, res, next) => {
         resource: data
       });
     }
+  });
+});
+
+router.get("/imager/test", (req, res, next) => {
+  let inputFigure = req.query.figure;
+  let inputAction = req.query.action;
+  let inputGesture = req.query.gesture;
+  let inputDirection = req.query.direction;
+  let inputSize = req.query.size;
+  let inputHeadDirection = req.query.head_direction;
+  let inputFrame = req.query.frame;
+  let inputHeadOnly = req.query.headonly;
+
+  let avatarImager = new AvatarImager();
+
+  avatarImager.initialize(() => {
+    let avatar = new AvatarImage(
+      inputFigure,
+      inputDirection,
+      inputHeadDirection,
+      inputAction.split(","),
+      inputGesture,
+      inputFrame,
+      inputHeadOnly,
+      inputSize
+    );
+
+    avatarImager.generate(avatar, img => {
+      res.setHeader("Content-Type", "image/png");
+      img.pngStream().pipe(res);
+    });
   });
 });
 

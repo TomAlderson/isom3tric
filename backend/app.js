@@ -9,6 +9,7 @@ const imagerRoutes = require("./routes/imager");
 
 const app = express();
 
+mongoose.set("useCreateIndex", true);
 mongoose
   .connect(process.env.DATABASE_URL, {
     useNewUrlParser: true,
@@ -24,7 +25,7 @@ mongoose
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
-// app.use("/images", express.static(path.join("backend/images")));
+app.use("/resource", express.static(path.join("backend/imager/resource")));
 
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
