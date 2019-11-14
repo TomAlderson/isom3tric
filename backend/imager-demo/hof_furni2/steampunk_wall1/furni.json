@@ -1,0 +1,1800 @@
+{
+  "assets": {
+    "steampunk_wall1_64_a_4_0": {
+      "name": "steampunk_wall1_64_a_4_0",
+      "x": 36,
+      "y": 192,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_0": {
+      "name": "steampunk_wall1_64_b_4_0",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_1": {
+      "name": "steampunk_wall1_64_b_4_1",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_2": {
+      "name": "steampunk_wall1_64_b_4_2",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_3": {
+      "name": "steampunk_wall1_64_b_4_3",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_4": {
+      "name": "steampunk_wall1_64_b_4_4",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_5": {
+      "name": "steampunk_wall1_64_b_4_5",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_6": {
+      "name": "steampunk_wall1_64_b_4_6",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_7": {
+      "name": "steampunk_wall1_64_b_4_7",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_8": {
+      "name": "steampunk_wall1_64_b_4_8",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_9": {
+      "name": "steampunk_wall1_64_b_4_9",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_10": {
+      "name": "steampunk_wall1_64_b_4_10",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_b_4_11": {
+      "name": "steampunk_wall1_64_b_4_11",
+      "x": 34,
+      "y": 56,
+      "exists": true
+    },
+    "steampunk_wall1_64_c_4_0": {
+      "name": "steampunk_wall1_64_c_4_0",
+      "x": 25,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_64_c_4_1": {
+      "name": "steampunk_wall1_64_c_4_1",
+      "x": 25,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_64_c_4_2": {
+      "name": "steampunk_wall1_64_c_4_2",
+      "x": 25,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_64_c_4_3": {
+      "name": "steampunk_wall1_64_c_4_3",
+      "x": 25,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_64_c_4_4": {
+      "name": "steampunk_wall1_64_c_4_4",
+      "x": 25,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_64_c_4_5": {
+      "name": "steampunk_wall1_64_c_4_5",
+      "x": 25,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_64_d_4_0": {
+      "name": "steampunk_wall1_64_d_4_0",
+      "x": -16,
+      "y": 13,
+      "exists": true
+    },
+    "steampunk_wall1_64_d_4_1": {
+      "name": "steampunk_wall1_64_d_4_1",
+      "x": 33,
+      "y": 54,
+      "exists": true
+    },
+    "steampunk_wall1_icon_a": {
+      "name": "steampunk_wall1_icon_a",
+      "x": 10,
+      "y": 18,
+      "exists": true
+    },
+    "steampunk_wall1_32_a_4_0": {
+      "name": "steampunk_wall1_32_a_4_0",
+      "x": 17,
+      "y": 94,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_0": {
+      "name": "steampunk_wall1_32_b_4_0",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_1": {
+      "name": "steampunk_wall1_32_b_4_1",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_2": {
+      "name": "steampunk_wall1_32_b_4_2",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_3": {
+      "name": "steampunk_wall1_32_b_4_3",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_4": {
+      "name": "steampunk_wall1_32_b_4_4",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_5": {
+      "name": "steampunk_wall1_32_b_4_5",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_6": {
+      "name": "steampunk_wall1_32_b_4_6",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_7": {
+      "name": "steampunk_wall1_32_b_4_7",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_8": {
+      "name": "steampunk_wall1_32_b_4_8",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_9": {
+      "name": "steampunk_wall1_32_b_4_9",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_10": {
+      "name": "steampunk_wall1_32_b_4_10",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_b_4_11": {
+      "name": "steampunk_wall1_32_b_4_11",
+      "x": 16,
+      "y": 24,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_4_0": {
+      "name": "steampunk_wall1_32_c_4_0",
+      "x": 10,
+      "y": 30,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_4_1": {
+      "name": "steampunk_wall1_32_c_4_1",
+      "x": 7,
+      "y": 33,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_4_2": {
+      "name": "steampunk_wall1_32_c_4_2",
+      "x": 3,
+      "y": 32,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_4_3": {
+      "name": "steampunk_wall1_32_c_4_3",
+      "x": 3,
+      "y": 28,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_4_4": {
+      "name": "steampunk_wall1_32_c_4_4",
+      "x": 2,
+      "y": 27,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_4_5": {
+      "name": "steampunk_wall1_32_c_4_5",
+      "x": 3,
+      "y": 25,
+      "exists": true
+    },
+    "steampunk_wall1_32_d_4_0": {
+      "name": "steampunk_wall1_32_d_4_0",
+      "x": -16,
+      "y": 13,
+      "exists": false
+    },
+    "steampunk_wall1_32_d_4_1": {
+      "name": "steampunk_wall1_32_d_4_1",
+      "x": 16,
+      "y": 23,
+      "exists": true
+    },
+    "steampunk_wall1_64_a_2_0": {
+      "name": "steampunk_wall1_64_a_2_0",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_a_4_0",
+      "x": 36,
+      "y": 192,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_0": {
+      "name": "steampunk_wall1_64_b_2_0",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_0",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_1": {
+      "name": "steampunk_wall1_64_b_2_1",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_1",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_2": {
+      "name": "steampunk_wall1_64_b_2_2",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_2",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_3": {
+      "name": "steampunk_wall1_64_b_2_3",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_3",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_4": {
+      "name": "steampunk_wall1_64_b_2_4",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_4",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_5": {
+      "name": "steampunk_wall1_64_b_2_5",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_5",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_6": {
+      "name": "steampunk_wall1_64_b_2_6",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_6",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_7": {
+      "name": "steampunk_wall1_64_b_2_7",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_7",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_8": {
+      "name": "steampunk_wall1_64_b_2_8",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_8",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_9": {
+      "name": "steampunk_wall1_64_b_2_9",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_9",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_10": {
+      "name": "steampunk_wall1_64_b_2_10",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_10",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_b_2_11": {
+      "name": "steampunk_wall1_64_b_2_11",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_b_4_11",
+      "x": 34,
+      "y": 56,
+      "exists": false
+    },
+    "steampunk_wall1_64_d_2_0": {
+      "name": "steampunk_wall1_64_d_2_0",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_d_4_0",
+      "x": -30,
+      "y": 31,
+      "exists": false
+    },
+    "steampunk_wall1_64_d_2_1": {
+      "name": "steampunk_wall1_64_d_2_1",
+      "flipH": 1,
+      "source": "steampunk_wall1_64_d_4_1",
+      "x": 33,
+      "y": 54,
+      "exists": false
+    },
+    "steampunk_wall1_32_a_2_0": {
+      "name": "steampunk_wall1_32_a_2_0",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_a_4_0",
+      "x": 17,
+      "y": 94,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_0": {
+      "name": "steampunk_wall1_32_b_2_0",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_0",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_1": {
+      "name": "steampunk_wall1_32_b_2_1",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_1",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_2": {
+      "name": "steampunk_wall1_32_b_2_2",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_2",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_3": {
+      "name": "steampunk_wall1_32_b_2_3",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_3",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_4": {
+      "name": "steampunk_wall1_32_b_2_4",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_4",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_5": {
+      "name": "steampunk_wall1_32_b_2_5",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_5",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_6": {
+      "name": "steampunk_wall1_32_b_2_6",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_6",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_7": {
+      "name": "steampunk_wall1_32_b_2_7",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_7",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_8": {
+      "name": "steampunk_wall1_32_b_2_8",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_8",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_9": {
+      "name": "steampunk_wall1_32_b_2_9",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_9",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_10": {
+      "name": "steampunk_wall1_32_b_2_10",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_10",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_b_2_11": {
+      "name": "steampunk_wall1_32_b_2_11",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_b_4_11",
+      "x": 16,
+      "y": 24,
+      "exists": false
+    },
+    "steampunk_wall1_32_d_2_0": {
+      "name": "steampunk_wall1_32_d_2_0",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_d_4_0",
+      "x": -16,
+      "y": 13,
+      "exists": false
+    },
+    "steampunk_wall1_32_d_2_1": {
+      "name": "steampunk_wall1_32_d_2_1",
+      "flipH": 1,
+      "source": "steampunk_wall1_32_d_4_1",
+      "x": 16,
+      "y": 23,
+      "exists": false
+    },
+    "steampunk_wall1_64_c_2_0": {
+      "name": "steampunk_wall1_64_c_2_0",
+      "x": 12,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_64_c_2_1": {
+      "name": "steampunk_wall1_64_c_2_1",
+      "x": 12,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_64_c_2_2": {
+      "name": "steampunk_wall1_64_c_2_2",
+      "x": 12,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_64_c_2_3": {
+      "name": "steampunk_wall1_64_c_2_3",
+      "x": 12,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_64_c_2_4": {
+      "name": "steampunk_wall1_64_c_2_4",
+      "x": 12,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_64_c_2_5": {
+      "name": "steampunk_wall1_64_c_2_5",
+      "x": 12,
+      "y": 77,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_2_0": {
+      "name": "steampunk_wall1_32_c_2_0",
+      "x": 6,
+      "y": 25,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_2_1": {
+      "name": "steampunk_wall1_32_c_2_1",
+      "x": 5,
+      "y": 28,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_2_2": {
+      "name": "steampunk_wall1_32_c_2_2",
+      "x": 1,
+      "y": 32,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_2_3": {
+      "name": "steampunk_wall1_32_c_2_3",
+      "x": 1,
+      "y": 33,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_2_4": {
+      "name": "steampunk_wall1_32_c_2_4",
+      "x": 1,
+      "y": 33,
+      "exists": true
+    },
+    "steampunk_wall1_32_c_2_5": {
+      "name": "steampunk_wall1_32_c_2_5",
+      "x": 0,
+      "y": 30,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 0.2,
+      "z": 2.9
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  5,
+                  5,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  2,
+                  1,
+                  2,
+                  3,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  5,
+                  5,
+                  3,
+                  4,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  4,
+                  3,
+                  3,
+                  3,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  3,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  5,
+                  5,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  2,
+                  1,
+                  2,
+                  3,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  5,
+                  5,
+                  3,
+                  4,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  4,
+                  3,
+                  3,
+                  3,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  3,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -4003
+        },
+        {
+          "layerId": 1,
+          "z": -4002
+        },
+        {
+          "layerId": 2,
+          "z": -4001
+        },
+        {
+          "layerId": 3,
+          "z": -4000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  5,
+                  5,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  2,
+                  1,
+                  2,
+                  3,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  5,
+                  5,
+                  3,
+                  4,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  4,
+                  3,
+                  3,
+                  3,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  3,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  5,
+                  5,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  2,
+                  1,
+                  2,
+                  3,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  5,
+                  5,
+                  3,
+                  4,
+                  3,
+                  3,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  3,
+                  4,
+                  3,
+                  3,
+                  3,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  4,
+                  4,
+                  5,
+                  4,
+                  5,
+                  5,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  5,
+                  3,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  5,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  5,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -4003
+        },
+        {
+          "layerId": 1,
+          "z": -4002
+        },
+        {
+          "layerId": 2,
+          "z": -4001
+        },
+        {
+          "layerId": 3,
+          "z": -4000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "steampunk_wall1",
+    "visualization": "furniture_animated"
+  }
+}

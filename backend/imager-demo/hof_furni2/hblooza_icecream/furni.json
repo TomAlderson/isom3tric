@@ -1,0 +1,154 @@
+{
+  "assets": {
+    "hblooza_icecream_64_sd_2_0": {
+      "name": "hblooza_icecream_64_sd_2_0",
+      "x": 65,
+      "y": 16,
+      "exists": true
+    },
+    "hblooza_icecream_64_a_2_0": {
+      "name": "hblooza_icecream_64_a_2_0",
+      "x": 19,
+      "y": 134,
+      "exists": true
+    },
+    "hblooza_icecream_64_b_2_0": {
+      "name": "hblooza_icecream_64_b_2_0",
+      "x": 65,
+      "y": 134,
+      "exists": true
+    },
+    "hblooza_icecream_32_sd_2_0": {
+      "name": "hblooza_icecream_32_sd_2_0",
+      "x": 33,
+      "y": 8,
+      "exists": true
+    },
+    "hblooza_icecream_32_a_2_0": {
+      "name": "hblooza_icecream_32_a_2_0",
+      "x": 9,
+      "y": 67,
+      "exists": true
+    },
+    "hblooza_icecream_32_b_2_0": {
+      "name": "hblooza_icecream_32_b_2_0",
+      "x": 33,
+      "y": 67,
+      "exists": true
+    },
+    "hblooza_icecream_icon_a": {
+      "name": "hblooza_icecream_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    },
+    "hblooza_icecream_64_sd_4_0": {
+      "name": "hblooza_icecream_64_sd_4_0",
+      "flipH": 1,
+      "source": "hblooza_icecream_64_sd_2_0",
+      "x": 65,
+      "y": 16,
+      "exists": false
+    },
+    "hblooza_icecream_64_a_4_0": {
+      "name": "hblooza_icecream_64_a_4_0",
+      "flipH": 1,
+      "source": "hblooza_icecream_64_a_2_0",
+      "x": 19,
+      "y": 134,
+      "exists": false
+    },
+    "hblooza_icecream_64_b_4_0": {
+      "name": "hblooza_icecream_64_b_4_0",
+      "flipH": 1,
+      "source": "hblooza_icecream_64_b_2_0",
+      "x": 65,
+      "y": 134,
+      "exists": false
+    },
+    "hblooza_icecream_32_sd_4_0": {
+      "name": "hblooza_icecream_32_sd_4_0",
+      "flipH": 1,
+      "source": "hblooza_icecream_32_sd_2_0",
+      "x": 33,
+      "y": 8,
+      "exists": false
+    },
+    "hblooza_icecream_32_a_4_0": {
+      "name": "hblooza_icecream_32_a_4_0",
+      "flipH": 1,
+      "source": "hblooza_icecream_32_a_2_0",
+      "x": 9,
+      "y": 67,
+      "exists": false
+    },
+    "hblooza_icecream_32_b_4_0": {
+      "name": "hblooza_icecream_32_b_4_0",
+      "flipH": 1,
+      "source": "hblooza_icecream_32_b_2_0",
+      "x": 33,
+      "y": 67,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 4
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "hblooza_icecream",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "assets": {
+    "hhistory_r18_crackable_64_a_2_0": {
+      "name": "hhistory_r18_crackable_64_a_2_0",
+      "x": 45,
+      "y": 51,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_a_2_1": {
+      "name": "hhistory_r18_crackable_64_a_2_1",
+      "x": 45,
+      "y": 53,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_a_2_2": {
+      "name": "hhistory_r18_crackable_64_a_2_2",
+      "x": 45,
+      "y": 50,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_a_2_3": {
+      "name": "hhistory_r18_crackable_64_a_2_3",
+      "x": 45,
+      "y": 65,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_a_2_4": {
+      "name": "hhistory_r18_crackable_64_a_2_4",
+      "x": 52,
+      "y": 42,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_a_2_5": {
+      "name": "hhistory_r18_crackable_64_a_2_5",
+      "x": 53,
+      "y": 49,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_a_2_6": {
+      "name": "hhistory_r18_crackable_64_a_2_6",
+      "x": 51,
+      "y": 51,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_a_2_7": {
+      "name": "hhistory_r18_crackable_64_a_2_7",
+      "x": 52,
+      "y": 43,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_a_2_8": {
+      "name": "hhistory_r18_crackable_64_a_2_8",
+      "x": 53,
+      "y": 49,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_a_2_9": {
+      "name": "hhistory_r18_crackable_64_a_2_9",
+      "x": 53,
+      "y": 49,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_a_2_10": {
+      "name": "hhistory_r18_crackable_64_a_2_10",
+      "x": 53,
+      "y": 49,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_b_2_0": {
+      "name": "hhistory_r18_crackable_64_b_2_0",
+      "x": 23,
+      "y": 176,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_b_2_1": {
+      "name": "hhistory_r18_crackable_64_b_2_1",
+      "x": 23,
+      "y": 146,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_b_2_2": {
+      "name": "hhistory_r18_crackable_64_b_2_2",
+      "x": 23,
+      "y": 116,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_b_2_3": {
+      "name": "hhistory_r18_crackable_64_b_2_3",
+      "x": 23,
+      "y": 86,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_c_2_0": {
+      "name": "hhistory_r18_crackable_64_c_2_0",
+      "x": 35,
+      "y": 52,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_c_2_1": {
+      "name": "hhistory_r18_crackable_64_c_2_1",
+      "x": 41,
+      "y": 66,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_c_2_2": {
+      "name": "hhistory_r18_crackable_64_c_2_2",
+      "x": 45,
+      "y": 66,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_c_2_3": {
+      "name": "hhistory_r18_crackable_64_c_2_3",
+      "x": 52,
+      "y": 78,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_c_2_4": {
+      "name": "hhistory_r18_crackable_64_c_2_4",
+      "x": 51,
+      "y": 76,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_c_2_5": {
+      "name": "hhistory_r18_crackable_64_c_2_5",
+      "x": 8,
+      "y": 35,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_d_2_0": {
+      "name": "hhistory_r18_crackable_64_d_2_0",
+      "x": 29,
+      "y": 14,
+      "exists": true
+    },
+    "hhistory_r18_crackable_icon_a": {
+      "name": "hhistory_r18_crackable_icon_a",
+      "x": 13,
+      "y": 10,
+      "exists": true
+    },
+    "hhistory_r18_crackable_64_a_4_0": {
+      "name": "hhistory_r18_crackable_64_a_4_0",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_a_2_0",
+      "x": 45,
+      "y": 51,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_a_4_1": {
+      "name": "hhistory_r18_crackable_64_a_4_1",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_a_2_1",
+      "x": 45,
+      "y": 53,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_a_4_2": {
+      "name": "hhistory_r18_crackable_64_a_4_2",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_a_2_2",
+      "x": 45,
+      "y": 50,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_a_4_3": {
+      "name": "hhistory_r18_crackable_64_a_4_3",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_a_2_3",
+      "x": 45,
+      "y": 65,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_a_4_4": {
+      "name": "hhistory_r18_crackable_64_a_4_4",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_a_2_4",
+      "x": 52,
+      "y": 42,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_a_4_5": {
+      "name": "hhistory_r18_crackable_64_a_4_5",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_a_2_5",
+      "x": 53,
+      "y": 49,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_a_4_6": {
+      "name": "hhistory_r18_crackable_64_a_4_6",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_a_2_6",
+      "x": 51,
+      "y": 51,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_a_4_7": {
+      "name": "hhistory_r18_crackable_64_a_4_7",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_a_2_7",
+      "x": 52,
+      "y": 43,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_a_4_8": {
+      "name": "hhistory_r18_crackable_64_a_4_8",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_a_2_8",
+      "x": 53,
+      "y": 49,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_a_4_9": {
+      "name": "hhistory_r18_crackable_64_a_4_9",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_a_2_9",
+      "x": 53,
+      "y": 49,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_a_4_10": {
+      "name": "hhistory_r18_crackable_64_a_4_10",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_a_2_10",
+      "x": 53,
+      "y": 49,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_b_4_0": {
+      "name": "hhistory_r18_crackable_64_b_4_0",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_b_2_0",
+      "x": 23,
+      "y": 176,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_b_4_1": {
+      "name": "hhistory_r18_crackable_64_b_4_1",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_b_2_1",
+      "x": 23,
+      "y": 146,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_b_4_2": {
+      "name": "hhistory_r18_crackable_64_b_4_2",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_b_2_2",
+      "x": 23,
+      "y": 116,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_b_4_3": {
+      "name": "hhistory_r18_crackable_64_b_4_3",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_b_2_3",
+      "x": 23,
+      "y": 86,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_c_4_0": {
+      "name": "hhistory_r18_crackable_64_c_4_0",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_c_2_0",
+      "x": 35,
+      "y": 52,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_c_4_1": {
+      "name": "hhistory_r18_crackable_64_c_4_1",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_c_2_1",
+      "x": 41,
+      "y": 66,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_c_4_2": {
+      "name": "hhistory_r18_crackable_64_c_4_2",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_c_2_2",
+      "x": 45,
+      "y": 66,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_c_4_3": {
+      "name": "hhistory_r18_crackable_64_c_4_3",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_c_2_3",
+      "x": 52,
+      "y": 78,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_c_4_4": {
+      "name": "hhistory_r18_crackable_64_c_4_4",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_c_2_4",
+      "x": 51,
+      "y": 76,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_c_4_5": {
+      "name": "hhistory_r18_crackable_64_c_4_5",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_c_2_5",
+      "x": 8,
+      "y": 35,
+      "exists": false
+    },
+    "hhistory_r18_crackable_64_d_4_0": {
+      "name": "hhistory_r18_crackable_64_d_4_0",
+      "flipH": 1,
+      "source": "hhistory_r18_crackable_64_d_2_0",
+      "x": 29,
+      "y": 14,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 2,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 3,
+          "ink": "COPY",
+          "z": -10
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hhistory_r18_crackable",
+    "visualization": "furniture_animated"
+  }
+}

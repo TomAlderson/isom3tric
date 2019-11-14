@@ -1,0 +1,82 @@
+{
+  "assets": {
+    "org_tblpnk_64_a_0_0": {
+      "name": "org_tblpnk_64_a_0_0",
+      "x": 35,
+      "y": 51,
+      "exists": true
+    },
+    "org_tblpnk_64_a_6_0": {
+      "name": "org_tblpnk_64_a_6_0",
+      "flipH": 1,
+      "source": "org_tblpnk_64_a_0_0",
+      "x": 35,
+      "y": 51,
+      "exists": false
+    },
+    "org_tblpnk_icon_a": {
+      "name": "org_tblpnk_icon_a",
+      "x": 15,
+      "y": 15,
+      "exists": true
+    },
+    "org_tblpnk_32_a_0_0": {
+      "name": "org_tblpnk_32_a_0_0",
+      "x": 17,
+      "y": 26,
+      "exists": true
+    },
+    "org_tblpnk_32_a_6_0": {
+      "name": "org_tblpnk_32_a_6_0",
+      "flipH": 1,
+      "source": "org_tblpnk_32_a_0_0",
+      "x": 17,
+      "y": 26,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "org_tblpnk",
+    "visualization": "furniture_static"
+  }
+}

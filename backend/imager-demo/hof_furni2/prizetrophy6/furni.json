@@ -1,0 +1,224 @@
+{
+  "assets": {
+    "prizetrophy_a_0_1_1_6_0": {
+      "name": "prizetrophy_a_0_1_1_6_0",
+      "flipH": 1,
+      "source": "prizetrophy6_64_a_0_0",
+      "x": 22,
+      "y": 46,
+      "exists": false
+    },
+    "prizetrophy6.props": {
+      "name": "prizetrophy6.props",
+      "source": "prizetrophy.props",
+      "x": 32,
+      "y": 0,
+      "exists": false
+    },
+    "prizetrophy6_64_a_0_0": {
+      "name": "prizetrophy6_64_a_0_0",
+      "x": 22,
+      "y": 46,
+      "exists": true
+    },
+    "prizetrophy6_64_a_6_0": {
+      "name": "prizetrophy6_64_a_6_0",
+      "flipH": 1,
+      "source": "prizetrophy6_64_a_0_0",
+      "x": 22,
+      "y": 46,
+      "exists": false
+    },
+    "prizetrophy6_64_b_0_0": {
+      "name": "prizetrophy6_64_b_0_0",
+      "x": 20,
+      "y": 95,
+      "exists": true
+    },
+    "prizetrophy6_64_b_6_0": {
+      "name": "prizetrophy6_64_b_6_0",
+      "flipH": 1,
+      "source": "prizetrophy6_64_b_0_0",
+      "x": 20,
+      "y": 95,
+      "exists": false
+    },
+    "prizetrophy6_64_c_0_0": {
+      "name": "prizetrophy6_64_c_0_0",
+      "x": 19,
+      "y": 94,
+      "exists": true
+    },
+    "prizetrophy6_64_c_6_0": {
+      "name": "prizetrophy6_64_c_6_0",
+      "flipH": 1,
+      "source": "prizetrophy6_64_c_0_0",
+      "x": 19,
+      "y": 94,
+      "exists": false
+    },
+    "prizetrophy6_icon_a": {
+      "name": "prizetrophy6_icon_a",
+      "x": 15,
+      "y": 15,
+      "exists": true
+    },
+    "s_prizetrophy_a_0_1_1_6_0": {
+      "name": "s_prizetrophy_a_0_1_1_6_0",
+      "flipH": 1,
+      "source": "prizetrophy6_32_a_0_0",
+      "x": 11,
+      "y": 23,
+      "exists": false
+    },
+    "s_prizetrophy6.props": {
+      "name": "s_prizetrophy6.props",
+      "source": "s_prizetrophy.props",
+      "x": 16,
+      "y": 0,
+      "exists": false
+    },
+    "prizetrophy6_32_a_0_0": {
+      "name": "prizetrophy6_32_a_0_0",
+      "x": 11,
+      "y": 23,
+      "exists": true
+    },
+    "prizetrophy6_32_a_6_0": {
+      "name": "prizetrophy6_32_a_6_0",
+      "flipH": 1,
+      "source": "prizetrophy6_32_a_0_0",
+      "x": 11,
+      "y": 23,
+      "exists": false
+    },
+    "prizetrophy6_32_b_0_0": {
+      "name": "prizetrophy6_32_b_0_0",
+      "x": 11,
+      "y": 47,
+      "exists": true
+    },
+    "prizetrophy6_32_b_6_0": {
+      "name": "prizetrophy6_32_b_6_0",
+      "flipH": 1,
+      "source": "prizetrophy6_32_b_0_0",
+      "x": 11,
+      "y": 47,
+      "exists": false
+    },
+    "prizetrophy6_32_c_0_0": {
+      "name": "prizetrophy6_32_c_0_0",
+      "x": 10,
+      "y": 46,
+      "exists": true
+    },
+    "prizetrophy6_32_c_6_0": {
+      "name": "prizetrophy6_32_c_6_0",
+      "flipH": 1,
+      "source": "prizetrophy6_32_c_0_0",
+      "x": 10,
+      "y": 46,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 0,
+            "color": "FFDD3F"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 0,
+            "color": 996600
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 2,
+            "color": "FFDD3F"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 2,
+            "color": 996600
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "z": 5
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 2,
+            "color": "FFDD3F"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 2,
+            "color": 996600
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "z": 5
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_trophy",
+    "type": "prizetrophy6",
+    "visualization": "furniture_static"
+  }
+}

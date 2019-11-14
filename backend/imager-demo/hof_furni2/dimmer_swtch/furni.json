@@ -1,0 +1,232 @@
+{
+  "assets": {
+    "dimmer_swtch_icon_a": {
+      "name": "dimmer_swtch_icon_a",
+      "x": 6,
+      "y": 12,
+      "exists": true
+    },
+    "dimmer_swtch_64_a_2_0": {
+      "name": "dimmer_swtch_64_a_2_0",
+      "x": 5,
+      "y": 11,
+      "exists": true
+    },
+    "dimmer_swtch_64_a_2_1": {
+      "name": "dimmer_swtch_64_a_2_1",
+      "x": 5,
+      "y": 11,
+      "exists": true
+    },
+    "dimmer_swtch_64_b_2_0": {
+      "name": "dimmer_swtch_64_b_2_0",
+      "x": 7,
+      "y": 12,
+      "exists": true
+    },
+    "dimmer_swtch_64_a_4_0": {
+      "name": "dimmer_swtch_64_a_4_0",
+      "flipH": 1,
+      "source": "dimmer_swtch_64_a_2_0",
+      "x": 5,
+      "y": 11,
+      "exists": false
+    },
+    "dimmer_swtch_64_a_4_1": {
+      "name": "dimmer_swtch_64_a_4_1",
+      "flipH": 1,
+      "source": "dimmer_swtch_64_a_2_1",
+      "x": 5,
+      "y": 11,
+      "exists": false
+    },
+    "dimmer_swtch_64_b_4_0": {
+      "name": "dimmer_swtch_64_b_4_0",
+      "flipH": 1,
+      "source": "dimmer_swtch_64_b_2_0",
+      "x": 7,
+      "y": 12,
+      "exists": false
+    },
+    "dimmer_swtch_32_a_2_0": {
+      "name": "dimmer_swtch_32_a_2_0",
+      "x": 3,
+      "y": 7,
+      "exists": true
+    },
+    "dimmer_swtch_32_a_2_1": {
+      "name": "dimmer_swtch_32_a_2_1",
+      "x": 3,
+      "y": 7,
+      "exists": true
+    },
+    "dimmer_swtch_32_b_2_0": {
+      "name": "dimmer_swtch_32_b_2_0",
+      "x": 4,
+      "y": 8,
+      "exists": true
+    },
+    "dimmer_swtch_32_a_4_0": {
+      "name": "dimmer_swtch_32_a_4_0",
+      "flipH": 1,
+      "source": "dimmer_swtch_32_a_2_0",
+      "x": 3,
+      "y": 7,
+      "exists": false
+    },
+    "dimmer_swtch_32_a_4_1": {
+      "name": "dimmer_swtch_32_a_4_1",
+      "flipH": 1,
+      "source": "dimmer_swtch_32_a_2_1",
+      "x": 3,
+      "y": 7,
+      "exists": false
+    },
+    "dimmer_swtch_32_b_4_0": {
+      "name": "dimmer_swtch_32_b_4_0",
+      "flipH": 1,
+      "source": "dimmer_swtch_32_b_2_0",
+      "x": 4,
+      "y": 8,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 0.375,
+      "y": 0.2,
+      "z": 0.5938
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2995
+        },
+        {
+          "layerId": 1,
+          "alpha": 51,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2995
+        },
+        {
+          "layerId": 1,
+          "alpha": 51,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_roomdimmer",
+    "type": "dimmer_swtch",
+    "visualization": "furniture_animated"
+  }
+}

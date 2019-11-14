@@ -1,0 +1,110 @@
+{
+  "assets": {
+    "jp_tray3_64_a_0_0": {
+      "name": "jp_tray3_64_a_0_0",
+      "x": 15,
+      "y": 21,
+      "exists": true
+    },
+    "jp_tray3_64_a_2_0": {
+      "name": "jp_tray3_64_a_2_0",
+      "flipH": 1,
+      "source": "jp_tray3_64_a_0_0",
+      "x": 15,
+      "y": 21,
+      "exists": false
+    },
+    "jp_tray3_64_sd_0_0": {
+      "name": "jp_tray3_64_sd_0_0",
+      "x": 15,
+      "y": 5,
+      "exists": true
+    },
+    "jp_tray3_64_sd_2_0": {
+      "name": "jp_tray3_64_sd_2_0",
+      "flipH": 1,
+      "source": "jp_tray3_64_sd_0_0",
+      "x": 15,
+      "y": 5,
+      "exists": false
+    },
+    "jp_tray3_icon_a": {
+      "name": "jp_tray3_icon_a",
+      "x": 9,
+      "y": 8,
+      "exists": true
+    },
+    "jp_tray3_32_a_0_0": {
+      "name": "jp_tray3_32_a_0_0",
+      "x": 8,
+      "y": 10,
+      "exists": false
+    },
+    "jp_tray3_32_a_2_0": {
+      "name": "jp_tray3_32_a_2_0",
+      "flipH": 1,
+      "source": "jp_tray3_32_a_0_0",
+      "x": 8,
+      "y": 10,
+      "exists": false
+    },
+    "jp_tray3_32_sd_0_0": {
+      "name": "jp_tray3_32_sd_0_0",
+      "x": 8,
+      "y": 1,
+      "exists": true
+    },
+    "jp_tray3_32_sd_2_0": {
+      "name": "jp_tray3_32_sd_2_0",
+      "flipH": 1,
+      "source": "jp_tray3_32_sd_0_0",
+      "x": 8,
+      "y": 1,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "jp_tray3",
+    "visualization": "furniture_static"
+  }
+}

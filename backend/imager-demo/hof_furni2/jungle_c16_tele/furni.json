@@ -1,0 +1,313 @@
+{
+  "assets": {
+    "jungle_c16_tele_64_sd_4_0": {
+      "name": "jungle_c16_tele_64_sd_4_0",
+      "x": 33,
+      "y": 16,
+      "exists": true
+    },
+    "jungle_c16_tele_64_a_4_0": {
+      "name": "jungle_c16_tele_64_a_4_0",
+      "x": 37,
+      "y": 343,
+      "exists": true
+    },
+    "jungle_c16_tele_64_b_4_0": {
+      "name": "jungle_c16_tele_64_b_4_0",
+      "x": 27,
+      "y": 137,
+      "exists": false
+    },
+    "jungle_c16_tele_64_a_4_1": {
+      "name": "jungle_c16_tele_64_a_4_1",
+      "x": 37,
+      "y": 343,
+      "exists": true
+    },
+    "jungle_c16_tele_64_b_4_1": {
+      "name": "jungle_c16_tele_64_b_4_1",
+      "x": 27,
+      "y": 137,
+      "exists": true
+    },
+    "jungle_c16_tele_64_a_4_2": {
+      "name": "jungle_c16_tele_64_a_4_2",
+      "x": 37,
+      "y": 343,
+      "exists": true
+    },
+    "jungle_c16_tele_64_b_4_2": {
+      "name": "jungle_c16_tele_64_b_4_2",
+      "x": 27,
+      "y": 137,
+      "exists": true
+    },
+    "jungle_c16_tele_64_a_4_3": {
+      "name": "jungle_c16_tele_64_a_4_3",
+      "x": 36,
+      "y": 343,
+      "exists": false
+    },
+    "jungle_c16_tele_64_b_4_3": {
+      "name": "jungle_c16_tele_64_b_4_3",
+      "x": 26,
+      "y": 137,
+      "exists": true
+    },
+    "jungle_c16_tele_64_a_4_4": {
+      "name": "jungle_c16_tele_64_a_4_4",
+      "x": 38,
+      "y": 343,
+      "exists": false
+    },
+    "jungle_c16_tele_64_b_4_4": {
+      "name": "jungle_c16_tele_64_b_4_4",
+      "x": 28,
+      "y": 137,
+      "exists": false
+    },
+    "jungle_c16_tele_icon_a": {
+      "name": "jungle_c16_tele_icon_a",
+      "x": 6,
+      "y": 14,
+      "exists": true
+    },
+    "jungle_c16_tele_64_sd_2_0": {
+      "name": "jungle_c16_tele_64_sd_2_0",
+      "flipH": 1,
+      "source": "jungle_c16_tele_64_sd_4_0",
+      "x": 33,
+      "y": 16,
+      "exists": false
+    },
+    "jungle_c16_tele_64_a_2_0": {
+      "name": "jungle_c16_tele_64_a_2_0",
+      "flipH": 1,
+      "source": "jungle_c16_tele_64_a_4_0",
+      "x": 37,
+      "y": 343,
+      "exists": false
+    },
+    "jungle_c16_tele_64_b_2_0": {
+      "name": "jungle_c16_tele_64_b_2_0",
+      "flipH": 1,
+      "source": "jungle_c16_tele_64_b_4_0",
+      "x": 27,
+      "y": 137,
+      "exists": false
+    },
+    "jungle_c16_tele_64_a_2_1": {
+      "name": "jungle_c16_tele_64_a_2_1",
+      "flipH": 1,
+      "source": "jungle_c16_tele_64_a_4_1",
+      "x": 37,
+      "y": 343,
+      "exists": false
+    },
+    "jungle_c16_tele_64_b_2_1": {
+      "name": "jungle_c16_tele_64_b_2_1",
+      "flipH": 1,
+      "source": "jungle_c16_tele_64_b_4_1",
+      "x": 27,
+      "y": 137,
+      "exists": false
+    },
+    "jungle_c16_tele_64_a_2_2": {
+      "name": "jungle_c16_tele_64_a_2_2",
+      "flipH": 1,
+      "source": "jungle_c16_tele_64_a_4_2",
+      "x": 37,
+      "y": 343,
+      "exists": false
+    },
+    "jungle_c16_tele_64_b_2_2": {
+      "name": "jungle_c16_tele_64_b_2_2",
+      "flipH": 1,
+      "source": "jungle_c16_tele_64_b_4_2",
+      "x": 27,
+      "y": 137,
+      "exists": false
+    },
+    "jungle_c16_tele_64_a_2_3": {
+      "name": "jungle_c16_tele_64_a_2_3",
+      "flipH": 1,
+      "source": "jungle_c16_tele_64_a_4_3",
+      "x": 36,
+      "y": 343,
+      "exists": false
+    },
+    "jungle_c16_tele_64_b_2_3": {
+      "name": "jungle_c16_tele_64_b_2_3",
+      "flipH": 1,
+      "source": "jungle_c16_tele_64_b_4_3",
+      "x": 26,
+      "y": 137,
+      "exists": false
+    },
+    "jungle_c16_tele_64_a_2_4": {
+      "name": "jungle_c16_tele_64_a_2_4",
+      "flipH": 1,
+      "source": "jungle_c16_tele_64_a_4_4",
+      "x": 38,
+      "y": 343,
+      "exists": false
+    },
+    "jungle_c16_tele_64_b_2_4": {
+      "name": "jungle_c16_tele_64_b_2_4",
+      "flipH": 1,
+      "source": "jungle_c16_tele_64_b_4_4",
+      "x": 28,
+      "y": 137,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.3
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  3,
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  3,
+                  0,
+                  4
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 500
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "jungle_c16_tele",
+    "visualization": "furniture_animated"
+  }
+}

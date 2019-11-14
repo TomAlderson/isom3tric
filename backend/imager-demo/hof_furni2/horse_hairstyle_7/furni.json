@@ -1,0 +1,80 @@
+{
+  "assets": {
+    "horse_hairstyle_7_64_a_2_0": {
+      "name": "horse_hairstyle_7_64_a_2_0",
+      "x": 23,
+      "y": 89,
+      "exists": true
+    },
+    "horse_hairstyle_7_32_a_2_0": {
+      "name": "horse_hairstyle_7_32_a_2_0",
+      "x": 13,
+      "y": 44,
+      "exists": true
+    },
+    "horse_hairstyle_7_icon_a": {
+      "name": "horse_hairstyle_7_icon_a",
+      "x": 14,
+      "y": 15,
+      "exists": true
+    },
+    "horse_hairstyle_7_64_a_4_0": {
+      "name": "horse_hairstyle_7_64_a_4_0",
+      "flipH": 1,
+      "source": "horse_hairstyle_7_64_a_2_0",
+      "x": 23,
+      "y": 89,
+      "exists": false
+    },
+    "horse_hairstyle_7_32_a_4_0": {
+      "name": "horse_hairstyle_7_32_a_4_0",
+      "flipH": 1,
+      "source": "horse_hairstyle_7_32_a_2_0",
+      "x": 13,
+      "y": 44,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_pet_customization",
+    "type": "horse_hairstyle_7",
+    "visualization": "furniture_static"
+  }
+}

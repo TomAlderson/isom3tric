@@ -1,0 +1,1794 @@
+{
+  "assets": {
+    "st_hween14_fireplace_64_sd_4_0": {
+      "name": "st_hween14_fireplace_64_sd_4_0",
+      "x": 33,
+      "y": 16,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_a_4_0": {
+      "name": "st_hween14_fireplace_64_a_4_0",
+      "x": 0,
+      "y": 95,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_b_4_0": {
+      "name": "st_hween14_fireplace_64_b_4_0",
+      "x": 33,
+      "y": 110,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_c_4_0": {
+      "name": "st_hween14_fireplace_64_c_4_0",
+      "x": 0,
+      "y": 12,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_d_4_0": {
+      "name": "st_hween14_fireplace_64_d_4_0",
+      "x": 10,
+      "y": 16,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_c_4_1": {
+      "name": "st_hween14_fireplace_64_c_4_1",
+      "x": 0,
+      "y": 12,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_d_4_1": {
+      "name": "st_hween14_fireplace_64_d_4_1",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_c_4_2": {
+      "name": "st_hween14_fireplace_64_c_4_2",
+      "x": 0,
+      "y": 12,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_d_4_2": {
+      "name": "st_hween14_fireplace_64_d_4_2",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_c_4_3": {
+      "name": "st_hween14_fireplace_64_c_4_3",
+      "x": 0,
+      "y": 12,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_d_4_3": {
+      "name": "st_hween14_fireplace_64_d_4_3",
+      "x": 11,
+      "y": 16,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_c_4_4": {
+      "name": "st_hween14_fireplace_64_c_4_4",
+      "x": 0,
+      "y": 12,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_d_4_4": {
+      "name": "st_hween14_fireplace_64_d_4_4",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_c_4_5": {
+      "name": "st_hween14_fireplace_64_c_4_5",
+      "x": 0,
+      "y": 12,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_d_4_5": {
+      "name": "st_hween14_fireplace_64_d_4_5",
+      "x": 9,
+      "y": 13,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_e_4_0": {
+      "name": "st_hween14_fireplace_64_e_4_0",
+      "x": 0,
+      "y": -13,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_f_4_0": {
+      "name": "st_hween14_fireplace_64_f_4_0",
+      "x": 22,
+      "y": 19,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_e_4_1": {
+      "name": "st_hween14_fireplace_64_e_4_1",
+      "x": 0,
+      "y": -13,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_f_4_1": {
+      "name": "st_hween14_fireplace_64_f_4_1",
+      "x": 22,
+      "y": 19,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_g_4_0": {
+      "name": "st_hween14_fireplace_64_g_4_0",
+      "x": 0,
+      "y": 12,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_h_4_0": {
+      "name": "st_hween14_fireplace_64_h_4_0",
+      "x": 13,
+      "y": 16,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_g_4_1": {
+      "name": "st_hween14_fireplace_64_g_4_1",
+      "x": 0,
+      "y": 12,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_h_4_1": {
+      "name": "st_hween14_fireplace_64_h_4_1",
+      "x": 11,
+      "y": 17,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_g_4_2": {
+      "name": "st_hween14_fireplace_64_g_4_2",
+      "x": 0,
+      "y": 12,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_h_4_2": {
+      "name": "st_hween14_fireplace_64_h_4_2",
+      "x": 12,
+      "y": 17,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_i_4_0": {
+      "name": "st_hween14_fireplace_64_i_4_0",
+      "x": -64,
+      "y": 48,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_0": {
+      "name": "st_hween14_fireplace_64_j_4_0",
+      "x": 29,
+      "y": 94,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_4_1": {
+      "name": "st_hween14_fireplace_64_i_4_1",
+      "x": 0,
+      "y": 114,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_1": {
+      "name": "st_hween14_fireplace_64_j_4_1",
+      "x": 5,
+      "y": 111,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_i_4_2": {
+      "name": "st_hween14_fireplace_64_i_4_2",
+      "x": 0,
+      "y": 134,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_2": {
+      "name": "st_hween14_fireplace_64_j_4_2",
+      "x": 5,
+      "y": 131,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_i_4_3": {
+      "name": "st_hween14_fireplace_64_i_4_3",
+      "x": 0,
+      "y": 161,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_3": {
+      "name": "st_hween14_fireplace_64_j_4_3",
+      "x": 6,
+      "y": 159,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_i_4_4": {
+      "name": "st_hween14_fireplace_64_i_4_4",
+      "x": 0,
+      "y": 190,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_4": {
+      "name": "st_hween14_fireplace_64_j_4_4",
+      "x": 8,
+      "y": 189,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_i_4_5": {
+      "name": "st_hween14_fireplace_64_i_4_5",
+      "x": 0,
+      "y": 216,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_5": {
+      "name": "st_hween14_fireplace_64_j_4_5",
+      "x": 9,
+      "y": 209,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_i_4_6": {
+      "name": "st_hween14_fireplace_64_i_4_6",
+      "x": 0,
+      "y": 225,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_6": {
+      "name": "st_hween14_fireplace_64_j_4_6",
+      "x": 6,
+      "y": 224,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_i_4_7": {
+      "name": "st_hween14_fireplace_64_i_4_7",
+      "x": 0,
+      "y": 235,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_7": {
+      "name": "st_hween14_fireplace_64_j_4_7",
+      "x": 5,
+      "y": 229,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_i_4_8": {
+      "name": "st_hween14_fireplace_64_i_4_8",
+      "x": 0,
+      "y": 242,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_8": {
+      "name": "st_hween14_fireplace_64_j_4_8",
+      "x": 3,
+      "y": 238,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_i_4_9": {
+      "name": "st_hween14_fireplace_64_i_4_9",
+      "x": 0,
+      "y": 248,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_9": {
+      "name": "st_hween14_fireplace_64_j_4_9",
+      "x": 4,
+      "y": 241,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_i_4_10": {
+      "name": "st_hween14_fireplace_64_i_4_10",
+      "x": -1,
+      "y": 253,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_10": {
+      "name": "st_hween14_fireplace_64_j_4_10",
+      "x": -4,
+      "y": 110,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_i_4_11": {
+      "name": "st_hween14_fireplace_64_i_4_11",
+      "x": -4,
+      "y": 258,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_11": {
+      "name": "st_hween14_fireplace_64_j_4_11",
+      "x": -4,
+      "y": 110,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_4_12": {
+      "name": "st_hween14_fireplace_64_i_4_12",
+      "x": -6,
+      "y": 263,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_j_4_12": {
+      "name": "st_hween14_fireplace_64_j_4_12",
+      "x": -4,
+      "y": 110,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_sd_4_0": {
+      "name": "st_hween14_fireplace_32_sd_4_0",
+      "x": 16,
+      "y": 8,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_a_4_0": {
+      "name": "st_hween14_fireplace_32_a_4_0",
+      "x": 0,
+      "y": 47,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_b_4_0": {
+      "name": "st_hween14_fireplace_32_b_4_0",
+      "x": 17,
+      "y": 55,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_c_4_0": {
+      "name": "st_hween14_fireplace_32_c_4_0",
+      "x": 0,
+      "y": 5,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_d_4_0": {
+      "name": "st_hween14_fireplace_32_d_4_0",
+      "x": 6,
+      "y": 7,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_c_4_1": {
+      "name": "st_hween14_fireplace_32_c_4_1",
+      "x": 0,
+      "y": 5,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_d_4_1": {
+      "name": "st_hween14_fireplace_32_d_4_1",
+      "x": 6,
+      "y": 7,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_c_4_2": {
+      "name": "st_hween14_fireplace_32_c_4_2",
+      "x": 0,
+      "y": 5,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_d_4_2": {
+      "name": "st_hween14_fireplace_32_d_4_2",
+      "x": 6,
+      "y": 6,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_c_4_3": {
+      "name": "st_hween14_fireplace_32_c_4_3",
+      "x": 0,
+      "y": 5,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_d_4_3": {
+      "name": "st_hween14_fireplace_32_d_4_3",
+      "x": 6,
+      "y": 7,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_c_4_4": {
+      "name": "st_hween14_fireplace_32_c_4_4",
+      "x": 0,
+      "y": 5,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_d_4_4": {
+      "name": "st_hween14_fireplace_32_d_4_4",
+      "x": 6,
+      "y": 7,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_c_4_5": {
+      "name": "st_hween14_fireplace_32_c_4_5",
+      "x": 0,
+      "y": 5,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_d_4_5": {
+      "name": "st_hween14_fireplace_32_d_4_5",
+      "x": 5,
+      "y": 6,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_e_4_0": {
+      "name": "st_hween14_fireplace_32_e_4_0",
+      "x": 0,
+      "y": -6,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_f_4_0": {
+      "name": "st_hween14_fireplace_32_f_4_0",
+      "x": 11,
+      "y": 9,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_e_4_1": {
+      "name": "st_hween14_fireplace_32_e_4_1",
+      "x": 0,
+      "y": -6,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_f_4_1": {
+      "name": "st_hween14_fireplace_32_f_4_1",
+      "x": 11,
+      "y": 9,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_g_4_0": {
+      "name": "st_hween14_fireplace_32_g_4_0",
+      "x": 0,
+      "y": 5,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_h_4_0": {
+      "name": "st_hween14_fireplace_32_h_4_0",
+      "x": 6,
+      "y": 7,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_g_4_1": {
+      "name": "st_hween14_fireplace_32_g_4_1",
+      "x": 0,
+      "y": 5,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_h_4_1": {
+      "name": "st_hween14_fireplace_32_h_4_1",
+      "x": 5,
+      "y": 8,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_g_4_2": {
+      "name": "st_hween14_fireplace_32_g_4_2",
+      "x": 0,
+      "y": 5,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_h_4_2": {
+      "name": "st_hween14_fireplace_32_h_4_2",
+      "x": 6,
+      "y": 8,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_i_4_0": {
+      "name": "st_hween14_fireplace_32_i_4_0",
+      "x": -32,
+      "y": 24,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_4_0": {
+      "name": "st_hween14_fireplace_32_j_4_0",
+      "x": 15,
+      "y": 47,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_4_1": {
+      "name": "st_hween14_fireplace_32_i_4_1",
+      "x": 0,
+      "y": 57,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_1": {
+      "name": "st_hween14_fireplace_32_j_4_1",
+      "x": 3,
+      "y": 56,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_i_4_2": {
+      "name": "st_hween14_fireplace_32_i_4_2",
+      "x": 0,
+      "y": 67,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_2": {
+      "name": "st_hween14_fireplace_32_j_4_2",
+      "x": 4,
+      "y": 66,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_i_4_3": {
+      "name": "st_hween14_fireplace_32_i_4_3",
+      "x": 0,
+      "y": 81,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_3": {
+      "name": "st_hween14_fireplace_32_j_4_3",
+      "x": 4,
+      "y": 80,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_4": {
+      "name": "st_hween14_fireplace_32_j_4_4",
+      "x": 0,
+      "y": 95,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_i_4_4": {
+      "name": "st_hween14_fireplace_32_i_4_4",
+      "x": 5,
+      "y": 94,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_i_4_5": {
+      "name": "st_hween14_fireplace_32_i_4_5",
+      "x": 0,
+      "y": 108,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_5": {
+      "name": "st_hween14_fireplace_32_j_4_5",
+      "x": 5,
+      "y": 105,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_i_4_6": {
+      "name": "st_hween14_fireplace_32_i_4_6",
+      "x": 0,
+      "y": 113,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_6": {
+      "name": "st_hween14_fireplace_32_j_4_6",
+      "x": 4,
+      "y": 112,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_i_4_7": {
+      "name": "st_hween14_fireplace_32_i_4_7",
+      "x": 0,
+      "y": 118,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_7": {
+      "name": "st_hween14_fireplace_32_j_4_7",
+      "x": 3,
+      "y": 115,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_i_4_8": {
+      "name": "st_hween14_fireplace_32_i_4_8",
+      "x": 0,
+      "y": 121,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_8": {
+      "name": "st_hween14_fireplace_32_j_4_8",
+      "x": 3,
+      "y": 119,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_i_4_9": {
+      "name": "st_hween14_fireplace_32_i_4_9",
+      "x": 0,
+      "y": 124,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_9": {
+      "name": "st_hween14_fireplace_32_j_4_9",
+      "x": 3,
+      "y": 121,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_i_4_10": {
+      "name": "st_hween14_fireplace_32_i_4_10",
+      "x": 0,
+      "y": 127,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_10": {
+      "name": "st_hween14_fireplace_32_j_4_10",
+      "x": -2,
+      "y": 55,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_4_11": {
+      "name": "st_hween14_fireplace_32_i_4_11",
+      "x": -1,
+      "y": 129,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_11": {
+      "name": "st_hween14_fireplace_32_j_4_11",
+      "x": -2,
+      "y": 55,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_4_12": {
+      "name": "st_hween14_fireplace_32_i_4_12",
+      "x": -2,
+      "y": 132,
+      "exists": true
+    },
+    "st_hween14_fireplace_32_j_4_12": {
+      "name": "st_hween14_fireplace_32_j_4_12",
+      "x": -2,
+      "y": 55,
+      "exists": false
+    },
+    "st_hween14_fireplace_icon_a": {
+      "name": "st_hween14_fireplace_icon_a",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    },
+    "st_hween14_fireplace_64_sd_2_0": {
+      "name": "st_hween14_fireplace_64_sd_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_sd_4_0",
+      "x": 33,
+      "y": 16,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_a_2_0": {
+      "name": "st_hween14_fireplace_64_a_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_a_4_0",
+      "x": 0,
+      "y": 95,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_b_2_0": {
+      "name": "st_hween14_fireplace_64_b_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_b_4_0",
+      "x": 33,
+      "y": 110,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_c_2_0": {
+      "name": "st_hween14_fireplace_64_c_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_c_4_0",
+      "x": 0,
+      "y": 12,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_d_2_0": {
+      "name": "st_hween14_fireplace_64_d_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_d_4_0",
+      "x": 10,
+      "y": 16,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_c_2_1": {
+      "name": "st_hween14_fireplace_64_c_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_c_4_1",
+      "x": 0,
+      "y": 12,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_d_2_1": {
+      "name": "st_hween14_fireplace_64_d_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_d_4_1",
+      "x": 13,
+      "y": 14,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_c_2_2": {
+      "name": "st_hween14_fireplace_64_c_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_c_4_2",
+      "x": 0,
+      "y": 12,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_d_2_2": {
+      "name": "st_hween14_fireplace_64_d_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_d_4_2",
+      "x": 10,
+      "y": 14,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_c_2_3": {
+      "name": "st_hween14_fireplace_64_c_2_3",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_c_4_3",
+      "x": 0,
+      "y": 12,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_d_2_3": {
+      "name": "st_hween14_fireplace_64_d_2_3",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_d_4_3",
+      "x": 11,
+      "y": 16,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_c_2_4": {
+      "name": "st_hween14_fireplace_64_c_2_4",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_c_4_4",
+      "x": 0,
+      "y": 12,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_d_2_4": {
+      "name": "st_hween14_fireplace_64_d_2_4",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_d_4_4",
+      "x": 9,
+      "y": 15,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_c_2_5": {
+      "name": "st_hween14_fireplace_64_c_2_5",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_c_4_5",
+      "x": 0,
+      "y": 12,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_d_2_5": {
+      "name": "st_hween14_fireplace_64_d_2_5",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_d_4_5",
+      "x": 9,
+      "y": 13,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_e_2_0": {
+      "name": "st_hween14_fireplace_64_e_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_e_4_0",
+      "x": 0,
+      "y": -13,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_f_2_0": {
+      "name": "st_hween14_fireplace_64_f_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_f_4_0",
+      "x": 22,
+      "y": 19,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_e_2_1": {
+      "name": "st_hween14_fireplace_64_e_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_e_4_1",
+      "x": 0,
+      "y": -13,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_f_2_1": {
+      "name": "st_hween14_fireplace_64_f_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_f_4_1",
+      "x": 22,
+      "y": 19,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_g_2_0": {
+      "name": "st_hween14_fireplace_64_g_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_g_4_0",
+      "x": 0,
+      "y": 12,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_h_2_0": {
+      "name": "st_hween14_fireplace_64_h_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_h_4_0",
+      "x": 13,
+      "y": 16,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_g_2_1": {
+      "name": "st_hween14_fireplace_64_g_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_g_4_1",
+      "x": 0,
+      "y": 12,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_h_2_1": {
+      "name": "st_hween14_fireplace_64_h_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_h_4_1",
+      "x": 11,
+      "y": 17,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_g_2_2": {
+      "name": "st_hween14_fireplace_64_g_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_g_4_2",
+      "x": 0,
+      "y": 12,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_h_2_2": {
+      "name": "st_hween14_fireplace_64_h_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_h_4_2",
+      "x": 12,
+      "y": 17,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_0": {
+      "name": "st_hween14_fireplace_64_i_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_0",
+      "x": -64,
+      "y": 48,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_0": {
+      "name": "st_hween14_fireplace_64_j_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_0",
+      "x": 29,
+      "y": 94,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_1": {
+      "name": "st_hween14_fireplace_64_i_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_1",
+      "x": 0,
+      "y": 114,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_1": {
+      "name": "st_hween14_fireplace_64_j_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_1",
+      "x": 5,
+      "y": 111,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_2": {
+      "name": "st_hween14_fireplace_64_i_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_2",
+      "x": 0,
+      "y": 134,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_2": {
+      "name": "st_hween14_fireplace_64_j_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_2",
+      "x": 5,
+      "y": 131,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_3": {
+      "name": "st_hween14_fireplace_64_i_2_3",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_3",
+      "x": 0,
+      "y": 161,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_3": {
+      "name": "st_hween14_fireplace_64_j_2_3",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_3",
+      "x": 6,
+      "y": 159,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_4": {
+      "name": "st_hween14_fireplace_64_i_2_4",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_4",
+      "x": 0,
+      "y": 190,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_4": {
+      "name": "st_hween14_fireplace_64_j_2_4",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_4",
+      "x": 8,
+      "y": 189,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_5": {
+      "name": "st_hween14_fireplace_64_i_2_5",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_5",
+      "x": 0,
+      "y": 216,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_5": {
+      "name": "st_hween14_fireplace_64_j_2_5",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_5",
+      "x": 9,
+      "y": 209,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_6": {
+      "name": "st_hween14_fireplace_64_i_2_6",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_6",
+      "x": 0,
+      "y": 225,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_6": {
+      "name": "st_hween14_fireplace_64_j_2_6",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_6",
+      "x": 6,
+      "y": 224,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_7": {
+      "name": "st_hween14_fireplace_64_i_2_7",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_7",
+      "x": 0,
+      "y": 235,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_7": {
+      "name": "st_hween14_fireplace_64_j_2_7",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_7",
+      "x": 5,
+      "y": 229,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_8": {
+      "name": "st_hween14_fireplace_64_i_2_8",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_8",
+      "x": 0,
+      "y": 242,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_8": {
+      "name": "st_hween14_fireplace_64_j_2_8",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_8",
+      "x": 3,
+      "y": 238,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_9": {
+      "name": "st_hween14_fireplace_64_i_2_9",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_9",
+      "x": 0,
+      "y": 248,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_9": {
+      "name": "st_hween14_fireplace_64_j_2_9",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_9",
+      "x": 4,
+      "y": 241,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_10": {
+      "name": "st_hween14_fireplace_64_i_2_10",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_10",
+      "x": -1,
+      "y": 253,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_10": {
+      "name": "st_hween14_fireplace_64_j_2_10",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_10",
+      "x": -4,
+      "y": 110,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_11": {
+      "name": "st_hween14_fireplace_64_i_2_11",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_11",
+      "x": -4,
+      "y": 258,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_11": {
+      "name": "st_hween14_fireplace_64_j_2_11",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_11",
+      "x": -4,
+      "y": 110,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_i_2_12": {
+      "name": "st_hween14_fireplace_64_i_2_12",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_i_4_12",
+      "x": -6,
+      "y": 263,
+      "exists": false
+    },
+    "st_hween14_fireplace_64_j_2_12": {
+      "name": "st_hween14_fireplace_64_j_2_12",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_64_j_4_12",
+      "x": -4,
+      "y": 110,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_sd_2_0": {
+      "name": "st_hween14_fireplace_32_sd_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_sd_4_0",
+      "x": 16,
+      "y": 8,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_a_2_0": {
+      "name": "st_hween14_fireplace_32_a_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_a_4_0",
+      "x": 0,
+      "y": 47,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_b_2_0": {
+      "name": "st_hween14_fireplace_32_b_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_b_4_0",
+      "x": 17,
+      "y": 55,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_c_2_0": {
+      "name": "st_hween14_fireplace_32_c_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_c_4_0",
+      "x": 0,
+      "y": 5,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_d_2_0": {
+      "name": "st_hween14_fireplace_32_d_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_d_4_0",
+      "x": 6,
+      "y": 7,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_c_2_1": {
+      "name": "st_hween14_fireplace_32_c_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_c_4_1",
+      "x": 0,
+      "y": 5,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_d_2_1": {
+      "name": "st_hween14_fireplace_32_d_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_d_4_1",
+      "x": 6,
+      "y": 7,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_c_2_2": {
+      "name": "st_hween14_fireplace_32_c_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_c_4_2",
+      "x": 0,
+      "y": 5,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_d_2_2": {
+      "name": "st_hween14_fireplace_32_d_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_d_4_2",
+      "x": 6,
+      "y": 6,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_c_2_3": {
+      "name": "st_hween14_fireplace_32_c_2_3",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_c_4_3",
+      "x": 0,
+      "y": 5,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_d_2_3": {
+      "name": "st_hween14_fireplace_32_d_2_3",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_d_4_3",
+      "x": 6,
+      "y": 7,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_c_2_4": {
+      "name": "st_hween14_fireplace_32_c_2_4",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_c_4_4",
+      "x": 0,
+      "y": 5,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_d_2_4": {
+      "name": "st_hween14_fireplace_32_d_2_4",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_d_4_4",
+      "x": 6,
+      "y": 7,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_c_2_5": {
+      "name": "st_hween14_fireplace_32_c_2_5",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_c_4_5",
+      "x": 0,
+      "y": 5,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_d_2_5": {
+      "name": "st_hween14_fireplace_32_d_2_5",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_d_4_5",
+      "x": 5,
+      "y": 6,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_e_2_0": {
+      "name": "st_hween14_fireplace_32_e_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_e_4_0",
+      "x": 0,
+      "y": -6,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_f_2_0": {
+      "name": "st_hween14_fireplace_32_f_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_f_4_0",
+      "x": 11,
+      "y": 9,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_e_2_1": {
+      "name": "st_hween14_fireplace_32_e_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_e_4_1",
+      "x": 0,
+      "y": -6,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_f_2_1": {
+      "name": "st_hween14_fireplace_32_f_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_f_4_1",
+      "x": 11,
+      "y": 9,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_g_2_0": {
+      "name": "st_hween14_fireplace_32_g_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_g_4_0",
+      "x": 0,
+      "y": 5,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_h_2_0": {
+      "name": "st_hween14_fireplace_32_h_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_h_4_0",
+      "x": 6,
+      "y": 7,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_g_2_1": {
+      "name": "st_hween14_fireplace_32_g_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_g_4_1",
+      "x": 0,
+      "y": 5,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_h_2_1": {
+      "name": "st_hween14_fireplace_32_h_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_h_4_1",
+      "x": 5,
+      "y": 8,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_g_2_2": {
+      "name": "st_hween14_fireplace_32_g_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_g_4_2",
+      "x": 0,
+      "y": 5,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_h_2_2": {
+      "name": "st_hween14_fireplace_32_h_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_h_4_2",
+      "x": 6,
+      "y": 8,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_0": {
+      "name": "st_hween14_fireplace_32_i_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_0",
+      "x": -32,
+      "y": 24,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_0": {
+      "name": "st_hween14_fireplace_32_j_2_0",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_0",
+      "x": 15,
+      "y": 47,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_1": {
+      "name": "st_hween14_fireplace_32_i_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_1",
+      "x": 0,
+      "y": 57,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_1": {
+      "name": "st_hween14_fireplace_32_j_2_1",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_1",
+      "x": 3,
+      "y": 56,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_2": {
+      "name": "st_hween14_fireplace_32_i_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_2",
+      "x": 0,
+      "y": 67,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_2": {
+      "name": "st_hween14_fireplace_32_j_2_2",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_2",
+      "x": 4,
+      "y": 66,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_3": {
+      "name": "st_hween14_fireplace_32_i_2_3",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_3",
+      "x": 0,
+      "y": 81,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_3": {
+      "name": "st_hween14_fireplace_32_j_2_3",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_3",
+      "x": 4,
+      "y": 80,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_4": {
+      "name": "st_hween14_fireplace_32_j_2_4",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_4",
+      "x": 0,
+      "y": 95,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_4": {
+      "name": "st_hween14_fireplace_32_i_2_4",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_4",
+      "x": 5,
+      "y": 94,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_5": {
+      "name": "st_hween14_fireplace_32_i_2_5",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_5",
+      "x": 0,
+      "y": 108,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_5": {
+      "name": "st_hween14_fireplace_32_j_2_5",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_5",
+      "x": 5,
+      "y": 105,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_6": {
+      "name": "st_hween14_fireplace_32_i_2_6",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_6",
+      "x": 0,
+      "y": 113,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_6": {
+      "name": "st_hween14_fireplace_32_j_2_6",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_6",
+      "x": 4,
+      "y": 112,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_7": {
+      "name": "st_hween14_fireplace_32_i_2_7",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_7",
+      "x": 0,
+      "y": 118,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_7": {
+      "name": "st_hween14_fireplace_32_j_2_7",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_7",
+      "x": 3,
+      "y": 115,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_8": {
+      "name": "st_hween14_fireplace_32_i_2_8",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_8",
+      "x": 0,
+      "y": 121,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_8": {
+      "name": "st_hween14_fireplace_32_j_2_8",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_8",
+      "x": 3,
+      "y": 119,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_9": {
+      "name": "st_hween14_fireplace_32_i_2_9",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_9",
+      "x": 0,
+      "y": 124,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_9": {
+      "name": "st_hween14_fireplace_32_j_2_9",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_9",
+      "x": 3,
+      "y": 121,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_10": {
+      "name": "st_hween14_fireplace_32_i_2_10",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_10",
+      "x": 0,
+      "y": 127,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_10": {
+      "name": "st_hween14_fireplace_32_j_2_10",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_10",
+      "x": -2,
+      "y": 55,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_11": {
+      "name": "st_hween14_fireplace_32_i_2_11",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_11",
+      "x": -1,
+      "y": 129,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_11": {
+      "name": "st_hween14_fireplace_32_j_2_11",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_11",
+      "x": -2,
+      "y": 55,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_i_2_12": {
+      "name": "st_hween14_fireplace_32_i_2_12",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_i_4_12",
+      "x": -2,
+      "y": 132,
+      "exists": false
+    },
+    "st_hween14_fireplace_32_j_2_12": {
+      "name": "st_hween14_fireplace_32_j_2_12",
+      "flipH": 1,
+      "source": "st_hween14_fireplace_32_j_4_12",
+      "x": -2,
+      "y": 55,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 10,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1000
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "z": 1000
+        },
+        {
+          "layerId": 5,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 6,
+          "ink": "ADD",
+          "z": 1000
+        },
+        {
+          "layerId": 7,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 8,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 10,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1000
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "z": 1000
+        },
+        {
+          "layerId": 5,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 6,
+          "ink": "ADD",
+          "z": 1000
+        },
+        {
+          "layerId": 7,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 8,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "st_hween14_fireplace",
+    "visualization": "furniture_animated"
+  }
+}

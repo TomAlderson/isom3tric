@@ -1,0 +1,215 @@
+{
+  "assets": {
+    "ads_twi_fountn_64_a_0_0": {
+      "name": "ads_twi_fountn_64_a_0_0",
+      "x": 49,
+      "y": 121,
+      "exists": true
+    },
+    "ads_twi_fountn_64_b_0_0": {
+      "name": "ads_twi_fountn_64_b_0_0",
+      "x": 33,
+      "y": 0,
+      "exists": true
+    },
+    "ads_twi_fountn_64_b_0_1": {
+      "name": "ads_twi_fountn_64_b_0_1",
+      "x": 28,
+      "y": 46,
+      "exists": true
+    },
+    "ads_twi_fountn_64_b_0_2": {
+      "name": "ads_twi_fountn_64_b_0_2",
+      "x": 29,
+      "y": 46,
+      "exists": true
+    },
+    "ads_twi_fountn_icon_a": {
+      "name": "ads_twi_fountn_icon_a",
+      "x": 12,
+      "y": 15,
+      "exists": true
+    },
+    "ads_twi_fountn_32_a_0_0": {
+      "name": "ads_twi_fountn_32_a_0_0",
+      "x": 23,
+      "y": 61,
+      "exists": true
+    },
+    "ads_twi_fountn_32_b_0_0": {
+      "name": "ads_twi_fountn_32_b_0_0",
+      "x": 16,
+      "y": -1,
+      "exists": false
+    },
+    "ads_twi_fountn_32_b_0_1": {
+      "name": "ads_twi_fountn_32_b_0_1",
+      "x": 15,
+      "y": 23,
+      "exists": true
+    },
+    "ads_twi_fountn_32_b_0_2": {
+      "name": "ads_twi_fountn_32_b_0_2",
+      "x": 15,
+      "y": 23,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1000
+        },
+        {
+          "layerId": 1,
+          "alpha": 179,
+          "z": 1010
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1000
+        },
+        {
+          "layerId": 1,
+          "alpha": 179,
+          "z": 1010
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "ads_twi_fountn",
+    "visualization": "furniture_animated"
+  }
+}

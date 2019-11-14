@@ -1,0 +1,154 @@
+{
+  "assets": {
+    "pet_basket_blue_32_sd_2_0": {
+      "name": "pet_basket_blue_32_sd_2_0",
+      "x": 11,
+      "y": -1,
+      "exists": true
+    },
+    "pet_basket_blue_32_a_2_0": {
+      "name": "pet_basket_blue_32_a_2_0",
+      "x": 11,
+      "y": 18,
+      "exists": true
+    },
+    "pet_basket_blue_32_b_2_0": {
+      "name": "pet_basket_blue_32_b_2_0",
+      "x": 14,
+      "y": 24,
+      "exists": true
+    },
+    "pet_basket_blue_64_sd_2_0": {
+      "name": "pet_basket_blue_64_sd_2_0",
+      "x": 24,
+      "y": 0,
+      "exists": true
+    },
+    "pet_basket_blue_64_a_2_0": {
+      "name": "pet_basket_blue_64_a_2_0",
+      "x": 24,
+      "y": 38,
+      "exists": true
+    },
+    "pet_basket_blue_64_b_2_0": {
+      "name": "pet_basket_blue_64_b_2_0",
+      "x": 28,
+      "y": 48,
+      "exists": true
+    },
+    "pet_basket_blue_icon_a": {
+      "name": "pet_basket_blue_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "pet_basket_blue_32_sd_4_0": {
+      "name": "pet_basket_blue_32_sd_4_0",
+      "flipH": 1,
+      "source": "pet_basket_blue_32_sd_2_0",
+      "x": 11,
+      "y": -1,
+      "exists": false
+    },
+    "pet_basket_blue_32_a_4_0": {
+      "name": "pet_basket_blue_32_a_4_0",
+      "flipH": 1,
+      "source": "pet_basket_blue_32_a_2_0",
+      "x": 11,
+      "y": 18,
+      "exists": false
+    },
+    "pet_basket_blue_32_b_4_0": {
+      "name": "pet_basket_blue_32_b_4_0",
+      "flipH": 1,
+      "source": "pet_basket_blue_32_b_2_0",
+      "x": 14,
+      "y": 24,
+      "exists": false
+    },
+    "pet_basket_blue_64_sd_4_0": {
+      "name": "pet_basket_blue_64_sd_4_0",
+      "flipH": 1,
+      "source": "pet_basket_blue_64_sd_2_0",
+      "x": 24,
+      "y": 0,
+      "exists": false
+    },
+    "pet_basket_blue_64_a_4_0": {
+      "name": "pet_basket_blue_64_a_4_0",
+      "flipH": 1,
+      "source": "pet_basket_blue_64_a_2_0",
+      "x": 24,
+      "y": 38,
+      "exists": false
+    },
+    "pet_basket_blue_64_b_4_0": {
+      "name": "pet_basket_blue_64_b_4_0",
+      "flipH": 1,
+      "source": "pet_basket_blue_64_b_2_0",
+      "x": 28,
+      "y": 48,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.25
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "pet_basket_blue",
+    "visualization": "furniture_static"
+  }
+}

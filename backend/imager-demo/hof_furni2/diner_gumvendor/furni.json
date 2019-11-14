@@ -1,0 +1,332 @@
+{
+  "assets": {
+    "diner_gumvendor_64_a_0_0": {
+      "name": "diner_gumvendor_64_a_0_0",
+      "x": 18,
+      "y": 70,
+      "exists": true
+    },
+    "diner_gumvendor_64_a_2_0": {
+      "name": "diner_gumvendor_64_a_2_0",
+      "flipH": 1,
+      "source": "diner_gumvendor_64_a_0_0",
+      "x": 18,
+      "y": 70,
+      "exists": false
+    },
+    "diner_gumvendor_64_b_0_0": {
+      "name": "diner_gumvendor_64_b_0_0",
+      "x": 16,
+      "y": 68,
+      "exists": true
+    },
+    "diner_gumvendor_64_b_2_0": {
+      "name": "diner_gumvendor_64_b_2_0",
+      "flipH": 1,
+      "source": "diner_gumvendor_64_b_0_0",
+      "x": 16,
+      "y": 68,
+      "exists": false
+    },
+    "diner_gumvendor_64_sd_0_0": {
+      "name": "diner_gumvendor_64_sd_0_0",
+      "x": 15,
+      "y": 8,
+      "exists": true
+    },
+    "diner_gumvendor_64_sd_2_0": {
+      "name": "diner_gumvendor_64_sd_2_0",
+      "flipH": 1,
+      "source": "diner_gumvendor_64_sd_0_0",
+      "x": 15,
+      "y": 8,
+      "exists": false
+    },
+    "diner_gumvendor_icon_a": {
+      "name": "diner_gumvendor_icon_a",
+      "x": 7,
+      "y": 15,
+      "exists": true
+    },
+    "diner_gumvendor_icon_b": {
+      "name": "diner_gumvendor_icon_b",
+      "x": 6,
+      "y": 13,
+      "exists": true
+    },
+    "diner_gumvendor_32_a_0_0": {
+      "name": "diner_gumvendor_32_a_0_0",
+      "x": 8,
+      "y": 37,
+      "exists": true
+    },
+    "diner_gumvendor_32_a_2_0": {
+      "name": "diner_gumvendor_32_a_2_0",
+      "flipH": 1,
+      "source": "diner_gumvendor_32_a_0_0",
+      "x": 8,
+      "y": 37,
+      "exists": false
+    },
+    "diner_gumvendor_32_b_0_0": {
+      "name": "diner_gumvendor_32_b_0_0",
+      "x": 6,
+      "y": 35,
+      "exists": true
+    },
+    "diner_gumvendor_32_b_2_0": {
+      "name": "diner_gumvendor_32_b_2_0",
+      "flipH": 1,
+      "source": "diner_gumvendor_32_b_0_0",
+      "x": 6,
+      "y": 35,
+      "exists": false
+    },
+    "diner_gumvendor_32_sd_0_0": {
+      "name": "diner_gumvendor_32_sd_0_0",
+      "x": 6,
+      "y": 4,
+      "exists": true
+    },
+    "diner_gumvendor_32_sd_2_0": {
+      "name": "diner_gumvendor_32_sd_2_0",
+      "flipH": 1,
+      "source": "diner_gumvendor_32_sd_0_0",
+      "x": 6,
+      "y": 4,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "ABD0D2"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "FF99BC"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": 525252
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "F7EBBC"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "92D13D"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "99FFCC"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "ABD0D2"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "FF99BC"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": 525252
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "F7EBBC"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "92D13D"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "99FFCC"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1
+        },
+        {
+          "layerId": 1,
+          "z": 10
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "ABD0D2"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "FF99BC"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": 525252
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "F7EBBC"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "92D13D"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "99FFCC"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1
+        },
+        {
+          "layerId": 1,
+          "z": 10
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "diner_gumvendor",
+    "visualization": "furniture_static"
+  }
+}

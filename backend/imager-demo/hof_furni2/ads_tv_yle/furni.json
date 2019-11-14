@@ -1,0 +1,2321 @@
+{
+  "assets": {
+    "ads_tv_yle_icon_a": {
+      "name": "ads_tv_yle_icon_a",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    },
+    "ads_tv_yle_64_a_2_0": {
+      "name": "ads_tv_yle_64_a_2_0",
+      "x": 79,
+      "y": 38,
+      "exists": true
+    },
+    "ads_tv_yle_64_a_2_1": {
+      "name": "ads_tv_yle_64_a_2_1",
+      "x": 79,
+      "y": 38,
+      "exists": false
+    },
+    "ads_tv_yle_64_b_2_0": {
+      "name": "ads_tv_yle_64_b_2_0",
+      "x": 92,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_b_2_1": {
+      "name": "ads_tv_yle_64_b_2_1",
+      "x": 92,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_b_2_2": {
+      "name": "ads_tv_yle_64_b_2_2",
+      "x": 92,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_b_2_3": {
+      "name": "ads_tv_yle_64_b_2_3",
+      "x": 92,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_b_2_4": {
+      "name": "ads_tv_yle_64_b_2_4",
+      "x": 92,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_b_2_5": {
+      "name": "ads_tv_yle_64_b_2_5",
+      "x": 92,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_2_0": {
+      "name": "ads_tv_yle_64_c_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "ads_tv_yle_64_c_2_1": {
+      "name": "ads_tv_yle_64_c_2_1",
+      "x": 69,
+      "y": 71,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_2_2": {
+      "name": "ads_tv_yle_64_c_2_2",
+      "x": 69,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_2_3": {
+      "name": "ads_tv_yle_64_c_2_3",
+      "x": 69,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_2_4": {
+      "name": "ads_tv_yle_64_c_2_4",
+      "x": 69,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_2_5": {
+      "name": "ads_tv_yle_64_c_2_5",
+      "x": 69,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_2_6": {
+      "name": "ads_tv_yle_64_c_2_6",
+      "x": 69,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_2_7": {
+      "name": "ads_tv_yle_64_c_2_7",
+      "x": 69,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_2_8": {
+      "name": "ads_tv_yle_64_c_2_8",
+      "x": 69,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_d_2_0": {
+      "name": "ads_tv_yle_64_d_2_0",
+      "x": 69,
+      "y": 70,
+      "exists": false
+    },
+    "ads_tv_yle_64_d_2_1": {
+      "name": "ads_tv_yle_64_d_2_1",
+      "x": 69,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_e_2_0": {
+      "name": "ads_tv_yle_64_e_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "ads_tv_yle_64_e_2_1": {
+      "name": "ads_tv_yle_64_e_2_1",
+      "x": 69,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_f_2_0": {
+      "name": "ads_tv_yle_64_f_2_0",
+      "x": 95,
+      "y": 87,
+      "exists": true
+    },
+    "ads_tv_yle_64_f_2_1": {
+      "name": "ads_tv_yle_64_f_2_1",
+      "x": 95,
+      "y": 87,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_2_0": {
+      "name": "ads_tv_yle_64_g_2_0",
+      "x": 39,
+      "y": 38,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_2_1": {
+      "name": "ads_tv_yle_64_g_2_1",
+      "x": 69,
+      "y": -41,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_10": {
+      "name": "ads_tv_yle_64_g_2_10",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_11": {
+      "name": "ads_tv_yle_64_g_2_11",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_12": {
+      "name": "ads_tv_yle_64_g_2_12",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_13": {
+      "name": "ads_tv_yle_64_g_2_13",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_14": {
+      "name": "ads_tv_yle_64_g_2_14",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_15": {
+      "name": "ads_tv_yle_64_g_2_15",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_16": {
+      "name": "ads_tv_yle_64_g_2_16",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_17": {
+      "name": "ads_tv_yle_64_g_2_17",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_18": {
+      "name": "ads_tv_yle_64_g_2_18",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_19": {
+      "name": "ads_tv_yle_64_g_2_19",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_2": {
+      "name": "ads_tv_yle_64_g_2_2",
+      "x": 69,
+      "y": -21,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_20": {
+      "name": "ads_tv_yle_64_g_2_20",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_21": {
+      "name": "ads_tv_yle_64_g_2_21",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_22": {
+      "name": "ads_tv_yle_64_g_2_22",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_23": {
+      "name": "ads_tv_yle_64_g_2_23",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_24": {
+      "name": "ads_tv_yle_64_g_2_24",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_25": {
+      "name": "ads_tv_yle_64_g_2_25",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_26": {
+      "name": "ads_tv_yle_64_g_2_26",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_27": {
+      "name": "ads_tv_yle_64_g_2_27",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_28": {
+      "name": "ads_tv_yle_64_g_2_28",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_29": {
+      "name": "ads_tv_yle_64_g_2_29",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_3": {
+      "name": "ads_tv_yle_64_g_2_3",
+      "x": -45,
+      "y": 15,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_30": {
+      "name": "ads_tv_yle_64_g_2_30",
+      "x": 69,
+      "y": 6,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_31": {
+      "name": "ads_tv_yle_64_g_2_31",
+      "x": 69,
+      "y": 4,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_32": {
+      "name": "ads_tv_yle_64_g_2_32",
+      "x": 69,
+      "y": 4,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_33": {
+      "name": "ads_tv_yle_64_g_2_33",
+      "x": 69,
+      "y": 6,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_34": {
+      "name": "ads_tv_yle_64_g_2_34",
+      "x": 69,
+      "y": 20,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_35": {
+      "name": "ads_tv_yle_64_g_2_35",
+      "x": 69,
+      "y": 20,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_36": {
+      "name": "ads_tv_yle_64_g_2_36",
+      "x": 69,
+      "y": 20,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_37": {
+      "name": "ads_tv_yle_64_g_2_37",
+      "x": 69,
+      "y": 20,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_38": {
+      "name": "ads_tv_yle_64_g_2_38",
+      "x": 16,
+      "y": 51,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_39": {
+      "name": "ads_tv_yle_64_g_2_39",
+      "x": 17,
+      "y": 51,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_4": {
+      "name": "ads_tv_yle_64_g_2_4",
+      "x": -31,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_40": {
+      "name": "ads_tv_yle_64_g_2_40",
+      "x": 19,
+      "y": 51,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_41": {
+      "name": "ads_tv_yle_64_g_2_41",
+      "x": 69,
+      "y": 51,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_42": {
+      "name": "ads_tv_yle_64_g_2_42",
+      "x": 64,
+      "y": 51,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_43": {
+      "name": "ads_tv_yle_64_g_2_43",
+      "x": 53,
+      "y": 51,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_44": {
+      "name": "ads_tv_yle_64_g_2_44",
+      "x": 43,
+      "y": 51,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_45": {
+      "name": "ads_tv_yle_64_g_2_45",
+      "x": 33,
+      "y": 51,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_46": {
+      "name": "ads_tv_yle_64_g_2_46",
+      "x": 22,
+      "y": 52,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_47": {
+      "name": "ads_tv_yle_64_g_2_47",
+      "x": 17,
+      "y": 52,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_48": {
+      "name": "ads_tv_yle_64_g_2_48",
+      "x": 17,
+      "y": 52,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_49": {
+      "name": "ads_tv_yle_64_g_2_49",
+      "x": 17,
+      "y": 52,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_5": {
+      "name": "ads_tv_yle_64_g_2_5",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_50": {
+      "name": "ads_tv_yle_64_g_2_50",
+      "x": 14,
+      "y": 56,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_51": {
+      "name": "ads_tv_yle_64_g_2_51",
+      "x": 18,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_52": {
+      "name": "ads_tv_yle_64_g_2_52",
+      "x": 14,
+      "y": 62,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_53": {
+      "name": "ads_tv_yle_64_g_2_53",
+      "x": 14,
+      "y": 66,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_54": {
+      "name": "ads_tv_yle_64_g_2_54",
+      "x": 14,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_55": {
+      "name": "ads_tv_yle_64_g_2_55",
+      "x": 14,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_56": {
+      "name": "ads_tv_yle_64_g_2_56",
+      "x": 14,
+      "y": 15,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_57": {
+      "name": "ads_tv_yle_64_g_2_57",
+      "x": 14,
+      "y": -32,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_6": {
+      "name": "ads_tv_yle_64_g_2_6",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_7": {
+      "name": "ads_tv_yle_64_g_2_7",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_8": {
+      "name": "ads_tv_yle_64_g_2_8",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_g_2_9": {
+      "name": "ads_tv_yle_64_g_2_9",
+      "x": 69,
+      "y": 59,
+      "exists": true
+    },
+    "ads_tv_yle_64_a_4_0": {
+      "name": "ads_tv_yle_64_a_4_0",
+      "x": 39,
+      "y": 38,
+      "exists": false
+    },
+    "ads_tv_yle_64_a_4_1": {
+      "name": "ads_tv_yle_64_a_4_1",
+      "x": 39,
+      "y": 38,
+      "exists": true
+    },
+    "ads_tv_yle_64_b_4_0": {
+      "name": "ads_tv_yle_64_b_4_0",
+      "x": 80,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_b_4_1": {
+      "name": "ads_tv_yle_64_b_4_1",
+      "x": 80,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_b_4_2": {
+      "name": "ads_tv_yle_64_b_4_2",
+      "x": 80,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_b_4_3": {
+      "name": "ads_tv_yle_64_b_4_3",
+      "x": 80,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_b_4_4": {
+      "name": "ads_tv_yle_64_b_4_4",
+      "x": 80,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_b_4_5": {
+      "name": "ads_tv_yle_64_b_4_5",
+      "x": 80,
+      "y": 86,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_4_0": {
+      "name": "ads_tv_yle_64_c_4_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "ads_tv_yle_64_c_4_1": {
+      "name": "ads_tv_yle_64_c_4_1",
+      "x": 69,
+      "y": 71,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_4_2": {
+      "name": "ads_tv_yle_64_c_4_2",
+      "x": 68,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_4_3": {
+      "name": "ads_tv_yle_64_c_4_3",
+      "x": 68,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_4_4": {
+      "name": "ads_tv_yle_64_c_4_4",
+      "x": 69,
+      "y": 72,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_4_5": {
+      "name": "ads_tv_yle_64_c_4_5",
+      "x": 69,
+      "y": 72,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_4_6": {
+      "name": "ads_tv_yle_64_c_4_6",
+      "x": 69,
+      "y": 72,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_4_7": {
+      "name": "ads_tv_yle_64_c_4_7",
+      "x": 69,
+      "y": 72,
+      "exists": true
+    },
+    "ads_tv_yle_64_c_4_8": {
+      "name": "ads_tv_yle_64_c_4_8",
+      "x": 69,
+      "y": 72,
+      "exists": true
+    },
+    "ads_tv_yle_64_d_4_0": {
+      "name": "ads_tv_yle_64_d_4_0",
+      "x": 69,
+      "y": 70,
+      "exists": false
+    },
+    "ads_tv_yle_64_d_4_1": {
+      "name": "ads_tv_yle_64_d_4_1",
+      "x": 69,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_e_4_0": {
+      "name": "ads_tv_yle_64_e_4_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "ads_tv_yle_64_e_4_1": {
+      "name": "ads_tv_yle_64_e_4_1",
+      "x": 139,
+      "y": 70,
+      "exists": true
+    },
+    "ads_tv_yle_64_f_4_0": {
+      "name": "ads_tv_yle_64_f_4_0",
+      "x": 70,
+      "y": 87,
+      "exists": true
+    },
+    "ads_tv_yle_64_f_4_1": {
+      "name": "ads_tv_yle_64_f_4_1",
+      "x": 70,
+      "y": 87,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_0": {
+      "name": "ads_tv_yle_64_g_4_0",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_0",
+      "x": 39,
+      "y": 38,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_1": {
+      "name": "ads_tv_yle_64_g_4_1",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_1",
+      "x": 71,
+      "y": -41,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_10": {
+      "name": "ads_tv_yle_64_g_4_10",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_10",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_11": {
+      "name": "ads_tv_yle_64_g_4_11",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_11",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_12": {
+      "name": "ads_tv_yle_64_g_4_12",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_12",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_13": {
+      "name": "ads_tv_yle_64_g_4_13",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_13",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_14": {
+      "name": "ads_tv_yle_64_g_4_14",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_14",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_15": {
+      "name": "ads_tv_yle_64_g_4_15",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_15",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_16": {
+      "name": "ads_tv_yle_64_g_4_16",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_16",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_17": {
+      "name": "ads_tv_yle_64_g_4_17",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_17",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_18": {
+      "name": "ads_tv_yle_64_g_4_18",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_18",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_19": {
+      "name": "ads_tv_yle_64_g_4_19",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_19",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_2": {
+      "name": "ads_tv_yle_64_g_4_2",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_2",
+      "x": 71,
+      "y": -21,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_20": {
+      "name": "ads_tv_yle_64_g_4_20",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_20",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_21": {
+      "name": "ads_tv_yle_64_g_4_21",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_21",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_22": {
+      "name": "ads_tv_yle_64_g_4_22",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_22",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_23": {
+      "name": "ads_tv_yle_64_g_4_23",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_23",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_24": {
+      "name": "ads_tv_yle_64_g_4_24",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_24",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_25": {
+      "name": "ads_tv_yle_64_g_4_25",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_25",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_26": {
+      "name": "ads_tv_yle_64_g_4_26",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_26",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_27": {
+      "name": "ads_tv_yle_64_g_4_27",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_27",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_28": {
+      "name": "ads_tv_yle_64_g_4_28",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_28",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_29": {
+      "name": "ads_tv_yle_64_g_4_29",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_29",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_3": {
+      "name": "ads_tv_yle_64_g_4_3",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_3",
+      "x": -41,
+      "y": 15,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_30": {
+      "name": "ads_tv_yle_64_g_4_30",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_30",
+      "x": 71,
+      "y": 6,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_31": {
+      "name": "ads_tv_yle_64_g_4_31",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_31",
+      "x": 71,
+      "y": 4,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_32": {
+      "name": "ads_tv_yle_64_g_4_32",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_32",
+      "x": 71,
+      "y": 4,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_33": {
+      "name": "ads_tv_yle_64_g_4_33",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_33",
+      "x": 71,
+      "y": 6,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_34": {
+      "name": "ads_tv_yle_64_g_4_34",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_34",
+      "x": 71,
+      "y": 20,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_35": {
+      "name": "ads_tv_yle_64_g_4_35",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_35",
+      "x": 71,
+      "y": 20,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_36": {
+      "name": "ads_tv_yle_64_g_4_36",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_36",
+      "x": 71,
+      "y": 20,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_37": {
+      "name": "ads_tv_yle_64_g_4_37",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_37",
+      "x": 71,
+      "y": 20,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_38": {
+      "name": "ads_tv_yle_64_g_4_38",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_38",
+      "x": 18,
+      "y": 52,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_39": {
+      "name": "ads_tv_yle_64_g_4_39",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_39",
+      "x": 19,
+      "y": 52,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_4": {
+      "name": "ads_tv_yle_64_g_4_4",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_4",
+      "x": -29,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_40": {
+      "name": "ads_tv_yle_64_g_4_40",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_40",
+      "x": 21,
+      "y": 52,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_41": {
+      "name": "ads_tv_yle_64_g_4_41",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_41",
+      "x": 71,
+      "y": 52,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_42": {
+      "name": "ads_tv_yle_64_g_4_42",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_42",
+      "x": 66,
+      "y": 52,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_43": {
+      "name": "ads_tv_yle_64_g_4_43",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_43",
+      "x": 55,
+      "y": 52,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_44": {
+      "name": "ads_tv_yle_64_g_4_44",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_44",
+      "x": 45,
+      "y": 52,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_45": {
+      "name": "ads_tv_yle_64_g_4_45",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_45",
+      "x": 35,
+      "y": 52,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_46": {
+      "name": "ads_tv_yle_64_g_4_46",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_46",
+      "x": 24,
+      "y": 53,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_47": {
+      "name": "ads_tv_yle_64_g_4_47",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_47",
+      "x": 19,
+      "y": 53,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_48": {
+      "name": "ads_tv_yle_64_g_4_48",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_48",
+      "x": 19,
+      "y": 53,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_49": {
+      "name": "ads_tv_yle_64_g_4_49",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_49",
+      "x": 19,
+      "y": 53,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_5": {
+      "name": "ads_tv_yle_64_g_4_5",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_5",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_50": {
+      "name": "ads_tv_yle_64_g_4_50",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_50",
+      "x": 16,
+      "y": 57,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_51": {
+      "name": "ads_tv_yle_64_g_4_51",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_51",
+      "x": 20,
+      "y": 60,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_52": {
+      "name": "ads_tv_yle_64_g_4_52",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_52",
+      "x": 16,
+      "y": 63,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_53": {
+      "name": "ads_tv_yle_64_g_4_53",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_53",
+      "x": 16,
+      "y": 67,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_54": {
+      "name": "ads_tv_yle_64_g_4_54",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_54",
+      "x": 16,
+      "y": 71,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_55": {
+      "name": "ads_tv_yle_64_g_4_55",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_55",
+      "x": 16,
+      "y": 71,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_56": {
+      "name": "ads_tv_yle_64_g_4_56",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_56",
+      "x": 16,
+      "y": 16,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_57": {
+      "name": "ads_tv_yle_64_g_4_57",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_57",
+      "x": 16,
+      "y": -31,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_6": {
+      "name": "ads_tv_yle_64_g_4_6",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_6",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_7": {
+      "name": "ads_tv_yle_64_g_4_7",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_7",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_8": {
+      "name": "ads_tv_yle_64_g_4_8",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_8",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_64_g_4_9": {
+      "name": "ads_tv_yle_64_g_4_9",
+      "flipH": 1,
+      "source": "ads_tv_yle_64_g_2_9",
+      "x": 71,
+      "y": 59,
+      "exists": false
+    },
+    "ads_tv_yle_32_a_2_0": {
+      "name": "ads_tv_yle_32_a_2_0",
+      "x": 41,
+      "y": 14,
+      "exists": true
+    },
+    "ads_tv_yle_32_a_2_1": {
+      "name": "ads_tv_yle_32_a_2_1",
+      "x": 41,
+      "y": 14,
+      "exists": false
+    },
+    "ads_tv_yle_32_b_2_0": {
+      "name": "ads_tv_yle_32_b_2_0",
+      "x": 44,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_b_2_1": {
+      "name": "ads_tv_yle_32_b_2_1",
+      "x": 44,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_b_2_2": {
+      "name": "ads_tv_yle_32_b_2_2",
+      "x": 44,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_b_2_3": {
+      "name": "ads_tv_yle_32_b_2_3",
+      "x": 44,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_b_2_4": {
+      "name": "ads_tv_yle_32_b_2_4",
+      "x": 44,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_b_2_5": {
+      "name": "ads_tv_yle_32_b_2_5",
+      "x": 44,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_c_2_0": {
+      "name": "ads_tv_yle_32_c_2_0",
+      "x": -41,
+      "y": 46,
+      "exists": false
+    },
+    "ads_tv_yle_32_c_2_1": {
+      "name": "ads_tv_yle_32_c_2_1",
+      "x": -41,
+      "y": 46,
+      "exists": false
+    },
+    "ads_tv_yle_32_c_2_2": {
+      "name": "ads_tv_yle_32_c_2_2",
+      "x": 32,
+      "y": 37,
+      "exists": true
+    },
+    "ads_tv_yle_32_c_2_3": {
+      "name": "ads_tv_yle_32_c_2_3",
+      "x": 32,
+      "y": 37,
+      "exists": true
+    },
+    "ads_tv_yle_32_c_2_4": {
+      "name": "ads_tv_yle_32_c_2_4",
+      "x": 32,
+      "y": 37,
+      "exists": true
+    },
+    "ads_tv_yle_32_d_2_0": {
+      "name": "ads_tv_yle_32_d_2_0",
+      "x": -41,
+      "y": 46,
+      "exists": false
+    },
+    "ads_tv_yle_32_d_2_1": {
+      "name": "ads_tv_yle_32_d_2_1",
+      "x": -41,
+      "y": 46,
+      "exists": false
+    },
+    "ads_tv_yle_32_e_2_0": {
+      "name": "ads_tv_yle_32_e_2_0",
+      "x": -41,
+      "y": 46,
+      "exists": false
+    },
+    "ads_tv_yle_32_e_2_1": {
+      "name": "ads_tv_yle_32_e_2_1",
+      "x": 32,
+      "y": 37,
+      "exists": true
+    },
+    "ads_tv_yle_32_f_2_0": {
+      "name": "ads_tv_yle_32_f_2_0",
+      "x": 46,
+      "y": 47,
+      "exists": false
+    },
+    "ads_tv_yle_32_f_2_1": {
+      "name": "ads_tv_yle_32_f_2_1",
+      "x": 46,
+      "y": 47,
+      "exists": true
+    },
+    "ads_tv_yle_32_g_2_0": {
+      "name": "ads_tv_yle_32_g_2_0",
+      "x": 32,
+      "y": -11,
+      "exists": true
+    },
+    "ads_tv_yle_32_g_2_1": {
+      "name": "ads_tv_yle_32_g_2_1",
+      "x": 32,
+      "y": -11,
+      "exists": true
+    },
+    "ads_tv_yle_32_g_2_2": {
+      "name": "ads_tv_yle_32_g_2_2",
+      "x": 32,
+      "y": -5,
+      "exists": true
+    },
+    "ads_tv_yle_32_g_2_3": {
+      "name": "ads_tv_yle_32_g_2_3",
+      "x": -19,
+      "y": 14,
+      "exists": true
+    },
+    "ads_tv_yle_32_g_2_4": {
+      "name": "ads_tv_yle_32_g_2_4",
+      "x": 32,
+      "y": 34,
+      "exists": true
+    },
+    "ads_tv_yle_32_g_2_5": {
+      "name": "ads_tv_yle_32_g_2_5",
+      "x": 4,
+      "y": 30,
+      "exists": true
+    },
+    "ads_tv_yle_32_a_4_0": {
+      "name": "ads_tv_yle_32_a_4_0",
+      "x": 16,
+      "y": 14,
+      "exists": false
+    },
+    "ads_tv_yle_32_a_4_1": {
+      "name": "ads_tv_yle_32_a_4_1",
+      "x": 16,
+      "y": 14,
+      "exists": true
+    },
+    "ads_tv_yle_32_b_4_0": {
+      "name": "ads_tv_yle_32_b_4_0",
+      "x": 41,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_b_4_1": {
+      "name": "ads_tv_yle_32_b_4_1",
+      "x": 41,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_b_4_2": {
+      "name": "ads_tv_yle_32_b_4_2",
+      "x": 41,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_b_4_3": {
+      "name": "ads_tv_yle_32_b_4_3",
+      "x": 41,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_b_4_4": {
+      "name": "ads_tv_yle_32_b_4_4",
+      "x": 41,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_b_4_5": {
+      "name": "ads_tv_yle_32_b_4_5",
+      "x": 41,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_c_4_0": {
+      "name": "ads_tv_yle_32_c_4_0",
+      "x": 39,
+      "y": 46,
+      "exists": true
+    },
+    "ads_tv_yle_32_c_4_1": {
+      "name": "ads_tv_yle_32_c_4_1",
+      "x": 39,
+      "y": 46,
+      "exists": false
+    },
+    "ads_tv_yle_32_c_4_2": {
+      "name": "ads_tv_yle_32_c_4_2",
+      "x": 33,
+      "y": 37,
+      "exists": true
+    },
+    "ads_tv_yle_32_c_4_3": {
+      "name": "ads_tv_yle_32_c_4_3",
+      "x": 33,
+      "y": 37,
+      "exists": true
+    },
+    "ads_tv_yle_32_c_4_4": {
+      "name": "ads_tv_yle_32_c_4_4",
+      "x": 34,
+      "y": 37,
+      "exists": true
+    },
+    "ads_tv_yle_32_d_4_0": {
+      "name": "ads_tv_yle_32_d_4_0",
+      "x": 39,
+      "y": 46,
+      "exists": false
+    },
+    "ads_tv_yle_32_d_4_1": {
+      "name": "ads_tv_yle_32_d_4_1",
+      "x": 39,
+      "y": 46,
+      "exists": false
+    },
+    "ads_tv_yle_32_e_4_0": {
+      "name": "ads_tv_yle_32_e_4_0",
+      "x": 39,
+      "y": 46,
+      "exists": false
+    },
+    "ads_tv_yle_32_e_4_1": {
+      "name": "ads_tv_yle_32_e_4_1",
+      "x": 70,
+      "y": 37,
+      "exists": true
+    },
+    "ads_tv_yle_32_f_4_0": {
+      "name": "ads_tv_yle_32_f_4_0",
+      "x": 36,
+      "y": 47,
+      "exists": false
+    },
+    "ads_tv_yle_32_f_4_1": {
+      "name": "ads_tv_yle_32_f_4_1",
+      "x": 36,
+      "y": 47,
+      "exists": true
+    },
+    "ads_tv_yle_32_g_4_0": {
+      "name": "ads_tv_yle_32_g_4_0",
+      "flipH": 1,
+      "source": "ads_tv_yle_32_g_2_0",
+      "x": 32,
+      "y": -11,
+      "exists": false
+    },
+    "ads_tv_yle_32_g_4_1": {
+      "name": "ads_tv_yle_32_g_4_1",
+      "flipH": 1,
+      "source": "ads_tv_yle_32_g_2_1",
+      "x": 35,
+      "y": -10,
+      "exists": false
+    },
+    "ads_tv_yle_32_g_4_2": {
+      "name": "ads_tv_yle_32_g_4_2",
+      "flipH": 1,
+      "source": "ads_tv_yle_32_g_2_2",
+      "x": 35,
+      "y": -5,
+      "exists": false
+    },
+    "ads_tv_yle_32_g_4_3": {
+      "name": "ads_tv_yle_32_g_4_3",
+      "flipH": 1,
+      "source": "ads_tv_yle_32_g_2_3",
+      "x": -14,
+      "y": 15,
+      "exists": false
+    },
+    "ads_tv_yle_32_g_4_4": {
+      "name": "ads_tv_yle_32_g_4_4",
+      "flipH": 1,
+      "source": "ads_tv_yle_32_g_2_4",
+      "x": 35,
+      "y": 34,
+      "exists": false
+    },
+    "ads_tv_yle_32_g_4_5": {
+      "name": "ads_tv_yle_32_g_4_5",
+      "flipH": 1,
+      "source": "ads_tv_yle_32_g_2_5",
+      "x": 7,
+      "y": 30,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3.75,
+      "y": 0.2,
+      "z": 1.875
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 7,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2,
+                  2,
+                  3,
+                  2,
+                  4,
+                  3,
+                  2,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0,
+                  4,
+                  1,
+                  0,
+                  0,
+                  2,
+                  0,
+                  5,
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "alpha": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -2995
+        },
+        {
+          "layerId": 2,
+          "z": -2990
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "alpha": 179,
+          "ignoreMouse": 1,
+          "z": -2985
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": -2980
+        },
+        {
+          "layerId": 5,
+          "alpha": 41,
+          "z": -3000
+        },
+        {
+          "layerId": 6,
+          "z": -2990
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 7,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  5,
+                  5,
+                  5,
+                  5,
+                  5,
+                  5,
+                  5,
+                  7,
+                  7,
+                  6,
+                  5,
+                  7,
+                  5,
+                  7,
+                  5,
+                  7,
+                  5,
+                  7,
+                  5,
+                  8,
+                  5,
+                  7,
+                  5,
+                  7,
+                  5,
+                  8,
+                  5,
+                  7,
+                  6,
+                  7,
+                  5,
+                  7,
+                  5,
+                  8,
+                  5,
+                  7,
+                  6,
+                  7,
+                  5,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  4,
+                  5,
+                  5,
+                  6,
+                  6,
+                  7,
+                  7,
+                  8,
+                  8,
+                  9,
+                  9,
+                  10,
+                  10,
+                  11,
+                  11,
+                  12,
+                  12,
+                  13,
+                  13,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  21,
+                  21,
+                  21,
+                  21,
+                  21,
+                  22,
+                  23,
+                  22,
+                  23,
+                  22,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  24,
+                  24,
+                  24,
+                  24,
+                  24,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  23,
+                  25,
+                  25,
+                  25,
+                  25,
+                  25,
+                  25,
+                  24,
+                  24,
+                  24,
+                  24,
+                  24,
+                  24,
+                  26,
+                  27,
+                  28,
+                  29,
+                  29,
+                  29,
+                  29,
+                  29,
+                  29,
+                  29,
+                  29,
+                  29,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  30,
+                  31,
+                  30,
+                  31,
+                  33,
+                  32,
+                  33,
+                  32,
+                  34,
+                  35,
+                  34,
+                  35,
+                  37,
+                  36,
+                  37,
+                  36,
+                  37,
+                  36,
+                  37,
+                  36,
+                  37,
+                  36,
+                  37,
+                  36,
+                  37,
+                  36,
+                  37,
+                  36,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  38,
+                  38,
+                  39,
+                  40,
+                  40,
+                  39,
+                  38,
+                  38,
+                  39,
+                  40,
+                  40,
+                  39,
+                  38,
+                  38,
+                  39,
+                  40,
+                  40,
+                  39,
+                  38,
+                  38,
+                  39,
+                  41,
+                  42,
+                  43,
+                  44,
+                  45,
+                  46,
+                  47,
+                  48,
+                  49,
+                  50,
+                  51,
+                  52,
+                  53,
+                  54,
+                  55,
+                  56,
+                  57,
+                  57,
+                  57,
+                  57,
+                  57,
+                  57,
+                  57,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "alpha": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -2995
+        },
+        {
+          "layerId": 2,
+          "z": -2990
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": -2985
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": -2980
+        },
+        {
+          "layerId": 5,
+          "alpha": 41,
+          "z": -3000
+        },
+        {
+          "layerId": 6,
+          "z": -2990
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "ads_tv_yle",
+    "visualization": "furniture_animated"
+  }
+}

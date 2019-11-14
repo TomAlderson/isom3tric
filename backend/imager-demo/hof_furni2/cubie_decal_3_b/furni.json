@@ -1,0 +1,564 @@
+{
+  "assets": {
+    "cubie_decal_3_b_32_a_2_0": {
+      "name": "cubie_decal_3_b_32_a_2_0",
+      "x": 17,
+      "y": 9,
+      "exists": true
+    },
+    "cubie_decal_3_b_32_a_2_1": {
+      "name": "cubie_decal_3_b_32_a_2_1",
+      "x": 17,
+      "y": 9,
+      "exists": true
+    },
+    "cubie_decal_3_b_32_a_2_2": {
+      "name": "cubie_decal_3_b_32_a_2_2",
+      "x": 17,
+      "y": 9,
+      "exists": true
+    },
+    "cubie_decal_3_b_32_b_2_0": {
+      "name": "cubie_decal_3_b_32_b_2_0",
+      "x": 16,
+      "y": 8,
+      "exists": true
+    },
+    "cubie_decal_3_b_32_b_2_1": {
+      "name": "cubie_decal_3_b_32_b_2_1",
+      "x": 16,
+      "y": 8,
+      "exists": true
+    },
+    "cubie_decal_3_b_32_b_2_2": {
+      "name": "cubie_decal_3_b_32_b_2_2",
+      "x": 16,
+      "y": 8,
+      "exists": true
+    },
+    "cubie_decal_3_b_64_a_2_0": {
+      "name": "cubie_decal_3_b_64_a_2_0",
+      "x": 31,
+      "y": 19,
+      "exists": true
+    },
+    "cubie_decal_3_b_64_a_2_1": {
+      "name": "cubie_decal_3_b_64_a_2_1",
+      "x": 31,
+      "y": 18,
+      "exists": true
+    },
+    "cubie_decal_3_b_64_a_2_2": {
+      "name": "cubie_decal_3_b_64_a_2_2",
+      "x": 31,
+      "y": 19,
+      "exists": true
+    },
+    "cubie_decal_3_b_64_b_2_0": {
+      "name": "cubie_decal_3_b_64_b_2_0",
+      "x": 30,
+      "y": 18,
+      "exists": true
+    },
+    "cubie_decal_3_b_64_b_2_1": {
+      "name": "cubie_decal_3_b_64_b_2_1",
+      "x": 30,
+      "y": 17,
+      "exists": true
+    },
+    "cubie_decal_3_b_64_b_2_2": {
+      "name": "cubie_decal_3_b_64_b_2_2",
+      "x": 30,
+      "y": 18,
+      "exists": true
+    },
+    "cubie_decal_3_b_icon_a": {
+      "name": "cubie_decal_3_b_icon_a",
+      "x": 14,
+      "y": 10,
+      "exists": true
+    },
+    "cubie_decal_3_b_32_b_2_3": {
+      "name": "cubie_decal_3_b_32_b_2_3",
+      "x": 16,
+      "y": 8,
+      "exists": true
+    },
+    "cubie_decal_3_b_32_b_2_4": {
+      "name": "cubie_decal_3_b_32_b_2_4",
+      "x": 16,
+      "y": 8,
+      "exists": true
+    },
+    "cubie_decal_3_b_32_b_2_5": {
+      "name": "cubie_decal_3_b_32_b_2_5",
+      "x": 16,
+      "y": 8,
+      "exists": true
+    },
+    "cubie_decal_3_b_64_b_2_3": {
+      "name": "cubie_decal_3_b_64_b_2_3",
+      "x": 30,
+      "y": 18,
+      "exists": true
+    },
+    "cubie_decal_3_b_64_b_2_4": {
+      "name": "cubie_decal_3_b_64_b_2_4",
+      "x": 30,
+      "y": 17,
+      "exists": true
+    },
+    "cubie_decal_3_b_64_b_2_5": {
+      "name": "cubie_decal_3_b_64_b_2_5",
+      "x": 30,
+      "y": 18,
+      "exists": true
+    },
+    "cubie_decal_3_b_32_a_4_1": {
+      "name": "cubie_decal_3_b_32_a_4_1",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_32_a_2_0",
+      "x": 17,
+      "y": 9,
+      "exists": false
+    },
+    "cubie_decal_3_b_32_a_4_0": {
+      "name": "cubie_decal_3_b_32_a_4_0",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_32_a_2_1",
+      "x": 17,
+      "y": 9,
+      "exists": false
+    },
+    "cubie_decal_3_b_32_a_4_2": {
+      "name": "cubie_decal_3_b_32_a_4_2",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_32_a_2_2",
+      "x": 17,
+      "y": 9,
+      "exists": false
+    },
+    "cubie_decal_3_b_32_b_4_1": {
+      "name": "cubie_decal_3_b_32_b_4_1",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_32_b_2_0",
+      "x": 16,
+      "y": 8,
+      "exists": false
+    },
+    "cubie_decal_3_b_32_b_4_0": {
+      "name": "cubie_decal_3_b_32_b_4_0",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_32_b_2_1",
+      "x": 16,
+      "y": 8,
+      "exists": false
+    },
+    "cubie_decal_3_b_32_b_4_2": {
+      "name": "cubie_decal_3_b_32_b_4_2",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_32_b_2_2",
+      "x": 16,
+      "y": 8,
+      "exists": false
+    },
+    "cubie_decal_3_b_64_a_4_1": {
+      "name": "cubie_decal_3_b_64_a_4_1",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_64_a_2_0",
+      "x": 31,
+      "y": 19,
+      "exists": false
+    },
+    "cubie_decal_3_b_64_a_4_0": {
+      "name": "cubie_decal_3_b_64_a_4_0",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_64_a_2_1",
+      "x": 31,
+      "y": 18,
+      "exists": false
+    },
+    "cubie_decal_3_b_64_a_4_2": {
+      "name": "cubie_decal_3_b_64_a_4_2",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_64_a_2_2",
+      "x": 31,
+      "y": 19,
+      "exists": false
+    },
+    "cubie_decal_3_b_64_b_4_1": {
+      "name": "cubie_decal_3_b_64_b_4_1",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_64_b_2_0",
+      "x": 30,
+      "y": 18,
+      "exists": false
+    },
+    "cubie_decal_3_b_64_b_4_0": {
+      "name": "cubie_decal_3_b_64_b_4_0",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_64_b_2_1",
+      "x": 30,
+      "y": 17,
+      "exists": false
+    },
+    "cubie_decal_3_b_64_b_4_2": {
+      "name": "cubie_decal_3_b_64_b_4_2",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_64_b_2_2",
+      "x": 30,
+      "y": 18,
+      "exists": false
+    },
+    "cubie_decal_3_b_32_b_4_4": {
+      "name": "cubie_decal_3_b_32_b_4_4",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_32_b_2_3",
+      "x": 16,
+      "y": 8,
+      "exists": false
+    },
+    "cubie_decal_3_b_32_b_4_3": {
+      "name": "cubie_decal_3_b_32_b_4_3",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_32_b_2_4",
+      "x": 16,
+      "y": 8,
+      "exists": false
+    },
+    "cubie_decal_3_b_32_b_4_5": {
+      "name": "cubie_decal_3_b_32_b_4_5",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_32_b_2_5",
+      "x": 16,
+      "y": 8,
+      "exists": false
+    },
+    "cubie_decal_3_b_64_b_4_4": {
+      "name": "cubie_decal_3_b_64_b_4_4",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_64_b_2_3",
+      "x": 30,
+      "y": 18,
+      "exists": false
+    },
+    "cubie_decal_3_b_64_b_4_3": {
+      "name": "cubie_decal_3_b_64_b_4_3",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_64_b_2_4",
+      "x": 30,
+      "y": 17,
+      "exists": false
+    },
+    "cubie_decal_3_b_64_b_4_5": {
+      "name": "cubie_decal_3_b_64_b_4_5",
+      "flipH": 1,
+      "source": "cubie_decal_3_b_64_b_2_5",
+      "x": 30,
+      "y": 18,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1.9,
+      "y": 0.2,
+      "z": 0.6
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -7000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -7000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "cubie_decal_3_b",
+    "visualization": "furniture_animated"
+  }
+}

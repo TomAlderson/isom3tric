@@ -1,0 +1,66 @@
+{
+  "assets": {
+    "army_c15_sandbag_64_a_4_0": {
+      "name": "army_c15_sandbag_64_a_4_0",
+      "x": 26,
+      "y": 19,
+      "exists": true
+    },
+    "army_c15_sandbag_icon_a": {
+      "name": "army_c15_sandbag_icon_a",
+      "x": 13,
+      "y": 10,
+      "exists": true
+    },
+    "army_c15_sandbag_64_a_2_0": {
+      "name": "army_c15_sandbag_64_a_2_0",
+      "flipH": 1,
+      "source": "army_c15_sandbag_64_a_4_0",
+      "x": 26,
+      "y": 19,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.2
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "army_c15_sandbag",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "assets": {
+    "qt_calendar1_64_a_2_1": {
+      "name": "qt_calendar1_64_a_2_1",
+      "x": 23,
+      "y": 38,
+      "exists": true
+    },
+    "qt_calendar1_64_a_2_0": {
+      "name": "qt_calendar1_64_a_2_0",
+      "x": 23,
+      "y": 38,
+      "exists": true
+    },
+    "qt_calendar1_icon_a": {
+      "name": "qt_calendar1_icon_a",
+      "x": 10,
+      "y": 15,
+      "exists": true
+    },
+    "qt_calendar1_64_b_2_9": {
+      "name": "qt_calendar1_64_b_2_9",
+      "x": 17,
+      "y": 43,
+      "exists": true
+    },
+    "qt_calendar1_64_b_2_8": {
+      "name": "qt_calendar1_64_b_2_8",
+      "x": 17,
+      "y": 43,
+      "exists": true
+    },
+    "qt_calendar1_64_b_2_7": {
+      "name": "qt_calendar1_64_b_2_7",
+      "x": 17,
+      "y": 43,
+      "exists": true
+    },
+    "qt_calendar1_64_b_2_6": {
+      "name": "qt_calendar1_64_b_2_6",
+      "x": 17,
+      "y": 43,
+      "exists": true
+    },
+    "qt_calendar1_64_b_2_5": {
+      "name": "qt_calendar1_64_b_2_5",
+      "x": 17,
+      "y": 43,
+      "exists": true
+    },
+    "qt_calendar1_64_b_2_4": {
+      "name": "qt_calendar1_64_b_2_4",
+      "x": 17,
+      "y": 43,
+      "exists": true
+    },
+    "qt_calendar1_64_b_2_3": {
+      "name": "qt_calendar1_64_b_2_3",
+      "x": 17,
+      "y": 43,
+      "exists": true
+    },
+    "qt_calendar1_64_b_2_2": {
+      "name": "qt_calendar1_64_b_2_2",
+      "x": 17,
+      "y": 43,
+      "exists": true
+    },
+    "qt_calendar1_64_b_2_1": {
+      "name": "qt_calendar1_64_b_2_1",
+      "x": 17,
+      "y": 43,
+      "exists": true
+    },
+    "qt_calendar1_32_a_2_1": {
+      "name": "qt_calendar1_32_a_2_1",
+      "x": 12,
+      "y": 20,
+      "exists": true
+    },
+    "qt_calendar1_32_a_2_0": {
+      "name": "qt_calendar1_32_a_2_0",
+      "x": 12,
+      "y": 20,
+      "exists": true
+    },
+    "qt_calendar1_32_b_2_9": {
+      "name": "qt_calendar1_32_b_2_9",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "qt_calendar1_32_b_2_8": {
+      "name": "qt_calendar1_32_b_2_8",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "qt_calendar1_32_b_2_7": {
+      "name": "qt_calendar1_32_b_2_7",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "qt_calendar1_32_b_2_6": {
+      "name": "qt_calendar1_32_b_2_6",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "qt_calendar1_32_b_2_5": {
+      "name": "qt_calendar1_32_b_2_5",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "qt_calendar1_32_b_2_4": {
+      "name": "qt_calendar1_32_b_2_4",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "qt_calendar1_32_b_2_3": {
+      "name": "qt_calendar1_32_b_2_3",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "qt_calendar1_32_b_2_2": {
+      "name": "qt_calendar1_32_b_2_2",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "qt_calendar1_32_b_2_1": {
+      "name": "qt_calendar1_32_b_2_1",
+      "x": 8,
+      "y": 21,
+      "exists": true
+    },
+    "qt_calendar1_32_b_2_0": {
+      "name": "qt_calendar1_32_b_2_0",
+      "x": 12,
+      "y": -18,
+      "exists": true
+    },
+    "qt_calendar1_64_b_2_0": {
+      "name": "qt_calendar1_64_b_2_0",
+      "x": 21,
+      "y": -38,
+      "exists": false
+    },
+    "qt_calendar1_64_a_4_1": {
+      "name": "qt_calendar1_64_a_4_1",
+      "flipH": 1,
+      "source": "qt_calendar1_64_a_2_1",
+      "x": 23,
+      "y": 38,
+      "exists": false
+    },
+    "qt_calendar1_64_a_4_0": {
+      "name": "qt_calendar1_64_a_4_0",
+      "flipH": 1,
+      "source": "qt_calendar1_64_a_2_0",
+      "x": 23,
+      "y": 38,
+      "exists": false
+    },
+    "qt_calendar1_64_b_4_5": {
+      "name": "qt_calendar1_64_b_4_5",
+      "flipH": 1,
+      "source": "qt_calendar1_64_b_2_5",
+      "x": 17,
+      "y": 43,
+      "exists": false
+    },
+    "qt_calendar1_64_b_4_4": {
+      "name": "qt_calendar1_64_b_4_4",
+      "flipH": 1,
+      "source": "qt_calendar1_64_b_2_4",
+      "x": 17,
+      "y": 43,
+      "exists": false
+    },
+    "qt_calendar1_64_b_4_3": {
+      "name": "qt_calendar1_64_b_4_3",
+      "flipH": 1,
+      "source": "qt_calendar1_64_b_2_3",
+      "x": 17,
+      "y": 43,
+      "exists": false
+    },
+    "qt_calendar1_64_b_4_2": {
+      "name": "qt_calendar1_64_b_4_2",
+      "flipH": 1,
+      "source": "qt_calendar1_64_b_2_2",
+      "x": 17,
+      "y": 43,
+      "exists": false
+    },
+    "qt_calendar1_64_b_4_1": {
+      "name": "qt_calendar1_64_b_4_1",
+      "flipH": 1,
+      "source": "qt_calendar1_64_b_2_1",
+      "x": 17,
+      "y": 43,
+      "exists": false
+    },
+    "qt_calendar1_64_b_4_0": {
+      "name": "qt_calendar1_64_b_4_0",
+      "flipH": 1,
+      "source": "qt_calendar1_64_b_2_0",
+      "x": 21,
+      "y": -38,
+      "exists": false
+    },
+    "qt_calendar1_64_b_4_9": {
+      "name": "qt_calendar1_64_b_4_9",
+      "flipH": 1,
+      "source": "qt_calendar1_64_b_2_9",
+      "x": 17,
+      "y": 43,
+      "exists": false
+    },
+    "qt_calendar1_64_b_4_8": {
+      "name": "qt_calendar1_64_b_4_8",
+      "flipH": 1,
+      "source": "qt_calendar1_64_b_2_8",
+      "x": 17,
+      "y": 43,
+      "exists": false
+    },
+    "qt_calendar1_64_b_4_7": {
+      "name": "qt_calendar1_64_b_4_7",
+      "flipH": 1,
+      "source": "qt_calendar1_64_b_2_7",
+      "x": 17,
+      "y": 43,
+      "exists": false
+    },
+    "qt_calendar1_64_b_4_6": {
+      "name": "qt_calendar1_64_b_4_6",
+      "flipH": 1,
+      "source": "qt_calendar1_64_b_2_6",
+      "x": 17,
+      "y": 43,
+      "exists": false
+    },
+    "qt_calendar1_32_a_4_1": {
+      "name": "qt_calendar1_32_a_4_1",
+      "flipH": 1,
+      "source": "qt_calendar1_32_a_2_1",
+      "x": 12,
+      "y": 20,
+      "exists": false
+    },
+    "qt_calendar1_32_a_4_0": {
+      "name": "qt_calendar1_32_a_4_0",
+      "flipH": 1,
+      "source": "qt_calendar1_32_a_2_0",
+      "x": 12,
+      "y": 20,
+      "exists": false
+    },
+    "qt_calendar1_32_b_4_9": {
+      "name": "qt_calendar1_32_b_4_9",
+      "flipH": 1,
+      "source": "qt_calendar1_32_b_2_9",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "qt_calendar1_32_b_4_8": {
+      "name": "qt_calendar1_32_b_4_8",
+      "flipH": 1,
+      "source": "qt_calendar1_32_b_2_8",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "qt_calendar1_32_b_4_7": {
+      "name": "qt_calendar1_32_b_4_7",
+      "flipH": 1,
+      "source": "qt_calendar1_32_b_2_7",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "qt_calendar1_32_b_4_6": {
+      "name": "qt_calendar1_32_b_4_6",
+      "flipH": 1,
+      "source": "qt_calendar1_32_b_2_6",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "qt_calendar1_32_b_4_5": {
+      "name": "qt_calendar1_32_b_4_5",
+      "flipH": 1,
+      "source": "qt_calendar1_32_b_2_5",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "qt_calendar1_32_b_4_4": {
+      "name": "qt_calendar1_32_b_4_4",
+      "flipH": 1,
+      "source": "qt_calendar1_32_b_2_4",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "qt_calendar1_32_b_4_3": {
+      "name": "qt_calendar1_32_b_4_3",
+      "flipH": 1,
+      "source": "qt_calendar1_32_b_2_3",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "qt_calendar1_32_b_4_2": {
+      "name": "qt_calendar1_32_b_4_2",
+      "flipH": 1,
+      "source": "qt_calendar1_32_b_2_2",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "qt_calendar1_32_b_4_1": {
+      "name": "qt_calendar1_32_b_4_1",
+      "flipH": 1,
+      "source": "qt_calendar1_32_b_2_1",
+      "x": 8,
+      "y": 21,
+      "exists": false
+    },
+    "qt_calendar1_32_b_4_0": {
+      "name": "qt_calendar1_32_b_4_0",
+      "flipH": 1,
+      "source": "qt_calendar1_32_b_2_0",
+      "x": 12,
+      "y": -18,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 0.2,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY"
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "qt_calendar1",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "assets": {
+    "pixel_couch_blue_64_sd_4_0": {
+      "name": "pixel_couch_blue_64_sd_4_0",
+      "x": 27,
+      "y": 13,
+      "exists": true
+    },
+    "pixel_couch_blue_64_a_4_0": {
+      "name": "pixel_couch_blue_64_a_4_0",
+      "x": 27,
+      "y": 58,
+      "exists": true
+    },
+    "pixel_couch_blue_64_b_4_0": {
+      "name": "pixel_couch_blue_64_b_4_0",
+      "x": 16,
+      "y": 4,
+      "exists": true
+    },
+    "pixel_couch_blue_64_c_4_0": {
+      "name": "pixel_couch_blue_64_c_4_0",
+      "x": 3,
+      "y": 49,
+      "exists": true
+    },
+    "pixel_couch_blue_64_d_4_0": {
+      "name": "pixel_couch_blue_64_d_4_0",
+      "x": -27,
+      "y": 20,
+      "exists": true
+    },
+    "pixel_couch_blue_64_sd_0_0": {
+      "name": "pixel_couch_blue_64_sd_0_0",
+      "x": 27,
+      "y": 13,
+      "exists": false
+    },
+    "pixel_couch_blue_64_a_0_0": {
+      "name": "pixel_couch_blue_64_a_0_0",
+      "x": 27,
+      "y": 47,
+      "exists": true
+    },
+    "pixel_couch_blue_64_b_0_0": {
+      "name": "pixel_couch_blue_64_b_0_0",
+      "x": 22,
+      "y": 46,
+      "exists": true
+    },
+    "pixel_couch_blue_64_c_0_0": {
+      "name": "pixel_couch_blue_64_c_0_0",
+      "x": 3,
+      "y": 38,
+      "exists": true
+    },
+    "pixel_couch_blue_64_d_0_0": {
+      "name": "pixel_couch_blue_64_d_0_0",
+      "x": 3,
+      "y": 38,
+      "exists": true
+    },
+    "pixel_couch_blue_32_sd_4_0": {
+      "name": "pixel_couch_blue_32_sd_4_0",
+      "x": 13,
+      "y": 6,
+      "exists": false
+    },
+    "pixel_couch_blue_32_a_4_0": {
+      "name": "pixel_couch_blue_32_a_4_0",
+      "x": 13,
+      "y": 30,
+      "exists": true
+    },
+    "pixel_couch_blue_32_b_4_0": {
+      "name": "pixel_couch_blue_32_b_4_0",
+      "x": 7,
+      "y": 2,
+      "exists": true
+    },
+    "pixel_couch_blue_32_c_4_0": {
+      "name": "pixel_couch_blue_32_c_4_0",
+      "x": 1,
+      "y": 24,
+      "exists": true
+    },
+    "pixel_couch_blue_32_d_4_0": {
+      "name": "pixel_couch_blue_32_d_4_0",
+      "x": -14,
+      "y": 11,
+      "exists": true
+    },
+    "pixel_couch_blue_32_sd_0_0": {
+      "name": "pixel_couch_blue_32_sd_0_0",
+      "x": 13,
+      "y": 6,
+      "exists": true
+    },
+    "pixel_couch_blue_32_a_0_0": {
+      "name": "pixel_couch_blue_32_a_0_0",
+      "x": 13,
+      "y": 24,
+      "exists": true
+    },
+    "pixel_couch_blue_32_b_0_0": {
+      "name": "pixel_couch_blue_32_b_0_0",
+      "x": 10,
+      "y": 24,
+      "exists": true
+    },
+    "pixel_couch_blue_32_c_0_0": {
+      "name": "pixel_couch_blue_32_c_0_0",
+      "x": 1,
+      "y": 19,
+      "exists": true
+    },
+    "pixel_couch_blue_32_d_0_0": {
+      "name": "pixel_couch_blue_32_d_0_0",
+      "x": 1,
+      "y": 19,
+      "exists": true
+    },
+    "pixel_couch_blue_icon_a": {
+      "name": "pixel_couch_blue_icon_a",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    },
+    "pixel_couch_blue_64_sd_2_0": {
+      "name": "pixel_couch_blue_64_sd_2_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_64_sd_4_0",
+      "x": 27,
+      "y": 13,
+      "exists": false
+    },
+    "pixel_couch_blue_64_a_2_0": {
+      "name": "pixel_couch_blue_64_a_2_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_64_a_4_0",
+      "x": 27,
+      "y": 58,
+      "exists": false
+    },
+    "pixel_couch_blue_64_b_2_0": {
+      "name": "pixel_couch_blue_64_b_2_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_64_b_4_0",
+      "x": 16,
+      "y": 4,
+      "exists": false
+    },
+    "pixel_couch_blue_64_c_2_0": {
+      "name": "pixel_couch_blue_64_c_2_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_64_c_4_0",
+      "x": 3,
+      "y": 49,
+      "exists": false
+    },
+    "pixel_couch_blue_64_d_2_0": {
+      "name": "pixel_couch_blue_64_d_2_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_64_d_4_0",
+      "x": -27,
+      "y": 20,
+      "exists": false
+    },
+    "pixel_couch_blue_32_sd_2_0": {
+      "name": "pixel_couch_blue_32_sd_2_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_32_sd_4_0",
+      "x": 13,
+      "y": 6,
+      "exists": false
+    },
+    "pixel_couch_blue_32_a_2_0": {
+      "name": "pixel_couch_blue_32_a_2_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_32_a_4_0",
+      "x": 13,
+      "y": 30,
+      "exists": false
+    },
+    "pixel_couch_blue_32_b_2_0": {
+      "name": "pixel_couch_blue_32_b_2_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_32_b_4_0",
+      "x": 7,
+      "y": 2,
+      "exists": false
+    },
+    "pixel_couch_blue_32_c_2_0": {
+      "name": "pixel_couch_blue_32_c_2_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_32_c_4_0",
+      "x": 1,
+      "y": 24,
+      "exists": false
+    },
+    "pixel_couch_blue_32_d_2_0": {
+      "name": "pixel_couch_blue_32_d_2_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_32_d_4_0",
+      "x": -14,
+      "y": 11,
+      "exists": false
+    },
+    "pixel_couch_blue_64_sd_6_0": {
+      "name": "pixel_couch_blue_64_sd_6_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_64_sd_0_0",
+      "x": 27,
+      "y": 13,
+      "exists": false
+    },
+    "pixel_couch_blue_64_a_6_0": {
+      "name": "pixel_couch_blue_64_a_6_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_64_a_0_0",
+      "x": 27,
+      "y": 47,
+      "exists": false
+    },
+    "pixel_couch_blue_64_b_6_0": {
+      "name": "pixel_couch_blue_64_b_6_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_64_b_0_0",
+      "x": 22,
+      "y": 46,
+      "exists": false
+    },
+    "pixel_couch_blue_64_c_6_0": {
+      "name": "pixel_couch_blue_64_c_6_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_64_c_0_0",
+      "x": 3,
+      "y": 38,
+      "exists": false
+    },
+    "pixel_couch_blue_64_d_6_0": {
+      "name": "pixel_couch_blue_64_d_6_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_64_d_0_0",
+      "x": 3,
+      "y": 38,
+      "exists": false
+    },
+    "pixel_couch_blue_32_sd_6_0": {
+      "name": "pixel_couch_blue_32_sd_6_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_32_sd_0_0",
+      "x": 13,
+      "y": 6,
+      "exists": false
+    },
+    "pixel_couch_blue_32_a_6_0": {
+      "name": "pixel_couch_blue_32_a_6_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_32_a_0_0",
+      "x": 13,
+      "y": 24,
+      "exists": false
+    },
+    "pixel_couch_blue_32_b_6_0": {
+      "name": "pixel_couch_blue_32_b_6_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_32_b_0_0",
+      "x": 10,
+      "y": 24,
+      "exists": false
+    },
+    "pixel_couch_blue_32_c_6_0": {
+      "name": "pixel_couch_blue_32_c_6_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_32_c_0_0",
+      "x": 1,
+      "y": 19,
+      "exists": false
+    },
+    "pixel_couch_blue_32_d_6_0": {
+      "name": "pixel_couch_blue_32_d_6_0",
+      "flipH": 1,
+      "source": "pixel_couch_blue_32_d_0_0",
+      "x": 1,
+      "y": 19,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1.33
+    },
+    "directions": [
+      90,
+      180,
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 1500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "pixel_couch_blue",
+    "visualization": "furniture_static"
+  }
+}

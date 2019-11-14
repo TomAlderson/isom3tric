@@ -1,0 +1,124 @@
+{
+  "assets": {
+    "easy_carpet_64_a_0_0": {
+      "name": "easy_carpet_64_a_0_0",
+      "source": "easy_carpet_64_a_4_0",
+      "x": 126,
+      "y": 17,
+      "exists": false
+    },
+    "easy_carpet_64_a_2_0": {
+      "name": "easy_carpet_64_a_2_0",
+      "x": 126,
+      "y": 17,
+      "exists": true
+    },
+    "easy_carpet_64_a_4_0": {
+      "name": "easy_carpet_64_a_4_0",
+      "x": 126,
+      "y": 17,
+      "exists": true
+    },
+    "easy_carpet_64_a_6_0": {
+      "name": "easy_carpet_64_a_6_0",
+      "source": "easy_carpet_64_a_2_0",
+      "x": 126,
+      "y": 17,
+      "exists": false
+    },
+    "easy_carpet_icon_a": {
+      "name": "easy_carpet_icon_a",
+      "x": 15,
+      "y": 7,
+      "exists": true
+    },
+    "easy_carpet_32_a_0_0": {
+      "name": "easy_carpet_32_a_0_0",
+      "source": "easy_carpet_32_a_4_0",
+      "x": 64,
+      "y": 8,
+      "exists": false
+    },
+    "easy_carpet_32_a_2_0": {
+      "name": "easy_carpet_32_a_2_0",
+      "x": 64,
+      "y": 8,
+      "exists": true
+    },
+    "easy_carpet_32_a_4_0": {
+      "name": "easy_carpet_32_a_4_0",
+      "x": 64,
+      "y": 8,
+      "exists": true
+    },
+    "easy_carpet_32_a_6_0": {
+      "name": "easy_carpet_32_a_6_0",
+      "source": "easy_carpet_32_a_2_0",
+      "x": 64,
+      "y": 8,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 4,
+      "y": 4,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "easy_carpet",
+    "visualization": "furniture_static"
+  }
+}

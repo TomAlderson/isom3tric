@@ -1,0 +1,543 @@
+{
+  "assets": {
+    "hween10_tarot_32_sd_0_0": {
+      "name": "hween10_tarot_32_sd_0_0",
+      "x": 9,
+      "y": 0,
+      "exists": true
+    },
+    "hween10_tarot_32_a_0_0": {
+      "name": "hween10_tarot_32_a_0_0",
+      "x": 15,
+      "y": 18,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_0": {
+      "name": "hween10_tarot_32_b_0_0",
+      "x": 10,
+      "y": 17,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_1": {
+      "name": "hween10_tarot_32_b_0_1",
+      "x": 8,
+      "y": 17,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_2": {
+      "name": "hween10_tarot_32_b_0_2",
+      "x": 8,
+      "y": 17,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_3": {
+      "name": "hween10_tarot_32_b_0_3",
+      "x": 8,
+      "y": 17,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_4": {
+      "name": "hween10_tarot_32_b_0_4",
+      "x": 8,
+      "y": 17,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_5": {
+      "name": "hween10_tarot_32_b_0_5",
+      "x": 8,
+      "y": 17,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_6": {
+      "name": "hween10_tarot_32_b_0_6",
+      "x": 8,
+      "y": 17,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_7": {
+      "name": "hween10_tarot_32_b_0_7",
+      "x": 10,
+      "y": 24,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_8": {
+      "name": "hween10_tarot_32_b_0_8",
+      "x": 10,
+      "y": 17,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_9": {
+      "name": "hween10_tarot_32_b_0_9",
+      "x": 10,
+      "y": 25,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_10": {
+      "name": "hween10_tarot_32_b_0_10",
+      "x": 10,
+      "y": 20,
+      "exists": true
+    },
+    "hween10_tarot_32_b_0_11": {
+      "name": "hween10_tarot_32_b_0_11",
+      "x": 10,
+      "y": 19,
+      "exists": true
+    },
+    "hween10_tarot_64_sd_0_0": {
+      "name": "hween10_tarot_64_sd_0_0",
+      "x": 24,
+      "y": 1,
+      "exists": true
+    },
+    "hween10_tarot_64_a_0_0": {
+      "name": "hween10_tarot_64_a_0_0",
+      "x": 30,
+      "y": 35,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_0": {
+      "name": "hween10_tarot_64_b_0_0",
+      "x": 21,
+      "y": 34,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_1": {
+      "name": "hween10_tarot_64_b_0_1",
+      "x": 16,
+      "y": 33,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_2": {
+      "name": "hween10_tarot_64_b_0_2",
+      "x": 16,
+      "y": 33,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_3": {
+      "name": "hween10_tarot_64_b_0_3",
+      "x": 16,
+      "y": 33,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_4": {
+      "name": "hween10_tarot_64_b_0_4",
+      "x": 16,
+      "y": 33,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_5": {
+      "name": "hween10_tarot_64_b_0_5",
+      "x": 16,
+      "y": 33,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_6": {
+      "name": "hween10_tarot_64_b_0_6",
+      "x": 16,
+      "y": 33,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_7": {
+      "name": "hween10_tarot_64_b_0_7",
+      "x": 21,
+      "y": 54,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_8": {
+      "name": "hween10_tarot_64_b_0_8",
+      "x": 21,
+      "y": 34,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_9": {
+      "name": "hween10_tarot_64_b_0_9",
+      "x": 21,
+      "y": 48,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_10": {
+      "name": "hween10_tarot_64_b_0_10",
+      "x": 21,
+      "y": 41,
+      "exists": true
+    },
+    "hween10_tarot_64_b_0_11": {
+      "name": "hween10_tarot_64_b_0_11",
+      "x": 21,
+      "y": 37,
+      "exists": true
+    },
+    "hween10_tarot_icon_a": {
+      "name": "hween10_tarot_icon_a",
+      "x": 14,
+      "y": 11,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "-1": {
+          "id": -1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  7,
+                  8,
+                  9,
+                  10,
+                  11
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 10
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "-1": {
+          "id": -1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  7,
+                  8,
+                  9,
+                  10,
+                  11
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 10
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_dice",
+    "type": "hween10_tarot",
+    "visualization": "furniture_animated"
+  }
+}

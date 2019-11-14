@@ -1,0 +1,288 @@
+{
+  "assets": {
+    "lm_crystal_skull_32_sd_0_0": {
+      "name": "lm_crystal_skull_32_sd_0_0",
+      "x": 5,
+      "y": 2,
+      "exists": true
+    },
+    "lm_crystal_skull_32_a_3_0": {
+      "name": "lm_crystal_skull_32_a_3_0",
+      "x": 7,
+      "y": 11,
+      "exists": true
+    },
+    "lm_crystal_skull_32_a_2_0": {
+      "name": "lm_crystal_skull_32_a_2_0",
+      "x": 9,
+      "y": 11,
+      "exists": true
+    },
+    "lm_crystal_skull_32_a_1_0": {
+      "name": "lm_crystal_skull_32_a_1_0",
+      "x": 9,
+      "y": 10,
+      "exists": true
+    },
+    "lm_crystal_skull_32_a_0_0": {
+      "name": "lm_crystal_skull_32_a_0_0",
+      "x": 9,
+      "y": 11,
+      "exists": true
+    },
+    "lm_crystal_skull_32_a_7_0": {
+      "name": "lm_crystal_skull_32_a_7_0",
+      "x": 8,
+      "y": 10,
+      "exists": true
+    },
+    "lm_crystal_skull_64_sd_0_0": {
+      "name": "lm_crystal_skull_64_sd_0_0",
+      "x": 11,
+      "y": 4,
+      "exists": true
+    },
+    "lm_crystal_skull_64_a_3_0": {
+      "name": "lm_crystal_skull_64_a_3_0",
+      "x": 12,
+      "y": 19,
+      "exists": true
+    },
+    "lm_crystal_skull_64_a_2_0": {
+      "name": "lm_crystal_skull_64_a_2_0",
+      "x": 15,
+      "y": 19,
+      "exists": true
+    },
+    "lm_crystal_skull_64_a_1_0": {
+      "name": "lm_crystal_skull_64_a_1_0",
+      "x": 15,
+      "y": 17,
+      "exists": true
+    },
+    "lm_crystal_skull_64_a_0_0": {
+      "name": "lm_crystal_skull_64_a_0_0",
+      "x": 15,
+      "y": 18,
+      "exists": true
+    },
+    "lm_crystal_skull_64_a_7_0": {
+      "name": "lm_crystal_skull_64_a_7_0",
+      "x": 12,
+      "y": 17,
+      "exists": true
+    },
+    "lm_crystal_skull_icon_a": {
+      "name": "lm_crystal_skull_icon_a",
+      "x": 10,
+      "y": 12,
+      "exists": true
+    },
+    "lm_crystal_skull_32_a_6_0": {
+      "name": "lm_crystal_skull_32_a_6_0",
+      "flipH": 1,
+      "source": "lm_crystal_skull_32_a_0_0",
+      "x": 9,
+      "y": 11,
+      "exists": false
+    },
+    "lm_crystal_skull_64_a_6_0": {
+      "name": "lm_crystal_skull_64_a_6_0",
+      "flipH": 1,
+      "source": "lm_crystal_skull_64_a_0_0",
+      "x": 15,
+      "y": 18,
+      "exists": false
+    },
+    "lm_crystal_skull_32_a_5_0": {
+      "name": "lm_crystal_skull_32_a_5_0",
+      "flipH": 1,
+      "source": "lm_crystal_skull_32_a_1_0",
+      "x": 9,
+      "y": 10,
+      "exists": false
+    },
+    "lm_crystal_skull_64_a_5_0": {
+      "name": "lm_crystal_skull_64_a_5_0",
+      "flipH": 1,
+      "source": "lm_crystal_skull_64_a_1_0",
+      "x": 15,
+      "y": 17,
+      "exists": false
+    },
+    "lm_crystal_skull_32_a_4_0": {
+      "name": "lm_crystal_skull_32_a_4_0",
+      "flipH": 1,
+      "source": "lm_crystal_skull_32_a_2_0",
+      "x": 9,
+      "y": 11,
+      "exists": false
+    },
+    "lm_crystal_skull_64_a_4_0": {
+      "name": "lm_crystal_skull_64_a_4_0",
+      "flipH": 1,
+      "source": "lm_crystal_skull_64_a_2_0",
+      "x": 15,
+      "y": 19,
+      "exists": false
+    },
+    "lm_crystal_skull_32_sd_1_0": {
+      "name": "lm_crystal_skull_32_sd_1_0",
+      "source": "lm_crystal_skull_32_sd_0_0",
+      "x": 5,
+      "y": 2,
+      "exists": false
+    },
+    "lm_crystal_skull_64_sd_1_0": {
+      "name": "lm_crystal_skull_64_sd_1_0",
+      "source": "lm_crystal_skull_64_sd_0_0",
+      "x": 11,
+      "y": 4,
+      "exists": false
+    },
+    "lm_crystal_skull_32_sd_2_0": {
+      "name": "lm_crystal_skull_32_sd_2_0",
+      "source": "lm_crystal_skull_32_sd_0_0",
+      "x": 5,
+      "y": 2,
+      "exists": false
+    },
+    "lm_crystal_skull_64_sd_2_0": {
+      "name": "lm_crystal_skull_64_sd_2_0",
+      "source": "lm_crystal_skull_64_sd_0_0",
+      "x": 11,
+      "y": 4,
+      "exists": false
+    },
+    "lm_crystal_skull_32_sd_3_0": {
+      "name": "lm_crystal_skull_32_sd_3_0",
+      "source": "lm_crystal_skull_32_sd_0_0",
+      "x": 5,
+      "y": 2,
+      "exists": false
+    },
+    "lm_crystal_skull_64_sd_3_0": {
+      "name": "lm_crystal_skull_64_sd_3_0",
+      "source": "lm_crystal_skull_64_sd_0_0",
+      "x": 11,
+      "y": 4,
+      "exists": false
+    },
+    "lm_crystal_skull_32_sd_4_0": {
+      "name": "lm_crystal_skull_32_sd_4_0",
+      "source": "lm_crystal_skull_32_sd_0_0",
+      "x": 5,
+      "y": 2,
+      "exists": false
+    },
+    "lm_crystal_skull_64_sd_4_0": {
+      "name": "lm_crystal_skull_64_sd_4_0",
+      "source": "lm_crystal_skull_64_sd_0_0",
+      "x": 11,
+      "y": 4,
+      "exists": false
+    },
+    "lm_crystal_skull_32_sd_5_0": {
+      "name": "lm_crystal_skull_32_sd_5_0",
+      "source": "lm_crystal_skull_32_sd_0_0",
+      "x": 5,
+      "y": 2,
+      "exists": false
+    },
+    "lm_crystal_skull_64_sd_5_0": {
+      "name": "lm_crystal_skull_64_sd_5_0",
+      "source": "lm_crystal_skull_64_sd_0_0",
+      "x": 11,
+      "y": 4,
+      "exists": false
+    },
+    "lm_crystal_skull_32_sd_6_0": {
+      "name": "lm_crystal_skull_32_sd_6_0",
+      "source": "lm_crystal_skull_32_sd_0_0",
+      "x": 5,
+      "y": 2,
+      "exists": false
+    },
+    "lm_crystal_skull_64_sd_6_0": {
+      "name": "lm_crystal_skull_64_sd_6_0",
+      "source": "lm_crystal_skull_64_sd_0_0",
+      "x": 11,
+      "y": 4,
+      "exists": false
+    },
+    "lm_crystal_skull_32_sd_7_0": {
+      "name": "lm_crystal_skull_32_sd_7_0",
+      "source": "lm_crystal_skull_32_sd_0_0",
+      "x": 5,
+      "y": 2,
+      "exists": false
+    },
+    "lm_crystal_skull_64_sd_7_0": {
+      "name": "lm_crystal_skull_64_sd_7_0",
+      "source": "lm_crystal_skull_64_sd_0_0",
+      "x": 11,
+      "y": 4,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      0,
+      135,
+      45,
+      315,
+      180,
+      225,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "lm_crystal_skull",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "assets": {
+    "steampunk_floor2_32_a_2_0": {
+      "name": "steampunk_floor2_32_a_2_0",
+      "x": 33,
+      "y": 8,
+      "exists": true
+    },
+    "steampunk_floor2_32_b_2_0": {
+      "name": "steampunk_floor2_32_b_2_0",
+      "x": 6,
+      "y": -5,
+      "exists": true
+    },
+    "steampunk_floor2_32_b_2_1": {
+      "name": "steampunk_floor2_32_b_2_1",
+      "x": 6,
+      "y": -5,
+      "exists": true
+    },
+    "steampunk_floor2_64_c_2_0": {
+      "name": "steampunk_floor2_64_c_2_0",
+      "x": 1,
+      "y": -48,
+      "exists": true
+    },
+    "steampunk_floor2_32_d_2_0": {
+      "name": "steampunk_floor2_32_d_2_0",
+      "x": 33,
+      "y": 9,
+      "exists": true
+    },
+    "steampunk_floor2_64_a_2_0": {
+      "name": "steampunk_floor2_64_a_2_0",
+      "x": 65,
+      "y": 17,
+      "exists": true
+    },
+    "steampunk_floor2_64_b_2_0": {
+      "name": "steampunk_floor2_64_b_2_0",
+      "x": 10,
+      "y": -10,
+      "exists": true
+    },
+    "steampunk_floor2_64_b_2_1": {
+      "name": "steampunk_floor2_64_b_2_1",
+      "x": 14,
+      "y": -7,
+      "exists": true
+    },
+    "steampunk_floor2_64_c_2_1": {
+      "name": "steampunk_floor2_64_c_2_1",
+      "x": 16,
+      "y": -4,
+      "exists": true
+    },
+    "steampunk_floor2_64_d_2_0": {
+      "name": "steampunk_floor2_64_d_2_0",
+      "x": 65,
+      "y": 18,
+      "exists": true
+    },
+    "steampunk_floor2_icon_a": {
+      "name": "steampunk_floor2_icon_a",
+      "x": 16,
+      "y": 8,
+      "exists": true
+    },
+    "steampunk_floor2_32_c_2_0": {
+      "name": "steampunk_floor2_32_c_2_0",
+      "x": 1,
+      "y": -24,
+      "exists": false
+    },
+    "steampunk_floor2_32_c_2_1": {
+      "name": "steampunk_floor2_32_c_2_1",
+      "x": 8,
+      "y": -2,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0.1
+    },
+    "directions": [
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -8102
+        },
+        {
+          "layerId": 1,
+          "z": -8101
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "z": -8100
+        },
+        {
+          "layerId": 3,
+          "z": -15000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -8102
+        },
+        {
+          "layerId": 1,
+          "z": -8101
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "z": -8100
+        },
+        {
+          "layerId": 3,
+          "z": -15000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "steampunk_floor2",
+    "visualization": "furniture_animated"
+  }
+}

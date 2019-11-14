@@ -1,0 +1,105 @@
+{
+  "assets": {
+    "super_r16_herodisplay_64_sd_2_0": {
+      "name": "super_r16_herodisplay_64_sd_2_0",
+      "x": 33,
+      "y": 15,
+      "exists": true
+    },
+    "super_r16_herodisplay_64_a_2_0": {
+      "name": "super_r16_herodisplay_64_a_2_0",
+      "x": 33,
+      "y": 167,
+      "exists": true
+    },
+    "super_r16_herodisplay_64_b_2_0": {
+      "name": "super_r16_herodisplay_64_b_2_0",
+      "x": 49,
+      "y": 167,
+      "exists": true
+    },
+    "super_r16_herodisplay_icon_a": {
+      "name": "super_r16_herodisplay_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "super_r16_herodisplay_64_sd_4_0": {
+      "name": "super_r16_herodisplay_64_sd_4_0",
+      "flipH": 1,
+      "source": "super_r16_herodisplay_64_sd_2_0",
+      "x": 33,
+      "y": 15,
+      "exists": false
+    },
+    "super_r16_herodisplay_64_a_4_0": {
+      "name": "super_r16_herodisplay_64_a_4_0",
+      "flipH": 1,
+      "source": "super_r16_herodisplay_64_a_2_0",
+      "x": 33,
+      "y": 167,
+      "exists": false
+    },
+    "super_r16_herodisplay_64_b_4_0": {
+      "name": "super_r16_herodisplay_64_b_4_0",
+      "flipH": 1,
+      "source": "super_r16_herodisplay_64_b_2_0",
+      "x": 49,
+      "y": 167,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.0001
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "alpha": 180
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "super_r16_herodisplay",
+    "visualization": "furniture_static"
+  }
+}

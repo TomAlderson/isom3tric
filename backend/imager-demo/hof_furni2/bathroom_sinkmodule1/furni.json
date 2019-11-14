@@ -1,0 +1,277 @@
+{
+  "assets": {
+    "bathroom_sinkmodule1_64_sd_4_0": {
+      "name": "bathroom_sinkmodule1_64_sd_4_0",
+      "x": 33,
+      "y": 16,
+      "exists": true
+    },
+    "bathroom_sinkmodule1_64_a_4_0": {
+      "name": "bathroom_sinkmodule1_64_a_4_0",
+      "x": 33,
+      "y": 75,
+      "exists": true
+    },
+    "bathroom_sinkmodule1_64_b_4_0": {
+      "name": "bathroom_sinkmodule1_64_b_4_0",
+      "x": -1,
+      "y": 41,
+      "exists": true
+    },
+    "bathroom_sinkmodule1_64_b_4_1": {
+      "name": "bathroom_sinkmodule1_64_b_4_1",
+      "x": 15,
+      "y": 54,
+      "exists": true
+    },
+    "bathroom_sinkmodule1_64_a_2_0": {
+      "name": "bathroom_sinkmodule1_64_a_2_0",
+      "x": 33,
+      "y": 75,
+      "exists": true
+    },
+    "bathroom_sinkmodule1_32_sd_4_0": {
+      "name": "bathroom_sinkmodule1_32_sd_4_0",
+      "x": 17,
+      "y": 8,
+      "exists": true
+    },
+    "bathroom_sinkmodule1_32_a_4_0": {
+      "name": "bathroom_sinkmodule1_32_a_4_0",
+      "x": 17,
+      "y": 37,
+      "exists": true
+    },
+    "bathroom_sinkmodule1_32_b_4_0": {
+      "name": "bathroom_sinkmodule1_32_b_4_0",
+      "x": 2,
+      "y": 21,
+      "exists": false
+    },
+    "bathroom_sinkmodule1_32_b_4_1": {
+      "name": "bathroom_sinkmodule1_32_b_4_1",
+      "x": 8,
+      "y": 27,
+      "exists": true
+    },
+    "bathroom_sinkmodule1_32_a_2_0": {
+      "name": "bathroom_sinkmodule1_32_a_2_0",
+      "x": 17,
+      "y": 37,
+      "exists": true
+    },
+    "bathroom_sinkmodule1_icon_a": {
+      "name": "bathroom_sinkmodule1_icon_a",
+      "x": 13,
+      "y": 19,
+      "exists": true
+    },
+    "bathroom_sinkmodule1_64_sd_2_0": {
+      "name": "bathroom_sinkmodule1_64_sd_2_0",
+      "flipH": 1,
+      "source": "bathroom_sinkmodule1_64_sd_4_0",
+      "x": 33,
+      "y": 16,
+      "exists": false
+    },
+    "bathroom_sinkmodule1_64_b_2_0": {
+      "name": "bathroom_sinkmodule1_64_b_2_0",
+      "flipH": 1,
+      "source": "bathroom_sinkmodule1_64_b_4_0",
+      "x": -1,
+      "y": 41,
+      "exists": false
+    },
+    "bathroom_sinkmodule1_64_b_2_1": {
+      "name": "bathroom_sinkmodule1_64_b_2_1",
+      "flipH": 1,
+      "source": "bathroom_sinkmodule1_64_b_4_1",
+      "x": 15,
+      "y": 54,
+      "exists": false
+    },
+    "bathroom_sinkmodule1_32_sd_2_0": {
+      "name": "bathroom_sinkmodule1_32_sd_2_0",
+      "flipH": 1,
+      "source": "bathroom_sinkmodule1_32_sd_4_0",
+      "x": 17,
+      "y": 8,
+      "exists": false
+    },
+    "bathroom_sinkmodule1_32_b_2_0": {
+      "name": "bathroom_sinkmodule1_32_b_2_0",
+      "flipH": 1,
+      "source": "bathroom_sinkmodule1_32_b_4_0",
+      "x": 2,
+      "y": 21,
+      "exists": false
+    },
+    "bathroom_sinkmodule1_32_b_2_1": {
+      "name": "bathroom_sinkmodule1_32_b_2_1",
+      "flipH": 1,
+      "source": "bathroom_sinkmodule1_32_b_4_1",
+      "x": 8,
+      "y": 27,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.5
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "alpha": 210
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "alpha": 210
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "bathroom_sinkmodule1",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,514 @@
+{
+  "assets": {
+    "torch_64_a_2_0": {
+      "name": "torch_64_a_2_0",
+      "x": 4,
+      "y": 7,
+      "exists": true
+    },
+    "torch_64_b_2_0": {
+      "name": "torch_64_b_2_0",
+      "x": -4,
+      "y": 24,
+      "exists": true
+    },
+    "torch_64_c_2_0": {
+      "name": "torch_64_c_2_0",
+      "x": 1,
+      "y": 1,
+      "exists": false
+    },
+    "torch_64_c_2_1": {
+      "name": "torch_64_c_2_1",
+      "x": -5,
+      "y": 36,
+      "exists": true
+    },
+    "torch_64_c_2_2": {
+      "name": "torch_64_c_2_2",
+      "x": -3,
+      "y": 38,
+      "exists": true
+    },
+    "torch_64_c_2_3": {
+      "name": "torch_64_c_2_3",
+      "x": -4,
+      "y": 41,
+      "exists": true
+    },
+    "torch_64_c_2_4": {
+      "name": "torch_64_c_2_4",
+      "x": -5,
+      "y": 43,
+      "exists": true
+    },
+    "torch_64_d_2_0": {
+      "name": "torch_64_d_2_0",
+      "x": 1,
+      "y": 1,
+      "exists": false
+    },
+    "torch_64_d_2_1": {
+      "name": "torch_64_d_2_1",
+      "x": 16,
+      "y": 49,
+      "exists": true
+    },
+    "torch_64_d_2_2": {
+      "name": "torch_64_d_2_2",
+      "x": 16,
+      "y": 53,
+      "exists": false
+    },
+    "torch_64_a_4_0": {
+      "name": "torch_64_a_4_0",
+      "flipH": 1,
+      "source": "torch_64_a_2_0",
+      "x": 4,
+      "y": 7,
+      "exists": false
+    },
+    "torch_64_b_4_0": {
+      "name": "torch_64_b_4_0",
+      "flipH": 1,
+      "source": "torch_64_b_2_0",
+      "x": -4,
+      "y": 24,
+      "exists": false
+    },
+    "torch_64_c_4_0": {
+      "name": "torch_64_c_4_0",
+      "flipH": 1,
+      "source": "torch_64_c_2_0",
+      "x": 1,
+      "y": 1,
+      "exists": false
+    },
+    "torch_64_c_4_1": {
+      "name": "torch_64_c_4_1",
+      "flipH": 1,
+      "source": "torch_64_c_2_1",
+      "x": -5,
+      "y": 36,
+      "exists": false
+    },
+    "torch_64_c_4_2": {
+      "name": "torch_64_c_4_2",
+      "flipH": 1,
+      "source": "torch_64_c_2_2",
+      "x": -3,
+      "y": 38,
+      "exists": false
+    },
+    "torch_64_c_4_3": {
+      "name": "torch_64_c_4_3",
+      "flipH": 1,
+      "source": "torch_64_c_2_3",
+      "x": -4,
+      "y": 41,
+      "exists": false
+    },
+    "torch_64_c_4_4": {
+      "name": "torch_64_c_4_4",
+      "flipH": 1,
+      "source": "torch_64_c_2_4",
+      "x": -5,
+      "y": 43,
+      "exists": false
+    },
+    "torch_64_d_4_0": {
+      "name": "torch_64_d_4_0",
+      "flipH": 1,
+      "source": "torch_64_d_2_0",
+      "x": 1,
+      "y": 1,
+      "exists": false
+    },
+    "torch_64_d_4_1": {
+      "name": "torch_64_d_4_1",
+      "flipH": 1,
+      "source": "torch_64_d_2_1",
+      "x": 16,
+      "y": 49,
+      "exists": false
+    },
+    "torch_64_d_4_2": {
+      "name": "torch_64_d_4_2",
+      "flipH": 1,
+      "source": "torch_64_d_2_2",
+      "x": 16,
+      "y": 53,
+      "exists": false
+    },
+    "torch_32_a_2_0": {
+      "name": "torch_32_a_2_0",
+      "x": 2,
+      "y": 2,
+      "exists": true
+    },
+    "torch_32_b_2_0": {
+      "name": "torch_32_b_2_0",
+      "x": -2,
+      "y": 11,
+      "exists": true
+    },
+    "torch_32_c_2_0": {
+      "name": "torch_32_c_2_0",
+      "x": 1,
+      "y": 2,
+      "exists": true
+    },
+    "torch_32_c_2_1": {
+      "name": "torch_32_c_2_1",
+      "x": -1,
+      "y": 17,
+      "exists": true
+    },
+    "torch_32_c_2_2": {
+      "name": "torch_32_c_2_2",
+      "x": 0,
+      "y": 18,
+      "exists": true
+    },
+    "torch_32_c_2_3": {
+      "name": "torch_32_c_2_3",
+      "x": -2,
+      "y": 20,
+      "exists": true
+    },
+    "torch_32_c_2_4": {
+      "name": "torch_32_c_2_4",
+      "x": -2,
+      "y": 19,
+      "exists": true
+    },
+    "torch_32_d_2_0": {
+      "name": "torch_32_d_2_0",
+      "x": 1,
+      "y": 2,
+      "exists": false
+    },
+    "torch_32_d_2_1": {
+      "name": "torch_32_d_2_1",
+      "x": 9,
+      "y": 26,
+      "exists": false
+    },
+    "torch_32_d_2_2": {
+      "name": "torch_32_d_2_2",
+      "x": 9,
+      "y": 27,
+      "exists": true
+    },
+    "torch_32_a_4_0": {
+      "name": "torch_32_a_4_0",
+      "flipH": 1,
+      "source": "torch_32_a_2_0",
+      "x": 2,
+      "y": 2,
+      "exists": false
+    },
+    "torch_32_b_4_0": {
+      "name": "torch_32_b_4_0",
+      "flipH": 1,
+      "source": "torch_32_b_2_0",
+      "x": -2,
+      "y": 11,
+      "exists": false
+    },
+    "torch_32_c_4_0": {
+      "name": "torch_32_c_4_0",
+      "flipH": 1,
+      "source": "torch_32_c_2_0",
+      "x": 1,
+      "y": 2,
+      "exists": false
+    },
+    "torch_32_c_4_1": {
+      "name": "torch_32_c_4_1",
+      "flipH": 1,
+      "source": "torch_32_c_2_1",
+      "x": -1,
+      "y": 17,
+      "exists": false
+    },
+    "torch_32_c_4_2": {
+      "name": "torch_32_c_4_2",
+      "flipH": 1,
+      "source": "torch_32_c_2_2",
+      "x": 0,
+      "y": 18,
+      "exists": false
+    },
+    "torch_32_c_4_3": {
+      "name": "torch_32_c_4_3",
+      "flipH": 1,
+      "source": "torch_32_c_2_3",
+      "x": -2,
+      "y": 20,
+      "exists": false
+    },
+    "torch_32_c_4_4": {
+      "name": "torch_32_c_4_4",
+      "flipH": 1,
+      "source": "torch_32_c_2_4",
+      "x": -2,
+      "y": 19,
+      "exists": false
+    },
+    "torch_32_d_4_0": {
+      "name": "torch_32_d_4_0",
+      "flipH": 1,
+      "source": "torch_32_d_2_0",
+      "x": 1,
+      "y": 2,
+      "exists": false
+    },
+    "torch_32_d_4_1": {
+      "name": "torch_32_d_4_1",
+      "flipH": 1,
+      "source": "torch_32_d_2_1",
+      "x": 9,
+      "y": 26,
+      "exists": false
+    },
+    "torch_32_d_4_2": {
+      "name": "torch_32_d_4_2",
+      "flipH": 1,
+      "source": "torch_32_d_2_2",
+      "x": 9,
+      "y": 27,
+      "exists": false
+    },
+    "torch_icon_a": {
+      "name": "torch_icon_a",
+      "x": 4,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 0.25,
+      "y": 0.2,
+      "z": 0.6563
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2000
+        },
+        {
+          "layerId": 1,
+          "z": -1500
+        },
+        {
+          "layerId": 2,
+          "alpha": 204,
+          "z": -1495
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "z": -1490
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3,
+                  4,
+                  4,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2000
+        },
+        {
+          "layerId": 1,
+          "z": -1500
+        },
+        {
+          "layerId": 2,
+          "alpha": 204,
+          "z": -1495
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "z": -1490
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "torch",
+    "visualization": "furniture_animated"
+  }
+}

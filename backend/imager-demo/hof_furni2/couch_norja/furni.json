@@ -1,0 +1,987 @@
+{
+  "assets": {
+    "couch_norja_64_a_0_0": {
+      "name": "couch_norja_64_a_0_0",
+      "x": -3,
+      "y": 29,
+      "exists": true
+    },
+    "couch_norja_64_a_2_0": {
+      "name": "couch_norja_64_a_2_0",
+      "x": 53,
+      "y": 37,
+      "exists": true
+    },
+    "couch_norja_64_a_4_0": {
+      "name": "couch_norja_64_a_4_0",
+      "flipH": 1,
+      "source": "couch_norja_64_a_2_0",
+      "x": 53,
+      "y": 37,
+      "exists": false
+    },
+    "couch_norja_64_a_6_0": {
+      "name": "couch_norja_64_a_6_0",
+      "flipH": 1,
+      "source": "couch_norja_64_a_0_0",
+      "x": -3,
+      "y": 29,
+      "exists": false
+    },
+    "couch_norja_64_b_0_0": {
+      "name": "couch_norja_64_b_0_0",
+      "x": -7,
+      "y": 16,
+      "exists": true
+    },
+    "couch_norja_64_b_2_0": {
+      "name": "couch_norja_64_b_2_0",
+      "x": 52,
+      "y": 14,
+      "exists": true
+    },
+    "couch_norja_64_b_4_0": {
+      "name": "couch_norja_64_b_4_0",
+      "flipH": 1,
+      "source": "couch_norja_64_b_2_0",
+      "x": 52,
+      "y": 14,
+      "exists": false
+    },
+    "couch_norja_64_b_6_0": {
+      "name": "couch_norja_64_b_6_0",
+      "flipH": 1,
+      "source": "couch_norja_64_b_0_0",
+      "x": -7,
+      "y": 16,
+      "exists": false
+    },
+    "couch_norja_64_c_0_0": {
+      "name": "couch_norja_64_c_0_0",
+      "x": 25,
+      "y": 41,
+      "exists": true
+    },
+    "couch_norja_64_c_2_0": {
+      "name": "couch_norja_64_c_2_0",
+      "x": 22,
+      "y": 48,
+      "exists": true
+    },
+    "couch_norja_64_c_4_0": {
+      "name": "couch_norja_64_c_4_0",
+      "flipH": 1,
+      "source": "couch_norja_64_c_2_0",
+      "x": 22,
+      "y": 48,
+      "exists": false
+    },
+    "couch_norja_64_c_6_0": {
+      "name": "couch_norja_64_c_6_0",
+      "flipH": 1,
+      "source": "couch_norja_64_c_0_0",
+      "x": 25,
+      "y": 41,
+      "exists": false
+    },
+    "couch_norja_64_d_0_0": {
+      "name": "couch_norja_64_d_0_0",
+      "x": 23,
+      "y": 31,
+      "exists": true
+    },
+    "couch_norja_64_d_2_0": {
+      "name": "couch_norja_64_d_2_0",
+      "x": 28,
+      "y": 28,
+      "exists": true
+    },
+    "couch_norja_64_d_4_0": {
+      "name": "couch_norja_64_d_4_0",
+      "flipH": 1,
+      "source": "couch_norja_64_d_2_0",
+      "x": 28,
+      "y": 28,
+      "exists": false
+    },
+    "couch_norja_64_d_6_0": {
+      "name": "couch_norja_64_d_6_0",
+      "flipH": 1,
+      "source": "couch_norja_64_d_0_0",
+      "x": 23,
+      "y": 31,
+      "exists": false
+    },
+    "couch_norja_64_e_0_0": {
+      "name": "couch_norja_64_e_0_0",
+      "x": 24,
+      "y": 40,
+      "exists": true
+    },
+    "couch_norja_64_e_2_0": {
+      "name": "couch_norja_64_e_2_0",
+      "x": 52,
+      "y": 36,
+      "exists": true
+    },
+    "couch_norja_64_e_4_0": {
+      "name": "couch_norja_64_e_4_0",
+      "flipH": 1,
+      "source": "couch_norja_64_e_2_0",
+      "x": 52,
+      "y": 36,
+      "exists": false
+    },
+    "couch_norja_64_e_6_0": {
+      "name": "couch_norja_64_e_6_0",
+      "flipH": 1,
+      "source": "couch_norja_64_e_0_0",
+      "x": 24,
+      "y": 40,
+      "exists": false
+    },
+    "couch_norja_64_f_0_0": {
+      "name": "couch_norja_64_f_0_0",
+      "x": -3,
+      "y": 28,
+      "exists": true
+    },
+    "couch_norja_64_f_2_0": {
+      "name": "couch_norja_64_f_2_0",
+      "x": 22,
+      "y": 47,
+      "exists": true
+    },
+    "couch_norja_64_f_4_0": {
+      "name": "couch_norja_64_f_4_0",
+      "flipH": 1,
+      "source": "couch_norja_64_f_2_0",
+      "x": 22,
+      "y": 47,
+      "exists": false
+    },
+    "couch_norja_64_f_6_0": {
+      "name": "couch_norja_64_f_6_0",
+      "flipH": 1,
+      "source": "couch_norja_64_f_0_0",
+      "x": -3,
+      "y": 28,
+      "exists": false
+    },
+    "couch_norja_64_g_0_0": {
+      "name": "couch_norja_64_g_0_0",
+      "x": 22,
+      "y": 30,
+      "exists": true
+    },
+    "couch_norja_64_g_2_0": {
+      "name": "couch_norja_64_g_2_0",
+      "x": 51,
+      "y": 14,
+      "exists": true
+    },
+    "couch_norja_64_g_4_0": {
+      "name": "couch_norja_64_g_4_0",
+      "flipH": 1,
+      "source": "couch_norja_64_g_2_0",
+      "x": 51,
+      "y": 14,
+      "exists": false
+    },
+    "couch_norja_64_g_6_0": {
+      "name": "couch_norja_64_g_6_0",
+      "flipH": 1,
+      "source": "couch_norja_64_g_0_0",
+      "x": 22,
+      "y": 30,
+      "exists": false
+    },
+    "couch_norja_64_h_0_0": {
+      "name": "couch_norja_64_h_0_0",
+      "x": -7,
+      "y": 16,
+      "exists": true
+    },
+    "couch_norja_64_h_2_0": {
+      "name": "couch_norja_64_h_2_0",
+      "x": 26,
+      "y": 27,
+      "exists": true
+    },
+    "couch_norja_64_h_4_0": {
+      "name": "couch_norja_64_h_4_0",
+      "flipH": 1,
+      "source": "couch_norja_64_h_2_0",
+      "x": 26,
+      "y": 27,
+      "exists": false
+    },
+    "couch_norja_64_h_6_0": {
+      "name": "couch_norja_64_h_6_0",
+      "flipH": 1,
+      "source": "couch_norja_64_h_0_0",
+      "x": -7,
+      "y": 16,
+      "exists": false
+    },
+    "couch_norja_64_sd_0_0": {
+      "name": "couch_norja_64_sd_0_0",
+      "x": 25,
+      "y": 10,
+      "exists": true
+    },
+    "couch_norja_64_sd_2_0": {
+      "name": "couch_norja_64_sd_2_0",
+      "x": 58,
+      "y": 7,
+      "exists": false
+    },
+    "couch_norja_64_sd_4_0": {
+      "name": "couch_norja_64_sd_4_0",
+      "x": 29,
+      "y": 10,
+      "exists": false
+    },
+    "couch_norja_64_sd_6_0": {
+      "name": "couch_norja_64_sd_6_0",
+      "x": 54,
+      "y": 9,
+      "exists": true
+    },
+    "couch_norja_icon_a": {
+      "name": "couch_norja_icon_a",
+      "x": 15,
+      "y": 9,
+      "exists": true
+    },
+    "couch_norja_icon_b": {
+      "name": "couch_norja_icon_b",
+      "x": 15,
+      "y": 15,
+      "exists": true
+    },
+    "couch_norja_32_a_0_0": {
+      "name": "couch_norja_32_a_0_0",
+      "x": 0,
+      "y": 14,
+      "exists": true
+    },
+    "couch_norja_32_a_2_0": {
+      "name": "couch_norja_32_a_2_0",
+      "x": 27,
+      "y": 11,
+      "exists": true
+    },
+    "couch_norja_32_a_4_0": {
+      "name": "couch_norja_32_a_4_0",
+      "flipH": 1,
+      "source": "couch_norja_32_a_2_0",
+      "x": 27,
+      "y": 11,
+      "exists": false
+    },
+    "couch_norja_32_a_6_0": {
+      "name": "couch_norja_32_a_6_0",
+      "flipH": 1,
+      "source": "couch_norja_32_a_0_0",
+      "x": 0,
+      "y": 14,
+      "exists": false
+    },
+    "couch_norja_32_b_0_0": {
+      "name": "couch_norja_32_b_0_0",
+      "x": -3,
+      "y": 7,
+      "exists": true
+    },
+    "couch_norja_32_b_2_0": {
+      "name": "couch_norja_32_b_2_0",
+      "x": 26,
+      "y": 6,
+      "exists": true
+    },
+    "couch_norja_32_b_4_0": {
+      "name": "couch_norja_32_b_4_0",
+      "flipH": 1,
+      "source": "couch_norja_32_b_2_0",
+      "x": 26,
+      "y": 6,
+      "exists": false
+    },
+    "couch_norja_32_b_6_0": {
+      "name": "couch_norja_32_b_6_0",
+      "flipH": 1,
+      "source": "couch_norja_32_b_0_0",
+      "x": -3,
+      "y": 7,
+      "exists": false
+    },
+    "couch_norja_32_c_0_0": {
+      "name": "couch_norja_32_c_0_0",
+      "x": 14,
+      "y": 20,
+      "exists": true
+    },
+    "couch_norja_32_c_2_0": {
+      "name": "couch_norja_32_c_2_0",
+      "x": 12,
+      "y": 24,
+      "exists": true
+    },
+    "couch_norja_32_c_4_0": {
+      "name": "couch_norja_32_c_4_0",
+      "flipH": 1,
+      "source": "couch_norja_32_c_2_0",
+      "x": 12,
+      "y": 24,
+      "exists": false
+    },
+    "couch_norja_32_c_6_0": {
+      "name": "couch_norja_32_c_6_0",
+      "flipH": 1,
+      "source": "couch_norja_32_c_0_0",
+      "x": 14,
+      "y": 20,
+      "exists": false
+    },
+    "couch_norja_32_d_0_0": {
+      "name": "couch_norja_32_d_0_0",
+      "x": 13,
+      "y": 15,
+      "exists": true
+    },
+    "couch_norja_32_d_2_0": {
+      "name": "couch_norja_32_d_2_0",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    },
+    "couch_norja_32_d_4_0": {
+      "name": "couch_norja_32_d_4_0",
+      "flipH": 1,
+      "source": "couch_norja_32_d_2_0",
+      "x": 14,
+      "y": 13,
+      "exists": false
+    },
+    "couch_norja_32_d_6_0": {
+      "name": "couch_norja_32_d_6_0",
+      "flipH": 1,
+      "source": "couch_norja_32_d_0_0",
+      "x": 13,
+      "y": 15,
+      "exists": false
+    },
+    "couch_norja_32_e_0_0": {
+      "name": "couch_norja_32_e_0_0",
+      "x": 13,
+      "y": 19,
+      "exists": true
+    },
+    "couch_norja_32_e_2_0": {
+      "name": "couch_norja_32_e_2_0",
+      "x": 26,
+      "y": 18,
+      "exists": true
+    },
+    "couch_norja_32_e_4_0": {
+      "name": "couch_norja_32_e_4_0",
+      "flipH": 1,
+      "source": "couch_norja_32_e_2_0",
+      "x": 26,
+      "y": 18,
+      "exists": false
+    },
+    "couch_norja_32_e_6_0": {
+      "name": "couch_norja_32_e_6_0",
+      "flipH": 1,
+      "source": "couch_norja_32_e_0_0",
+      "x": 13,
+      "y": 19,
+      "exists": false
+    },
+    "couch_norja_32_f_0_0": {
+      "name": "couch_norja_32_f_0_0",
+      "x": -1,
+      "y": 13,
+      "exists": true
+    },
+    "couch_norja_32_f_2_0": {
+      "name": "couch_norja_32_f_2_0",
+      "x": 12,
+      "y": 23,
+      "exists": true
+    },
+    "couch_norja_32_f_4_0": {
+      "name": "couch_norja_32_f_4_0",
+      "flipH": 1,
+      "source": "couch_norja_32_f_2_0",
+      "x": 12,
+      "y": 23,
+      "exists": false
+    },
+    "couch_norja_32_f_6_0": {
+      "name": "couch_norja_32_f_6_0",
+      "flipH": 1,
+      "source": "couch_norja_32_f_0_0",
+      "x": -1,
+      "y": 13,
+      "exists": false
+    },
+    "couch_norja_32_g_0_0": {
+      "name": "couch_norja_32_g_0_0",
+      "x": 12,
+      "y": 14,
+      "exists": true
+    },
+    "couch_norja_32_g_2_0": {
+      "name": "couch_norja_32_g_2_0",
+      "x": 25,
+      "y": 5,
+      "exists": true
+    },
+    "couch_norja_32_g_4_0": {
+      "name": "couch_norja_32_g_4_0",
+      "flipH": 1,
+      "source": "couch_norja_32_g_2_0",
+      "x": 25,
+      "y": 5,
+      "exists": false
+    },
+    "couch_norja_32_g_6_0": {
+      "name": "couch_norja_32_g_6_0",
+      "flipH": 1,
+      "source": "couch_norja_32_g_0_0",
+      "x": 12,
+      "y": 14,
+      "exists": false
+    },
+    "couch_norja_32_h_0_0": {
+      "name": "couch_norja_32_h_0_0",
+      "x": -2,
+      "y": 7,
+      "exists": true
+    },
+    "couch_norja_32_h_2_0": {
+      "name": "couch_norja_32_h_2_0",
+      "x": 13,
+      "y": 12,
+      "exists": true
+    },
+    "couch_norja_32_h_4_0": {
+      "name": "couch_norja_32_h_4_0",
+      "flipH": 1,
+      "source": "couch_norja_32_h_2_0",
+      "x": 13,
+      "y": 12,
+      "exists": false
+    },
+    "couch_norja_32_h_6_0": {
+      "name": "couch_norja_32_h_6_0",
+      "flipH": 1,
+      "source": "couch_norja_32_h_0_0",
+      "x": -2,
+      "y": 7,
+      "exists": false
+    },
+    "couch_norja_32_sd_0_0": {
+      "name": "couch_norja_32_sd_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": true
+    },
+    "couch_norja_32_sd_2_0": {
+      "name": "couch_norja_32_sd_2_0",
+      "flipH": 1,
+      "source": "couch_norja_32_sd_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": false
+    },
+    "couch_norja_32_sd_4_0": {
+      "name": "couch_norja_32_sd_4_0",
+      "source": "couch_norja_32_sd_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": false
+    },
+    "couch_norja_32_sd_6_0": {
+      "name": "couch_norja_32_sd_6_0",
+      "flipH": 1,
+      "source": "couch_norja_32_sd_0_0",
+      "x": 12,
+      "y": 4,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 1,
+            "color": "F7EBBC"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": 525252
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "ABD0D2"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "EE7EA4"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "7CB135"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "764DA5"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 8,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 4,
+            "color": "F7EBBC"
+          },
+          {
+            "layerId": 5,
+            "color": "F7EBBC"
+          },
+          {
+            "layerId": 6,
+            "color": "F7EBBC"
+          },
+          {
+            "layerId": 7,
+            "color": "F7EBBC"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 4,
+            "color": 525252
+          },
+          {
+            "layerId": 5,
+            "color": 525252
+          },
+          {
+            "layerId": 6,
+            "color": 525252
+          },
+          {
+            "layerId": 7,
+            "color": 525252
+          }
+        ],
+        "4": [
+          {
+            "layerId": 4,
+            "color": "ABD0D2"
+          },
+          {
+            "layerId": 5,
+            "color": "ABD0D2"
+          },
+          {
+            "layerId": 6,
+            "color": "ABD0D2"
+          },
+          {
+            "layerId": 7,
+            "color": "ABD0D2"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 4,
+            "color": "EE7EA4"
+          },
+          {
+            "layerId": 5,
+            "color": "EE7EA4"
+          },
+          {
+            "layerId": 6,
+            "color": "EE7EA4"
+          },
+          {
+            "layerId": 7,
+            "color": "EE7EA4"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 4,
+            "color": "5EAAF8"
+          },
+          {
+            "layerId": 5,
+            "color": "5EAAF8"
+          },
+          {
+            "layerId": 6,
+            "color": "5EAAF8"
+          },
+          {
+            "layerId": 7,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 4,
+            "color": "7CB135"
+          },
+          {
+            "layerId": 5,
+            "color": "7CB135"
+          },
+          {
+            "layerId": 6,
+            "color": "7CB135"
+          },
+          {
+            "layerId": 7,
+            "color": "7CB135"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 4,
+            "color": "FFD837"
+          },
+          {
+            "layerId": 5,
+            "color": "FFD837"
+          },
+          {
+            "layerId": 6,
+            "color": "FFD837"
+          },
+          {
+            "layerId": 7,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 4,
+            "color": "E14218"
+          },
+          {
+            "layerId": 5,
+            "color": "E14218"
+          },
+          {
+            "layerId": 6,
+            "color": "E14218"
+          },
+          {
+            "layerId": 7,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 4,
+            "color": "764DA5"
+          },
+          {
+            "layerId": 5,
+            "color": "764DA5"
+          },
+          {
+            "layerId": 6,
+            "color": "764DA5"
+          },
+          {
+            "layerId": 7,
+            "color": "764DA5"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 999
+        },
+        {
+          "layerId": 3,
+          "z": -1
+        },
+        {
+          "layerId": 6,
+          "z": 950
+        },
+        {
+          "layerId": 7,
+          "z": -1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 8,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 4,
+            "color": "F7EBBC"
+          },
+          {
+            "layerId": 5,
+            "color": "F7EBBC"
+          },
+          {
+            "layerId": 6,
+            "color": "F7EBBC"
+          },
+          {
+            "layerId": 7,
+            "color": "F7EBBC"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 4,
+            "color": 525252
+          },
+          {
+            "layerId": 5,
+            "color": 525252
+          },
+          {
+            "layerId": 6,
+            "color": 525252
+          },
+          {
+            "layerId": 7,
+            "color": 525252
+          }
+        ],
+        "4": [
+          {
+            "layerId": 4,
+            "color": "ABD0D2"
+          },
+          {
+            "layerId": 5,
+            "color": "ABD0D2"
+          },
+          {
+            "layerId": 6,
+            "color": "ABD0D2"
+          },
+          {
+            "layerId": 7,
+            "color": "ABD0D2"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 4,
+            "color": "EE7EA4"
+          },
+          {
+            "layerId": 5,
+            "color": "EE7EA4"
+          },
+          {
+            "layerId": 6,
+            "color": "EE7EA4"
+          },
+          {
+            "layerId": 7,
+            "color": "EE7EA4"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 4,
+            "color": "5EAAF8"
+          },
+          {
+            "layerId": 5,
+            "color": "5EAAF8"
+          },
+          {
+            "layerId": 6,
+            "color": "5EAAF8"
+          },
+          {
+            "layerId": 7,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 4,
+            "color": "7CB135"
+          },
+          {
+            "layerId": 5,
+            "color": "7CB135"
+          },
+          {
+            "layerId": 6,
+            "color": "7CB135"
+          },
+          {
+            "layerId": 7,
+            "color": "7CB135"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 4,
+            "color": "FFD837"
+          },
+          {
+            "layerId": 5,
+            "color": "FFD837"
+          },
+          {
+            "layerId": 6,
+            "color": "FFD837"
+          },
+          {
+            "layerId": 7,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 4,
+            "color": "E14218"
+          },
+          {
+            "layerId": 5,
+            "color": "E14218"
+          },
+          {
+            "layerId": 6,
+            "color": "E14218"
+          },
+          {
+            "layerId": 7,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 4,
+            "color": "764DA5"
+          },
+          {
+            "layerId": 5,
+            "color": "764DA5"
+          },
+          {
+            "layerId": 6,
+            "color": "764DA5"
+          },
+          {
+            "layerId": 7,
+            "color": "764DA5"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 999
+        },
+        {
+          "layerId": 3,
+          "z": -1
+        },
+        {
+          "layerId": 6,
+          "z": 950
+        },
+        {
+          "layerId": 7,
+          "z": -1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "couch_norja",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "assets": {
+    "greek_c19_wall_64_sd_2_0": {
+      "name": "greek_c19_wall_64_sd_2_0",
+      "x": 36,
+      "y": 19,
+      "exists": true
+    },
+    "greek_c19_wall_64_sd_4_0": {
+      "name": "greek_c19_wall_64_sd_4_0",
+      "x": 69,
+      "y": 19,
+      "exists": true
+    },
+    "greek_c19_wall_64_b_4_0": {
+      "name": "greek_c19_wall_64_b_4_0",
+      "x": 33,
+      "y": 120,
+      "exists": true
+    },
+    "greek_c19_wall_64_a_4_0": {
+      "name": "greek_c19_wall_64_a_4_0",
+      "x": 34,
+      "y": 121,
+      "exists": true
+    },
+    "greek_c19_wall_64_d_4_0": {
+      "name": "greek_c19_wall_64_d_4_0",
+      "x": 68,
+      "y": 104,
+      "exists": true
+    },
+    "greek_c19_wall_64_c_4_0": {
+      "name": "greek_c19_wall_64_c_4_0",
+      "x": 69,
+      "y": 104,
+      "exists": false
+    },
+    "greek_c19_wall_64_b_2_0": {
+      "name": "greek_c19_wall_64_b_2_0",
+      "x": 35,
+      "y": 120,
+      "exists": true
+    },
+    "greek_c19_wall_64_a_2_0": {
+      "name": "greek_c19_wall_64_a_2_0",
+      "x": 36,
+      "y": 121,
+      "exists": false
+    },
+    "greek_c19_wall_64_d_2_0": {
+      "name": "greek_c19_wall_64_d_2_0",
+      "x": 2,
+      "y": 104,
+      "exists": true
+    },
+    "greek_c19_wall_64_c_2_0": {
+      "name": "greek_c19_wall_64_c_2_0",
+      "x": -34,
+      "y": 104,
+      "exists": true
+    },
+    "greek_c19_wall_64_b_4_1": {
+      "name": "greek_c19_wall_64_b_4_1",
+      "x": 33,
+      "y": 120,
+      "exists": true
+    },
+    "greek_c19_wall_64_a_4_1": {
+      "name": "greek_c19_wall_64_a_4_1",
+      "x": 34,
+      "y": 121,
+      "exists": false
+    },
+    "greek_c19_wall_64_d_4_1": {
+      "name": "greek_c19_wall_64_d_4_1",
+      "x": 68,
+      "y": 104,
+      "exists": true
+    },
+    "greek_c19_wall_64_c_4_1": {
+      "name": "greek_c19_wall_64_c_4_1",
+      "x": 69,
+      "y": 104,
+      "exists": true
+    },
+    "greek_c19_wall_64_b_2_1": {
+      "name": "greek_c19_wall_64_b_2_1",
+      "x": 35,
+      "y": 120,
+      "exists": true
+    },
+    "greek_c19_wall_64_a_2_1": {
+      "name": "greek_c19_wall_64_a_2_1",
+      "x": 36,
+      "y": 121,
+      "exists": true
+    },
+    "greek_c19_wall_64_d_2_1": {
+      "name": "greek_c19_wall_64_d_2_1",
+      "x": 2,
+      "y": 104,
+      "exists": true
+    },
+    "greek_c19_wall_64_c_2_1": {
+      "name": "greek_c19_wall_64_c_2_1",
+      "x": -34,
+      "y": 104,
+      "exists": false
+    },
+    "greek_c19_wall_icon_a": {
+      "name": "greek_c19_wall_icon_a",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 3.11
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  "NaN"
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "greek_c19_wall",
+    "visualization": "furniture_animated"
+  }
+}

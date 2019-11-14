@@ -1,0 +1,168 @@
+<html>
+  <head>
+    <title>Habbo Standalone Avatar Generator Live Demo | HABOX LABS</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="../styles/static.css" />
+    <link rel="stylesheet" href="../styles/page.css" />
+    <script src="../scripts/html5.js"></script>
+    <script src="../scripts/jquery.min.js"></script>
+    <script src="../scripts/jquery.cookie.js"></script>
+    <script src="../scripts/jquery.color.js"></script>
+    <script src="../scripts/jquery.expanding.js"></script>
+    <link rel="stylesheet" href="../styles/closet.css" />
+    <script src="../scripts/jquery-ui.min.js"></script>
+    <script src="../scripts/closet.js"></script>
+  </head>
+
+  <body class="page-generator-avatar-demo">
+    <header id="header">
+      <div class="wrapper">
+        <h1><a href="/">HABOX LABS</a></h1>
+        <h2>
+          We love Habbo.<br />
+          So I continue development.
+        </h2>
+      </div>
+    </header>
+    <main id="main">
+      <div class="wrapper">
+        <form name="avatareditor-form">
+          <!-- CONTAINER -->
+          <div id="avatareditor-container" class="container">
+            <input
+              type="hidden"
+              name="figure"
+              value="hd-180-1.ch-255-66.lg-280-110.sh-305-62.ha-1012-110.hr-828-61"
+            />
+
+            <!-- CLOSET EDITOR -->
+            <div id="avatareditor-closet">
+              <div id="avatareditor-tabs-primary">
+                <ul>
+                  <li class="active"><a data-settype-parent="body">body</a></li>
+                  <li><a data-settype-parent="head">head</a></li>
+                  <li><a data-settype-parent="upper">upper</a></li>
+                  <li><a data-settype-parent="lower">lower</a></li>
+                </ul>
+              </div>
+
+              <div class="parts-selector">
+                <div id="avatareditor-tabs-secondary">
+                  <ul data-parent-type="body" class="active">
+                    <li class="active">
+                      <a data-settype="hd" data-gender="M">face</a>
+                    </li>
+                    <li><a data-settype="hd" data-gender="F">face</a></li>
+                  </ul>
+                  <ul data-parent-type="head">
+                    <li class="active"><a data-settype="hr">hair style</a></li>
+                    <li><a data-settype="ha">hat</a></li>
+                    <li><a data-settype="he">head accessories</a></li>
+                    <li><a data-settype="ea">eye accessories</a></li>
+                    <li><a data-settype="fa">face accessories</a></li>
+                  </ul>
+                  <ul data-parent-type="upper">
+                    <li class="active"><a data-settype="ch">shirt</a></li>
+                    <li><a data-settype="cp">shirt print</a></li>
+                    <li><a data-settype="cc">jacket</a></li>
+                    <li><a data-settype="ca">chest accessories</a></li>
+                  </ul>
+                  <ul data-parent-type="lower">
+                    <li class="active"><a data-settype="lg">leg</a></li>
+                    <li><a data-settype="sh">shoes</a></li>
+                    <li><a data-settype="wa">waist accessories</a></li>
+                  </ul>
+                </div>
+
+                <div id="avatareditor-list-parts">
+                  <p class="message">
+                    choose <span class="str-partname">face</span>
+                  </p>
+
+                  <ul data-settype="hd"></ul>
+                </div>
+
+                <div id="avatareditor-list-color">
+                  <p class="message">choose color</p>
+
+                  <ul></ul>
+                </div>
+              </div>
+            </div>
+
+            <!-- AVATAR PREVIEW -->
+            <div
+              id="avatareditor-preview"
+              style="top:15px"
+              data-scale="l"
+              data-headonly="false"
+            >
+              <div id="avatareditor-preview-rect" class="scale-l">
+                <button name="change-direction-head" value="prev">«</button>
+                <button name="change-direction-head" value="next">»</button>
+                <button name="change-direction" value="prev">&lt;</button>
+                <button name="change-direction" value="next">&gt;</button>
+              </div>
+
+              <button name="figure-randomize">RANDOMIZE</button>
+            </div>
+
+            <div id="avatareditor-config" style="top:20px;position:relative;">
+              <fieldset name="config-size">
+                <legend>SIZE</legend>
+                <input
+                  type="radio"
+                  name="config-size"
+                  value="n"
+                  id="config-size-n"
+                /><label for="config-size-n">×1</label>
+                <input
+                  type="radio"
+                  name="config-size"
+                  value="l"
+                  id="config-size-l"
+                  checked="checked"
+                /><label for="config-size-l">×2</label>
+              </fieldset>
+            </div>
+
+            <div id="copyright">
+              <p class="version">
+                ver.<span class="str-generator-version"></span>
+              </p>
+
+              <p class="credits">
+                coded &amp; designed by
+                <a href="http://www.t-racing.org" target="_blank"
+                  >T-Racing Development</a
+                >
+              </p>
+            </div>
+          </div>
+
+          <div id="avatareditor-image-url" class="container">
+            <input
+              type="text"
+              name="avatareditor-image-url"
+              onclick="this.select();"
+            />
+          </div>
+          <div class="outline" style="float:right;">
+            <p>Resource version: PRODUCTION-201701242205-837386173</p>
+          </div>
+        </form>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="wrapper">
+        <p class="copyright">
+          Copyright © 2015
+          <a href="http://www.t-racing.org" target="_blank"
+            >T-Racing Development</a
+          >.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

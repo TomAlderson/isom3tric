@@ -1,0 +1,248 @@
+{
+  "assets": {
+    "soundblock_breakbeat_64_a_0_0": {
+      "name": "soundblock_breakbeat_64_a_0_0",
+      "x": 32,
+      "y": 48,
+      "exists": true
+    },
+    "soundblock_breakbeat_64_a_0_1": {
+      "name": "soundblock_breakbeat_64_a_0_1",
+      "x": 32,
+      "y": 48,
+      "exists": true
+    },
+    "soundblock_breakbeat_64_a_0_2": {
+      "name": "soundblock_breakbeat_64_a_0_2",
+      "x": 32,
+      "y": 48,
+      "exists": true
+    },
+    "soundblock_breakbeat_64_a_0_3": {
+      "name": "soundblock_breakbeat_64_a_0_3",
+      "x": 32,
+      "y": 48,
+      "exists": true
+    },
+    "soundblock_breakbeat_32_a_0_0": {
+      "name": "soundblock_breakbeat_32_a_0_0",
+      "x": 16,
+      "y": 23,
+      "exists": true
+    },
+    "soundblock_breakbeat_32_a_0_1": {
+      "name": "soundblock_breakbeat_32_a_0_1",
+      "x": 16,
+      "y": 23,
+      "exists": true
+    },
+    "soundblock_breakbeat_32_a_0_2": {
+      "name": "soundblock_breakbeat_32_a_0_2",
+      "x": 16,
+      "y": 23,
+      "exists": true
+    },
+    "soundblock_breakbeat_32_a_0_3": {
+      "name": "soundblock_breakbeat_32_a_0_3",
+      "x": 16,
+      "y": 23,
+      "exists": true
+    },
+    "soundblock_breakbeat_icon_a": {
+      "name": "soundblock_breakbeat_icon_a",
+      "x": 8,
+      "y": 12,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 100
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 100
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_soundblock",
+    "type": "soundblock_breakbeat",
+    "visualization": "furniture_soundblock"
+  }
+}

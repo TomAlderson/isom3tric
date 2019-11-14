@@ -25,7 +25,7 @@ mongoose
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
-app.use("/resource", express.static(path.join("backend/imager/resource")));
+app.use("/resource", express.static(path.join("backend/imager-demo/resource")));
 
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");

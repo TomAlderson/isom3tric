@@ -1,0 +1,220 @@
+{
+  "assets": {
+    "byesw_loadscreen_icon_a": {
+      "name": "byesw_loadscreen_icon_a",
+      "x": 12,
+      "y": 16,
+      "exists": true
+    },
+    "byesw_loadscreen_64_a_2_0": {
+      "name": "byesw_loadscreen_64_a_2_0",
+      "x": 53,
+      "y": 70,
+      "exists": true
+    },
+    "byesw_loadscreen_64_a_2_1": {
+      "name": "byesw_loadscreen_64_a_2_1",
+      "x": 53,
+      "y": 70,
+      "exists": true
+    },
+    "byesw_loadscreen_64_a_2_2": {
+      "name": "byesw_loadscreen_64_a_2_2",
+      "x": 53,
+      "y": 70,
+      "exists": true
+    },
+    "byesw_loadscreen_64_a_4_0": {
+      "name": "byesw_loadscreen_64_a_4_0",
+      "x": 53,
+      "y": 70,
+      "exists": true
+    },
+    "byesw_loadscreen_64_a_4_1": {
+      "name": "byesw_loadscreen_64_a_4_1",
+      "x": 53,
+      "y": 70,
+      "exists": true
+    },
+    "byesw_loadscreen_64_a_4_2": {
+      "name": "byesw_loadscreen_64_a_4_2",
+      "x": 53,
+      "y": 70,
+      "exists": true
+    },
+    "byesw_loadscreen_32_a_2_0": {
+      "name": "byesw_loadscreen_32_a_2_0",
+      "x": 27,
+      "y": 35,
+      "exists": true
+    },
+    "byesw_loadscreen_32_a_2_1": {
+      "name": "byesw_loadscreen_32_a_2_1",
+      "x": 27,
+      "y": 35,
+      "exists": true
+    },
+    "byesw_loadscreen_32_a_2_2": {
+      "name": "byesw_loadscreen_32_a_2_2",
+      "x": 27,
+      "y": 35,
+      "exists": true
+    },
+    "byesw_loadscreen_32_a_4_0": {
+      "name": "byesw_loadscreen_32_a_4_0",
+      "x": 27,
+      "y": 35,
+      "exists": true
+    },
+    "byesw_loadscreen_32_a_4_1": {
+      "name": "byesw_loadscreen_32_a_4_1",
+      "x": 27,
+      "y": 35,
+      "exists": true
+    },
+    "byesw_loadscreen_32_a_4_2": {
+      "name": "byesw_loadscreen_32_a_4_2",
+      "x": 27,
+      "y": 35,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3.3125,
+      "y": 0.2,
+      "z": 2.7188
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "byesw_loadscreen",
+    "visualization": "furniture_animated"
+  }
+}

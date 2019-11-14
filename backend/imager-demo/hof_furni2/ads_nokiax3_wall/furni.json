@@ -1,0 +1,508 @@
+{
+  "assets": {
+    "ads_nokiax3_wall_icon_a": {
+      "name": "ads_nokiax3_wall_icon_a",
+      "x": 8,
+      "y": 10,
+      "exists": true
+    },
+    "ads_nokiax3_wall_64_c_4_2": {
+      "name": "ads_nokiax3_wall_64_c_4_2",
+      "x": -13,
+      "y": 106,
+      "exists": true
+    },
+    "ads_nokiax3_wall_64_b_4_2": {
+      "name": "ads_nokiax3_wall_64_b_4_2",
+      "x": 19,
+      "y": 122,
+      "exists": true
+    },
+    "ads_nokiax3_wall_64_a_4_2": {
+      "name": "ads_nokiax3_wall_64_a_4_2",
+      "x": 50,
+      "y": 137,
+      "exists": true
+    },
+    "ads_nokiax3_wall_64_c_4_1": {
+      "name": "ads_nokiax3_wall_64_c_4_1",
+      "x": 0,
+      "y": 106,
+      "exists": true
+    },
+    "ads_nokiax3_wall_64_b_4_1": {
+      "name": "ads_nokiax3_wall_64_b_4_1",
+      "x": 40,
+      "y": 122,
+      "exists": true
+    },
+    "ads_nokiax3_wall_64_a_4_1": {
+      "name": "ads_nokiax3_wall_64_a_4_1",
+      "x": 54,
+      "y": 137,
+      "exists": true
+    },
+    "ads_nokiax3_wall_64_c_4_0": {
+      "name": "ads_nokiax3_wall_64_c_4_0",
+      "x": -2,
+      "y": 106,
+      "exists": true
+    },
+    "ads_nokiax3_wall_64_b_4_0": {
+      "name": "ads_nokiax3_wall_64_b_4_0",
+      "x": 31,
+      "y": 121,
+      "exists": true
+    },
+    "ads_nokiax3_wall_64_a_4_0": {
+      "name": "ads_nokiax3_wall_64_a_4_0",
+      "x": 57,
+      "y": 137,
+      "exists": true
+    },
+    "ads_nokiax3_wall_64_c_2_2": {
+      "name": "ads_nokiax3_wall_64_c_2_2",
+      "source": "ads_nokiax3_wall_64_c_4_2",
+      "x": -13,
+      "y": 106,
+      "exists": false
+    },
+    "ads_nokiax3_wall_64_b_2_2": {
+      "name": "ads_nokiax3_wall_64_b_2_2",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_64_b_4_2",
+      "x": 19,
+      "y": 122,
+      "exists": false
+    },
+    "ads_nokiax3_wall_64_a_2_2": {
+      "name": "ads_nokiax3_wall_64_a_2_2",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_64_a_4_2",
+      "x": 50,
+      "y": 137,
+      "exists": false
+    },
+    "ads_nokiax3_wall_64_c_2_1": {
+      "name": "ads_nokiax3_wall_64_c_2_1",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_64_c_4_1",
+      "x": 0,
+      "y": 106,
+      "exists": false
+    },
+    "ads_nokiax3_wall_64_b_2_1": {
+      "name": "ads_nokiax3_wall_64_b_2_1",
+      "source": "ads_nokiax3_wall_64_b_4_1",
+      "x": 40,
+      "y": 122,
+      "exists": false
+    },
+    "ads_nokiax3_wall_64_a_2_1": {
+      "name": "ads_nokiax3_wall_64_a_2_1",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_64_a_4_1",
+      "x": 54,
+      "y": 137,
+      "exists": false
+    },
+    "ads_nokiax3_wall_64_c_2_0": {
+      "name": "ads_nokiax3_wall_64_c_2_0",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_64_c_4_0",
+      "x": -2,
+      "y": 106,
+      "exists": false
+    },
+    "ads_nokiax3_wall_64_b_2_0": {
+      "name": "ads_nokiax3_wall_64_b_2_0",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_64_b_4_0",
+      "x": 31,
+      "y": 121,
+      "exists": false
+    },
+    "ads_nokiax3_wall_64_a_2_0": {
+      "name": "ads_nokiax3_wall_64_a_2_0",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_64_a_4_0",
+      "x": 57,
+      "y": 137,
+      "exists": false
+    },
+    "ads_nokiax3_wall_32_c_4_2": {
+      "name": "ads_nokiax3_wall_32_c_4_2",
+      "x": -11,
+      "y": 52,
+      "exists": true
+    },
+    "ads_nokiax3_wall_32_b_4_2": {
+      "name": "ads_nokiax3_wall_32_b_4_2",
+      "x": 5,
+      "y": 60,
+      "exists": false
+    },
+    "ads_nokiax3_wall_32_a_4_2": {
+      "name": "ads_nokiax3_wall_32_a_4_2",
+      "x": 21,
+      "y": 68,
+      "exists": false
+    },
+    "ads_nokiax3_wall_32_c_4_1": {
+      "name": "ads_nokiax3_wall_32_c_4_1",
+      "x": -4,
+      "y": 52,
+      "exists": true
+    },
+    "ads_nokiax3_wall_32_b_4_1": {
+      "name": "ads_nokiax3_wall_32_b_4_1",
+      "x": 17,
+      "y": 61,
+      "exists": true
+    },
+    "ads_nokiax3_wall_32_a_4_1": {
+      "name": "ads_nokiax3_wall_32_a_4_1",
+      "x": 24,
+      "y": 68,
+      "exists": true
+    },
+    "ads_nokiax3_wall_32_c_4_0": {
+      "name": "ads_nokiax3_wall_32_c_4_0",
+      "x": -5,
+      "y": 52,
+      "exists": true
+    },
+    "ads_nokiax3_wall_32_b_4_0": {
+      "name": "ads_nokiax3_wall_32_b_4_0",
+      "x": 12,
+      "y": 60,
+      "exists": true
+    },
+    "ads_nokiax3_wall_32_a_4_0": {
+      "name": "ads_nokiax3_wall_32_a_4_0",
+      "x": 25,
+      "y": 68,
+      "exists": true
+    },
+    "ads_nokiax3_wall_32_c_2_2": {
+      "name": "ads_nokiax3_wall_32_c_2_2",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_32_c_4_2",
+      "x": -9,
+      "y": 51,
+      "exists": false
+    },
+    "ads_nokiax3_wall_32_b_2_2": {
+      "name": "ads_nokiax3_wall_32_b_2_2",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_32_b_4_2",
+      "x": 7,
+      "y": 59,
+      "exists": false
+    },
+    "ads_nokiax3_wall_32_a_2_2": {
+      "name": "ads_nokiax3_wall_32_a_2_2",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_32_a_4_2",
+      "x": 23,
+      "y": 67,
+      "exists": false
+    },
+    "ads_nokiax3_wall_32_c_2_1": {
+      "name": "ads_nokiax3_wall_32_c_2_1",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_32_c_4_1",
+      "x": -2,
+      "y": 51,
+      "exists": false
+    },
+    "ads_nokiax3_wall_32_b_2_1": {
+      "name": "ads_nokiax3_wall_32_b_2_1",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_32_b_4_1",
+      "x": 19,
+      "y": 60,
+      "exists": false
+    },
+    "ads_nokiax3_wall_32_a_2_1": {
+      "name": "ads_nokiax3_wall_32_a_2_1",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_32_a_4_1",
+      "x": 26,
+      "y": 67,
+      "exists": false
+    },
+    "ads_nokiax3_wall_32_c_2_0": {
+      "name": "ads_nokiax3_wall_32_c_2_0",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_32_c_4_0",
+      "x": -3,
+      "y": 51,
+      "exists": false
+    },
+    "ads_nokiax3_wall_32_b_2_0": {
+      "name": "ads_nokiax3_wall_32_b_2_0",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_32_b_4_0",
+      "x": 14,
+      "y": 59,
+      "exists": false
+    },
+    "ads_nokiax3_wall_32_a_2_0": {
+      "name": "ads_nokiax3_wall_32_a_2_0",
+      "flipH": 1,
+      "source": "ads_nokiax3_wall_32_a_4_0",
+      "x": 27,
+      "y": 67,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 0.2,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        },
+        {
+          "layerId": 2,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        },
+        {
+          "layerId": 2,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "ads_nokiax3_wall",
+    "visualization": "furniture_animated"
+  }
+}

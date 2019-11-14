@@ -1,0 +1,303 @@
+{
+  "assets": {
+    "dessertcafe_c17_wall_64_sd_0_0": {
+      "name": "dessertcafe_c17_wall_64_sd_0_0",
+      "x": 33,
+      "y": 15,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_a_2_0": {
+      "name": "dessertcafe_c17_wall_64_a_2_0",
+      "x": -32,
+      "y": 127,
+      "exists": false
+    },
+    "dessertcafe_c17_wall_64_b_2_0": {
+      "name": "dessertcafe_c17_wall_64_b_2_0",
+      "x": 65,
+      "y": 111,
+      "exists": false
+    },
+    "dessertcafe_c17_wall_64_c_2_0": {
+      "name": "dessertcafe_c17_wall_64_c_2_0",
+      "x": -1,
+      "y": 0,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_d_2_0": {
+      "name": "dessertcafe_c17_wall_64_d_2_0",
+      "x": 65,
+      "y": -16,
+      "exists": false
+    },
+    "dessertcafe_c17_wall_64_e_2_0": {
+      "name": "dessertcafe_c17_wall_64_e_2_0",
+      "x": 1,
+      "y": 144,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_f_2_0": {
+      "name": "dessertcafe_c17_wall_64_f_2_0",
+      "x": 65,
+      "y": 143,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_g_2_0": {
+      "name": "dessertcafe_c17_wall_64_g_2_0",
+      "x": 32,
+      "y": 143,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_h_2_0": {
+      "name": "dessertcafe_c17_wall_64_h_2_0",
+      "x": 64,
+      "y": 128,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_g_2_1": {
+      "name": "dessertcafe_c17_wall_64_g_2_1",
+      "x": 32,
+      "y": 143,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_h_2_1": {
+      "name": "dessertcafe_c17_wall_64_h_2_1",
+      "x": 64,
+      "y": 128,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_a_0_0": {
+      "name": "dessertcafe_c17_wall_64_a_0_0",
+      "x": 33,
+      "y": 127,
+      "exists": false
+    },
+    "dessertcafe_c17_wall_64_b_0_0": {
+      "name": "dessertcafe_c17_wall_64_b_0_0",
+      "x": -64,
+      "y": 111,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_c_0_0": {
+      "name": "dessertcafe_c17_wall_64_c_0_0",
+      "x": 33,
+      "y": 0,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_d_0_0": {
+      "name": "dessertcafe_c17_wall_64_d_0_0",
+      "x": 1,
+      "y": -16,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_e_0_0": {
+      "name": "dessertcafe_c17_wall_64_e_0_0",
+      "x": 33,
+      "y": 144,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_f_0_0": {
+      "name": "dessertcafe_c17_wall_64_f_0_0",
+      "x": -1,
+      "y": 143,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_g_0_0": {
+      "name": "dessertcafe_c17_wall_64_g_0_0",
+      "x": 32,
+      "y": 143,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_h_0_0": {
+      "name": "dessertcafe_c17_wall_64_h_0_0",
+      "x": 1,
+      "y": 128,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_g_0_1": {
+      "name": "dessertcafe_c17_wall_64_g_0_1",
+      "x": 32,
+      "y": 143,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_64_h_0_1": {
+      "name": "dessertcafe_c17_wall_64_h_0_1",
+      "x": 1,
+      "y": 128,
+      "exists": true
+    },
+    "dessertcafe_c17_wall_icon_a": {
+      "name": "dessertcafe_c17_wall_icon_a",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 4
+    },
+    "directions": [
+      90,
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 8,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        },
+        {
+          "layerId": 1,
+          "z": -1000
+        },
+        {
+          "layerId": 2,
+          "z": -1500
+        },
+        {
+          "layerId": 3,
+          "z": -1000
+        },
+        {
+          "layerId": 4,
+          "z": -1000
+        },
+        {
+          "layerId": 5,
+          "z": -1000
+        },
+        {
+          "layerId": 6
+        },
+        {
+          "layerId": 7,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "dessertcafe_c17_wall",
+    "visualization": "furniture_animated"
+  }
+}

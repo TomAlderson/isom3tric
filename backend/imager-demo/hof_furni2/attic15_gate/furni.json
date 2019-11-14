@@ -1,0 +1,150 @@
+{
+  "assets": {
+    "attic15_gate_64_sd_2_0": {
+      "name": "attic15_gate_64_sd_2_0",
+      "x": 18,
+      "y": 9,
+      "exists": true
+    },
+    "attic15_gate_64_a_2_0": {
+      "name": "attic15_gate_64_a_2_0",
+      "x": 20,
+      "y": 38,
+      "exists": true
+    },
+    "attic15_gate_64_b_2_0": {
+      "name": "attic15_gate_64_b_2_0",
+      "x": 10,
+      "y": 51,
+      "exists": true
+    },
+    "attic15_gate_64_b_2_1": {
+      "name": "attic15_gate_64_b_2_1",
+      "x": 16,
+      "y": 56,
+      "exists": true
+    },
+    "attic15_gate_64_sd_4_0": {
+      "name": "attic15_gate_64_sd_4_0",
+      "x": 17,
+      "y": 9,
+      "exists": true
+    },
+    "attic15_gate_64_a_4_0": {
+      "name": "attic15_gate_64_a_4_0",
+      "x": -7,
+      "y": 38,
+      "exists": true
+    },
+    "attic15_gate_64_b_4_0": {
+      "name": "attic15_gate_64_b_4_0",
+      "x": 19,
+      "y": 51,
+      "exists": true
+    },
+    "attic15_gate_64_b_4_1": {
+      "name": "attic15_gate_64_b_4_1",
+      "x": 19,
+      "y": 56,
+      "exists": true
+    },
+    "attic15_gate_icon_a": {
+      "name": "attic15_gate_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 100
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "attic15_gate",
+    "visualization": "furniture_animated"
+  }
+}

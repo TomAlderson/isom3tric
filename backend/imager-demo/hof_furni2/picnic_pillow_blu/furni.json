@@ -1,0 +1,112 @@
+{
+  "assets": {
+    "picnic_pillow_blu_64_a_0_0": {
+      "name": "picnic_pillow_blu_64_a_0_0",
+      "x": 28,
+      "y": 18,
+      "exists": true
+    },
+    "picnic_pillow_blu_32_a_0_0": {
+      "name": "picnic_pillow_blu_32_a_0_0",
+      "x": 14,
+      "y": 9,
+      "exists": false
+    },
+    "picnic_pillow_blu_icon_a": {
+      "name": "picnic_pillow_blu_icon_a",
+      "x": 14,
+      "y": 9,
+      "exists": true
+    },
+    "picnic_pillow_blu_64_a_2_0": {
+      "name": "picnic_pillow_blu_64_a_2_0",
+      "source": "picnic_pillow_blu_64_a_0_0",
+      "x": 28,
+      "y": 18,
+      "exists": false
+    },
+    "picnic_pillow_blu_32_a_2_0": {
+      "name": "picnic_pillow_blu_32_a_2_0",
+      "source": "picnic_pillow_blu_32_a_0_0",
+      "x": 14,
+      "y": 9,
+      "exists": false
+    },
+    "picnic_pillow_blu_64_a_4_0": {
+      "name": "picnic_pillow_blu_64_a_4_0",
+      "source": "picnic_pillow_blu_64_a_0_0",
+      "x": 28,
+      "y": 18,
+      "exists": false
+    },
+    "picnic_pillow_blu_32_a_4_0": {
+      "name": "picnic_pillow_blu_32_a_4_0",
+      "source": "picnic_pillow_blu_32_a_0_0",
+      "x": 14,
+      "y": 9,
+      "exists": false
+    },
+    "picnic_pillow_blu_64_a_6_0": {
+      "name": "picnic_pillow_blu_64_a_6_0",
+      "source": "picnic_pillow_blu_64_a_0_0",
+      "x": 28,
+      "y": 18,
+      "exists": false
+    },
+    "picnic_pillow_blu_32_a_6_0": {
+      "name": "picnic_pillow_blu_32_a_6_0",
+      "source": "picnic_pillow_blu_32_a_0_0",
+      "x": 14,
+      "y": 9,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.5
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "picnic_pillow_blu",
+    "visualization": "furniture_static"
+  }
+}

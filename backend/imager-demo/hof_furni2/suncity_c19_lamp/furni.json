@@ -1,0 +1,165 @@
+{
+  "assets": {
+    "suncity_c19_lamp_64_sd_0_0": {
+      "name": "suncity_c19_lamp_64_sd_0_0",
+      "x": 9,
+      "y": 3,
+      "exists": true
+    },
+    "suncity_c19_lamp_64_a_0_0": {
+      "name": "suncity_c19_lamp_64_a_0_0",
+      "x": 20,
+      "y": 50,
+      "exists": true
+    },
+    "suncity_c19_lamp_64_b_0_1": {
+      "name": "suncity_c19_lamp_64_b_0_1",
+      "x": 19,
+      "y": 49,
+      "exists": true
+    },
+    "suncity_c19_lamp_64_c_0_1": {
+      "name": "suncity_c19_lamp_64_c_0_1",
+      "x": 24,
+      "y": 54,
+      "exists": true
+    },
+    "suncity_c19_lamp_icon_a": {
+      "name": "suncity_c19_lamp_icon_a",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "suncity_c19_lamp_64_sd_2_0": {
+      "name": "suncity_c19_lamp_64_sd_2_0",
+      "flipH": 1,
+      "source": "suncity_c19_lamp_64_sd_0_0",
+      "x": 9,
+      "y": 3,
+      "exists": false
+    },
+    "suncity_c19_lamp_64_a_2_0": {
+      "name": "suncity_c19_lamp_64_a_2_0",
+      "flipH": 1,
+      "source": "suncity_c19_lamp_64_a_0_0",
+      "x": 20,
+      "y": 50,
+      "exists": false
+    },
+    "suncity_c19_lamp_64_b_2_1": {
+      "name": "suncity_c19_lamp_64_b_2_1",
+      "flipH": 1,
+      "source": "suncity_c19_lamp_64_b_0_1",
+      "x": 19,
+      "y": 49,
+      "exists": false
+    },
+    "suncity_c19_lamp_64_c_2_1": {
+      "name": "suncity_c19_lamp_64_c_2_1",
+      "flipH": 1,
+      "source": "suncity_c19_lamp_64_c_0_1",
+      "x": 24,
+      "y": 54,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "suncity_c19_lamp",
+    "visualization": "furniture_animated"
+  }
+}

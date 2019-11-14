@@ -1,0 +1,218 @@
+{
+  "assets": {
+    "lidostairs_32_a_0_0": {
+      "name": "lidostairs_32_a_0_0",
+      "x": 17,
+      "y": 16,
+      "exists": false
+    },
+    "lidostairs_32_b_0_0": {
+      "name": "lidostairs_32_b_0_0",
+      "x": 37,
+      "y": 8,
+      "exists": true
+    },
+    "lidostairs_32_c_0_0": {
+      "name": "lidostairs_32_c_0_0",
+      "x": 20,
+      "y": 0,
+      "exists": true
+    },
+    "lidostairs_32_a_2_0": {
+      "name": "lidostairs_32_a_2_0",
+      "x": 17,
+      "y": 16,
+      "exists": true
+    },
+    "lidostairs_32_b_2_0": {
+      "name": "lidostairs_32_b_2_0",
+      "x": 33,
+      "y": 8,
+      "exists": true
+    },
+    "lidostairs_32_c_2_0": {
+      "name": "lidostairs_32_c_2_0",
+      "x": 16,
+      "y": 0,
+      "exists": true
+    },
+    "lidostairs_64_a_2_0": {
+      "name": "lidostairs_64_a_2_0",
+      "x": 33,
+      "y": 31,
+      "exists": false
+    },
+    "lidostairs_64_b_2_0": {
+      "name": "lidostairs_64_b_2_0",
+      "x": 65,
+      "y": 15,
+      "exists": true
+    },
+    "lidostairs_64_c_2_0": {
+      "name": "lidostairs_64_c_2_0",
+      "x": 32,
+      "y": -1,
+      "exists": true
+    },
+    "lidostairs_64_a_0_0": {
+      "name": "lidostairs_64_a_0_0",
+      "x": 33,
+      "y": 31,
+      "exists": true
+    },
+    "lidostairs_64_b_0_0": {
+      "name": "lidostairs_64_b_0_0",
+      "x": 71,
+      "y": 15,
+      "exists": true
+    },
+    "lidostairs_64_c_0_0": {
+      "name": "lidostairs_64_c_0_0",
+      "x": 37,
+      "y": -1,
+      "exists": true
+    },
+    "lidostairs_icon_a": {
+      "name": "lidostairs_icon_a",
+      "x": 16,
+      "y": 12,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 2000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "lidostairs",
+    "visualization": "furniture_static"
+  }
+}

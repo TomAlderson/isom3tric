@@ -1,0 +1,72 @@
+{
+  "assets": {
+    "attic15_painting_64_a_2_0": {
+      "name": "attic15_painting_64_a_2_0",
+      "x": 21,
+      "y": 64,
+      "exists": true
+    },
+    "attic15_painting_icon_a": {
+      "name": "attic15_painting_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "attic15_painting_64_a_4_0": {
+      "name": "attic15_painting_64_a_4_0",
+      "flipH": 1,
+      "source": "attic15_painting_64_a_2_0",
+      "x": 21,
+      "y": 64,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 0.2,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "attic15_painting",
+    "visualization": "furniture_static"
+  }
+}

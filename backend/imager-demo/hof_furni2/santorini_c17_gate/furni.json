@@ -1,0 +1,205 @@
+{
+  "assets": {
+    "santorini_c17_gate_64_a_2_0": {
+      "name": "santorini_c17_gate_64_a_2_0",
+      "x": -12,
+      "y": 57,
+      "exists": true
+    },
+    "santorini_c17_gate_64_b_2_0": {
+      "name": "santorini_c17_gate_64_b_2_0",
+      "x": 15,
+      "y": 62,
+      "exists": true
+    },
+    "santorini_c17_gate_64_b_2_1": {
+      "name": "santorini_c17_gate_64_b_2_1",
+      "x": -14,
+      "y": 62,
+      "exists": true
+    },
+    "santorini_c17_gate_64_c_2_0": {
+      "name": "santorini_c17_gate_64_c_2_0",
+      "x": 18,
+      "y": 42,
+      "exists": false
+    },
+    "santorini_c17_gate_icon_a": {
+      "name": "santorini_c17_gate_icon_a",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    },
+    "santorini_c17_gate_64_a_4_0": {
+      "name": "santorini_c17_gate_64_a_4_0",
+      "flipH": 1,
+      "source": "santorini_c17_gate_64_a_2_0",
+      "x": -12,
+      "y": 57,
+      "exists": false
+    },
+    "santorini_c17_gate_64_b_4_0": {
+      "name": "santorini_c17_gate_64_b_4_0",
+      "flipH": 1,
+      "source": "santorini_c17_gate_64_b_2_0",
+      "x": 15,
+      "y": 62,
+      "exists": false
+    },
+    "santorini_c17_gate_64_b_4_1": {
+      "name": "santorini_c17_gate_64_b_4_1",
+      "flipH": 1,
+      "source": "santorini_c17_gate_64_b_2_1",
+      "x": -14,
+      "y": 62,
+      "exists": false
+    },
+    "santorini_c17_gate_64_c_4_0": {
+      "name": "santorini_c17_gate_64_c_4_0",
+      "flipH": 1,
+      "source": "santorini_c17_gate_64_c_2_0",
+      "x": 18,
+      "y": 42,
+      "exists": false
+    },
+    "santorini_c17_gate_64_a_6_0": {
+      "name": "santorini_c17_gate_64_a_6_0",
+      "source": "santorini_c17_gate_64_a_2_0",
+      "x": -12,
+      "y": 57,
+      "exists": false
+    },
+    "santorini_c17_gate_64_b_6_0": {
+      "name": "santorini_c17_gate_64_b_6_0",
+      "source": "santorini_c17_gate_64_b_2_0",
+      "x": 15,
+      "y": 62,
+      "exists": false
+    },
+    "santorini_c17_gate_64_b_6_1": {
+      "name": "santorini_c17_gate_64_b_6_1",
+      "source": "santorini_c17_gate_64_b_2_1",
+      "x": -14,
+      "y": 62,
+      "exists": false
+    },
+    "santorini_c17_gate_64_c_6_0": {
+      "name": "santorini_c17_gate_64_c_6_0",
+      "source": "santorini_c17_gate_64_c_2_0",
+      "x": 18,
+      "y": 42,
+      "exists": false
+    },
+    "santorini_c17_gate_64_a_0_0": {
+      "name": "santorini_c17_gate_64_a_0_0",
+      "flipH": 1,
+      "source": "santorini_c17_gate_64_a_2_0",
+      "x": -12,
+      "y": 57,
+      "exists": false
+    },
+    "santorini_c17_gate_64_b_0_0": {
+      "name": "santorini_c17_gate_64_b_0_0",
+      "flipH": 1,
+      "source": "santorini_c17_gate_64_b_2_0",
+      "x": 15,
+      "y": 62,
+      "exists": false
+    },
+    "santorini_c17_gate_64_b_0_1": {
+      "name": "santorini_c17_gate_64_b_0_1",
+      "flipH": 1,
+      "source": "santorini_c17_gate_64_b_2_1",
+      "x": -14,
+      "y": 62,
+      "exists": false
+    },
+    "santorini_c17_gate_64_c_0_0": {
+      "name": "santorini_c17_gate_64_c_0_0",
+      "flipH": 1,
+      "source": "santorini_c17_gate_64_c_2_0",
+      "x": 18,
+      "y": 42,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.001
+    },
+    "directions": [
+      90,
+      180,
+      270,
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "santorini_c17_gate",
+    "visualization": "furniture_animated"
+  }
+}

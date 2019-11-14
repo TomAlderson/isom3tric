@@ -1,0 +1,472 @@
+{
+  "assets": {
+    "romantique_divan_64_a_0_0": {
+      "name": "romantique_divan_64_a_0_0",
+      "x": 29,
+      "y": 33,
+      "exists": true
+    },
+    "romantique_divan_64_a_2_0": {
+      "name": "romantique_divan_64_a_2_0",
+      "flipH": 1,
+      "source": "romantique_divan_64_a_0_0",
+      "x": 29,
+      "y": 33,
+      "exists": false
+    },
+    "romantique_divan_64_a_4_0": {
+      "name": "romantique_divan_64_a_4_0",
+      "x": 36,
+      "y": 50,
+      "exists": true
+    },
+    "romantique_divan_64_a_6_0": {
+      "name": "romantique_divan_64_a_6_0",
+      "flipH": 1,
+      "source": "romantique_divan_64_a_4_0",
+      "x": 36,
+      "y": 50,
+      "exists": false
+    },
+    "romantique_divan_64_b_0_0": {
+      "name": "romantique_divan_64_b_0_0",
+      "x": -1,
+      "y": 19,
+      "exists": true
+    },
+    "romantique_divan_64_b_2_0": {
+      "name": "romantique_divan_64_b_2_0",
+      "flipH": 1,
+      "source": "romantique_divan_64_b_0_0",
+      "x": -1,
+      "y": 19,
+      "exists": false
+    },
+    "romantique_divan_64_b_4_0": {
+      "name": "romantique_divan_64_b_4_0",
+      "x": -1,
+      "y": 19,
+      "exists": true
+    },
+    "romantique_divan_64_b_6_0": {
+      "name": "romantique_divan_64_b_6_0",
+      "flipH": 1,
+      "source": "romantique_divan_64_b_4_0",
+      "x": -1,
+      "y": 19,
+      "exists": false
+    },
+    "romantique_divan_64_c_0_0": {
+      "name": "romantique_divan_64_c_0_0",
+      "x": -23,
+      "y": 17,
+      "exists": true
+    },
+    "romantique_divan_64_c_2_0": {
+      "name": "romantique_divan_64_c_2_0",
+      "flipH": 1,
+      "source": "romantique_divan_64_c_0_0",
+      "x": -23,
+      "y": 17,
+      "exists": false
+    },
+    "romantique_divan_64_c_4_0": {
+      "name": "romantique_divan_64_c_4_0",
+      "x": -1,
+      "y": 0,
+      "exists": false
+    },
+    "romantique_divan_64_c_6_0": {
+      "name": "romantique_divan_64_c_6_0",
+      "flipH": 1,
+      "source": "romantique_divan_64_c_4_0",
+      "x": -1,
+      "y": 0,
+      "exists": false
+    },
+    "romantique_divan_64_d_0_0": {
+      "name": "romantique_divan_64_d_0_0",
+      "x": -25,
+      "y": 11,
+      "exists": true
+    },
+    "romantique_divan_64_d_2_0": {
+      "name": "romantique_divan_64_d_2_0",
+      "flipH": 1,
+      "source": "romantique_divan_64_d_0_0",
+      "x": -25,
+      "y": 11,
+      "exists": false
+    },
+    "romantique_divan_64_d_4_0": {
+      "name": "romantique_divan_64_d_4_0",
+      "x": 22,
+      "y": 35,
+      "exists": true
+    },
+    "romantique_divan_64_d_6_0": {
+      "name": "romantique_divan_64_d_6_0",
+      "flipH": 1,
+      "source": "romantique_divan_64_d_4_0",
+      "x": 22,
+      "y": 35,
+      "exists": false
+    },
+    "romantique_divan_64_sd_0_0": {
+      "name": "romantique_divan_64_sd_0_0",
+      "x": 31,
+      "y": 16,
+      "exists": true
+    },
+    "romantique_divan_64_sd_2_0": {
+      "name": "romantique_divan_64_sd_2_0",
+      "flipH": 1,
+      "source": "romantique_divan_64_sd_0_0",
+      "x": 31,
+      "y": 16,
+      "exists": false
+    },
+    "romantique_divan_64_sd_4_0": {
+      "name": "romantique_divan_64_sd_4_0",
+      "source": "romantique_divan_64_sd_0_0",
+      "x": 31,
+      "y": 16,
+      "exists": false
+    },
+    "romantique_divan_64_sd_6_0": {
+      "name": "romantique_divan_64_sd_6_0",
+      "flipH": 1,
+      "source": "romantique_divan_64_sd_0_0",
+      "x": 31,
+      "y": 16,
+      "exists": false
+    },
+    "romantique_divan_icon_a": {
+      "name": "romantique_divan_icon_a",
+      "x": 15,
+      "y": 12,
+      "exists": true
+    },
+    "romantique_divan_icon_b": {
+      "name": "romantique_divan_icon_b",
+      "x": 10,
+      "y": 7,
+      "exists": true
+    },
+    "romantique_divan_32_a_0_0": {
+      "name": "romantique_divan_32_a_0_0",
+      "x": 15,
+      "y": 18,
+      "exists": true
+    },
+    "romantique_divan_32_a_2_0": {
+      "name": "romantique_divan_32_a_2_0",
+      "flipH": 1,
+      "source": "romantique_divan_32_a_0_0",
+      "x": 15,
+      "y": 18,
+      "exists": false
+    },
+    "romantique_divan_32_a_4_0": {
+      "name": "romantique_divan_32_a_4_0",
+      "x": 19,
+      "y": 26,
+      "exists": true
+    },
+    "romantique_divan_32_a_6_0": {
+      "name": "romantique_divan_32_a_6_0",
+      "flipH": 1,
+      "source": "romantique_divan_32_a_4_0",
+      "x": 19,
+      "y": 26,
+      "exists": false
+    },
+    "romantique_divan_32_b_0_0": {
+      "name": "romantique_divan_32_b_0_0",
+      "x": -2,
+      "y": 9,
+      "exists": true
+    },
+    "romantique_divan_32_b_2_0": {
+      "name": "romantique_divan_32_b_2_0",
+      "flipH": 1,
+      "source": "romantique_divan_32_b_0_0",
+      "x": -2,
+      "y": 9,
+      "exists": false
+    },
+    "romantique_divan_32_b_4_0": {
+      "name": "romantique_divan_32_b_4_0",
+      "x": -2,
+      "y": 9,
+      "exists": true
+    },
+    "romantique_divan_32_b_6_0": {
+      "name": "romantique_divan_32_b_6_0",
+      "flipH": 1,
+      "source": "romantique_divan_32_b_4_0",
+      "x": -2,
+      "y": 9,
+      "exists": false
+    },
+    "romantique_divan_32_c_0_0": {
+      "name": "romantique_divan_32_c_0_0",
+      "x": -11,
+      "y": 10,
+      "exists": true
+    },
+    "romantique_divan_32_c_2_0": {
+      "name": "romantique_divan_32_c_2_0",
+      "flipH": 1,
+      "source": "romantique_divan_32_c_0_0",
+      "x": -11,
+      "y": 10,
+      "exists": false
+    },
+    "romantique_divan_32_c_4_0": {
+      "name": "romantique_divan_32_c_4_0",
+      "x": 2,
+      "y": 1,
+      "exists": true
+    },
+    "romantique_divan_32_c_6_0": {
+      "name": "romantique_divan_32_c_6_0",
+      "flipH": 1,
+      "source": "romantique_divan_32_c_4_0",
+      "x": 2,
+      "y": 1,
+      "exists": false
+    },
+    "romantique_divan_32_d_0_0": {
+      "name": "romantique_divan_32_d_0_0",
+      "x": -12,
+      "y": 6,
+      "exists": true
+    },
+    "romantique_divan_32_d_2_0": {
+      "name": "romantique_divan_32_d_2_0",
+      "flipH": 1,
+      "source": "romantique_divan_32_d_0_0",
+      "x": -12,
+      "y": 6,
+      "exists": false
+    },
+    "romantique_divan_32_d_4_0": {
+      "name": "romantique_divan_32_d_4_0",
+      "x": 11,
+      "y": 18,
+      "exists": true
+    },
+    "romantique_divan_32_d_6_0": {
+      "name": "romantique_divan_32_d_6_0",
+      "flipH": 1,
+      "source": "romantique_divan_32_d_4_0",
+      "x": 11,
+      "y": 18,
+      "exists": false
+    },
+    "romantique_divan_32_sd_0_0": {
+      "name": "romantique_divan_32_sd_0_0",
+      "x": 14,
+      "y": 8,
+      "exists": true
+    },
+    "romantique_divan_32_sd_2_0": {
+      "name": "romantique_divan_32_sd_2_0",
+      "flipH": 1,
+      "source": "romantique_divan_32_sd_0_0",
+      "x": 14,
+      "y": 8,
+      "exists": false
+    },
+    "romantique_divan_32_sd_4_0": {
+      "name": "romantique_divan_32_sd_4_0",
+      "source": "romantique_divan_32_sd_0_0",
+      "x": 14,
+      "y": 8,
+      "exists": false
+    },
+    "romantique_divan_32_sd_6_0": {
+      "name": "romantique_divan_32_sd_6_0",
+      "flipH": 1,
+      "source": "romantique_divan_32_sd_0_0",
+      "x": 14,
+      "y": 8,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "FF8B8B"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "A1DC67"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "5BD1D2"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "FFC924"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "323C46"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 3,
+            "color": "FF8B8B"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 3,
+            "color": "A1DC67"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 3,
+            "color": "5BD1D2"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 3,
+            "color": "FFC924"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 3,
+            "color": "323C46"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1060
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 3,
+            "color": "FF8B8B"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 3,
+            "color": "A1DC67"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 3,
+            "color": "5BD1D2"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 3,
+            "color": "FFC924"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 3,
+            "color": "323C46"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 1060
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "romantique_divan",
+    "visualization": "furniture_static"
+  }
+}

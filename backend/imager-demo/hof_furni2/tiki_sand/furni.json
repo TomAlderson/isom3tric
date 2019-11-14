@@ -1,0 +1,176 @@
+{
+  "assets": {
+    "tiki_sand_32_a_0_0": {
+      "name": "tiki_sand_32_a_0_0",
+      "x": 31,
+      "y": 10,
+      "exists": false
+    },
+    "tiki_sand_32_a_2_0": {
+      "name": "tiki_sand_32_a_2_0",
+      "x": 31,
+      "y": 10,
+      "exists": true
+    },
+    "tiki_sand_32_a_4_0": {
+      "name": "tiki_sand_32_a_4_0",
+      "x": 31,
+      "y": 10,
+      "exists": true
+    },
+    "tiki_sand_32_a_6_0": {
+      "name": "tiki_sand_32_a_6_0",
+      "x": 31,
+      "y": 10,
+      "exists": false
+    },
+    "tiki_sand_32_b_0_0": {
+      "name": "tiki_sand_32_b_0_0",
+      "x": 30,
+      "y": 9,
+      "exists": false
+    },
+    "tiki_sand_32_b_2_0": {
+      "name": "tiki_sand_32_b_2_0",
+      "x": 30,
+      "y": 9,
+      "exists": false
+    },
+    "tiki_sand_32_b_4_0": {
+      "name": "tiki_sand_32_b_4_0",
+      "x": 30,
+      "y": 9,
+      "exists": true
+    },
+    "tiki_sand_32_b_6_0": {
+      "name": "tiki_sand_32_b_6_0",
+      "x": 30,
+      "y": 9,
+      "exists": true
+    },
+    "tiki_sand_64_a_0_0": {
+      "name": "tiki_sand_64_a_0_0",
+      "x": 64,
+      "y": 21,
+      "exists": false
+    },
+    "tiki_sand_64_a_2_0": {
+      "name": "tiki_sand_64_a_2_0",
+      "x": 64,
+      "y": 21,
+      "exists": true
+    },
+    "tiki_sand_64_a_4_0": {
+      "name": "tiki_sand_64_a_4_0",
+      "x": 64,
+      "y": 21,
+      "exists": true
+    },
+    "tiki_sand_64_a_6_0": {
+      "name": "tiki_sand_64_a_6_0",
+      "x": 64,
+      "y": 21,
+      "exists": false
+    },
+    "tiki_sand_64_b_0_0": {
+      "name": "tiki_sand_64_b_0_0",
+      "x": 63,
+      "y": 20,
+      "exists": true
+    },
+    "tiki_sand_64_b_2_0": {
+      "name": "tiki_sand_64_b_2_0",
+      "x": 63,
+      "y": 20,
+      "exists": true
+    },
+    "tiki_sand_64_b_4_0": {
+      "name": "tiki_sand_64_b_4_0",
+      "x": 63,
+      "y": 20,
+      "exists": true
+    },
+    "tiki_sand_64_b_6_0": {
+      "name": "tiki_sand_64_b_6_0",
+      "x": 63,
+      "y": 20,
+      "exists": true
+    },
+    "tiki_sand_icon_a": {
+      "name": "tiki_sand_icon_a",
+      "x": 14,
+      "y": 8,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -13100
+        },
+        {
+          "layerId": 1,
+          "z": -9020
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -13100
+        },
+        {
+          "layerId": 1,
+          "z": -9020
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "tiki_sand",
+    "visualization": "furniture_static"
+  }
+}

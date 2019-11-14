@@ -1,0 +1,124 @@
+{
+  "assets": {
+    "photo_64_a_2_0": {
+      "name": "photo_64_a_2_0",
+      "x": 7,
+      "y": 11,
+      "exists": true
+    },
+    "photo_icon_a": {
+      "name": "photo_icon_a",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "photo_64_a_4_0": {
+      "name": "photo_64_a_4_0",
+      "flipH": 1,
+      "source": "photo_64_a_2_0",
+      "x": 7,
+      "y": 11,
+      "exists": false
+    },
+    "photo_32_a_2_0": {
+      "name": "photo_32_a_2_0",
+      "x": 5,
+      "y": 6,
+      "exists": true
+    },
+    "photo_32_a_4_0": {
+      "name": "photo_32_a_4_0",
+      "flipH": 1,
+      "source": "photo_32_a_2_0",
+      "x": 5,
+      "y": 6,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 0.4375,
+      "y": 0.2,
+      "z": 0.5
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "photo",
+    "visualization": "furniture_animated"
+  }
+}

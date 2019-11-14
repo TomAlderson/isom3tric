@@ -1,0 +1,298 @@
+{
+  "assets": {
+    "cpunk_c15_searchlight_64_sd_2_0": {
+      "name": "cpunk_c15_searchlight_64_sd_2_0",
+      "x": 25,
+      "y": 15,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_a_2_0": {
+      "name": "cpunk_c15_searchlight_64_a_2_0",
+      "x": 30,
+      "y": 83,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_a_2_1": {
+      "name": "cpunk_c15_searchlight_64_a_2_1",
+      "x": 30,
+      "y": 83,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_b_2_0": {
+      "name": "cpunk_c15_searchlight_64_b_2_0",
+      "x": -24,
+      "y": 25,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_b_2_1": {
+      "name": "cpunk_c15_searchlight_64_b_2_1",
+      "x": 16,
+      "y": 312,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_c_2_0": {
+      "name": "cpunk_c15_searchlight_64_c_2_0",
+      "x": 15,
+      "y": 40,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_c_2_1": {
+      "name": "cpunk_c15_searchlight_64_c_2_1",
+      "x": 15,
+      "y": 40,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_sd_0_0": {
+      "name": "cpunk_c15_searchlight_64_sd_0_0",
+      "x": 27,
+      "y": 15,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_a_0_0": {
+      "name": "cpunk_c15_searchlight_64_a_0_0",
+      "x": 31,
+      "y": 83,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_a_0_1": {
+      "name": "cpunk_c15_searchlight_64_a_0_1",
+      "x": 31,
+      "y": 83,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_b_0_0": {
+      "name": "cpunk_c15_searchlight_64_b_0_0",
+      "x": -24,
+      "y": 53,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_b_0_1": {
+      "name": "cpunk_c15_searchlight_64_b_0_1",
+      "x": 17,
+      "y": 299,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_c_0_0": {
+      "name": "cpunk_c15_searchlight_64_c_0_0",
+      "x": 3,
+      "y": 81,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_c_0_1": {
+      "name": "cpunk_c15_searchlight_64_c_0_1",
+      "x": 3,
+      "y": 81,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_icon_a": {
+      "name": "cpunk_c15_searchlight_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    },
+    "cpunk_c15_searchlight_64_sd_6_0": {
+      "name": "cpunk_c15_searchlight_64_sd_6_0",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_sd_0_0",
+      "x": 27,
+      "y": 15,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_a_6_0": {
+      "name": "cpunk_c15_searchlight_64_a_6_0",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_a_0_0",
+      "x": 31,
+      "y": 83,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_a_6_1": {
+      "name": "cpunk_c15_searchlight_64_a_6_1",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_a_0_1",
+      "x": 31,
+      "y": 83,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_b_6_0": {
+      "name": "cpunk_c15_searchlight_64_b_6_0",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_b_0_0",
+      "x": -24,
+      "y": 53,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_b_6_1": {
+      "name": "cpunk_c15_searchlight_64_b_6_1",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_b_0_1",
+      "x": 17,
+      "y": 299,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_c_6_0": {
+      "name": "cpunk_c15_searchlight_64_c_6_0",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_c_0_0",
+      "x": 3,
+      "y": 81,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_c_6_1": {
+      "name": "cpunk_c15_searchlight_64_c_6_1",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_c_0_1",
+      "x": 3,
+      "y": 81,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_sd_4_0": {
+      "name": "cpunk_c15_searchlight_64_sd_4_0",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_sd_2_0",
+      "x": 25,
+      "y": 15,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_a_4_0": {
+      "name": "cpunk_c15_searchlight_64_a_4_0",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_a_2_0",
+      "x": 30,
+      "y": 83,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_a_4_1": {
+      "name": "cpunk_c15_searchlight_64_a_4_1",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_a_2_1",
+      "x": 30,
+      "y": 83,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_b_4_0": {
+      "name": "cpunk_c15_searchlight_64_b_4_0",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_b_2_0",
+      "x": -24,
+      "y": 25,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_b_4_1": {
+      "name": "cpunk_c15_searchlight_64_b_4_1",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_b_2_1",
+      "x": 16,
+      "y": 312,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_c_4_0": {
+      "name": "cpunk_c15_searchlight_64_c_4_0",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_c_2_0",
+      "x": 15,
+      "y": 40,
+      "exists": false
+    },
+    "cpunk_c15_searchlight_64_c_4_1": {
+      "name": "cpunk_c15_searchlight_64_c_4_1",
+      "flipH": 1,
+      "source": "cpunk_c15_searchlight_64_c_2_1",
+      "x": 15,
+      "y": 40,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "cpunk_c15_searchlight",
+    "visualization": "furniture_animated"
+  }
+}

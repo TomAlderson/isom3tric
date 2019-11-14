@@ -1,0 +1,1222 @@
+{
+  "assets": {
+    "hween12_coffin_32_a_0_0": {
+      "name": "hween12_coffin_32_a_0_0",
+      "x": 15,
+      "y": 39,
+      "exists": true
+    },
+    "hween12_coffin_32_b_0_0": {
+      "name": "hween12_coffin_32_b_0_0",
+      "x": 13,
+      "y": 48,
+      "exists": true
+    },
+    "hween12_coffin_32_b_0_1": {
+      "name": "hween12_coffin_32_b_0_1",
+      "x": 13,
+      "y": 48,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_0": {
+      "name": "hween12_coffin_32_c_0_0",
+      "x": -12,
+      "y": -1,
+      "exists": false
+    },
+    "hween12_coffin_32_c_0_1": {
+      "name": "hween12_coffin_32_c_0_1",
+      "x": 40,
+      "y": 22,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_2": {
+      "name": "hween12_coffin_32_c_0_2",
+      "x": 40,
+      "y": 40,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_3": {
+      "name": "hween12_coffin_32_c_0_3",
+      "x": 39,
+      "y": 45,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_4": {
+      "name": "hween12_coffin_32_c_0_4",
+      "x": 38,
+      "y": 48,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_5": {
+      "name": "hween12_coffin_32_c_0_5",
+      "x": 37,
+      "y": 52,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_6": {
+      "name": "hween12_coffin_32_c_0_6",
+      "x": 38,
+      "y": 51,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_7": {
+      "name": "hween12_coffin_32_c_0_7",
+      "x": 39,
+      "y": 52,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_8": {
+      "name": "hween12_coffin_32_c_0_8",
+      "x": 38,
+      "y": 51,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_9": {
+      "name": "hween12_coffin_32_c_0_9",
+      "x": 37,
+      "y": 52,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_10": {
+      "name": "hween12_coffin_32_c_0_10",
+      "x": 47,
+      "y": 55,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_11": {
+      "name": "hween12_coffin_32_c_0_11",
+      "x": 32,
+      "y": 49,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_12": {
+      "name": "hween12_coffin_32_c_0_12",
+      "x": 23,
+      "y": 44,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_13": {
+      "name": "hween12_coffin_32_c_0_13",
+      "x": 22,
+      "y": 43,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_14": {
+      "name": "hween12_coffin_32_c_0_14",
+      "x": 22,
+      "y": 43,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_15": {
+      "name": "hween12_coffin_32_c_0_15",
+      "x": 22,
+      "y": 43,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_16": {
+      "name": "hween12_coffin_32_c_0_16",
+      "x": 22,
+      "y": 43,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_17": {
+      "name": "hween12_coffin_32_c_0_17",
+      "x": 22,
+      "y": 43,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_18": {
+      "name": "hween12_coffin_32_c_0_18",
+      "x": 22,
+      "y": 43,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_19": {
+      "name": "hween12_coffin_32_c_0_19",
+      "x": 22,
+      "y": 43,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_20": {
+      "name": "hween12_coffin_32_c_0_20",
+      "x": 32,
+      "y": 49,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_21": {
+      "name": "hween12_coffin_32_c_0_21",
+      "x": 47,
+      "y": 55,
+      "exists": true
+    },
+    "hween12_coffin_32_c_0_22": {
+      "name": "hween12_coffin_32_c_0_22",
+      "x": 47,
+      "y": 55,
+      "exists": true
+    },
+    "hween12_coffin_32_d_0_0": {
+      "name": "hween12_coffin_32_d_0_0",
+      "x": 29,
+      "y": 21,
+      "exists": true
+    },
+    "hween12_coffin_32_d_0_1": {
+      "name": "hween12_coffin_32_d_0_1",
+      "x": 29,
+      "y": 8,
+      "exists": true
+    },
+    "hween12_coffin_64_a_0_0": {
+      "name": "hween12_coffin_64_a_0_0",
+      "x": 31,
+      "y": 82,
+      "exists": true
+    },
+    "hween12_coffin_64_b_0_0": {
+      "name": "hween12_coffin_64_b_0_0",
+      "x": 25,
+      "y": 97,
+      "exists": true
+    },
+    "hween12_coffin_64_b_0_1": {
+      "name": "hween12_coffin_64_b_0_1",
+      "x": 25,
+      "y": 97,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_0": {
+      "name": "hween12_coffin_64_c_0_0",
+      "x": -26,
+      "y": 0,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_1": {
+      "name": "hween12_coffin_64_c_0_1",
+      "x": 83,
+      "y": 44,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_2": {
+      "name": "hween12_coffin_64_c_0_2",
+      "x": 78,
+      "y": 79,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_3": {
+      "name": "hween12_coffin_64_c_0_3",
+      "x": 75,
+      "y": 88,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_4": {
+      "name": "hween12_coffin_64_c_0_4",
+      "x": 73,
+      "y": 92,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_5": {
+      "name": "hween12_coffin_64_c_0_5",
+      "x": 71,
+      "y": 99,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_6": {
+      "name": "hween12_coffin_64_c_0_6",
+      "x": 73,
+      "y": 98,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_7": {
+      "name": "hween12_coffin_64_c_0_7",
+      "x": 75,
+      "y": 99,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_8": {
+      "name": "hween12_coffin_64_c_0_8",
+      "x": 73,
+      "y": 98,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_9": {
+      "name": "hween12_coffin_64_c_0_9",
+      "x": 71,
+      "y": 99,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_10": {
+      "name": "hween12_coffin_64_c_0_10",
+      "x": 88,
+      "y": 107,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_11": {
+      "name": "hween12_coffin_64_c_0_11",
+      "x": 60,
+      "y": 93,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_12": {
+      "name": "hween12_coffin_64_c_0_12",
+      "x": 42,
+      "y": 84,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_13": {
+      "name": "hween12_coffin_64_c_0_13",
+      "x": 40,
+      "y": 83,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_14": {
+      "name": "hween12_coffin_64_c_0_14",
+      "x": 40,
+      "y": 83,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_15": {
+      "name": "hween12_coffin_64_c_0_15",
+      "x": 40,
+      "y": 83,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_16": {
+      "name": "hween12_coffin_64_c_0_16",
+      "x": 40,
+      "y": 83,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_17": {
+      "name": "hween12_coffin_64_c_0_17",
+      "x": 40,
+      "y": 83,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_18": {
+      "name": "hween12_coffin_64_c_0_18",
+      "x": 40,
+      "y": 83,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_19": {
+      "name": "hween12_coffin_64_c_0_19",
+      "x": 40,
+      "y": 83,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_20": {
+      "name": "hween12_coffin_64_c_0_20",
+      "x": 60,
+      "y": 93,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_21": {
+      "name": "hween12_coffin_64_c_0_21",
+      "x": 88,
+      "y": 107,
+      "exists": true
+    },
+    "hween12_coffin_64_c_0_22": {
+      "name": "hween12_coffin_64_c_0_22",
+      "x": 88,
+      "y": 107,
+      "exists": true
+    },
+    "hween12_coffin_64_d_0_0": {
+      "name": "hween12_coffin_64_d_0_0",
+      "x": 58,
+      "y": 42,
+      "exists": true
+    },
+    "hween12_coffin_64_d_0_1": {
+      "name": "hween12_coffin_64_d_0_1",
+      "x": 58,
+      "y": 18,
+      "exists": true
+    },
+    "hween12_coffin_icon_a": {
+      "name": "hween12_coffin_icon_a",
+      "x": 12,
+      "y": 13,
+      "exists": true
+    },
+    "hween12_coffin_32_a_2_0": {
+      "name": "hween12_coffin_32_a_2_0",
+      "flipH": 1,
+      "source": "hween12_coffin_32_a_0_0",
+      "x": 15,
+      "y": 39,
+      "exists": false
+    },
+    "hween12_coffin_32_b_2_0": {
+      "name": "hween12_coffin_32_b_2_0",
+      "flipH": 1,
+      "source": "hween12_coffin_32_b_0_0",
+      "x": 13,
+      "y": 48,
+      "exists": false
+    },
+    "hween12_coffin_32_b_2_1": {
+      "name": "hween12_coffin_32_b_2_1",
+      "flipH": 1,
+      "source": "hween12_coffin_32_b_0_1",
+      "x": 13,
+      "y": 48,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_0": {
+      "name": "hween12_coffin_32_c_2_0",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_0",
+      "x": -12,
+      "y": -1,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_1": {
+      "name": "hween12_coffin_32_c_2_1",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_1",
+      "x": 40,
+      "y": 22,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_2": {
+      "name": "hween12_coffin_32_c_2_2",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_2",
+      "x": 40,
+      "y": 40,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_3": {
+      "name": "hween12_coffin_32_c_2_3",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_3",
+      "x": 39,
+      "y": 45,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_4": {
+      "name": "hween12_coffin_32_c_2_4",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_4",
+      "x": 38,
+      "y": 48,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_5": {
+      "name": "hween12_coffin_32_c_2_5",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_5",
+      "x": 37,
+      "y": 52,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_6": {
+      "name": "hween12_coffin_32_c_2_6",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_6",
+      "x": 38,
+      "y": 51,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_7": {
+      "name": "hween12_coffin_32_c_2_7",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_7",
+      "x": 39,
+      "y": 52,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_8": {
+      "name": "hween12_coffin_32_c_2_8",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_8",
+      "x": 38,
+      "y": 51,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_9": {
+      "name": "hween12_coffin_32_c_2_9",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_9",
+      "x": 37,
+      "y": 52,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_10": {
+      "name": "hween12_coffin_32_c_2_10",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_10",
+      "x": 47,
+      "y": 55,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_11": {
+      "name": "hween12_coffin_32_c_2_11",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_11",
+      "x": 32,
+      "y": 49,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_12": {
+      "name": "hween12_coffin_32_c_2_12",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_12",
+      "x": 23,
+      "y": 44,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_13": {
+      "name": "hween12_coffin_32_c_2_13",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_13",
+      "x": 22,
+      "y": 43,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_14": {
+      "name": "hween12_coffin_32_c_2_14",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_14",
+      "x": 22,
+      "y": 43,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_15": {
+      "name": "hween12_coffin_32_c_2_15",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_15",
+      "x": 22,
+      "y": 43,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_16": {
+      "name": "hween12_coffin_32_c_2_16",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_16",
+      "x": 22,
+      "y": 43,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_17": {
+      "name": "hween12_coffin_32_c_2_17",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_17",
+      "x": 22,
+      "y": 43,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_18": {
+      "name": "hween12_coffin_32_c_2_18",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_18",
+      "x": 22,
+      "y": 43,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_19": {
+      "name": "hween12_coffin_32_c_2_19",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_19",
+      "x": 22,
+      "y": 43,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_20": {
+      "name": "hween12_coffin_32_c_2_20",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_20",
+      "x": 32,
+      "y": 49,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_21": {
+      "name": "hween12_coffin_32_c_2_21",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_21",
+      "x": 47,
+      "y": 55,
+      "exists": false
+    },
+    "hween12_coffin_32_c_2_22": {
+      "name": "hween12_coffin_32_c_2_22",
+      "flipH": 1,
+      "source": "hween12_coffin_32_c_0_22",
+      "x": 47,
+      "y": 55,
+      "exists": false
+    },
+    "hween12_coffin_32_d_2_0": {
+      "name": "hween12_coffin_32_d_2_0",
+      "flipH": 1,
+      "source": "hween12_coffin_32_d_0_0",
+      "x": 29,
+      "y": 21,
+      "exists": false
+    },
+    "hween12_coffin_32_d_2_1": {
+      "name": "hween12_coffin_32_d_2_1",
+      "flipH": 1,
+      "source": "hween12_coffin_32_d_0_1",
+      "x": 29,
+      "y": 8,
+      "exists": false
+    },
+    "hween12_coffin_64_a_2_0": {
+      "name": "hween12_coffin_64_a_2_0",
+      "flipH": 1,
+      "source": "hween12_coffin_64_a_0_0",
+      "x": 31,
+      "y": 82,
+      "exists": false
+    },
+    "hween12_coffin_64_b_2_0": {
+      "name": "hween12_coffin_64_b_2_0",
+      "flipH": 1,
+      "source": "hween12_coffin_64_b_0_0",
+      "x": 25,
+      "y": 97,
+      "exists": false
+    },
+    "hween12_coffin_64_b_2_1": {
+      "name": "hween12_coffin_64_b_2_1",
+      "flipH": 1,
+      "source": "hween12_coffin_64_b_0_1",
+      "x": 25,
+      "y": 97,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_0": {
+      "name": "hween12_coffin_64_c_2_0",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_0",
+      "x": -26,
+      "y": 0,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_1": {
+      "name": "hween12_coffin_64_c_2_1",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_1",
+      "x": 83,
+      "y": 44,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_2": {
+      "name": "hween12_coffin_64_c_2_2",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_2",
+      "x": 78,
+      "y": 79,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_3": {
+      "name": "hween12_coffin_64_c_2_3",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_3",
+      "x": 75,
+      "y": 88,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_4": {
+      "name": "hween12_coffin_64_c_2_4",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_4",
+      "x": 73,
+      "y": 92,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_5": {
+      "name": "hween12_coffin_64_c_2_5",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_5",
+      "x": 71,
+      "y": 99,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_6": {
+      "name": "hween12_coffin_64_c_2_6",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_6",
+      "x": 73,
+      "y": 98,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_7": {
+      "name": "hween12_coffin_64_c_2_7",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_7",
+      "x": 75,
+      "y": 99,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_8": {
+      "name": "hween12_coffin_64_c_2_8",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_8",
+      "x": 73,
+      "y": 98,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_9": {
+      "name": "hween12_coffin_64_c_2_9",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_9",
+      "x": 71,
+      "y": 99,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_10": {
+      "name": "hween12_coffin_64_c_2_10",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_10",
+      "x": 88,
+      "y": 107,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_11": {
+      "name": "hween12_coffin_64_c_2_11",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_11",
+      "x": 60,
+      "y": 93,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_12": {
+      "name": "hween12_coffin_64_c_2_12",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_12",
+      "x": 42,
+      "y": 84,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_13": {
+      "name": "hween12_coffin_64_c_2_13",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_13",
+      "x": 40,
+      "y": 83,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_14": {
+      "name": "hween12_coffin_64_c_2_14",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_14",
+      "x": 40,
+      "y": 83,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_15": {
+      "name": "hween12_coffin_64_c_2_15",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_15",
+      "x": 40,
+      "y": 83,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_16": {
+      "name": "hween12_coffin_64_c_2_16",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_16",
+      "x": 40,
+      "y": 83,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_17": {
+      "name": "hween12_coffin_64_c_2_17",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_17",
+      "x": 40,
+      "y": 83,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_18": {
+      "name": "hween12_coffin_64_c_2_18",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_18",
+      "x": 40,
+      "y": 83,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_19": {
+      "name": "hween12_coffin_64_c_2_19",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_19",
+      "x": 40,
+      "y": 83,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_20": {
+      "name": "hween12_coffin_64_c_2_20",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_20",
+      "x": 60,
+      "y": 93,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_21": {
+      "name": "hween12_coffin_64_c_2_21",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_21",
+      "x": 88,
+      "y": 107,
+      "exists": false
+    },
+    "hween12_coffin_64_c_2_22": {
+      "name": "hween12_coffin_64_c_2_22",
+      "flipH": 1,
+      "source": "hween12_coffin_64_c_0_22",
+      "x": 88,
+      "y": 107,
+      "exists": false
+    },
+    "hween12_coffin_64_d_2_0": {
+      "name": "hween12_coffin_64_d_2_0",
+      "flipH": 1,
+      "source": "hween12_coffin_64_d_0_0",
+      "x": 58,
+      "y": 42,
+      "exists": false
+    },
+    "hween12_coffin_64_d_2_1": {
+      "name": "hween12_coffin_64_d_2_1",
+      "flipH": 1,
+      "source": "hween12_coffin_64_d_0_1",
+      "x": 58,
+      "y": 18,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 0.000001
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  13
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  6,
+                  7,
+                  8,
+                  9,
+                  6,
+                  7,
+                  8,
+                  9,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  10,
+                  11,
+                  12,
+                  13,
+                  13,
+                  13,
+                  13,
+                  13,
+                  14,
+                  14,
+                  15,
+                  15,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  17,
+                  17,
+                  18,
+                  18,
+                  19,
+                  13
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  20,
+                  20,
+                  10,
+                  10,
+                  21,
+                  22,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 550
+        },
+        {
+          "layerId": 2,
+          "z": 750
+        },
+        {
+          "layerId": 3,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  13
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  6,
+                  7,
+                  8,
+                  9,
+                  6,
+                  7,
+                  8,
+                  9,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  10,
+                  11,
+                  12,
+                  13,
+                  13,
+                  13,
+                  13,
+                  13,
+                  14,
+                  14,
+                  15,
+                  15,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  16,
+                  17,
+                  17,
+                  18,
+                  18,
+                  19,
+                  13
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  20,
+                  20,
+                  10,
+                  10,
+                  21,
+                  22,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 550
+        },
+        {
+          "layerId": 2,
+          "z": 750
+        },
+        {
+          "layerId": 3,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween12_coffin",
+    "visualization": "furniture_animated"
+  }
+}

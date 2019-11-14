@@ -1,0 +1,394 @@
+{
+  "assets": {
+    "attic15_bigshelf_64_sd_4_0": {
+      "name": "attic15_bigshelf_64_sd_4_0",
+      "x": 26,
+      "y": -1,
+      "exists": true
+    },
+    "attic15_bigshelf_64_a_4_0": {
+      "name": "attic15_bigshelf_64_a_4_0",
+      "x": 33,
+      "y": 107,
+      "exists": true
+    },
+    "attic15_bigshelf_64_a_4_1": {
+      "name": "attic15_bigshelf_64_a_4_1",
+      "x": 30,
+      "y": 0,
+      "exists": false
+    },
+    "attic15_bigshelf_64_b_4_0": {
+      "name": "attic15_bigshelf_64_b_4_0",
+      "x": 0,
+      "y": 89,
+      "exists": true
+    },
+    "attic15_bigshelf_64_b_4_1": {
+      "name": "attic15_bigshelf_64_b_4_1",
+      "x": -29,
+      "y": -30,
+      "exists": false
+    },
+    "attic15_bigshelf_64_c_4_0": {
+      "name": "attic15_bigshelf_64_c_4_0",
+      "x": 30,
+      "y": 105,
+      "exists": true
+    },
+    "attic15_bigshelf_64_c_4_1": {
+      "name": "attic15_bigshelf_64_c_4_1",
+      "x": 30,
+      "y": 0,
+      "exists": false
+    },
+    "attic15_bigshelf_64_d_4_0": {
+      "name": "attic15_bigshelf_64_d_4_0",
+      "x": 0,
+      "y": 88,
+      "exists": true
+    },
+    "attic15_bigshelf_64_d_4_1": {
+      "name": "attic15_bigshelf_64_d_4_1",
+      "x": -29,
+      "y": -30,
+      "exists": true
+    },
+    "attic15_bigshelf_64_e_4_0": {
+      "name": "attic15_bigshelf_64_e_4_0",
+      "x": 30,
+      "y": 105,
+      "exists": true
+    },
+    "attic15_bigshelf_64_e_4_1": {
+      "name": "attic15_bigshelf_64_e_4_1",
+      "x": 30,
+      "y": 0,
+      "exists": false
+    },
+    "attic15_bigshelf_64_f_4_0": {
+      "name": "attic15_bigshelf_64_f_4_0",
+      "x": 23,
+      "y": 96,
+      "exists": true
+    },
+    "attic15_bigshelf_64_f_4_1": {
+      "name": "attic15_bigshelf_64_f_4_1",
+      "x": -29,
+      "y": -30,
+      "exists": false
+    },
+    "attic15_bigshelf_icon_a": {
+      "name": "attic15_bigshelf_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    },
+    "attic15_bigshelf_64_sd_2_0": {
+      "name": "attic15_bigshelf_64_sd_2_0",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_sd_4_0",
+      "x": 26,
+      "y": -1,
+      "exists": false
+    },
+    "attic15_bigshelf_64_a_2_0": {
+      "name": "attic15_bigshelf_64_a_2_0",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_a_4_0",
+      "x": 33,
+      "y": 107,
+      "exists": false
+    },
+    "attic15_bigshelf_64_a_2_1": {
+      "name": "attic15_bigshelf_64_a_2_1",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_a_4_1",
+      "x": 30,
+      "y": 0,
+      "exists": false
+    },
+    "attic15_bigshelf_64_b_2_0": {
+      "name": "attic15_bigshelf_64_b_2_0",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_b_4_0",
+      "x": 0,
+      "y": 89,
+      "exists": false
+    },
+    "attic15_bigshelf_64_b_2_1": {
+      "name": "attic15_bigshelf_64_b_2_1",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_b_4_1",
+      "x": -29,
+      "y": -30,
+      "exists": false
+    },
+    "attic15_bigshelf_64_c_2_0": {
+      "name": "attic15_bigshelf_64_c_2_0",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_c_4_0",
+      "x": 30,
+      "y": 105,
+      "exists": false
+    },
+    "attic15_bigshelf_64_c_2_1": {
+      "name": "attic15_bigshelf_64_c_2_1",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_c_4_1",
+      "x": 30,
+      "y": 0,
+      "exists": false
+    },
+    "attic15_bigshelf_64_d_2_0": {
+      "name": "attic15_bigshelf_64_d_2_0",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_d_4_0",
+      "x": 0,
+      "y": 88,
+      "exists": false
+    },
+    "attic15_bigshelf_64_d_2_1": {
+      "name": "attic15_bigshelf_64_d_2_1",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_d_4_1",
+      "x": -29,
+      "y": -30,
+      "exists": false
+    },
+    "attic15_bigshelf_64_e_2_0": {
+      "name": "attic15_bigshelf_64_e_2_0",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_e_4_0",
+      "x": 30,
+      "y": 105,
+      "exists": false
+    },
+    "attic15_bigshelf_64_e_2_1": {
+      "name": "attic15_bigshelf_64_e_2_1",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_e_4_1",
+      "x": 30,
+      "y": 0,
+      "exists": false
+    },
+    "attic15_bigshelf_64_f_2_0": {
+      "name": "attic15_bigshelf_64_f_2_0",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_f_4_0",
+      "x": 23,
+      "y": 96,
+      "exists": false
+    },
+    "attic15_bigshelf_64_f_2_1": {
+      "name": "attic15_bigshelf_64_f_2_1",
+      "flipH": 1,
+      "source": "attic15_bigshelf_64_f_4_1",
+      "x": -29,
+      "y": -30,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3,
+          "z": 1000
+        },
+        {
+          "layerId": 4
+        },
+        {
+          "layerId": 5,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "attic15_bigshelf",
+    "visualization": "furniture_animated"
+  }
+}

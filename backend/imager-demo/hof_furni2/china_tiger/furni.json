@@ -1,0 +1,172 @@
+{
+  "assets": {
+    "china_tiger_64_a_0_0": {
+      "name": "china_tiger_64_a_0_0",
+      "flipH": 1,
+      "source": "china_tiger_64_a_6_0",
+      "x": 47,
+      "y": 98,
+      "exists": false
+    },
+    "china_tiger_64_a_2_0": {
+      "name": "china_tiger_64_a_2_0",
+      "flipH": 1,
+      "source": "china_tiger_64_a_4_0",
+      "x": 47,
+      "y": 71,
+      "exists": false
+    },
+    "china_tiger_64_a_4_0": {
+      "name": "china_tiger_64_a_4_0",
+      "x": 47,
+      "y": 71,
+      "exists": true
+    },
+    "china_tiger_64_a_6_0": {
+      "name": "china_tiger_64_a_6_0",
+      "x": 47,
+      "y": 98,
+      "exists": true
+    },
+    "china_tiger_64_b_0_0": {
+      "name": "china_tiger_64_b_0_0",
+      "flipH": 1,
+      "source": "china_tiger_64_b_6_0",
+      "x": 23,
+      "y": 22,
+      "exists": false
+    },
+    "china_tiger_64_b_2_0": {
+      "name": "china_tiger_64_b_2_0",
+      "flipH": 1,
+      "source": "china_tiger_64_b_4_0",
+      "x": 49,
+      "y": 55,
+      "exists": false
+    },
+    "china_tiger_64_b_4_0": {
+      "name": "china_tiger_64_b_4_0",
+      "x": 49,
+      "y": 55,
+      "exists": true
+    },
+    "china_tiger_64_b_6_0": {
+      "name": "china_tiger_64_b_6_0",
+      "x": 23,
+      "y": 22,
+      "exists": true
+    },
+    "china_tiger_icon_a": {
+      "name": "china_tiger_icon_a",
+      "x": -58,
+      "y": 60,
+      "exists": true
+    },
+    "china_tiger_32_a_0_0": {
+      "name": "china_tiger_32_a_0_0",
+      "flipH": 1,
+      "source": "china_tiger_32_a_6_0",
+      "x": 24,
+      "y": 48,
+      "exists": false
+    },
+    "china_tiger_32_a_2_0": {
+      "name": "china_tiger_32_a_2_0",
+      "flipH": 1,
+      "source": "china_tiger_32_a_4_0",
+      "x": 23,
+      "y": 35,
+      "exists": false
+    },
+    "china_tiger_32_a_4_0": {
+      "name": "china_tiger_32_a_4_0",
+      "x": 23,
+      "y": 35,
+      "exists": true
+    },
+    "china_tiger_32_a_6_0": {
+      "name": "china_tiger_32_a_6_0",
+      "x": 24,
+      "y": 48,
+      "exists": true
+    },
+    "china_tiger_32_b_0_0": {
+      "name": "china_tiger_32_b_0_0",
+      "flipH": 1,
+      "source": "china_tiger_32_b_6_0",
+      "x": 13,
+      "y": 11,
+      "exists": false
+    },
+    "china_tiger_32_b_2_0": {
+      "name": "china_tiger_32_b_2_0",
+      "flipH": 1,
+      "source": "china_tiger_32_b_4_0",
+      "x": 12,
+      "y": 10,
+      "exists": false
+    },
+    "china_tiger_32_b_4_0": {
+      "name": "china_tiger_32_b_4_0",
+      "x": 12,
+      "y": 10,
+      "exists": true
+    },
+    "china_tiger_32_b_6_0": {
+      "name": "china_tiger_32_b_6_0",
+      "x": 13,
+      "y": 11,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "china_tiger",
+    "visualization": "furniture_static"
+  }
+}

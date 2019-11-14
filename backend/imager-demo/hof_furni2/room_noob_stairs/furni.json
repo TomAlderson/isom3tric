@@ -1,0 +1,538 @@
+{
+  "assets": {
+    "room_noob_stairs_32_a_0_0": {
+      "name": "room_noob_stairs_32_a_0_0",
+      "x": 18,
+      "y": 22,
+      "exists": true
+    },
+    "room_noob_stairs_32_b_0_0": {
+      "name": "room_noob_stairs_32_b_0_0",
+      "x": -1,
+      "y": 12,
+      "exists": true
+    },
+    "room_noob_stairs_32_c_0_0": {
+      "name": "room_noob_stairs_32_c_0_0",
+      "x": -17,
+      "y": 4,
+      "exists": true
+    },
+    "room_noob_stairs_32_d_0_0": {
+      "name": "room_noob_stairs_32_d_0_0",
+      "x": -33,
+      "y": -4,
+      "exists": true
+    },
+    "room_noob_stairs_32_e_0_0": {
+      "name": "room_noob_stairs_32_e_0_0",
+      "x": -49,
+      "y": -12,
+      "exists": true
+    },
+    "room_noob_stairs_64_a_0_0": {
+      "name": "room_noob_stairs_64_a_0_0",
+      "x": 28,
+      "y": 43,
+      "exists": true
+    },
+    "room_noob_stairs_64_b_0_0": {
+      "name": "room_noob_stairs_64_b_0_0",
+      "x": -5,
+      "y": 26,
+      "exists": true
+    },
+    "room_noob_stairs_64_c_0_0": {
+      "name": "room_noob_stairs_64_c_0_0",
+      "x": -37,
+      "y": 10,
+      "exists": true
+    },
+    "room_noob_stairs_64_d_0_0": {
+      "name": "room_noob_stairs_64_d_0_0",
+      "x": -69,
+      "y": -6,
+      "exists": true
+    },
+    "room_noob_stairs_64_e_0_0": {
+      "name": "room_noob_stairs_64_e_0_0",
+      "x": -101,
+      "y": -22,
+      "exists": true
+    },
+    "room_noob_stairs_icon_a": {
+      "name": "room_noob_stairs_icon_a",
+      "x": 14,
+      "y": 11,
+      "exists": true
+    },
+    "room_noob_stairs_32_a_0_1": {
+      "name": "room_noob_stairs_32_a_0_1",
+      "source": "room_noob_stairs_32_a_0_0",
+      "x": 18,
+      "y": 36,
+      "exists": false
+    },
+    "room_noob_stairs_32_b_0_1": {
+      "name": "room_noob_stairs_32_b_0_1",
+      "source": "room_noob_stairs_32_b_0_0",
+      "x": -1,
+      "y": 26,
+      "exists": false
+    },
+    "room_noob_stairs_32_c_0_1": {
+      "name": "room_noob_stairs_32_c_0_1",
+      "source": "room_noob_stairs_32_c_0_0",
+      "x": -17,
+      "y": 18,
+      "exists": false
+    },
+    "room_noob_stairs_32_d_0_1": {
+      "name": "room_noob_stairs_32_d_0_1",
+      "source": "room_noob_stairs_32_d_0_0",
+      "x": -33,
+      "y": 10,
+      "exists": false
+    },
+    "room_noob_stairs_32_e_0_1": {
+      "name": "room_noob_stairs_32_e_0_1",
+      "source": "room_noob_stairs_32_e_0_0",
+      "x": -49,
+      "y": 2,
+      "exists": false
+    },
+    "room_noob_stairs_64_a_0_1": {
+      "name": "room_noob_stairs_64_a_0_1",
+      "source": "room_noob_stairs_64_a_0_0",
+      "x": 30,
+      "y": 72,
+      "exists": false
+    },
+    "room_noob_stairs_64_b_0_1": {
+      "name": "room_noob_stairs_64_b_0_1",
+      "source": "room_noob_stairs_64_b_0_0",
+      "x": -3,
+      "y": 55,
+      "exists": false
+    },
+    "room_noob_stairs_64_c_0_1": {
+      "name": "room_noob_stairs_64_c_0_1",
+      "source": "room_noob_stairs_64_c_0_0",
+      "x": -35,
+      "y": 39,
+      "exists": false
+    },
+    "room_noob_stairs_64_d_0_1": {
+      "name": "room_noob_stairs_64_d_0_1",
+      "source": "room_noob_stairs_64_d_0_0",
+      "x": -67,
+      "y": 23,
+      "exists": false
+    },
+    "room_noob_stairs_64_e_0_1": {
+      "name": "room_noob_stairs_64_e_0_1",
+      "source": "room_noob_stairs_64_e_0_0",
+      "x": -99,
+      "y": 7,
+      "exists": false
+    },
+    "room_noob_stairs_32_a_2_0": {
+      "name": "room_noob_stairs_32_a_2_0",
+      "flipH": 1,
+      "source": "room_noob_stairs_32_a_0_0",
+      "x": 18,
+      "y": 22,
+      "exists": false
+    },
+    "room_noob_stairs_32_b_2_0": {
+      "name": "room_noob_stairs_32_b_2_0",
+      "flipH": 1,
+      "source": "room_noob_stairs_32_b_0_0",
+      "x": -1,
+      "y": 12,
+      "exists": false
+    },
+    "room_noob_stairs_32_c_2_0": {
+      "name": "room_noob_stairs_32_c_2_0",
+      "flipH": 1,
+      "source": "room_noob_stairs_32_c_0_0",
+      "x": -17,
+      "y": 4,
+      "exists": false
+    },
+    "room_noob_stairs_32_d_2_0": {
+      "name": "room_noob_stairs_32_d_2_0",
+      "flipH": 1,
+      "source": "room_noob_stairs_32_d_0_0",
+      "x": -33,
+      "y": -4,
+      "exists": false
+    },
+    "room_noob_stairs_32_e_2_0": {
+      "name": "room_noob_stairs_32_e_2_0",
+      "flipH": 1,
+      "source": "room_noob_stairs_32_e_0_0",
+      "x": -49,
+      "y": -12,
+      "exists": false
+    },
+    "room_noob_stairs_64_a_2_0": {
+      "name": "room_noob_stairs_64_a_2_0",
+      "flipH": 1,
+      "source": "room_noob_stairs_64_a_0_0",
+      "x": 28,
+      "y": 43,
+      "exists": false
+    },
+    "room_noob_stairs_64_b_2_0": {
+      "name": "room_noob_stairs_64_b_2_0",
+      "flipH": 1,
+      "source": "room_noob_stairs_64_b_0_0",
+      "x": -5,
+      "y": 26,
+      "exists": false
+    },
+    "room_noob_stairs_64_c_2_0": {
+      "name": "room_noob_stairs_64_c_2_0",
+      "flipH": 1,
+      "source": "room_noob_stairs_64_c_0_0",
+      "x": -37,
+      "y": 10,
+      "exists": false
+    },
+    "room_noob_stairs_64_d_2_0": {
+      "name": "room_noob_stairs_64_d_2_0",
+      "flipH": 1,
+      "source": "room_noob_stairs_64_d_0_0",
+      "x": -69,
+      "y": -6,
+      "exists": false
+    },
+    "room_noob_stairs_64_e_2_0": {
+      "name": "room_noob_stairs_64_e_2_0",
+      "flipH": 1,
+      "source": "room_noob_stairs_64_e_0_0",
+      "x": -101,
+      "y": -22,
+      "exists": false
+    },
+    "room_noob_stairs_32_a_2_1": {
+      "name": "room_noob_stairs_32_a_2_1",
+      "flipH": 1,
+      "source": "room_noob_stairs_32_a_0_0",
+      "x": 18,
+      "y": 36,
+      "exists": false
+    },
+    "room_noob_stairs_32_b_2_1": {
+      "name": "room_noob_stairs_32_b_2_1",
+      "flipH": 1,
+      "source": "room_noob_stairs_32_b_0_0",
+      "x": -1,
+      "y": 26,
+      "exists": false
+    },
+    "room_noob_stairs_32_c_2_1": {
+      "name": "room_noob_stairs_32_c_2_1",
+      "flipH": 1,
+      "source": "room_noob_stairs_32_c_0_0",
+      "x": -17,
+      "y": 18,
+      "exists": false
+    },
+    "room_noob_stairs_32_d_2_1": {
+      "name": "room_noob_stairs_32_d_2_1",
+      "flipH": 1,
+      "source": "room_noob_stairs_32_d_0_0",
+      "x": -33,
+      "y": 10,
+      "exists": false
+    },
+    "room_noob_stairs_32_e_2_1": {
+      "name": "room_noob_stairs_32_e_2_1",
+      "flipH": 1,
+      "source": "room_noob_stairs_32_e_0_0",
+      "x": -49,
+      "y": 2,
+      "exists": false
+    },
+    "room_noob_stairs_64_a_2_1": {
+      "name": "room_noob_stairs_64_a_2_1",
+      "flipH": 1,
+      "source": "room_noob_stairs_64_a_0_0",
+      "x": 30,
+      "y": 72,
+      "exists": false
+    },
+    "room_noob_stairs_64_b_2_1": {
+      "name": "room_noob_stairs_64_b_2_1",
+      "flipH": 1,
+      "source": "room_noob_stairs_64_b_0_0",
+      "x": -3,
+      "y": 55,
+      "exists": false
+    },
+    "room_noob_stairs_64_c_2_1": {
+      "name": "room_noob_stairs_64_c_2_1",
+      "flipH": 1,
+      "source": "room_noob_stairs_64_c_0_0",
+      "x": -35,
+      "y": 39,
+      "exists": false
+    },
+    "room_noob_stairs_64_d_2_1": {
+      "name": "room_noob_stairs_64_d_2_1",
+      "flipH": 1,
+      "source": "room_noob_stairs_64_d_0_0",
+      "x": -67,
+      "y": 23,
+      "exists": false
+    },
+    "room_noob_stairs_64_e_2_1": {
+      "name": "room_noob_stairs_64_e_2_1",
+      "flipH": 1,
+      "source": "room_noob_stairs_64_e_0_0",
+      "x": -99,
+      "y": 7,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 5,
+      "y": 1,
+      "z": 0.55
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 2000
+        },
+        {
+          "layerId": 3,
+          "ignoreMouse": 1,
+          "z": 3000
+        },
+        {
+          "layerId": 4,
+          "ignoreMouse": 1,
+          "z": 4000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 2000
+        },
+        {
+          "layerId": 3,
+          "ignoreMouse": 1,
+          "z": 3000
+        },
+        {
+          "layerId": 4,
+          "ignoreMouse": 1,
+          "z": 4000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "room_noob_stairs",
+    "visualization": "furniture_animated"
+  }
+}

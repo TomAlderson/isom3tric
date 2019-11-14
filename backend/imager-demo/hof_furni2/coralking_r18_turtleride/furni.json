@@ -1,0 +1,197 @@
+{
+  "assets": {
+    "coralking_r18_turtleride_64_a_4_0": {
+      "name": "coralking_r18_turtleride_64_a_4_0",
+      "x": 25,
+      "y": 14,
+      "exists": true
+    },
+    "coralking_r18_turtleride_64_a_4_1": {
+      "name": "coralking_r18_turtleride_64_a_4_1",
+      "x": 26,
+      "y": 18,
+      "exists": true
+    },
+    "coralking_r18_turtleride_64_a_4_2": {
+      "name": "coralking_r18_turtleride_64_a_4_2",
+      "x": 28,
+      "y": 47,
+      "exists": true
+    },
+    "coralking_r18_turtleride_64_a_4_3": {
+      "name": "coralking_r18_turtleride_64_a_4_3",
+      "x": 25,
+      "y": 57,
+      "exists": true
+    },
+    "coralking_r18_turtleride_64_a_4_4": {
+      "name": "coralking_r18_turtleride_64_a_4_4",
+      "x": 25,
+      "y": 14,
+      "exists": true
+    },
+    "coralking_r18_turtleride_64_a_4_5": {
+      "name": "coralking_r18_turtleride_64_a_4_5",
+      "x": 25,
+      "y": 14,
+      "exists": true
+    },
+    "coralking_r18_turtleride_64_a_4_6": {
+      "name": "coralking_r18_turtleride_64_a_4_6",
+      "x": 25,
+      "y": 14,
+      "exists": true
+    },
+    "coralking_r18_turtleride_icon_a": {
+      "name": "coralking_r18_turtleride_icon_a",
+      "x": 16,
+      "y": 13,
+      "exists": true
+    },
+    "coralking_r18_turtleride_64_a_2_0": {
+      "name": "coralking_r18_turtleride_64_a_2_0",
+      "flipH": 1,
+      "source": "coralking_r18_turtleride_64_a_4_0",
+      "x": 25,
+      "y": 14,
+      "exists": false
+    },
+    "coralking_r18_turtleride_64_a_2_1": {
+      "name": "coralking_r18_turtleride_64_a_2_1",
+      "flipH": 1,
+      "source": "coralking_r18_turtleride_64_a_4_1",
+      "x": 26,
+      "y": 18,
+      "exists": false
+    },
+    "coralking_r18_turtleride_64_a_2_2": {
+      "name": "coralking_r18_turtleride_64_a_2_2",
+      "flipH": 1,
+      "source": "coralking_r18_turtleride_64_a_4_2",
+      "x": 28,
+      "y": 47,
+      "exists": false
+    },
+    "coralking_r18_turtleride_64_a_2_3": {
+      "name": "coralking_r18_turtleride_64_a_2_3",
+      "flipH": 1,
+      "source": "coralking_r18_turtleride_64_a_4_3",
+      "x": 25,
+      "y": 57,
+      "exists": false
+    },
+    "coralking_r18_turtleride_64_a_2_4": {
+      "name": "coralking_r18_turtleride_64_a_2_4",
+      "flipH": 1,
+      "source": "coralking_r18_turtleride_64_a_4_4",
+      "x": 25,
+      "y": 14,
+      "exists": false
+    },
+    "coralking_r18_turtleride_64_a_2_5": {
+      "name": "coralking_r18_turtleride_64_a_2_5",
+      "flipH": 1,
+      "source": "coralking_r18_turtleride_64_a_4_5",
+      "x": 25,
+      "y": 14,
+      "exists": false
+    },
+    "coralking_r18_turtleride_64_a_2_6": {
+      "name": "coralking_r18_turtleride_64_a_2_6",
+      "flipH": 1,
+      "source": "coralking_r18_turtleride_64_a_4_6",
+      "x": 25,
+      "y": 14,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.2
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "coralking_r18_turtleride",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "assets": {
+    "jungle_r16_pitcherplant_64_sd_4_0": {
+      "name": "jungle_r16_pitcherplant_64_sd_4_0",
+      "x": 34,
+      "y": 16,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_a_4_0": {
+      "name": "jungle_r16_pitcherplant_64_a_4_0",
+      "x": 25,
+      "y": 65,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_b_4_0": {
+      "name": "jungle_r16_pitcherplant_64_b_4_0",
+      "x": 36,
+      "y": 51,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_c_4_0": {
+      "name": "jungle_r16_pitcherplant_64_c_4_0",
+      "x": -28,
+      "y": 34,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_c_4_1": {
+      "name": "jungle_r16_pitcherplant_64_c_4_1",
+      "x": 15,
+      "y": 43,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_d_4_0": {
+      "name": "jungle_r16_pitcherplant_64_d_4_0",
+      "x": 19,
+      "y": 107,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_d_4_1": {
+      "name": "jungle_r16_pitcherplant_64_d_4_1",
+      "x": 19,
+      "y": 107,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_d_4_2": {
+      "name": "jungle_r16_pitcherplant_64_d_4_2",
+      "x": 19,
+      "y": 106,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_d_4_3": {
+      "name": "jungle_r16_pitcherplant_64_d_4_3",
+      "x": 19,
+      "y": 106,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_e_4_0": {
+      "name": "jungle_r16_pitcherplant_64_e_4_0",
+      "x": -28,
+      "y": 34,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_e_4_1": {
+      "name": "jungle_r16_pitcherplant_64_e_4_1",
+      "x": 9,
+      "y": 179,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_e_4_2": {
+      "name": "jungle_r16_pitcherplant_64_e_4_2",
+      "x": 9,
+      "y": 176,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_e_4_3": {
+      "name": "jungle_r16_pitcherplant_64_e_4_3",
+      "x": 9,
+      "y": 166,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_e_4_4": {
+      "name": "jungle_r16_pitcherplant_64_e_4_4",
+      "x": 9,
+      "y": 177,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_e_4_5": {
+      "name": "jungle_r16_pitcherplant_64_e_4_5",
+      "x": 9,
+      "y": 175,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_e_4_6": {
+      "name": "jungle_r16_pitcherplant_64_e_4_6",
+      "x": 9,
+      "y": 167,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_e_4_7": {
+      "name": "jungle_r16_pitcherplant_64_e_4_7",
+      "x": 9,
+      "y": 178,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_e_4_8": {
+      "name": "jungle_r16_pitcherplant_64_e_4_8",
+      "x": 9,
+      "y": 159,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_icon_a": {
+      "name": "jungle_r16_pitcherplant_icon_a",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    },
+    "jungle_r16_pitcherplant_64_sd_2_0": {
+      "name": "jungle_r16_pitcherplant_64_sd_2_0",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_sd_4_0",
+      "x": 34,
+      "y": 16,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_a_2_0": {
+      "name": "jungle_r16_pitcherplant_64_a_2_0",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_a_4_0",
+      "x": 25,
+      "y": 65,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_b_2_0": {
+      "name": "jungle_r16_pitcherplant_64_b_2_0",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_b_4_0",
+      "x": 36,
+      "y": 51,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_c_2_0": {
+      "name": "jungle_r16_pitcherplant_64_c_2_0",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_c_4_0",
+      "x": -28,
+      "y": 34,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_c_2_1": {
+      "name": "jungle_r16_pitcherplant_64_c_2_1",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_c_4_1",
+      "x": 15,
+      "y": 43,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_d_2_0": {
+      "name": "jungle_r16_pitcherplant_64_d_2_0",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_d_4_0",
+      "x": 19,
+      "y": 107,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_d_2_1": {
+      "name": "jungle_r16_pitcherplant_64_d_2_1",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_d_4_1",
+      "x": 19,
+      "y": 107,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_d_2_2": {
+      "name": "jungle_r16_pitcherplant_64_d_2_2",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_d_4_2",
+      "x": 19,
+      "y": 106,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_d_2_3": {
+      "name": "jungle_r16_pitcherplant_64_d_2_3",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_d_4_3",
+      "x": 19,
+      "y": 106,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_e_2_0": {
+      "name": "jungle_r16_pitcherplant_64_e_2_0",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_e_4_0",
+      "x": -28,
+      "y": 34,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_e_2_1": {
+      "name": "jungle_r16_pitcherplant_64_e_2_1",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_e_4_1",
+      "x": 9,
+      "y": 179,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_e_2_2": {
+      "name": "jungle_r16_pitcherplant_64_e_2_2",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_e_4_2",
+      "x": 9,
+      "y": 176,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_e_2_3": {
+      "name": "jungle_r16_pitcherplant_64_e_2_3",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_e_4_3",
+      "x": 9,
+      "y": 166,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_e_2_4": {
+      "name": "jungle_r16_pitcherplant_64_e_2_4",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_e_4_4",
+      "x": 9,
+      "y": 177,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_e_2_5": {
+      "name": "jungle_r16_pitcherplant_64_e_2_5",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_e_4_5",
+      "x": 9,
+      "y": 175,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_e_2_6": {
+      "name": "jungle_r16_pitcherplant_64_e_2_6",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_e_4_6",
+      "x": 9,
+      "y": 167,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_e_2_7": {
+      "name": "jungle_r16_pitcherplant_64_e_2_7",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_e_4_7",
+      "x": 9,
+      "y": 178,
+      "exists": false
+    },
+    "jungle_r16_pitcherplant_64_e_2_8": {
+      "name": "jungle_r16_pitcherplant_64_e_2_8",
+      "flipH": 1,
+      "source": "jungle_r16_pitcherplant_64_e_4_8",
+      "x": 9,
+      "y": 159,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1,
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  7,
+                  8
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "jungle_r16_pitcherplant",
+    "visualization": "furniture_animated"
+  }
+}

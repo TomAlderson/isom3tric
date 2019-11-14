@@ -1,0 +1,3 @@
+RewriteEngine on 
+
+RewriteRule ^(.*)\.gif /c_images/album1584/index.php?file=$1

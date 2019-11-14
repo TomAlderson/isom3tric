@@ -1,0 +1,639 @@
+{
+  "assets": {
+    "bathroom_shower3_64_sd_2_0": {
+      "name": "bathroom_shower3_64_sd_2_0",
+      "x": 33,
+      "y": 16,
+      "exists": true
+    },
+    "bathroom_shower3_64_a_2_0": {
+      "name": "bathroom_shower3_64_a_2_0",
+      "x": 33,
+      "y": 111,
+      "exists": true
+    },
+    "bathroom_shower3_64_a_2_1": {
+      "name": "bathroom_shower3_64_a_2_1",
+      "x": 33,
+      "y": 111,
+      "exists": true
+    },
+    "bathroom_shower3_64_b_2_0": {
+      "name": "bathroom_shower3_64_b_2_0",
+      "x": 23,
+      "y": 92,
+      "exists": true
+    },
+    "bathroom_shower3_64_b_2_1": {
+      "name": "bathroom_shower3_64_b_2_1",
+      "x": 23,
+      "y": 92,
+      "exists": true
+    },
+    "bathroom_shower3_64_b_2_2": {
+      "name": "bathroom_shower3_64_b_2_2",
+      "x": 23,
+      "y": 91,
+      "exists": true
+    },
+    "bathroom_shower3_64_b_2_3": {
+      "name": "bathroom_shower3_64_b_2_3",
+      "x": 23,
+      "y": 92,
+      "exists": true
+    },
+    "bathroom_shower3_64_b_2_4": {
+      "name": "bathroom_shower3_64_b_2_4",
+      "x": 15,
+      "y": 104,
+      "exists": true
+    },
+    "bathroom_shower3_64_c_2_0": {
+      "name": "bathroom_shower3_64_c_2_0",
+      "x": 33,
+      "y": 112,
+      "exists": true
+    },
+    "bathroom_shower3_64_c_2_1": {
+      "name": "bathroom_shower3_64_c_2_1",
+      "x": 33,
+      "y": 112,
+      "exists": true
+    },
+    "bathroom_shower3_32_sd_2_0": {
+      "name": "bathroom_shower3_32_sd_2_0",
+      "x": 17,
+      "y": 8,
+      "exists": true
+    },
+    "bathroom_shower3_32_a_2_0": {
+      "name": "bathroom_shower3_32_a_2_0",
+      "x": 17,
+      "y": 56,
+      "exists": true
+    },
+    "bathroom_shower3_32_a_2_1": {
+      "name": "bathroom_shower3_32_a_2_1",
+      "x": 17,
+      "y": 56,
+      "exists": true
+    },
+    "bathroom_shower3_32_b_2_0": {
+      "name": "bathroom_shower3_32_b_2_0",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "bathroom_shower3_32_b_2_1": {
+      "name": "bathroom_shower3_32_b_2_1",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "bathroom_shower3_32_b_2_2": {
+      "name": "bathroom_shower3_32_b_2_2",
+      "x": 11,
+      "y": 44,
+      "exists": true
+    },
+    "bathroom_shower3_32_b_2_3": {
+      "name": "bathroom_shower3_32_b_2_3",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "bathroom_shower3_32_b_2_4": {
+      "name": "bathroom_shower3_32_b_2_4",
+      "x": 6,
+      "y": 53,
+      "exists": false
+    },
+    "bathroom_shower3_32_c_2_0": {
+      "name": "bathroom_shower3_32_c_2_0",
+      "x": 17,
+      "y": 57,
+      "exists": true
+    },
+    "bathroom_shower3_32_c_2_1": {
+      "name": "bathroom_shower3_32_c_2_1",
+      "x": 17,
+      "y": 57,
+      "exists": true
+    },
+    "bathroom_shower3_icon_a": {
+      "name": "bathroom_shower3_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "bathroom_shower3_64_sd_4_0": {
+      "name": "bathroom_shower3_64_sd_4_0",
+      "flipH": 1,
+      "source": "bathroom_shower3_64_sd_2_0",
+      "x": 33,
+      "y": 16,
+      "exists": false
+    },
+    "bathroom_shower3_64_a_4_0": {
+      "name": "bathroom_shower3_64_a_4_0",
+      "flipH": 1,
+      "source": "bathroom_shower3_64_a_2_0",
+      "x": 33,
+      "y": 111,
+      "exists": false
+    },
+    "bathroom_shower3_64_a_4_1": {
+      "name": "bathroom_shower3_64_a_4_1",
+      "flipH": 1,
+      "source": "bathroom_shower3_64_a_2_1",
+      "x": 33,
+      "y": 111,
+      "exists": false
+    },
+    "bathroom_shower3_64_b_4_0": {
+      "name": "bathroom_shower3_64_b_4_0",
+      "flipH": 1,
+      "source": "bathroom_shower3_64_b_2_0",
+      "x": 23,
+      "y": 92,
+      "exists": false
+    },
+    "bathroom_shower3_64_b_4_1": {
+      "name": "bathroom_shower3_64_b_4_1",
+      "flipH": 1,
+      "source": "bathroom_shower3_64_b_2_1",
+      "x": 23,
+      "y": 92,
+      "exists": false
+    },
+    "bathroom_shower3_64_b_4_2": {
+      "name": "bathroom_shower3_64_b_4_2",
+      "flipH": 1,
+      "source": "bathroom_shower3_64_b_2_2",
+      "x": 23,
+      "y": 91,
+      "exists": false
+    },
+    "bathroom_shower3_64_b_4_3": {
+      "name": "bathroom_shower3_64_b_4_3",
+      "flipH": 1,
+      "source": "bathroom_shower3_64_b_2_3",
+      "x": 23,
+      "y": 92,
+      "exists": false
+    },
+    "bathroom_shower3_64_b_4_4": {
+      "name": "bathroom_shower3_64_b_4_4",
+      "flipH": 1,
+      "source": "bathroom_shower3_64_b_2_4",
+      "x": 15,
+      "y": 104,
+      "exists": false
+    },
+    "bathroom_shower3_64_c_4_0": {
+      "name": "bathroom_shower3_64_c_4_0",
+      "flipH": 1,
+      "source": "bathroom_shower3_64_c_2_0",
+      "x": 33,
+      "y": 112,
+      "exists": false
+    },
+    "bathroom_shower3_64_c_4_1": {
+      "name": "bathroom_shower3_64_c_4_1",
+      "flipH": 1,
+      "source": "bathroom_shower3_64_c_2_1",
+      "x": 33,
+      "y": 112,
+      "exists": false
+    },
+    "bathroom_shower3_32_sd_4_0": {
+      "name": "bathroom_shower3_32_sd_4_0",
+      "flipH": 1,
+      "source": "bathroom_shower3_32_sd_2_0",
+      "x": 17,
+      "y": 8,
+      "exists": false
+    },
+    "bathroom_shower3_32_a_4_0": {
+      "name": "bathroom_shower3_32_a_4_0",
+      "flipH": 1,
+      "source": "bathroom_shower3_32_a_2_0",
+      "x": 17,
+      "y": 56,
+      "exists": false
+    },
+    "bathroom_shower3_32_a_4_1": {
+      "name": "bathroom_shower3_32_a_4_1",
+      "flipH": 1,
+      "source": "bathroom_shower3_32_a_2_1",
+      "x": 17,
+      "y": 56,
+      "exists": false
+    },
+    "bathroom_shower3_32_b_4_0": {
+      "name": "bathroom_shower3_32_b_4_0",
+      "flipH": 1,
+      "source": "bathroom_shower3_32_b_2_0",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "bathroom_shower3_32_b_4_1": {
+      "name": "bathroom_shower3_32_b_4_1",
+      "flipH": 1,
+      "source": "bathroom_shower3_32_b_2_1",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "bathroom_shower3_32_b_4_2": {
+      "name": "bathroom_shower3_32_b_4_2",
+      "flipH": 1,
+      "source": "bathroom_shower3_32_b_2_2",
+      "x": 11,
+      "y": 44,
+      "exists": false
+    },
+    "bathroom_shower3_32_b_4_3": {
+      "name": "bathroom_shower3_32_b_4_3",
+      "flipH": 1,
+      "source": "bathroom_shower3_32_b_2_3",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "bathroom_shower3_32_b_4_4": {
+      "name": "bathroom_shower3_32_b_4_4",
+      "flipH": 1,
+      "source": "bathroom_shower3_32_b_2_4",
+      "x": 6,
+      "y": 53,
+      "exists": false
+    },
+    "bathroom_shower3_32_c_4_0": {
+      "name": "bathroom_shower3_32_c_4_0",
+      "flipH": 1,
+      "source": "bathroom_shower3_32_c_2_0",
+      "x": 17,
+      "y": 57,
+      "exists": false
+    },
+    "bathroom_shower3_32_c_4_1": {
+      "name": "bathroom_shower3_32_c_4_1",
+      "flipH": 1,
+      "source": "bathroom_shower3_32_c_2_1",
+      "x": 17,
+      "y": 57,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.3
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "bathroom_shower3",
+    "visualization": "furniture_animated"
+  }
+}

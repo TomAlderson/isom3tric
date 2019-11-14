@@ -1,0 +1,475 @@
+{
+  "assets": {
+    "easter14_chocchestrare_64_a_4_0": {
+      "name": "easter14_chocchestrare_64_a_4_0",
+      "x": 29,
+      "y": 55,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_b_4_0": {
+      "name": "easter14_chocchestrare_64_b_4_0",
+      "x": 12,
+      "y": 42,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_a_4_1": {
+      "name": "easter14_chocchestrare_64_a_4_1",
+      "x": 33,
+      "y": 84,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_b_4_1": {
+      "name": "easter14_chocchestrare_64_b_4_1",
+      "x": 33,
+      "y": 79,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_a_4_2": {
+      "name": "easter14_chocchestrare_64_a_4_2",
+      "x": 33,
+      "y": 84,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_b_4_2": {
+      "name": "easter14_chocchestrare_64_b_4_2",
+      "x": 32,
+      "y": 79,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_a_4_3": {
+      "name": "easter14_chocchestrare_64_a_4_3",
+      "x": 33,
+      "y": 84,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_b_4_3": {
+      "name": "easter14_chocchestrare_64_b_4_3",
+      "x": 32,
+      "y": 79,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_a_4_4": {
+      "name": "easter14_chocchestrare_64_a_4_4",
+      "x": 33,
+      "y": 84,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_b_4_4": {
+      "name": "easter14_chocchestrare_64_b_4_4",
+      "x": 32,
+      "y": 79,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_a_4_5": {
+      "name": "easter14_chocchestrare_64_a_4_5",
+      "x": 33,
+      "y": 84,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_b_4_5": {
+      "name": "easter14_chocchestrare_64_b_4_5",
+      "x": 32,
+      "y": 79,
+      "exists": true
+    },
+    "easter14_chocchestrare_32_a_4_0": {
+      "name": "easter14_chocchestrare_32_a_4_0",
+      "x": 15,
+      "y": 27,
+      "exists": true
+    },
+    "easter14_chocchestrare_32_b_4_0": {
+      "name": "easter14_chocchestrare_32_b_4_0",
+      "x": 6,
+      "y": 20,
+      "exists": true
+    },
+    "easter14_chocchestrare_32_a_4_1": {
+      "name": "easter14_chocchestrare_32_a_4_1",
+      "x": 23,
+      "y": 43,
+      "exists": true
+    },
+    "easter14_chocchestrare_32_b_4_1": {
+      "name": "easter14_chocchestrare_32_b_4_1",
+      "x": 6,
+      "y": 39,
+      "exists": true
+    },
+    "easter14_chocchestrare_32_a_4_2": {
+      "name": "easter14_chocchestrare_32_a_4_2",
+      "x": 23,
+      "y": 43,
+      "exists": true
+    },
+    "easter14_chocchestrare_32_b_4_2": {
+      "name": "easter14_chocchestrare_32_b_4_2",
+      "x": 6,
+      "y": 39,
+      "exists": true
+    },
+    "easter14_chocchestrare_32_a_4_3": {
+      "name": "easter14_chocchestrare_32_a_4_3",
+      "x": 23,
+      "y": 43,
+      "exists": true
+    },
+    "easter14_chocchestrare_32_b_4_3": {
+      "name": "easter14_chocchestrare_32_b_4_3",
+      "x": 6,
+      "y": 39,
+      "exists": true
+    },
+    "easter14_chocchestrare_32_a_4_4": {
+      "name": "easter14_chocchestrare_32_a_4_4",
+      "x": 23,
+      "y": 43,
+      "exists": true
+    },
+    "easter14_chocchestrare_32_b_4_4": {
+      "name": "easter14_chocchestrare_32_b_4_4",
+      "x": 6,
+      "y": 39,
+      "exists": true
+    },
+    "easter14_chocchestrare_icon_a": {
+      "name": "easter14_chocchestrare_icon_a",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    },
+    "easter14_chocchestrare_64_a_2_0": {
+      "name": "easter14_chocchestrare_64_a_2_0",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_a_4_0",
+      "x": 29,
+      "y": 55,
+      "exists": false
+    },
+    "easter14_chocchestrare_64_b_2_0": {
+      "name": "easter14_chocchestrare_64_b_2_0",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_b_4_0",
+      "x": 12,
+      "y": 42,
+      "exists": false
+    },
+    "easter14_chocchestrare_64_a_2_1": {
+      "name": "easter14_chocchestrare_64_a_2_1",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_a_4_1",
+      "x": 33,
+      "y": 84,
+      "exists": false
+    },
+    "easter14_chocchestrare_64_b_2_1": {
+      "name": "easter14_chocchestrare_64_b_2_1",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_b_4_1",
+      "x": 33,
+      "y": 79,
+      "exists": false
+    },
+    "easter14_chocchestrare_64_a_2_2": {
+      "name": "easter14_chocchestrare_64_a_2_2",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_a_4_2",
+      "x": 33,
+      "y": 84,
+      "exists": false
+    },
+    "easter14_chocchestrare_64_b_2_2": {
+      "name": "easter14_chocchestrare_64_b_2_2",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_b_4_2",
+      "x": 32,
+      "y": 79,
+      "exists": false
+    },
+    "easter14_chocchestrare_64_a_2_3": {
+      "name": "easter14_chocchestrare_64_a_2_3",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_a_4_3",
+      "x": 33,
+      "y": 84,
+      "exists": false
+    },
+    "easter14_chocchestrare_64_b_2_3": {
+      "name": "easter14_chocchestrare_64_b_2_3",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_b_4_3",
+      "x": 32,
+      "y": 79,
+      "exists": false
+    },
+    "easter14_chocchestrare_64_a_2_4": {
+      "name": "easter14_chocchestrare_64_a_2_4",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_a_4_4",
+      "x": 33,
+      "y": 84,
+      "exists": false
+    },
+    "easter14_chocchestrare_64_b_2_4": {
+      "name": "easter14_chocchestrare_64_b_2_4",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_b_4_4",
+      "x": 32,
+      "y": 79,
+      "exists": false
+    },
+    "easter14_chocchestrare_64_a_2_5": {
+      "name": "easter14_chocchestrare_64_a_2_5",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_a_4_5",
+      "x": 33,
+      "y": 84,
+      "exists": false
+    },
+    "easter14_chocchestrare_64_b_2_5": {
+      "name": "easter14_chocchestrare_64_b_2_5",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_64_b_4_5",
+      "x": 32,
+      "y": 79,
+      "exists": false
+    },
+    "easter14_chocchestrare_32_a_2_0": {
+      "name": "easter14_chocchestrare_32_a_2_0",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_32_a_4_0",
+      "x": 15,
+      "y": 27,
+      "exists": false
+    },
+    "easter14_chocchestrare_32_b_2_0": {
+      "name": "easter14_chocchestrare_32_b_2_0",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_32_b_4_0",
+      "x": 6,
+      "y": 20,
+      "exists": false
+    },
+    "easter14_chocchestrare_32_a_2_1": {
+      "name": "easter14_chocchestrare_32_a_2_1",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_32_a_4_1",
+      "x": 23,
+      "y": 43,
+      "exists": false
+    },
+    "easter14_chocchestrare_32_b_2_1": {
+      "name": "easter14_chocchestrare_32_b_2_1",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_32_b_4_1",
+      "x": 6,
+      "y": 39,
+      "exists": false
+    },
+    "easter14_chocchestrare_32_a_2_2": {
+      "name": "easter14_chocchestrare_32_a_2_2",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_32_a_4_2",
+      "x": 23,
+      "y": 43,
+      "exists": false
+    },
+    "easter14_chocchestrare_32_b_2_2": {
+      "name": "easter14_chocchestrare_32_b_2_2",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_32_b_4_2",
+      "x": 6,
+      "y": 39,
+      "exists": false
+    },
+    "easter14_chocchestrare_32_a_2_3": {
+      "name": "easter14_chocchestrare_32_a_2_3",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_32_a_4_3",
+      "x": 23,
+      "y": 43,
+      "exists": false
+    },
+    "easter14_chocchestrare_32_b_2_3": {
+      "name": "easter14_chocchestrare_32_b_2_3",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_32_b_4_3",
+      "x": 6,
+      "y": 39,
+      "exists": false
+    },
+    "easter14_chocchestrare_32_a_2_4": {
+      "name": "easter14_chocchestrare_32_a_2_4",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_32_a_4_4",
+      "x": 23,
+      "y": 43,
+      "exists": false
+    },
+    "easter14_chocchestrare_32_b_2_4": {
+      "name": "easter14_chocchestrare_32_b_2_4",
+      "flipH": 1,
+      "source": "easter14_chocchestrare_32_b_4_4",
+      "x": 6,
+      "y": 39,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "easter14_chocchestrare",
+    "visualization": "furniture_animated"
+  }
+}

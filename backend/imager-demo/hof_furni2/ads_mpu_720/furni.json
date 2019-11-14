@@ -1,0 +1,126 @@
+{
+  "assets": {
+    "ads_mpu_720_64_a_4_0": {
+      "name": "ads_mpu_720_64_a_4_0",
+      "exists": true
+    },
+    "ads_mpu_720_64_b_4_0": {
+      "name": "ads_mpu_720_64_b_4_0",
+      "exists": true
+    },
+    "ads_mpu_720_icon_a": {
+      "name": "ads_mpu_720_icon_a",
+      "exists": true
+    },
+    "ads_mpu_720_32_a_4_0": {
+      "name": "ads_mpu_720_32_a_4_0",
+      "exists": true
+    },
+    "ads_mpu_720_32_b_4_0": {
+      "name": "ads_mpu_720_32_b_4_0",
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY"
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_bb",
+    "type": "ads_mpu_720",
+    "visualization": "furniture_bb"
+  }
+}

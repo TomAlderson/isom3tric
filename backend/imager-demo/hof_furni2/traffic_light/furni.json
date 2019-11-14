@@ -1,0 +1,444 @@
+{
+  "assets": {
+    "traffic_light_32_a_2_0": {
+      "name": "traffic_light_32_a_2_0",
+      "x": 10,
+      "y": 47,
+      "exists": true
+    },
+    "traffic_light_32_a_4_0": {
+      "name": "traffic_light_32_a_4_0",
+      "flipH": 1,
+      "source": "traffic_light_32_a_2_0",
+      "x": 10,
+      "y": 47,
+      "exists": false
+    },
+    "traffic_light_32_b_2_0": {
+      "name": "traffic_light_32_b_2_0",
+      "x": 5,
+      "y": 13,
+      "exists": true
+    },
+    "traffic_light_32_b_4_0": {
+      "name": "traffic_light_32_b_4_0",
+      "flipH": 1,
+      "source": "traffic_light_32_b_2_0",
+      "x": 5,
+      "y": 13,
+      "exists": false
+    },
+    "traffic_light_32_c_2_0": {
+      "name": "traffic_light_32_c_2_0",
+      "x": 16,
+      "y": 37,
+      "exists": true
+    },
+    "traffic_light_32_c_2_1": {
+      "name": "traffic_light_32_c_2_1",
+      "x": 17,
+      "y": 26,
+      "exists": true
+    },
+    "traffic_light_32_c_4_0": {
+      "name": "traffic_light_32_c_4_0",
+      "flipH": 1,
+      "source": "traffic_light_32_c_2_0",
+      "x": 16,
+      "y": 37,
+      "exists": false
+    },
+    "traffic_light_32_c_4_1": {
+      "name": "traffic_light_32_c_4_1",
+      "flipH": 1,
+      "source": "traffic_light_32_c_2_1",
+      "x": 17,
+      "y": 26,
+      "exists": false
+    },
+    "traffic_light_32_sd_0_0": {
+      "name": "traffic_light_32_sd_0_0",
+      "x": 8,
+      "y": 3,
+      "exists": true
+    },
+    "traffic_light_32_sd_2_0": {
+      "name": "traffic_light_32_sd_2_0",
+      "source": "traffic_light_32_sd_0_0",
+      "x": 8,
+      "y": 3,
+      "exists": false
+    },
+    "traffic_light_32_sd_4_0": {
+      "name": "traffic_light_32_sd_4_0",
+      "source": "traffic_light_32_sd_0_0",
+      "x": 8,
+      "y": 3,
+      "exists": false
+    },
+    "traffic_light_64_a_2_0": {
+      "name": "traffic_light_64_a_2_0",
+      "x": 21,
+      "y": 94,
+      "exists": true
+    },
+    "traffic_light_64_a_4_0": {
+      "name": "traffic_light_64_a_4_0",
+      "flipH": 1,
+      "source": "traffic_light_64_a_2_0",
+      "x": 21,
+      "y": 94,
+      "exists": false
+    },
+    "traffic_light_64_b_2_0": {
+      "name": "traffic_light_64_b_2_0",
+      "x": 12,
+      "y": 27,
+      "exists": true
+    },
+    "traffic_light_64_b_4_0": {
+      "name": "traffic_light_64_b_4_0",
+      "flipH": 1,
+      "source": "traffic_light_64_b_2_0",
+      "x": 12,
+      "y": 27,
+      "exists": false
+    },
+    "traffic_light_64_c_2_0": {
+      "name": "traffic_light_64_c_2_0",
+      "x": 34,
+      "y": 74,
+      "exists": true
+    },
+    "traffic_light_64_c_2_1": {
+      "name": "traffic_light_64_c_2_1",
+      "x": 35,
+      "y": 55,
+      "exists": true
+    },
+    "traffic_light_64_c_4_0": {
+      "name": "traffic_light_64_c_4_0",
+      "flipH": 1,
+      "source": "traffic_light_64_c_2_0",
+      "x": 34,
+      "y": 74,
+      "exists": false
+    },
+    "traffic_light_64_c_4_1": {
+      "name": "traffic_light_64_c_4_1",
+      "flipH": 1,
+      "source": "traffic_light_64_c_2_1",
+      "x": 35,
+      "y": 55,
+      "exists": false
+    },
+    "traffic_light_64_sd_0_0": {
+      "name": "traffic_light_64_sd_0_0",
+      "x": 17,
+      "y": 7,
+      "exists": true
+    },
+    "traffic_light_64_sd_2_0": {
+      "name": "traffic_light_64_sd_2_0",
+      "source": "traffic_light_64_sd_0_0",
+      "x": 17,
+      "y": 7,
+      "exists": false
+    },
+    "traffic_light_64_sd_4_0": {
+      "name": "traffic_light_64_sd_4_0",
+      "source": "traffic_light_64_sd_0_0",
+      "x": 17,
+      "y": 7,
+      "exists": false
+    },
+    "traffic_light_icon_a": {
+      "name": "traffic_light_icon_a",
+      "x": 28,
+      "y": 19,
+      "exists": true
+    },
+    "traffic_light_icon_b": {
+      "name": "traffic_light_icon_b",
+      "x": 24,
+      "y": -1,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 2
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "47738B"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "2B95E5"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "E0337A"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "FFDD24"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "EF1D1D"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "47738B"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "2B95E5"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "E0337A"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "FFDD24"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "EF1D1D"
+          }
+        ]
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  99
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 5
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "z": 10
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "47738B"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "2B95E5"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "E0337A"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "FFDD24"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "EF1D1D"
+          }
+        ]
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  99
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 5
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "z": 10
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "traffic_light",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "assets": {
+    "paris_c15_flowerstl_64_sd_2_0": {
+      "name": "paris_c15_flowerstl_64_sd_2_0",
+      "x": 43,
+      "y": 15,
+      "exists": true
+    },
+    "paris_c15_flowerstl_64_a_2_0": {
+      "name": "paris_c15_flowerstl_64_a_2_0",
+      "x": 48,
+      "y": 86,
+      "exists": true
+    },
+    "paris_c15_flowerstl_64_b_2_0": {
+      "name": "paris_c15_flowerstl_64_b_2_0",
+      "x": 22,
+      "y": 16,
+      "exists": true
+    },
+    "paris_c15_flowerstl_icon_a": {
+      "name": "paris_c15_flowerstl_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "paris_c15_flowerstl_64_sd_4_0": {
+      "name": "paris_c15_flowerstl_64_sd_4_0",
+      "flipH": 1,
+      "source": "paris_c15_flowerstl_64_sd_2_0",
+      "x": 43,
+      "y": 15,
+      "exists": false
+    },
+    "paris_c15_flowerstl_64_a_4_0": {
+      "name": "paris_c15_flowerstl_64_a_4_0",
+      "flipH": 1,
+      "source": "paris_c15_flowerstl_64_a_2_0",
+      "x": 48,
+      "y": 86,
+      "exists": false
+    },
+    "paris_c15_flowerstl_64_b_4_0": {
+      "name": "paris_c15_flowerstl_64_b_4_0",
+      "flipH": 1,
+      "source": "paris_c15_flowerstl_64_b_2_0",
+      "x": 22,
+      "y": 16,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.001
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "paris_c15_flowerstl",
+    "visualization": "furniture_animated"
+  }
+}

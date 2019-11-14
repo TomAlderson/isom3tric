@@ -1,0 +1,925 @@
+{
+  "assets": {
+    "dino_c15_dilosaur_64_sd_0_0": {
+      "name": "dino_c15_dilosaur_64_sd_0_0",
+      "x": 22,
+      "y": 11,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_a_0_0": {
+      "name": "dino_c15_dilosaur_64_a_0_0",
+      "x": 43,
+      "y": 37,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_a_0_1": {
+      "name": "dino_c15_dilosaur_64_a_0_1",
+      "x": 46,
+      "y": 37,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_a_0_2": {
+      "name": "dino_c15_dilosaur_64_a_0_2",
+      "x": 44,
+      "y": 37,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_a_0_3": {
+      "name": "dino_c15_dilosaur_64_a_0_3",
+      "x": 42,
+      "y": 37,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_a_0_4": {
+      "name": "dino_c15_dilosaur_64_a_0_4",
+      "x": 39,
+      "y": 39,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_a_0_5": {
+      "name": "dino_c15_dilosaur_64_a_0_5",
+      "x": 32,
+      "y": 38,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_a_0_6": {
+      "name": "dino_c15_dilosaur_64_a_0_6",
+      "x": 35,
+      "y": 39,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_a_0_7": {
+      "name": "dino_c15_dilosaur_64_a_0_7",
+      "x": 41,
+      "y": 37,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_b_0_0": {
+      "name": "dino_c15_dilosaur_64_b_0_0",
+      "x": 33,
+      "y": 46,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_c_0_0": {
+      "name": "dino_c15_dilosaur_64_c_0_0",
+      "x": 31,
+      "y": 31,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_0_1": {
+      "name": "dino_c15_dilosaur_64_c_0_1",
+      "x": 34,
+      "y": 31,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_0_2": {
+      "name": "dino_c15_dilosaur_64_c_0_2",
+      "x": 32,
+      "y": 31,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_0_3": {
+      "name": "dino_c15_dilosaur_64_c_0_3",
+      "x": 30,
+      "y": 31,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_0_4": {
+      "name": "dino_c15_dilosaur_64_c_0_4",
+      "x": 27,
+      "y": 33,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_0_5": {
+      "name": "dino_c15_dilosaur_64_c_0_5",
+      "x": 20,
+      "y": 32,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_0_6": {
+      "name": "dino_c15_dilosaur_64_c_0_6",
+      "x": 23,
+      "y": 33,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_0_7": {
+      "name": "dino_c15_dilosaur_64_c_0_7",
+      "x": 29,
+      "y": 31,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_d_0_0": {
+      "name": "dino_c15_dilosaur_64_d_0_0",
+      "x": -17,
+      "y": 70,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_d_0_1": {
+      "name": "dino_c15_dilosaur_64_d_0_1",
+      "x": -17,
+      "y": 69,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_d_0_2": {
+      "name": "dino_c15_dilosaur_64_d_0_2",
+      "x": -17,
+      "y": 67,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_d_0_3": {
+      "name": "dino_c15_dilosaur_64_d_0_3",
+      "x": -17,
+      "y": 66,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_d_0_4": {
+      "name": "dino_c15_dilosaur_64_d_0_4",
+      "x": -17,
+      "y": 58,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_d_0_5": {
+      "name": "dino_c15_dilosaur_64_d_0_5",
+      "x": -17,
+      "y": 49,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_e_0_0": {
+      "name": "dino_c15_dilosaur_64_e_0_0",
+      "x": 49,
+      "y": 56,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_e_0_1": {
+      "name": "dino_c15_dilosaur_64_e_0_1",
+      "x": 49,
+      "y": 56,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_e_0_2": {
+      "name": "dino_c15_dilosaur_64_e_0_2",
+      "x": 49,
+      "y": 56,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_e_0_3": {
+      "name": "dino_c15_dilosaur_64_e_0_3",
+      "x": 49,
+      "y": 56,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_e_0_4": {
+      "name": "dino_c15_dilosaur_64_e_0_4",
+      "x": 49,
+      "y": 56,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_e_0_5": {
+      "name": "dino_c15_dilosaur_64_e_0_5",
+      "x": 49,
+      "y": 57,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_e_0_6": {
+      "name": "dino_c15_dilosaur_64_e_0_6",
+      "x": 49,
+      "y": 61,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_e_0_7": {
+      "name": "dino_c15_dilosaur_64_e_0_7",
+      "x": 49,
+      "y": 68,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_e_0_8": {
+      "name": "dino_c15_dilosaur_64_e_0_8",
+      "x": 48,
+      "y": 69,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_e_0_9": {
+      "name": "dino_c15_dilosaur_64_e_0_9",
+      "x": 49,
+      "y": 68,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_e_0_10": {
+      "name": "dino_c15_dilosaur_64_e_0_10",
+      "x": 48,
+      "y": 72,
+      "exists": true
+    },
+    "dino_c15_dilosaur_icon_a": {
+      "name": "dino_c15_dilosaur_icon_a",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    },
+    "dino_c15_dilosaur_64_sd_2_0": {
+      "name": "dino_c15_dilosaur_64_sd_2_0",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_sd_0_0",
+      "x": 22,
+      "y": 11,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_a_2_0": {
+      "name": "dino_c15_dilosaur_64_a_2_0",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_a_0_0",
+      "x": 43,
+      "y": 37,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_a_2_1": {
+      "name": "dino_c15_dilosaur_64_a_2_1",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_a_0_1",
+      "x": 46,
+      "y": 37,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_a_2_2": {
+      "name": "dino_c15_dilosaur_64_a_2_2",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_a_0_2",
+      "x": 44,
+      "y": 37,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_a_2_3": {
+      "name": "dino_c15_dilosaur_64_a_2_3",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_a_0_3",
+      "x": 42,
+      "y": 37,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_a_2_4": {
+      "name": "dino_c15_dilosaur_64_a_2_4",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_a_0_4",
+      "x": 39,
+      "y": 39,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_a_2_5": {
+      "name": "dino_c15_dilosaur_64_a_2_5",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_a_0_5",
+      "x": 32,
+      "y": 38,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_a_2_6": {
+      "name": "dino_c15_dilosaur_64_a_2_6",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_a_0_6",
+      "x": 35,
+      "y": 39,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_a_2_7": {
+      "name": "dino_c15_dilosaur_64_a_2_7",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_a_0_7",
+      "x": 41,
+      "y": 37,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_b_2_0": {
+      "name": "dino_c15_dilosaur_64_b_2_0",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_b_0_0",
+      "x": 33,
+      "y": 46,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_2_0": {
+      "name": "dino_c15_dilosaur_64_c_2_0",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_c_0_0",
+      "x": 31,
+      "y": 31,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_2_1": {
+      "name": "dino_c15_dilosaur_64_c_2_1",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_c_0_1",
+      "x": 34,
+      "y": 31,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_2_2": {
+      "name": "dino_c15_dilosaur_64_c_2_2",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_c_0_2",
+      "x": 32,
+      "y": 31,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_2_3": {
+      "name": "dino_c15_dilosaur_64_c_2_3",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_c_0_3",
+      "x": 30,
+      "y": 31,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_2_4": {
+      "name": "dino_c15_dilosaur_64_c_2_4",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_c_0_4",
+      "x": 27,
+      "y": 33,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_2_5": {
+      "name": "dino_c15_dilosaur_64_c_2_5",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_c_0_5",
+      "x": 20,
+      "y": 32,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_2_6": {
+      "name": "dino_c15_dilosaur_64_c_2_6",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_c_0_6",
+      "x": 23,
+      "y": 33,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_c_2_7": {
+      "name": "dino_c15_dilosaur_64_c_2_7",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_c_0_7",
+      "x": 29,
+      "y": 31,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_d_2_0": {
+      "name": "dino_c15_dilosaur_64_d_2_0",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_d_0_0",
+      "x": -17,
+      "y": 70,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_d_2_1": {
+      "name": "dino_c15_dilosaur_64_d_2_1",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_d_0_1",
+      "x": -17,
+      "y": 69,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_d_2_2": {
+      "name": "dino_c15_dilosaur_64_d_2_2",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_d_0_2",
+      "x": -17,
+      "y": 67,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_d_2_3": {
+      "name": "dino_c15_dilosaur_64_d_2_3",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_d_0_3",
+      "x": -17,
+      "y": 66,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_d_2_4": {
+      "name": "dino_c15_dilosaur_64_d_2_4",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_d_0_4",
+      "x": -17,
+      "y": 58,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_d_2_5": {
+      "name": "dino_c15_dilosaur_64_d_2_5",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_d_0_5",
+      "x": -17,
+      "y": 49,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_e_2_0": {
+      "name": "dino_c15_dilosaur_64_e_2_0",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_e_0_0",
+      "x": 49,
+      "y": 56,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_e_2_1": {
+      "name": "dino_c15_dilosaur_64_e_2_1",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_e_0_1",
+      "x": 49,
+      "y": 56,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_e_2_2": {
+      "name": "dino_c15_dilosaur_64_e_2_2",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_e_0_2",
+      "x": 49,
+      "y": 56,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_e_2_3": {
+      "name": "dino_c15_dilosaur_64_e_2_3",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_e_0_3",
+      "x": 49,
+      "y": 56,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_e_2_4": {
+      "name": "dino_c15_dilosaur_64_e_2_4",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_e_0_4",
+      "x": 49,
+      "y": 56,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_e_2_5": {
+      "name": "dino_c15_dilosaur_64_e_2_5",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_e_0_5",
+      "x": 49,
+      "y": 57,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_e_2_6": {
+      "name": "dino_c15_dilosaur_64_e_2_6",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_e_0_6",
+      "x": 49,
+      "y": 61,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_e_2_7": {
+      "name": "dino_c15_dilosaur_64_e_2_7",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_e_0_7",
+      "x": 49,
+      "y": 68,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_e_2_8": {
+      "name": "dino_c15_dilosaur_64_e_2_8",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_e_0_8",
+      "x": 48,
+      "y": 69,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_e_2_9": {
+      "name": "dino_c15_dilosaur_64_e_2_9",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_e_0_9",
+      "x": 49,
+      "y": 68,
+      "exists": false
+    },
+    "dino_c15_dilosaur_64_e_2_10": {
+      "name": "dino_c15_dilosaur_64_e_2_10",
+      "flipH": 1,
+      "source": "dino_c15_dilosaur_64_e_0_10",
+      "x": 48,
+      "y": 72,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  4,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  4,
+                  5,
+                  6
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  4,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1
+                ],
+                [
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  2,
+                  3,
+                  2
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  4,
+                  3,
+                  2,
+                  1
+                ],
+                [
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  2,
+                  3,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  1,
+                  2,
+                  3,
+                  4,
+                  4,
+                  3,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  3,
+                  4,
+                  4,
+                  4,
+                  3,
+                  1
+                ],
+                [
+                  1,
+                  5,
+                  6,
+                  7,
+                  8,
+                  7,
+                  8,
+                  9,
+                  10,
+                  9,
+                  10,
+                  8,
+                  7,
+                  8,
+                  7,
+                  6,
+                  5,
+                  1
+                ],
+                [
+                  1,
+                  1,
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0,
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  5,
+                  6,
+                  7,
+                  8,
+                  7,
+                  8,
+                  7,
+                  8,
+                  7,
+                  6,
+                  5,
+                  1,
+                  1,
+                  5,
+                  6,
+                  7,
+                  8,
+                  7,
+                  8,
+                  9,
+                  10,
+                  9,
+                  10,
+                  9,
+                  10,
+                  9,
+                  8,
+                  7,
+                  8,
+                  7,
+                  8,
+                  9,
+                  10,
+                  9,
+                  10,
+                  9,
+                  10,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  1
+                ],
+                [
+                  1,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1,
+                  1,
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "dino_c15_dilosaur",
+    "visualization": "furniture_animated"
+  }
+}

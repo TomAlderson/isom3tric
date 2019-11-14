@@ -1,0 +1,448 @@
+{
+  "assets": {
+    "gothicfountain2_icon_a": {
+      "name": "gothicfountain2_icon_a",
+      "x": 10,
+      "y": 16,
+      "exists": true
+    },
+    "gothicfountain2_64_a_2_1": {
+      "name": "gothicfountain2_64_a_2_1",
+      "x": 17,
+      "y": 47,
+      "exists": true
+    },
+    "gothicfountain2_64_b_2_0": {
+      "name": "gothicfountain2_64_b_2_0",
+      "x": 7,
+      "y": -15,
+      "exists": true
+    },
+    "gothicfountain2_64_b_2_1": {
+      "name": "gothicfountain2_64_b_2_1",
+      "x": 10,
+      "y": -15,
+      "exists": true
+    },
+    "gothicfountain2_64_b_2_2": {
+      "name": "gothicfountain2_64_b_2_2",
+      "x": 10,
+      "y": -15,
+      "exists": true
+    },
+    "gothicfountain2_64_b_2_3": {
+      "name": "gothicfountain2_64_b_2_3",
+      "x": 10,
+      "y": -15,
+      "exists": true
+    },
+    "gothicfountain2_64_c_2_0": {
+      "name": "gothicfountain2_64_c_2_0",
+      "x": -4,
+      "y": 20,
+      "exists": false
+    },
+    "gothicfountain2_64_c_2_1": {
+      "name": "gothicfountain2_64_c_2_1",
+      "x": 9,
+      "y": 20,
+      "exists": true
+    },
+    "gothicfountain2_64_c_2_2": {
+      "name": "gothicfountain2_64_c_2_2",
+      "x": 9,
+      "y": 20,
+      "exists": true
+    },
+    "gothicfountain2_64_c_2_3": {
+      "name": "gothicfountain2_64_c_2_3",
+      "x": 9,
+      "y": 20,
+      "exists": true
+    },
+    "gothicfountain2_64_a_4_1": {
+      "name": "gothicfountain2_64_a_4_1",
+      "flipH": 1,
+      "source": "gothicfountain2_64_a_2_1",
+      "x": 17,
+      "y": 47,
+      "exists": false
+    },
+    "gothicfountain2_64_b_4_1": {
+      "name": "gothicfountain2_64_b_4_1",
+      "flipH": 1,
+      "source": "gothicfountain2_64_b_2_1",
+      "x": 10,
+      "y": -15,
+      "exists": false
+    },
+    "gothicfountain2_64_b_4_2": {
+      "name": "gothicfountain2_64_b_4_2",
+      "flipH": 1,
+      "source": "gothicfountain2_64_b_2_2",
+      "x": 10,
+      "y": -15,
+      "exists": false
+    },
+    "gothicfountain2_64_b_4_3": {
+      "name": "gothicfountain2_64_b_4_3",
+      "flipH": 1,
+      "source": "gothicfountain2_64_b_2_3",
+      "x": 10,
+      "y": -15,
+      "exists": false
+    },
+    "gothicfountain2_64_c_4_1": {
+      "name": "gothicfountain2_64_c_4_1",
+      "flipH": 1,
+      "source": "gothicfountain2_64_c_2_1",
+      "x": 9,
+      "y": 20,
+      "exists": false
+    },
+    "gothicfountain2_64_c_4_2": {
+      "name": "gothicfountain2_64_c_4_2",
+      "flipH": 1,
+      "source": "gothicfountain2_64_c_2_2",
+      "x": 9,
+      "y": 20,
+      "exists": false
+    },
+    "gothicfountain2_64_c_4_3": {
+      "name": "gothicfountain2_64_c_4_3",
+      "flipH": 1,
+      "source": "gothicfountain2_64_c_2_3",
+      "x": 9,
+      "y": 20,
+      "exists": false
+    },
+    "gothicfountain2_32_a_2_1": {
+      "name": "gothicfountain2_32_a_2_1",
+      "x": 9,
+      "y": 23,
+      "exists": true
+    },
+    "gothicfountain2_32_b_2_0": {
+      "name": "gothicfountain2_32_b_2_0",
+      "x": 4,
+      "y": -8,
+      "exists": false
+    },
+    "gothicfountain2_32_b_2_1": {
+      "name": "gothicfountain2_32_b_2_1",
+      "x": 5,
+      "y": -8,
+      "exists": true
+    },
+    "gothicfountain2_32_b_2_2": {
+      "name": "gothicfountain2_32_b_2_2",
+      "x": 5,
+      "y": -8,
+      "exists": true
+    },
+    "gothicfountain2_32_b_2_3": {
+      "name": "gothicfountain2_32_b_2_3",
+      "x": 5,
+      "y": -8,
+      "exists": true
+    },
+    "gothicfountain2_32_c_2_0": {
+      "name": "gothicfountain2_32_c_2_0",
+      "x": -3,
+      "y": 9,
+      "exists": false
+    },
+    "gothicfountain2_32_c_2_1": {
+      "name": "gothicfountain2_32_c_2_1",
+      "x": 4,
+      "y": 9,
+      "exists": true
+    },
+    "gothicfountain2_32_c_2_2": {
+      "name": "gothicfountain2_32_c_2_2",
+      "x": 4,
+      "y": 9,
+      "exists": true
+    },
+    "gothicfountain2_32_c_2_3": {
+      "name": "gothicfountain2_32_c_2_3",
+      "x": 4,
+      "y": 9,
+      "exists": true
+    },
+    "gothicfountain2_32_a_4_1": {
+      "name": "gothicfountain2_32_a_4_1",
+      "flipH": 1,
+      "source": "gothicfountain2_32_a_2_1",
+      "x": 9,
+      "y": 23,
+      "exists": false
+    },
+    "gothicfountain2_32_b_4_1": {
+      "name": "gothicfountain2_32_b_4_1",
+      "flipH": 1,
+      "source": "gothicfountain2_32_b_2_1",
+      "x": 5,
+      "y": -8,
+      "exists": false
+    },
+    "gothicfountain2_32_b_4_2": {
+      "name": "gothicfountain2_32_b_4_2",
+      "flipH": 1,
+      "source": "gothicfountain2_32_b_2_2",
+      "x": 5,
+      "y": -8,
+      "exists": false
+    },
+    "gothicfountain2_32_b_4_3": {
+      "name": "gothicfountain2_32_b_4_3",
+      "flipH": 1,
+      "source": "gothicfountain2_32_b_2_3",
+      "x": 5,
+      "y": -8,
+      "exists": false
+    },
+    "gothicfountain2_32_c_4_1": {
+      "name": "gothicfountain2_32_c_4_1",
+      "flipH": 1,
+      "source": "gothicfountain2_32_c_2_1",
+      "x": 4,
+      "y": 9,
+      "exists": false
+    },
+    "gothicfountain2_32_c_4_2": {
+      "name": "gothicfountain2_32_c_4_2",
+      "flipH": 1,
+      "source": "gothicfountain2_32_c_2_2",
+      "x": 4,
+      "y": 9,
+      "exists": false
+    },
+    "gothicfountain2_32_c_4_3": {
+      "name": "gothicfountain2_32_c_4_3",
+      "flipH": 1,
+      "source": "gothicfountain2_32_c_2_3",
+      "x": 4,
+      "y": 9,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1.0313,
+      "y": 0.2,
+      "z": 2.625
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        },
+        {
+          "layerId": 2,
+          "alpha": 153,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  3,
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        },
+        {
+          "layerId": 2,
+          "alpha": 153,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "gothicfountain2",
+    "visualization": "furniture_animated"
+  }
+}

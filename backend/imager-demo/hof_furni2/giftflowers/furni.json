@@ -1,0 +1,157 @@
+{
+  "assets": {
+    "giftflowers_64_a_2_0": {
+      "name": "giftflowers_64_a_2_0",
+      "x": 35,
+      "y": 101,
+      "exists": true
+    },
+    "giftflowers_64_a_2_1": {
+      "name": "giftflowers_64_a_2_1",
+      "x": 35,
+      "y": 101,
+      "exists": true
+    },
+    "giftflowers_64_sd_0_0": {
+      "name": "giftflowers_64_sd_0_0",
+      "x": 17,
+      "y": 9,
+      "exists": true
+    },
+    "giftflowers_64_sd_2_0": {
+      "name": "giftflowers_64_sd_2_0",
+      "source": "giftflowers_64_sd_0_0",
+      "x": 17,
+      "y": 9,
+      "exists": false
+    },
+    "giftflowers_icon_a": {
+      "name": "giftflowers_icon_a",
+      "x": 10,
+      "y": 15,
+      "exists": true
+    },
+    "giftflowers_32_a_2_0": {
+      "name": "giftflowers_32_a_2_0",
+      "x": 19,
+      "y": 51,
+      "exists": true
+    },
+    "giftflowers_32_a_2_1": {
+      "name": "giftflowers_32_a_2_1",
+      "x": 19,
+      "y": 51,
+      "exists": true
+    },
+    "giftflowers_32_sd_0_0": {
+      "name": "giftflowers_32_sd_0_0",
+      "x": 9,
+      "y": 2,
+      "exists": true
+    },
+    "giftflowers_32_sd_2_0": {
+      "name": "giftflowers_32_sd_2_0",
+      "source": "giftflowers_32_sd_0_0",
+      "x": 9,
+      "y": 2,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.5625
+    },
+    "directions": [
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "giftflowers",
+    "visualization": "furniture_animated"
+  }
+}

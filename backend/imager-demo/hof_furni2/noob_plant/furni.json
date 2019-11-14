@@ -1,0 +1,110 @@
+{
+  "assets": {
+    "noob_plant_64_a_0_0": {
+      "name": "noob_plant_64_a_0_0",
+      "x": 21,
+      "y": 65,
+      "exists": true
+    },
+    "noob_plant_64_a_2_0": {
+      "name": "noob_plant_64_a_2_0",
+      "flipH": 1,
+      "source": "noob_plant_64_a_0_0",
+      "x": 21,
+      "y": 65,
+      "exists": false
+    },
+    "noob_plant_64_sd_0_0": {
+      "name": "noob_plant_64_sd_0_0",
+      "x": 12,
+      "y": 0,
+      "exists": true
+    },
+    "noob_plant_64_sd_2_0": {
+      "name": "noob_plant_64_sd_2_0",
+      "flipH": 1,
+      "source": "noob_plant_64_sd_0_0",
+      "x": 12,
+      "y": 0,
+      "exists": false
+    },
+    "noob_plant_icon_a": {
+      "name": "noob_plant_icon_a",
+      "x": 9,
+      "y": 16,
+      "exists": true
+    },
+    "noob_plant_32_a_0_0": {
+      "name": "noob_plant_32_a_0_0",
+      "x": 9,
+      "y": 33,
+      "exists": true
+    },
+    "noob_plant_32_a_2_0": {
+      "name": "noob_plant_32_a_2_0",
+      "flipH": 1,
+      "source": "noob_plant_32_a_0_0",
+      "x": 9,
+      "y": 33,
+      "exists": false
+    },
+    "noob_plant_32_sd_0_0": {
+      "name": "noob_plant_32_sd_0_0",
+      "x": 5,
+      "y": 0,
+      "exists": true
+    },
+    "noob_plant_32_sd_2_0": {
+      "name": "noob_plant_32_sd_2_0",
+      "flipH": 1,
+      "source": "noob_plant_32_sd_0_0",
+      "x": 5,
+      "y": 0,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "noob_plant",
+    "visualization": "furniture_static"
+  }
+}

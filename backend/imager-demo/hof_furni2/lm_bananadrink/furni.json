@@ -1,0 +1,136 @@
+{
+  "assets": {
+    "lm_bananadrink_32_sd_2_0": {
+      "name": "lm_bananadrink_32_sd_2_0",
+      "x": 16,
+      "y": 2,
+      "exists": true
+    },
+    "lm_bananadrink_32_a_2_0": {
+      "name": "lm_bananadrink_32_a_2_0",
+      "x": 16,
+      "y": 50,
+      "exists": true
+    },
+    "lm_bananadrink_32_a_2_1": {
+      "name": "lm_bananadrink_32_a_2_1",
+      "x": 16,
+      "y": 50,
+      "exists": true
+    },
+    "lm_bananadrink_64_sd_2_0": {
+      "name": "lm_bananadrink_64_sd_2_0",
+      "x": 30,
+      "y": 4,
+      "exists": true
+    },
+    "lm_bananadrink_64_a_2_0": {
+      "name": "lm_bananadrink_64_a_2_0",
+      "x": 30,
+      "y": 98,
+      "exists": true
+    },
+    "lm_bananadrink_64_a_2_1": {
+      "name": "lm_bananadrink_64_a_2_1",
+      "x": 30,
+      "y": 98,
+      "exists": true
+    },
+    "lm_bananadrink_icon_a": {
+      "name": "lm_bananadrink_icon_a",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    },
+    "lm_bananadrink_32_sd_4_0": {
+      "name": "lm_bananadrink_32_sd_4_0",
+      "flipH": 1,
+      "source": "lm_bananadrink_32_sd_2_0",
+      "x": 16,
+      "y": 2,
+      "exists": false
+    },
+    "lm_bananadrink_32_a_4_0": {
+      "name": "lm_bananadrink_32_a_4_0",
+      "flipH": 1,
+      "source": "lm_bananadrink_32_a_2_0",
+      "x": 16,
+      "y": 50,
+      "exists": false
+    },
+    "lm_bananadrink_32_a_4_1": {
+      "name": "lm_bananadrink_32_a_4_1",
+      "flipH": 1,
+      "source": "lm_bananadrink_32_a_2_1",
+      "x": 16,
+      "y": 50,
+      "exists": false
+    },
+    "lm_bananadrink_64_sd_4_0": {
+      "name": "lm_bananadrink_64_sd_4_0",
+      "flipH": 1,
+      "source": "lm_bananadrink_64_sd_2_0",
+      "x": 30,
+      "y": 4,
+      "exists": false
+    },
+    "lm_bananadrink_64_a_4_0": {
+      "name": "lm_bananadrink_64_a_4_0",
+      "flipH": 1,
+      "source": "lm_bananadrink_64_a_2_0",
+      "x": 30,
+      "y": 98,
+      "exists": false
+    },
+    "lm_bananadrink_64_a_4_1": {
+      "name": "lm_bananadrink_64_a_4_1",
+      "flipH": 1,
+      "source": "lm_bananadrink_64_a_2_1",
+      "x": 30,
+      "y": 98,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.01
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "lm_bananadrink",
+    "visualization": "furniture_animated"
+  }
+}

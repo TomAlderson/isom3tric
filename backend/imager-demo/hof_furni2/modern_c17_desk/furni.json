@@ -1,0 +1,103 @@
+{
+  "assets": {
+    "modern_c17_desk_64_sd_0_0": {
+      "name": "modern_c17_desk_64_sd_0_0",
+      "x": 65,
+      "y": 16,
+      "exists": true
+    },
+    "modern_c17_desk_64_a_0_0": {
+      "name": "modern_c17_desk_64_a_0_0",
+      "x": 33,
+      "y": 50,
+      "exists": true
+    },
+    "modern_c17_desk_64_b_0_0": {
+      "name": "modern_c17_desk_64_b_0_0",
+      "x": 66,
+      "y": 33,
+      "exists": true
+    },
+    "modern_c17_desk_icon_a": {
+      "name": "modern_c17_desk_icon_a",
+      "x": 13,
+      "y": 11,
+      "exists": true
+    },
+    "modern_c17_desk_64_sd_2_0": {
+      "name": "modern_c17_desk_64_sd_2_0",
+      "flipH": 1,
+      "source": "modern_c17_desk_64_sd_0_0",
+      "x": 65,
+      "y": 16,
+      "exists": false
+    },
+    "modern_c17_desk_64_a_2_0": {
+      "name": "modern_c17_desk_64_a_2_0",
+      "flipH": 1,
+      "source": "modern_c17_desk_64_a_0_0",
+      "x": 33,
+      "y": 50,
+      "exists": false
+    },
+    "modern_c17_desk_64_b_2_0": {
+      "name": "modern_c17_desk_64_b_2_0",
+      "flipH": 1,
+      "source": "modern_c17_desk_64_b_0_0",
+      "x": 66,
+      "y": 33,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "modern_c17_desk",
+    "visualization": "furniture_static"
+  }
+}

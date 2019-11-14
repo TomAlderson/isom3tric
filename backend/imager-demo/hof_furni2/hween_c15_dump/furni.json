@@ -1,0 +1,341 @@
+{
+  "assets": {
+    "hween_c15_dump_64_sd_4_0": {
+      "name": "hween_c15_dump_64_sd_4_0",
+      "x": 65,
+      "y": 12,
+      "exists": true
+    },
+    "hween_c15_dump_64_a_4_0": {
+      "name": "hween_c15_dump_64_a_4_0",
+      "x": 67,
+      "y": 94,
+      "exists": true
+    },
+    "hween_c15_dump_64_b_4_0": {
+      "name": "hween_c15_dump_64_b_4_0",
+      "x": 71,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c15_dump_64_c_4_0": {
+      "name": "hween_c15_dump_64_c_4_0",
+      "x": 27,
+      "y": 25,
+      "exists": true
+    },
+    "hween_c15_dump_64_d_4_0": {
+      "name": "hween_c15_dump_64_d_4_0",
+      "x": 42,
+      "y": 100,
+      "exists": true
+    },
+    "hween_c15_dump_64_e_4_0": {
+      "name": "hween_c15_dump_64_e_4_0",
+      "x": 74,
+      "y": 83,
+      "exists": true
+    },
+    "hween_c15_dump_64_f_4_0": {
+      "name": "hween_c15_dump_64_f_4_0",
+      "x": 34,
+      "y": 64,
+      "exists": true
+    },
+    "hween_c15_dump_64_a_4_1": {
+      "name": "hween_c15_dump_64_a_4_1",
+      "x": 71,
+      "y": 94,
+      "exists": true
+    },
+    "hween_c15_dump_64_b_4_1": {
+      "name": "hween_c15_dump_64_b_4_1",
+      "x": 71,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c15_dump_64_c_4_1": {
+      "name": "hween_c15_dump_64_c_4_1",
+      "x": 27,
+      "y": -12,
+      "exists": true
+    },
+    "hween_c15_dump_64_d_4_1": {
+      "name": "hween_c15_dump_64_d_4_1",
+      "x": 44,
+      "y": 100,
+      "exists": true
+    },
+    "hween_c15_dump_64_e_4_1": {
+      "name": "hween_c15_dump_64_e_4_1",
+      "x": 74,
+      "y": 84,
+      "exists": true
+    },
+    "hween_c15_dump_64_f_4_1": {
+      "name": "hween_c15_dump_64_f_4_1",
+      "x": -58,
+      "y": 46,
+      "exists": true
+    },
+    "hween_c15_dump_icon_a": {
+      "name": "hween_c15_dump_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "hween_c15_dump_64_sd_2_0": {
+      "name": "hween_c15_dump_64_sd_2_0",
+      "x": 57,
+      "y": 10,
+      "exists": true
+    },
+    "hween_c15_dump_64_a_2_0": {
+      "name": "hween_c15_dump_64_a_2_0",
+      "x": 59,
+      "y": 92,
+      "exists": true
+    },
+    "hween_c15_dump_64_b_2_0": {
+      "name": "hween_c15_dump_64_b_2_0",
+      "x": 65,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c15_dump_64_c_2_0": {
+      "name": "hween_c15_dump_64_c_2_0",
+      "x": 29,
+      "y": 23,
+      "exists": true
+    },
+    "hween_c15_dump_64_d_2_0": {
+      "name": "hween_c15_dump_64_d_2_0",
+      "x": 24,
+      "y": 98,
+      "exists": true
+    },
+    "hween_c15_dump_64_e_2_0": {
+      "name": "hween_c15_dump_64_e_2_0",
+      "x": 62,
+      "y": 81,
+      "exists": true
+    },
+    "hween_c15_dump_64_f_2_0": {
+      "name": "hween_c15_dump_64_f_2_0",
+      "x": 28,
+      "y": 62,
+      "exists": true
+    },
+    "hween_c15_dump_64_a_2_1": {
+      "name": "hween_c15_dump_64_a_2_1",
+      "x": 59,
+      "y": 92,
+      "exists": true
+    },
+    "hween_c15_dump_64_b_2_1": {
+      "name": "hween_c15_dump_64_b_2_1",
+      "x": 65,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c15_dump_64_c_2_1": {
+      "name": "hween_c15_dump_64_c_2_1",
+      "x": 29,
+      "y": -14,
+      "exists": true
+    },
+    "hween_c15_dump_64_d_2_1": {
+      "name": "hween_c15_dump_64_d_2_1",
+      "x": 24,
+      "y": 98,
+      "exists": true
+    },
+    "hween_c15_dump_64_e_2_1": {
+      "name": "hween_c15_dump_64_e_2_1",
+      "x": 62,
+      "y": 82,
+      "exists": true
+    },
+    "hween_c15_dump_64_f_2_1": {
+      "name": "hween_c15_dump_64_f_2_1",
+      "x": 57,
+      "y": 44,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0.84
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1500
+        },
+        {
+          "layerId": 2,
+          "z": 2500
+        },
+        {
+          "layerId": 3,
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "z": 1600
+        },
+        {
+          "layerId": 5,
+          "z": 2600
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_change_state_when_step_on",
+    "type": "hween_c15_dump",
+    "visualization": "furniture_animated"
+  }
+}

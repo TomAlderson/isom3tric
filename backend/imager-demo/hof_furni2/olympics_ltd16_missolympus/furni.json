@@ -1,0 +1,365 @@
+{
+  "assets": {
+    "olympics_ltd16_missolympus_64_sd_0_0": {
+      "name": "olympics_ltd16_missolympus_64_sd_0_0",
+      "x": 27,
+      "y": 22,
+      "exists": true
+    },
+    "olympics_ltd16_missolympus_64_a_0_0": {
+      "name": "olympics_ltd16_missolympus_64_a_0_0",
+      "x": 28,
+      "y": 185,
+      "exists": true
+    },
+    "olympics_ltd16_missolympus_64_b_0_0": {
+      "name": "olympics_ltd16_missolympus_64_b_0_0",
+      "x": 8,
+      "y": 137,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_0_1": {
+      "name": "olympics_ltd16_missolympus_64_b_0_1",
+      "x": 10,
+      "y": 139,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_0_2": {
+      "name": "olympics_ltd16_missolympus_64_b_0_2",
+      "x": 11,
+      "y": 140,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_0_3": {
+      "name": "olympics_ltd16_missolympus_64_b_0_3",
+      "x": -13,
+      "y": 56,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_0_4": {
+      "name": "olympics_ltd16_missolympus_64_b_0_4",
+      "x": -11,
+      "y": 58,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_0_5": {
+      "name": "olympics_ltd16_missolympus_64_b_0_5",
+      "x": -10,
+      "y": 59,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_0_6": {
+      "name": "olympics_ltd16_missolympus_64_b_0_6",
+      "x": -17,
+      "y": 123,
+      "exists": true
+    },
+    "olympics_ltd16_missolympus_64_b_0_7": {
+      "name": "olympics_ltd16_missolympus_64_b_0_7",
+      "x": -15,
+      "y": 125,
+      "exists": true
+    },
+    "olympics_ltd16_missolympus_64_b_0_8": {
+      "name": "olympics_ltd16_missolympus_64_b_0_8",
+      "x": -14,
+      "y": 126,
+      "exists": true
+    },
+    "olympics_ltd16_missolympus_64_b_0_9": {
+      "name": "olympics_ltd16_missolympus_64_b_0_9",
+      "x": -27,
+      "y": 144,
+      "exists": true
+    },
+    "olympics_ltd16_missolympus_icon_a": {
+      "name": "olympics_ltd16_missolympus_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "olympics_ltd16_missolympus_64_sd_2_0": {
+      "name": "olympics_ltd16_missolympus_64_sd_2_0",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_sd_0_0",
+      "x": 27,
+      "y": 22,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_a_2_0": {
+      "name": "olympics_ltd16_missolympus_64_a_2_0",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_a_0_0",
+      "x": 28,
+      "y": 185,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_2_0": {
+      "name": "olympics_ltd16_missolympus_64_b_2_0",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_b_0_0",
+      "x": 8,
+      "y": 137,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_2_1": {
+      "name": "olympics_ltd16_missolympus_64_b_2_1",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_b_0_1",
+      "x": 10,
+      "y": 139,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_2_2": {
+      "name": "olympics_ltd16_missolympus_64_b_2_2",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_b_0_2",
+      "x": 11,
+      "y": 140,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_2_3": {
+      "name": "olympics_ltd16_missolympus_64_b_2_3",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_b_0_3",
+      "x": -13,
+      "y": 56,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_2_4": {
+      "name": "olympics_ltd16_missolympus_64_b_2_4",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_b_0_4",
+      "x": -11,
+      "y": 58,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_2_5": {
+      "name": "olympics_ltd16_missolympus_64_b_2_5",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_b_0_5",
+      "x": -10,
+      "y": 59,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_2_6": {
+      "name": "olympics_ltd16_missolympus_64_b_2_6",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_b_0_6",
+      "x": -17,
+      "y": 123,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_2_7": {
+      "name": "olympics_ltd16_missolympus_64_b_2_7",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_b_0_7",
+      "x": -15,
+      "y": 125,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_2_8": {
+      "name": "olympics_ltd16_missolympus_64_b_2_8",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_b_0_8",
+      "x": -14,
+      "y": 126,
+      "exists": false
+    },
+    "olympics_ltd16_missolympus_64_b_2_9": {
+      "name": "olympics_ltd16_missolympus_64_b_2_9",
+      "flipH": 1,
+      "source": "olympics_ltd16_missolympus_64_b_0_9",
+      "x": -27,
+      "y": 144,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  9,
+                  3,
+                  4,
+                  5,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  3,
+                  4,
+                  5,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9,
+                  9
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "olympics_ltd16_missolympus",
+    "visualization": "furniture_animated"
+  }
+}

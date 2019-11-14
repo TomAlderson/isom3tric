@@ -1,0 +1,914 @@
+{
+  "assets": {
+    "hween_c19_darkwerewolf_64_sd_4_0": {
+      "name": "hween_c19_darkwerewolf_64_sd_4_0",
+      "x": 54,
+      "y": 7,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_0": {
+      "name": "hween_c19_darkwerewolf_64_a_4_0",
+      "x": 12,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_0": {
+      "name": "hween_c19_darkwerewolf_64_b_4_0",
+      "x": 69,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_1": {
+      "name": "hween_c19_darkwerewolf_64_a_4_1",
+      "x": 13,
+      "y": 57,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_1": {
+      "name": "hween_c19_darkwerewolf_64_b_4_1",
+      "x": 72,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_2": {
+      "name": "hween_c19_darkwerewolf_64_a_4_2",
+      "x": 13,
+      "y": 57,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_2": {
+      "name": "hween_c19_darkwerewolf_64_b_4_2",
+      "x": 70,
+      "y": 59,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_3": {
+      "name": "hween_c19_darkwerewolf_64_a_4_3",
+      "x": 13,
+      "y": 57,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_3": {
+      "name": "hween_c19_darkwerewolf_64_b_4_3",
+      "x": 72,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_4": {
+      "name": "hween_c19_darkwerewolf_64_a_4_4",
+      "x": 12,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_4": {
+      "name": "hween_c19_darkwerewolf_64_b_4_4",
+      "x": 69,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_5": {
+      "name": "hween_c19_darkwerewolf_64_a_4_5",
+      "x": 14,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_5": {
+      "name": "hween_c19_darkwerewolf_64_b_4_5",
+      "x": 75,
+      "y": 57,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_6": {
+      "name": "hween_c19_darkwerewolf_64_a_4_6",
+      "x": 16,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_6": {
+      "name": "hween_c19_darkwerewolf_64_b_4_6",
+      "x": 74,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_7": {
+      "name": "hween_c19_darkwerewolf_64_a_4_7",
+      "x": 19,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_7": {
+      "name": "hween_c19_darkwerewolf_64_b_4_7",
+      "x": 79,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_8": {
+      "name": "hween_c19_darkwerewolf_64_a_4_8",
+      "x": 16,
+      "y": 55,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_8": {
+      "name": "hween_c19_darkwerewolf_64_b_4_8",
+      "x": 75,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_9": {
+      "name": "hween_c19_darkwerewolf_64_a_4_9",
+      "x": 15,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_9": {
+      "name": "hween_c19_darkwerewolf_64_b_4_9",
+      "x": 76,
+      "y": 57,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_10": {
+      "name": "hween_c19_darkwerewolf_64_a_4_10",
+      "x": 20,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_10": {
+      "name": "hween_c19_darkwerewolf_64_b_4_10",
+      "x": 73,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_11": {
+      "name": "hween_c19_darkwerewolf_64_a_4_11",
+      "x": 13,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_11": {
+      "name": "hween_c19_darkwerewolf_64_b_4_11",
+      "x": 73,
+      "y": 57,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_12": {
+      "name": "hween_c19_darkwerewolf_64_a_4_12",
+      "x": 10,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_12": {
+      "name": "hween_c19_darkwerewolf_64_b_4_12",
+      "x": 70,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_13": {
+      "name": "hween_c19_darkwerewolf_64_a_4_13",
+      "x": 73,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_13": {
+      "name": "hween_c19_darkwerewolf_64_b_4_13",
+      "x": 10,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_14": {
+      "name": "hween_c19_darkwerewolf_64_a_4_14",
+      "x": 10,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_14": {
+      "name": "hween_c19_darkwerewolf_64_b_4_14",
+      "x": 71,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_15": {
+      "name": "hween_c19_darkwerewolf_64_a_4_15",
+      "x": 10,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_15": {
+      "name": "hween_c19_darkwerewolf_64_b_4_15",
+      "x": 72,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_16": {
+      "name": "hween_c19_darkwerewolf_64_a_4_16",
+      "x": 12,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_16": {
+      "name": "hween_c19_darkwerewolf_64_b_4_16",
+      "x": 68,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_17": {
+      "name": "hween_c19_darkwerewolf_64_a_4_17",
+      "x": 13,
+      "y": 57,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_17": {
+      "name": "hween_c19_darkwerewolf_64_b_4_17",
+      "x": 69,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_18": {
+      "name": "hween_c19_darkwerewolf_64_a_4_18",
+      "x": 13,
+      "y": 57,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_18": {
+      "name": "hween_c19_darkwerewolf_64_b_4_18",
+      "x": 68,
+      "y": 59,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_19": {
+      "name": "hween_c19_darkwerewolf_64_a_4_19",
+      "x": 13,
+      "y": 57,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_4_19": {
+      "name": "hween_c19_darkwerewolf_64_b_4_19",
+      "x": 68,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_a_4_20": {
+      "name": "hween_c19_darkwerewolf_64_a_4_20",
+      "x": 13,
+      "y": 57,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_b_4_20": {
+      "name": "hween_c19_darkwerewolf_64_b_4_20",
+      "x": 68,
+      "y": 58,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_icon_a": {
+      "name": "hween_c19_darkwerewolf_icon_a",
+      "x": 14,
+      "y": 10,
+      "exists": true
+    },
+    "hween_c19_darkwerewolf_64_sd_2_0": {
+      "name": "hween_c19_darkwerewolf_64_sd_2_0",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_sd_4_0",
+      "x": 54,
+      "y": 7,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_0": {
+      "name": "hween_c19_darkwerewolf_64_a_2_0",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_0",
+      "x": 12,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_0": {
+      "name": "hween_c19_darkwerewolf_64_b_2_0",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_0",
+      "x": 69,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_1": {
+      "name": "hween_c19_darkwerewolf_64_a_2_1",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_1",
+      "x": 13,
+      "y": 57,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_1": {
+      "name": "hween_c19_darkwerewolf_64_b_2_1",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_1",
+      "x": 72,
+      "y": 58,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_2": {
+      "name": "hween_c19_darkwerewolf_64_a_2_2",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_2",
+      "x": 13,
+      "y": 57,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_2": {
+      "name": "hween_c19_darkwerewolf_64_b_2_2",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_2",
+      "x": 70,
+      "y": 59,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_3": {
+      "name": "hween_c19_darkwerewolf_64_a_2_3",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_3",
+      "x": 13,
+      "y": 57,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_3": {
+      "name": "hween_c19_darkwerewolf_64_b_2_3",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_3",
+      "x": 72,
+      "y": 58,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_4": {
+      "name": "hween_c19_darkwerewolf_64_a_2_4",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_4",
+      "x": 12,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_4": {
+      "name": "hween_c19_darkwerewolf_64_b_2_4",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_4",
+      "x": 69,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_5": {
+      "name": "hween_c19_darkwerewolf_64_a_2_5",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_5",
+      "x": 14,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_5": {
+      "name": "hween_c19_darkwerewolf_64_b_2_5",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_5",
+      "x": 75,
+      "y": 57,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_6": {
+      "name": "hween_c19_darkwerewolf_64_a_2_6",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_6",
+      "x": 16,
+      "y": 58,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_6": {
+      "name": "hween_c19_darkwerewolf_64_b_2_6",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_6",
+      "x": 74,
+      "y": 58,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_7": {
+      "name": "hween_c19_darkwerewolf_64_a_2_7",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_7",
+      "x": 19,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_7": {
+      "name": "hween_c19_darkwerewolf_64_b_2_7",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_7",
+      "x": 79,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_8": {
+      "name": "hween_c19_darkwerewolf_64_a_2_8",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_8",
+      "x": 16,
+      "y": 55,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_8": {
+      "name": "hween_c19_darkwerewolf_64_b_2_8",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_8",
+      "x": 75,
+      "y": 58,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_9": {
+      "name": "hween_c19_darkwerewolf_64_a_2_9",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_9",
+      "x": 15,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_9": {
+      "name": "hween_c19_darkwerewolf_64_b_2_9",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_9",
+      "x": 76,
+      "y": 57,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_10": {
+      "name": "hween_c19_darkwerewolf_64_a_2_10",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_10",
+      "x": 20,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_10": {
+      "name": "hween_c19_darkwerewolf_64_b_2_10",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_10",
+      "x": 73,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_11": {
+      "name": "hween_c19_darkwerewolf_64_a_2_11",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_11",
+      "x": 13,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_11": {
+      "name": "hween_c19_darkwerewolf_64_b_2_11",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_11",
+      "x": 73,
+      "y": 57,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_12": {
+      "name": "hween_c19_darkwerewolf_64_a_2_12",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_12",
+      "x": 10,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_12": {
+      "name": "hween_c19_darkwerewolf_64_b_2_12",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_12",
+      "x": 70,
+      "y": 58,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_13": {
+      "name": "hween_c19_darkwerewolf_64_a_2_13",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_13",
+      "x": 73,
+      "y": 58,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_13": {
+      "name": "hween_c19_darkwerewolf_64_b_2_13",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_13",
+      "x": 10,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_14": {
+      "name": "hween_c19_darkwerewolf_64_a_2_14",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_14",
+      "x": 10,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_14": {
+      "name": "hween_c19_darkwerewolf_64_b_2_14",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_14",
+      "x": 71,
+      "y": 58,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_15": {
+      "name": "hween_c19_darkwerewolf_64_a_2_15",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_15",
+      "x": 10,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_15": {
+      "name": "hween_c19_darkwerewolf_64_b_2_15",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_15",
+      "x": 72,
+      "y": 58,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_16": {
+      "name": "hween_c19_darkwerewolf_64_a_2_16",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_16",
+      "x": 12,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_16": {
+      "name": "hween_c19_darkwerewolf_64_b_2_16",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_16",
+      "x": 68,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_17": {
+      "name": "hween_c19_darkwerewolf_64_a_2_17",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_17",
+      "x": 13,
+      "y": 57,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_17": {
+      "name": "hween_c19_darkwerewolf_64_b_2_17",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_17",
+      "x": 69,
+      "y": 58,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_18": {
+      "name": "hween_c19_darkwerewolf_64_a_2_18",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_18",
+      "x": 13,
+      "y": 57,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_18": {
+      "name": "hween_c19_darkwerewolf_64_b_2_18",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_18",
+      "x": 68,
+      "y": 59,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_19": {
+      "name": "hween_c19_darkwerewolf_64_a_2_19",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_19",
+      "x": 13,
+      "y": 57,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_19": {
+      "name": "hween_c19_darkwerewolf_64_b_2_19",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_19",
+      "x": 68,
+      "y": 58,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_a_2_20": {
+      "name": "hween_c19_darkwerewolf_64_a_2_20",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_a_4_20",
+      "x": 13,
+      "y": 57,
+      "exists": false
+    },
+    "hween_c19_darkwerewolf_64_b_2_20": {
+      "name": "hween_c19_darkwerewolf_64_b_2_20",
+      "flipH": 1,
+      "source": "hween_c19_darkwerewolf_64_b_4_20",
+      "x": 68,
+      "y": 58,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  16,
+                  15,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  12,
+                  13,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  12,
+                  13,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  12,
+                  13,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  16,
+                  15,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  12,
+                  13,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  12,
+                  13,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  12,
+                  13,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  16
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  16
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween_c19_darkwerewolf",
+    "visualization": "furniture_animated"
+  }
+}

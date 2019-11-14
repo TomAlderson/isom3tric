@@ -1,0 +1,66 @@
+{
+  "assets": {
+    "diamond_painting39_64_a_4_0": {
+      "name": "diamond_painting39_64_a_4_0",
+      "x": 33,
+      "y": 81,
+      "exists": true
+    },
+    "diamond_painting39_icon_a": {
+      "name": "diamond_painting39_icon_a",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "diamond_painting39_64_a_2_0": {
+      "name": "diamond_painting39_64_a_2_0",
+      "flipH": 1,
+      "source": "diamond_painting39_64_a_4_0",
+      "x": 33,
+      "y": 81,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "diamond_painting39",
+    "visualization": "furniture_static"
+  }
+}

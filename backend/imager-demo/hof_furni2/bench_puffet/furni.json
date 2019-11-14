@@ -1,0 +1,342 @@
+{
+  "assets": {
+    "bench_buffet_sd_0": {
+      "name": "bench_buffet_sd_0",
+      "x": 63,
+      "y": 16,
+      "exists": true
+    },
+    "bench_buffet_sd_4": {
+      "name": "bench_buffet_sd_4",
+      "flipH": 1,
+      "source": "bench_buffet_sd_0",
+      "x": 63,
+      "y": 16,
+      "exists": false
+    },
+    "bench_buffet_sd_6": {
+      "name": "bench_buffet_sd_6",
+      "source": "bench_buffet_sd_0",
+      "x": 63,
+      "y": 16,
+      "exists": false
+    },
+    "bench_puffet_64_a_0_0": {
+      "name": "bench_puffet_64_a_0_0",
+      "flipH": 1,
+      "source": "bench_puffet_64_a_2_0",
+      "x": 31,
+      "y": 31,
+      "exists": false
+    },
+    "bench_puffet_64_a_2_0": {
+      "name": "bench_puffet_64_a_2_0",
+      "x": 31,
+      "y": 31,
+      "exists": true
+    },
+    "bench_puffet_64_a_4_0": {
+      "name": "bench_puffet_64_a_4_0",
+      "flipH": 1,
+      "source": "bench_puffet_64_a_2_0",
+      "x": 31,
+      "y": 31,
+      "exists": false
+    },
+    "bench_puffet_64_a_6_0": {
+      "name": "bench_puffet_64_a_6_0",
+      "source": "bench_puffet_64_a_2_0",
+      "x": 31,
+      "y": 31,
+      "exists": false
+    },
+    "bench_puffet_64_b_0_0": {
+      "name": "bench_puffet_64_b_0_0",
+      "flipH": 1,
+      "source": "bench_puffet_64_b_6_0",
+      "x": 11,
+      "y": 42,
+      "exists": false
+    },
+    "bench_puffet_64_b_2_0": {
+      "name": "bench_puffet_64_b_2_0",
+      "x": 31,
+      "y": 53,
+      "exists": true
+    },
+    "bench_puffet_64_b_4_0": {
+      "name": "bench_puffet_64_b_4_0",
+      "x": 8,
+      "y": 54,
+      "exists": true
+    },
+    "bench_puffet_64_b_6_0": {
+      "name": "bench_puffet_64_b_6_0",
+      "x": 11,
+      "y": 42,
+      "exists": true
+    },
+    "bench_puffet_64_c_0_0": {
+      "name": "bench_puffet_64_c_0_0",
+      "flipH": 1,
+      "source": "bench_puffet_64_c_2_0",
+      "x": 62,
+      "y": 15,
+      "exists": false
+    },
+    "bench_puffet_64_c_2_0": {
+      "name": "bench_puffet_64_c_2_0",
+      "x": 62,
+      "y": 15,
+      "exists": true
+    },
+    "bench_puffet_64_c_4_0": {
+      "name": "bench_puffet_64_c_4_0",
+      "flipH": 1,
+      "source": "bench_puffet_64_c_2_0",
+      "x": 62,
+      "y": 15,
+      "exists": false
+    },
+    "bench_puffet_64_c_6_0": {
+      "name": "bench_puffet_64_c_6_0",
+      "source": "bench_puffet_64_c_2_0",
+      "x": 62,
+      "y": 15,
+      "exists": false
+    },
+    "bench_puffet_64_d_0_0": {
+      "name": "bench_puffet_64_d_0_0",
+      "flipH": 1,
+      "source": "bench_puffet_64_d_6_0",
+      "x": 41,
+      "y": 25,
+      "exists": false
+    },
+    "bench_puffet_64_d_2_0": {
+      "name": "bench_puffet_64_d_2_0",
+      "x": 61,
+      "y": 36,
+      "exists": true
+    },
+    "bench_puffet_64_d_4_0": {
+      "name": "bench_puffet_64_d_4_0",
+      "x": -26,
+      "y": 37,
+      "exists": true
+    },
+    "bench_puffet_64_d_6_0": {
+      "name": "bench_puffet_64_d_6_0",
+      "x": 41,
+      "y": 25,
+      "exists": true
+    },
+    "bench_puffet_icon_a": {
+      "name": "bench_puffet_icon_a",
+      "x": 15,
+      "y": 13,
+      "exists": true
+    },
+    "s_bench_buffet_sd_0": {
+      "name": "s_bench_buffet_sd_0",
+      "x": 32,
+      "y": 9,
+      "exists": true
+    },
+    "s_bench_buffet_sd_4": {
+      "name": "s_bench_buffet_sd_4",
+      "flipH": 1,
+      "source": "s_bench_buffet_sd_0",
+      "x": 32,
+      "y": 9,
+      "exists": false
+    },
+    "s_bench_buffet_sd_6": {
+      "name": "s_bench_buffet_sd_6",
+      "source": "s_bench_buffet_sd_0",
+      "x": 32,
+      "y": 9,
+      "exists": false
+    },
+    "bench_puffet_32_a_0_0": {
+      "name": "bench_puffet_32_a_0_0",
+      "flipH": 1,
+      "source": "bench_puffet_32_a_2_0",
+      "x": 14,
+      "y": 15,
+      "exists": false
+    },
+    "bench_puffet_32_a_2_0": {
+      "name": "bench_puffet_32_a_2_0",
+      "x": 14,
+      "y": 15,
+      "exists": true
+    },
+    "bench_puffet_32_a_4_0": {
+      "name": "bench_puffet_32_a_4_0",
+      "flipH": 1,
+      "source": "bench_puffet_32_a_2_0",
+      "x": 14,
+      "y": 15,
+      "exists": false
+    },
+    "bench_puffet_32_a_6_0": {
+      "name": "bench_puffet_32_a_6_0",
+      "source": "bench_puffet_32_a_2_0",
+      "x": 14,
+      "y": 15,
+      "exists": false
+    },
+    "bench_puffet_32_b_0_0": {
+      "name": "bench_puffet_32_b_0_0",
+      "flipH": 1,
+      "source": "bench_puffet_32_b_6_0",
+      "x": 4,
+      "y": 21,
+      "exists": false
+    },
+    "bench_puffet_32_b_2_0": {
+      "name": "bench_puffet_32_b_2_0",
+      "x": 14,
+      "y": 27,
+      "exists": true
+    },
+    "bench_puffet_32_b_4_0": {
+      "name": "bench_puffet_32_b_4_0",
+      "x": 6,
+      "y": 27,
+      "exists": true
+    },
+    "bench_puffet_32_b_6_0": {
+      "name": "bench_puffet_32_b_6_0",
+      "x": 4,
+      "y": 21,
+      "exists": true
+    },
+    "bench_puffet_32_c_0_0": {
+      "name": "bench_puffet_32_c_0_0",
+      "flipH": 1,
+      "source": "bench_puffet_32_c_2_0",
+      "x": 31,
+      "y": 7,
+      "exists": false
+    },
+    "bench_puffet_32_c_2_0": {
+      "name": "bench_puffet_32_c_2_0",
+      "x": 31,
+      "y": 7,
+      "exists": true
+    },
+    "bench_puffet_32_c_4_0": {
+      "name": "bench_puffet_32_c_4_0",
+      "flipH": 1,
+      "source": "bench_puffet_32_c_2_0",
+      "x": 31,
+      "y": 7,
+      "exists": false
+    },
+    "bench_puffet_32_c_6_0": {
+      "name": "bench_puffet_32_c_6_0",
+      "source": "bench_puffet_32_c_2_0",
+      "x": 31,
+      "y": 7,
+      "exists": false
+    },
+    "bench_puffet_32_d_0_0": {
+      "name": "bench_puffet_32_d_0_0",
+      "flipH": 1,
+      "source": "bench_puffet_32_d_6_0",
+      "x": 20,
+      "y": 12,
+      "exists": false
+    },
+    "bench_puffet_32_d_2_0": {
+      "name": "bench_puffet_32_d_2_0",
+      "x": 30,
+      "y": 18,
+      "exists": true
+    },
+    "bench_puffet_32_d_4_0": {
+      "name": "bench_puffet_32_d_4_0",
+      "x": -10,
+      "y": 18,
+      "exists": true
+    },
+    "bench_puffet_32_d_6_0": {
+      "name": "bench_puffet_32_d_6_0",
+      "x": 20,
+      "y": 12,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0.99
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -50
+        },
+        {
+          "layerId": 2,
+          "z": 970
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -50
+        },
+        {
+          "layerId": 2,
+          "z": 970
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "bench_puffet",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "assets": {
+    "ads_mtvtrophy_gold_64_a_2_0": {
+      "name": "ads_mtvtrophy_gold_64_a_2_0",
+      "x": 18,
+      "y": 66,
+      "exists": true
+    },
+    "ads_mtvtrophy_gold_64_a_4_0": {
+      "name": "ads_mtvtrophy_gold_64_a_4_0",
+      "x": 14,
+      "y": 69,
+      "exists": true
+    },
+    "ads_mtvtrophy_gold_64_sd_0_0": {
+      "name": "ads_mtvtrophy_gold_64_sd_0_0",
+      "x": 14,
+      "y": 0,
+      "exists": true
+    },
+    "ads_mtvtrophy_gold_64_sd_2_0": {
+      "name": "ads_mtvtrophy_gold_64_sd_2_0",
+      "source": "ads_mtvtrophy_gold_64_sd_0_0",
+      "x": 14,
+      "y": 0,
+      "exists": false
+    },
+    "ads_mtvtrophy_gold_64_sd_4_0": {
+      "name": "ads_mtvtrophy_gold_64_sd_4_0",
+      "source": "ads_mtvtrophy_gold_64_sd_0_0",
+      "x": 14,
+      "y": 0,
+      "exists": false
+    },
+    "ads_mtvtrophy_gold_icon_a": {
+      "name": "ads_mtvtrophy_gold_icon_a",
+      "x": 10,
+      "y": 9,
+      "exists": true
+    },
+    "ads_mtvtrophy_gold_32_a_2_0": {
+      "name": "ads_mtvtrophy_gold_32_a_2_0",
+      "x": 11,
+      "y": 33,
+      "exists": true
+    },
+    "ads_mtvtrophy_gold_32_a_4_0": {
+      "name": "ads_mtvtrophy_gold_32_a_4_0",
+      "x": 6,
+      "y": 36,
+      "exists": true
+    },
+    "s_ads_mtvtrophy_gold_graphics2": {
+      "name": "s_ads_mtvtrophy_gold_graphics2",
+      "x": 202,
+      "y": 84,
+      "exists": true
+    },
+    "ads_mtvtrophy_gold_32_sd_0_0": {
+      "name": "ads_mtvtrophy_gold_32_sd_0_0",
+      "x": 5,
+      "y": -2,
+      "exists": true
+    },
+    "ads_mtvtrophy_gold_32_sd_2_0": {
+      "name": "ads_mtvtrophy_gold_32_sd_2_0",
+      "source": "ads_mtvtrophy_gold_32_sd_0_0",
+      "x": 5,
+      "y": -2,
+      "exists": false
+    },
+    "ads_mtvtrophy_gold_32_sd_4_0": {
+      "name": "ads_mtvtrophy_gold_32_sd_4_0",
+      "source": "ads_mtvtrophy_gold_32_sd_0_0",
+      "x": 5,
+      "y": -2,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "ads_mtvtrophy_gold",
+    "visualization": "furniture_static"
+  }
+}

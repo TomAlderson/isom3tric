@@ -1,0 +1,917 @@
+{
+  "assets": {
+    "hween13_c19_frog_64_a_2_0": {
+      "name": "hween13_c19_frog_64_a_2_0",
+      "x": 24,
+      "y": 17,
+      "exists": true
+    },
+    "hween13_c19_frog_64_b_2_0": {
+      "name": "hween13_c19_frog_64_b_2_0",
+      "x": 21,
+      "y": 21,
+      "exists": true
+    },
+    "hween13_c19_frog_64_b_2_1": {
+      "name": "hween13_c19_frog_64_b_2_1",
+      "x": 21,
+      "y": 21,
+      "exists": true
+    },
+    "hween13_c19_frog_64_b_2_2": {
+      "name": "hween13_c19_frog_64_b_2_2",
+      "x": 21,
+      "y": 21,
+      "exists": true
+    },
+    "hween13_c19_frog_64_b_2_3": {
+      "name": "hween13_c19_frog_64_b_2_3",
+      "x": 21,
+      "y": 21,
+      "exists": true
+    },
+    "hween13_c19_frog_64_b_2_4": {
+      "name": "hween13_c19_frog_64_b_2_4",
+      "x": 21,
+      "y": 21,
+      "exists": true
+    },
+    "hween13_c19_frog_64_b_2_5": {
+      "name": "hween13_c19_frog_64_b_2_5",
+      "x": 21,
+      "y": 21,
+      "exists": true
+    },
+    "hween13_c19_frog_64_c_2_0": {
+      "name": "hween13_c19_frog_64_c_2_0",
+      "x": 8,
+      "y": 27,
+      "exists": true
+    },
+    "hween13_c19_frog_64_c_2_1": {
+      "name": "hween13_c19_frog_64_c_2_1",
+      "x": 9,
+      "y": 26,
+      "exists": true
+    },
+    "hween13_c19_frog_64_d_2_0": {
+      "name": "hween13_c19_frog_64_d_2_0",
+      "x": -6,
+      "y": 19,
+      "exists": true
+    },
+    "hween13_c19_frog_64_d_2_1": {
+      "name": "hween13_c19_frog_64_d_2_1",
+      "x": -3,
+      "y": 12,
+      "exists": true
+    },
+    "hween13_c19_frog_64_d_2_2": {
+      "name": "hween13_c19_frog_64_d_2_2",
+      "x": -1,
+      "y": 11,
+      "exists": true
+    },
+    "hween13_c19_frog_64_d_2_3": {
+      "name": "hween13_c19_frog_64_d_2_3",
+      "x": 2,
+      "y": 10,
+      "exists": true
+    },
+    "hween13_c19_frog_64_d_2_4": {
+      "name": "hween13_c19_frog_64_d_2_4",
+      "x": 2,
+      "y": 10,
+      "exists": true
+    },
+    "hween13_c19_frog_64_d_2_5": {
+      "name": "hween13_c19_frog_64_d_2_5",
+      "x": -6,
+      "y": 25,
+      "exists": true
+    },
+    "hween13_c19_frog_64_d_2_6": {
+      "name": "hween13_c19_frog_64_d_2_6",
+      "x": -6,
+      "y": 28,
+      "exists": true
+    },
+    "hween13_c19_frog_64_e_2_0": {
+      "name": "hween13_c19_frog_64_e_2_0",
+      "x": 5,
+      "y": 22,
+      "exists": true
+    },
+    "hween13_c19_frog_64_e_2_1": {
+      "name": "hween13_c19_frog_64_e_2_1",
+      "x": 8,
+      "y": 25,
+      "exists": true
+    },
+    "hween13_c19_frog_64_e_2_2": {
+      "name": "hween13_c19_frog_64_e_2_2",
+      "x": 9,
+      "y": 26,
+      "exists": true
+    },
+    "hween13_c19_frog_64_e_2_3": {
+      "name": "hween13_c19_frog_64_e_2_3",
+      "x": 11,
+      "y": 28,
+      "exists": true
+    },
+    "hween13_c19_frog_64_e_2_4": {
+      "name": "hween13_c19_frog_64_e_2_4",
+      "x": 12,
+      "y": 29,
+      "exists": true
+    },
+    "hween13_c19_frog_64_e_2_5": {
+      "name": "hween13_c19_frog_64_e_2_5",
+      "x": 13,
+      "y": 30,
+      "exists": true
+    },
+    "hween13_c19_frog_64_f_2_0": {
+      "name": "hween13_c19_frog_64_f_2_0",
+      "x": 24,
+      "y": 12,
+      "exists": true
+    },
+    "hween13_c19_frog_64_f_2_1": {
+      "name": "hween13_c19_frog_64_f_2_1",
+      "x": 21,
+      "y": 13,
+      "exists": true
+    },
+    "hween13_c19_frog_icon_a": {
+      "name": "hween13_c19_frog_icon_a",
+      "x": 14,
+      "y": 6,
+      "exists": true
+    },
+    "hween13_c19_frog_64_a_4_0": {
+      "name": "hween13_c19_frog_64_a_4_0",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_a_2_0",
+      "x": 24,
+      "y": 17,
+      "exists": false
+    },
+    "hween13_c19_frog_64_b_4_0": {
+      "name": "hween13_c19_frog_64_b_4_0",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_b_2_0",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "hween13_c19_frog_64_b_4_1": {
+      "name": "hween13_c19_frog_64_b_4_1",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_b_2_1",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "hween13_c19_frog_64_b_4_2": {
+      "name": "hween13_c19_frog_64_b_4_2",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_b_2_2",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "hween13_c19_frog_64_b_4_3": {
+      "name": "hween13_c19_frog_64_b_4_3",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_b_2_3",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "hween13_c19_frog_64_b_4_4": {
+      "name": "hween13_c19_frog_64_b_4_4",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_b_2_4",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "hween13_c19_frog_64_b_4_5": {
+      "name": "hween13_c19_frog_64_b_4_5",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_b_2_5",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "hween13_c19_frog_64_c_4_0": {
+      "name": "hween13_c19_frog_64_c_4_0",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_c_2_0",
+      "x": 8,
+      "y": 27,
+      "exists": false
+    },
+    "hween13_c19_frog_64_c_4_1": {
+      "name": "hween13_c19_frog_64_c_4_1",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_c_2_1",
+      "x": 9,
+      "y": 26,
+      "exists": false
+    },
+    "hween13_c19_frog_64_d_4_0": {
+      "name": "hween13_c19_frog_64_d_4_0",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_d_2_0",
+      "x": -6,
+      "y": 19,
+      "exists": false
+    },
+    "hween13_c19_frog_64_d_4_1": {
+      "name": "hween13_c19_frog_64_d_4_1",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_d_2_1",
+      "x": -3,
+      "y": 12,
+      "exists": false
+    },
+    "hween13_c19_frog_64_d_4_2": {
+      "name": "hween13_c19_frog_64_d_4_2",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_d_2_2",
+      "x": -1,
+      "y": 11,
+      "exists": false
+    },
+    "hween13_c19_frog_64_d_4_3": {
+      "name": "hween13_c19_frog_64_d_4_3",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_d_2_3",
+      "x": 2,
+      "y": 10,
+      "exists": false
+    },
+    "hween13_c19_frog_64_d_4_4": {
+      "name": "hween13_c19_frog_64_d_4_4",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_d_2_4",
+      "x": 2,
+      "y": 10,
+      "exists": false
+    },
+    "hween13_c19_frog_64_d_4_5": {
+      "name": "hween13_c19_frog_64_d_4_5",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_d_2_5",
+      "x": -6,
+      "y": 25,
+      "exists": false
+    },
+    "hween13_c19_frog_64_d_4_6": {
+      "name": "hween13_c19_frog_64_d_4_6",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_d_2_6",
+      "x": -6,
+      "y": 28,
+      "exists": false
+    },
+    "hween13_c19_frog_64_e_4_0": {
+      "name": "hween13_c19_frog_64_e_4_0",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_e_2_0",
+      "x": 5,
+      "y": 22,
+      "exists": false
+    },
+    "hween13_c19_frog_64_e_4_1": {
+      "name": "hween13_c19_frog_64_e_4_1",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_e_2_1",
+      "x": 8,
+      "y": 25,
+      "exists": false
+    },
+    "hween13_c19_frog_64_e_4_2": {
+      "name": "hween13_c19_frog_64_e_4_2",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_e_2_2",
+      "x": 9,
+      "y": 26,
+      "exists": false
+    },
+    "hween13_c19_frog_64_e_4_3": {
+      "name": "hween13_c19_frog_64_e_4_3",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_e_2_3",
+      "x": 11,
+      "y": 28,
+      "exists": false
+    },
+    "hween13_c19_frog_64_e_4_4": {
+      "name": "hween13_c19_frog_64_e_4_4",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_e_2_4",
+      "x": 12,
+      "y": 29,
+      "exists": false
+    },
+    "hween13_c19_frog_64_e_4_5": {
+      "name": "hween13_c19_frog_64_e_4_5",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_e_2_5",
+      "x": 13,
+      "y": 30,
+      "exists": false
+    },
+    "hween13_c19_frog_64_f_4_0": {
+      "name": "hween13_c19_frog_64_f_4_0",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_f_2_0",
+      "x": 24,
+      "y": 12,
+      "exists": false
+    },
+    "hween13_c19_frog_64_f_4_1": {
+      "name": "hween13_c19_frog_64_f_4_1",
+      "flipH": 1,
+      "source": "hween13_c19_frog_64_f_2_1",
+      "x": 21,
+      "y": 13,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  0,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1,
+                  5,
+                  6,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  0,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  0,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1,
+                  5,
+                  6,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  0,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  4,
+                  3,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3,
+          "z": 10
+        },
+        {
+          "layerId": 4
+        },
+        {
+          "layerId": 5,
+          "alpha": 70,
+          "z": -10
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween13_c19_frog",
+    "visualization": "furniture_animated"
+  }
+}

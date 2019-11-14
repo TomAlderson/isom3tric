@@ -1,0 +1,224 @@
+{
+  "assets": {
+    "prizetrophy_hotel1_32_a_0_0": {
+      "name": "prizetrophy_hotel1_32_a_0_0",
+      "x": 15,
+      "y": 61,
+      "exists": true
+    },
+    "prizetrophy_hotel1_32_b_0_0": {
+      "name": "prizetrophy_hotel1_32_b_0_0",
+      "x": 11,
+      "y": 21,
+      "exists": true
+    },
+    "prizetrophy_hotel1_32_c_0_0": {
+      "name": "prizetrophy_hotel1_32_c_0_0",
+      "x": 16,
+      "y": 62,
+      "exists": true
+    },
+    "prizetrophy_hotel1_64_a_0_0": {
+      "name": "prizetrophy_hotel1_64_a_0_0",
+      "x": 28,
+      "y": 126,
+      "exists": true
+    },
+    "prizetrophy_hotel1_64_b_0_0": {
+      "name": "prizetrophy_hotel1_64_b_0_0",
+      "x": 22,
+      "y": 43,
+      "exists": true
+    },
+    "prizetrophy_hotel1_64_c_0_0": {
+      "name": "prizetrophy_hotel1_64_c_0_0",
+      "x": 29,
+      "y": 127,
+      "exists": true
+    },
+    "prizetrophy_hotel1_icon_a": {
+      "name": "prizetrophy_hotel1_icon_a",
+      "x": 14,
+      "y": 15,
+      "exists": true
+    },
+    "prizetrophy_hotel1_32_a_2_0": {
+      "name": "prizetrophy_hotel1_32_a_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_hotel1_32_a_0_0",
+      "x": 15,
+      "y": 61,
+      "exists": false
+    },
+    "prizetrophy_hotel1_32_b_2_0": {
+      "name": "prizetrophy_hotel1_32_b_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_hotel1_32_b_0_0",
+      "x": 11,
+      "y": 21,
+      "exists": false
+    },
+    "prizetrophy_hotel1_32_c_2_0": {
+      "name": "prizetrophy_hotel1_32_c_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_hotel1_32_c_0_0",
+      "x": 16,
+      "y": 62,
+      "exists": false
+    },
+    "prizetrophy_hotel1_64_a_2_0": {
+      "name": "prizetrophy_hotel1_64_a_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_hotel1_64_a_0_0",
+      "x": 28,
+      "y": 126,
+      "exists": false
+    },
+    "prizetrophy_hotel1_64_b_2_0": {
+      "name": "prizetrophy_hotel1_64_b_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_hotel1_64_b_0_0",
+      "x": 22,
+      "y": 43,
+      "exists": false
+    },
+    "prizetrophy_hotel1_64_c_2_0": {
+      "name": "prizetrophy_hotel1_64_c_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_hotel1_64_c_0_0",
+      "x": 29,
+      "y": 127,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "colors": {
+        "1": [
+          {
+            "layerId": 0,
+            "color": "FFDD3F"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 0,
+            "color": 996600
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 0,
+            "color": "FFDD3F"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 0,
+            "color": 996600
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 0,
+            "color": "FFDD3F"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 0,
+            "color": 996600
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_trophy",
+    "type": "prizetrophy_hotel1",
+    "visualization": "furniture_static"
+  }
+}

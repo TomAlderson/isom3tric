@@ -1,0 +1,124 @@
+{
+  "assets": {
+    "hween08_bio_icon_a": {
+      "name": "hween08_bio_icon_a",
+      "x": 10,
+      "y": 12,
+      "exists": true
+    },
+    "hween08_bio_64_a_2_0": {
+      "name": "hween08_bio_64_a_2_0",
+      "x": 29,
+      "y": 35,
+      "exists": true
+    },
+    "hween08_bio_64_a_4_0": {
+      "name": "hween08_bio_64_a_4_0",
+      "flipH": 1,
+      "source": "hween08_bio_64_a_2_0",
+      "x": 29,
+      "y": 35,
+      "exists": false
+    },
+    "hween08_bio_32_a_2_0": {
+      "name": "hween08_bio_32_a_2_0",
+      "x": 15,
+      "y": 17,
+      "exists": true
+    },
+    "hween08_bio_32_a_4_0": {
+      "name": "hween08_bio_32_a_4_0",
+      "flipH": 1,
+      "source": "hween08_bio_32_a_2_0",
+      "x": 15,
+      "y": 17,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1.3438,
+      "y": 0.2,
+      "z": 1.875
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween08_bio",
+    "visualization": "furniture_animated"
+  }
+}

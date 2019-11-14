@@ -1,0 +1,2480 @@
+{
+  "assets": {
+    "party_beamer_64_a_2_0": {
+      "name": "party_beamer_64_a_2_0",
+      "flipH": 1,
+      "source": "party_beamer_64_a_4_0",
+      "x": 28,
+      "y": 97,
+      "exists": false
+    },
+    "party_beamer_64_a_4_0": {
+      "name": "party_beamer_64_a_4_0",
+      "x": 28,
+      "y": 97,
+      "exists": true
+    },
+    "party_beamer_64_b_2_0": {
+      "name": "party_beamer_64_b_2_0",
+      "flipH": 1,
+      "source": "party_beamer_64_b_4_0",
+      "x": 33,
+      "y": 1,
+      "exists": false
+    },
+    "party_beamer_64_b_2_1": {
+      "name": "party_beamer_64_b_2_1",
+      "flipH": 1,
+      "source": "party_beamer_64_b_4_1",
+      "x": 83,
+      "y": 82,
+      "exists": false
+    },
+    "party_beamer_64_b_4_0": {
+      "name": "party_beamer_64_b_4_0",
+      "x": 33,
+      "y": 1,
+      "exists": true
+    },
+    "party_beamer_64_b_4_1": {
+      "name": "party_beamer_64_b_4_1",
+      "x": 83,
+      "y": 82,
+      "exists": true
+    },
+    "party_beamer_64_c_2_0": {
+      "name": "party_beamer_64_c_2_0",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_0",
+      "x": 33,
+      "y": 1,
+      "exists": false
+    },
+    "party_beamer_64_c_2_1": {
+      "name": "party_beamer_64_c_2_1",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_1",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_c_2_10": {
+      "name": "party_beamer_64_c_2_10",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_10",
+      "x": 43,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_c_2_11": {
+      "name": "party_beamer_64_c_2_11",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_11",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_c_2_12": {
+      "name": "party_beamer_64_c_2_12",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_12",
+      "x": 42,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_c_2_13": {
+      "name": "party_beamer_64_c_2_13",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_13",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_c_2_14": {
+      "name": "party_beamer_64_c_2_14",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_14",
+      "x": 43,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_c_2_15": {
+      "name": "party_beamer_64_c_2_15",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_15",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_c_2_16": {
+      "name": "party_beamer_64_c_2_16",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_16",
+      "x": 42,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_c_2_17": {
+      "name": "party_beamer_64_c_2_17",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_17",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_c_2_18": {
+      "name": "party_beamer_64_c_2_18",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_18",
+      "x": 43,
+      "y": -22,
+      "exists": false
+    },
+    "party_beamer_64_c_2_19": {
+      "name": "party_beamer_64_c_2_19",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_19",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_c_2_2": {
+      "name": "party_beamer_64_c_2_2",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_2",
+      "x": 43,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_c_2_20": {
+      "name": "party_beamer_64_c_2_20",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_20",
+      "x": 42,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_c_2_21": {
+      "name": "party_beamer_64_c_2_21",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_21",
+      "x": 47,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_c_2_22": {
+      "name": "party_beamer_64_c_2_22",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_22",
+      "x": 44,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_c_2_23": {
+      "name": "party_beamer_64_c_2_23",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_23",
+      "x": 47,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_c_2_24": {
+      "name": "party_beamer_64_c_2_24",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_24",
+      "x": 45,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_c_2_3": {
+      "name": "party_beamer_64_c_2_3",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_3",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_c_2_4": {
+      "name": "party_beamer_64_c_2_4",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_4",
+      "x": 43,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_c_2_5": {
+      "name": "party_beamer_64_c_2_5",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_5",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_c_2_6": {
+      "name": "party_beamer_64_c_2_6",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_6",
+      "x": 43,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_c_2_7": {
+      "name": "party_beamer_64_c_2_7",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_7",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_c_2_8": {
+      "name": "party_beamer_64_c_2_8",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_8",
+      "x": 43,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_c_2_9": {
+      "name": "party_beamer_64_c_2_9",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_9",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_c_4_0": {
+      "name": "party_beamer_64_c_4_0",
+      "x": 33,
+      "y": 1,
+      "exists": false
+    },
+    "party_beamer_64_c_4_1": {
+      "name": "party_beamer_64_c_4_1",
+      "x": 46,
+      "y": -24,
+      "exists": true
+    },
+    "party_beamer_64_c_4_10": {
+      "name": "party_beamer_64_c_4_10",
+      "x": 43,
+      "y": -25,
+      "exists": true
+    },
+    "party_beamer_64_c_4_11": {
+      "name": "party_beamer_64_c_4_11",
+      "x": 44,
+      "y": -25,
+      "exists": true
+    },
+    "party_beamer_64_c_4_12": {
+      "name": "party_beamer_64_c_4_12",
+      "x": 42,
+      "y": -23,
+      "exists": true
+    },
+    "party_beamer_64_c_4_13": {
+      "name": "party_beamer_64_c_4_13",
+      "x": 44,
+      "y": -25,
+      "exists": true
+    },
+    "party_beamer_64_c_4_14": {
+      "name": "party_beamer_64_c_4_14",
+      "x": 43,
+      "y": -25,
+      "exists": true
+    },
+    "party_beamer_64_c_4_15": {
+      "name": "party_beamer_64_c_4_15",
+      "x": 44,
+      "y": -25,
+      "exists": true
+    },
+    "party_beamer_64_c_4_16": {
+      "name": "party_beamer_64_c_4_16",
+      "x": 42,
+      "y": -23,
+      "exists": true
+    },
+    "party_beamer_64_c_4_17": {
+      "name": "party_beamer_64_c_4_17",
+      "x": 46,
+      "y": -24,
+      "exists": true
+    },
+    "party_beamer_64_c_4_18": {
+      "name": "party_beamer_64_c_4_18",
+      "x": 43,
+      "y": -22,
+      "exists": true
+    },
+    "party_beamer_64_c_4_19": {
+      "name": "party_beamer_64_c_4_19",
+      "x": 46,
+      "y": -24,
+      "exists": true
+    },
+    "party_beamer_64_c_4_2": {
+      "name": "party_beamer_64_c_4_2",
+      "x": 43,
+      "y": -24,
+      "exists": true
+    },
+    "party_beamer_64_c_4_20": {
+      "name": "party_beamer_64_c_4_20",
+      "x": 42,
+      "y": -23,
+      "exists": true
+    },
+    "party_beamer_64_c_4_21": {
+      "name": "party_beamer_64_c_4_21",
+      "x": 47,
+      "y": -23,
+      "exists": true
+    },
+    "party_beamer_64_c_4_22": {
+      "name": "party_beamer_64_c_4_22",
+      "x": 44,
+      "y": -24,
+      "exists": true
+    },
+    "party_beamer_64_c_4_23": {
+      "name": "party_beamer_64_c_4_23",
+      "x": 47,
+      "y": -23,
+      "exists": true
+    },
+    "party_beamer_64_c_4_24": {
+      "name": "party_beamer_64_c_4_24",
+      "x": 45,
+      "y": -23,
+      "exists": true
+    },
+    "party_beamer_64_c_4_3": {
+      "name": "party_beamer_64_c_4_3",
+      "x": 46,
+      "y": -24,
+      "exists": true
+    },
+    "party_beamer_64_c_4_4": {
+      "name": "party_beamer_64_c_4_4",
+      "x": 43,
+      "y": -23,
+      "exists": true
+    },
+    "party_beamer_64_c_4_5": {
+      "name": "party_beamer_64_c_4_5",
+      "x": 46,
+      "y": -24,
+      "exists": true
+    },
+    "party_beamer_64_c_4_6": {
+      "name": "party_beamer_64_c_4_6",
+      "x": 43,
+      "y": -24,
+      "exists": true
+    },
+    "party_beamer_64_c_4_7": {
+      "name": "party_beamer_64_c_4_7",
+      "x": 46,
+      "y": -24,
+      "exists": true
+    },
+    "party_beamer_64_c_4_8": {
+      "name": "party_beamer_64_c_4_8",
+      "x": 43,
+      "y": -23,
+      "exists": true
+    },
+    "party_beamer_64_c_4_9": {
+      "name": "party_beamer_64_c_4_9",
+      "x": 44,
+      "y": -25,
+      "exists": true
+    },
+    "party_beamer_64_d_2_0": {
+      "name": "party_beamer_64_d_2_0",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_0",
+      "x": 33,
+      "y": 1,
+      "exists": false
+    },
+    "party_beamer_64_d_2_1": {
+      "name": "party_beamer_64_d_2_1",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_1",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_2_10": {
+      "name": "party_beamer_64_d_2_10",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_10",
+      "x": 43,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_d_2_11": {
+      "name": "party_beamer_64_d_2_11",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_11",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_d_2_12": {
+      "name": "party_beamer_64_d_2_12",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_12",
+      "x": 42,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_2_13": {
+      "name": "party_beamer_64_d_2_13",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_13",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_d_2_14": {
+      "name": "party_beamer_64_d_2_14",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_14",
+      "x": 43,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_d_2_15": {
+      "name": "party_beamer_64_d_2_15",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_15",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_d_2_16": {
+      "name": "party_beamer_64_d_2_16",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_16",
+      "x": 42,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_2_17": {
+      "name": "party_beamer_64_d_2_17",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_17",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_2_18": {
+      "name": "party_beamer_64_d_2_18",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_18",
+      "x": 43,
+      "y": -22,
+      "exists": false
+    },
+    "party_beamer_64_d_2_19": {
+      "name": "party_beamer_64_d_2_19",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_19",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_2_2": {
+      "name": "party_beamer_64_d_2_2",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_2",
+      "x": 43,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_2_20": {
+      "name": "party_beamer_64_d_2_20",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_20",
+      "x": 42,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_2_21": {
+      "name": "party_beamer_64_d_2_21",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_21",
+      "x": 47,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_2_22": {
+      "name": "party_beamer_64_d_2_22",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_22",
+      "x": 44,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_2_23": {
+      "name": "party_beamer_64_d_2_23",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_23",
+      "x": 47,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_2_24": {
+      "name": "party_beamer_64_d_2_24",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_24",
+      "x": 45,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_2_3": {
+      "name": "party_beamer_64_d_2_3",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_3",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_2_4": {
+      "name": "party_beamer_64_d_2_4",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_4",
+      "x": 43,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_2_5": {
+      "name": "party_beamer_64_d_2_5",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_5",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_2_6": {
+      "name": "party_beamer_64_d_2_6",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_6",
+      "x": 43,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_2_7": {
+      "name": "party_beamer_64_d_2_7",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_7",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_2_8": {
+      "name": "party_beamer_64_d_2_8",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_8",
+      "x": 43,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_2_9": {
+      "name": "party_beamer_64_d_2_9",
+      "flipH": 1,
+      "source": "party_beamer_64_c_4_9",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_d_4_0": {
+      "name": "party_beamer_64_d_4_0",
+      "source": "party_beamer_64_c_4_0",
+      "x": 33,
+      "y": 1,
+      "exists": false
+    },
+    "party_beamer_64_d_4_1": {
+      "name": "party_beamer_64_d_4_1",
+      "source": "party_beamer_64_c_4_1",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_4_10": {
+      "name": "party_beamer_64_d_4_10",
+      "source": "party_beamer_64_c_4_10",
+      "x": 43,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_d_4_11": {
+      "name": "party_beamer_64_d_4_11",
+      "source": "party_beamer_64_c_4_11",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_d_4_12": {
+      "name": "party_beamer_64_d_4_12",
+      "source": "party_beamer_64_c_4_12",
+      "x": 42,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_4_13": {
+      "name": "party_beamer_64_d_4_13",
+      "source": "party_beamer_64_c_4_13",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_d_4_14": {
+      "name": "party_beamer_64_d_4_14",
+      "source": "party_beamer_64_c_4_14",
+      "x": 43,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_d_4_15": {
+      "name": "party_beamer_64_d_4_15",
+      "source": "party_beamer_64_c_4_15",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_d_4_16": {
+      "name": "party_beamer_64_d_4_16",
+      "source": "party_beamer_64_c_4_16",
+      "x": 42,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_4_17": {
+      "name": "party_beamer_64_d_4_17",
+      "source": "party_beamer_64_c_4_17",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_4_18": {
+      "name": "party_beamer_64_d_4_18",
+      "source": "party_beamer_64_c_4_18",
+      "x": 43,
+      "y": -22,
+      "exists": false
+    },
+    "party_beamer_64_d_4_19": {
+      "name": "party_beamer_64_d_4_19",
+      "source": "party_beamer_64_c_4_19",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_4_2": {
+      "name": "party_beamer_64_d_4_2",
+      "source": "party_beamer_64_c_4_2",
+      "x": 43,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_4_20": {
+      "name": "party_beamer_64_d_4_20",
+      "source": "party_beamer_64_c_4_20",
+      "x": 42,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_4_21": {
+      "name": "party_beamer_64_d_4_21",
+      "source": "party_beamer_64_c_4_21",
+      "x": 47,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_4_22": {
+      "name": "party_beamer_64_d_4_22",
+      "source": "party_beamer_64_c_4_22",
+      "x": 44,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_4_23": {
+      "name": "party_beamer_64_d_4_23",
+      "source": "party_beamer_64_c_4_23",
+      "x": 47,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_4_24": {
+      "name": "party_beamer_64_d_4_24",
+      "source": "party_beamer_64_c_4_24",
+      "x": 45,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_4_3": {
+      "name": "party_beamer_64_d_4_3",
+      "source": "party_beamer_64_c_4_3",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_4_4": {
+      "name": "party_beamer_64_d_4_4",
+      "source": "party_beamer_64_c_4_4",
+      "x": 43,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_4_5": {
+      "name": "party_beamer_64_d_4_5",
+      "source": "party_beamer_64_c_4_5",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_4_6": {
+      "name": "party_beamer_64_d_4_6",
+      "source": "party_beamer_64_c_4_6",
+      "x": 43,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_4_7": {
+      "name": "party_beamer_64_d_4_7",
+      "source": "party_beamer_64_c_4_7",
+      "x": 46,
+      "y": -24,
+      "exists": false
+    },
+    "party_beamer_64_d_4_8": {
+      "name": "party_beamer_64_d_4_8",
+      "source": "party_beamer_64_c_4_8",
+      "x": 43,
+      "y": -23,
+      "exists": false
+    },
+    "party_beamer_64_d_4_9": {
+      "name": "party_beamer_64_d_4_9",
+      "source": "party_beamer_64_c_4_9",
+      "x": 44,
+      "y": -25,
+      "exists": false
+    },
+    "party_beamer_64_e_2_0": {
+      "name": "party_beamer_64_e_2_0",
+      "flipH": 1,
+      "source": "party_beamer_64_e_4_0",
+      "x": 10,
+      "y": 14,
+      "exists": false
+    },
+    "party_beamer_64_e_4_0": {
+      "name": "party_beamer_64_e_4_0",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "party_beamer_64_sd_2_0": {
+      "name": "party_beamer_64_sd_2_0",
+      "flipH": 1,
+      "source": "party_beamer_64_sd_4_0",
+      "x": 28,
+      "y": 11,
+      "exists": false
+    },
+    "party_beamer_64_sd_4_0": {
+      "name": "party_beamer_64_sd_4_0",
+      "x": 28,
+      "y": 11,
+      "exists": true
+    },
+    "party_beamer_icon_a": {
+      "name": "party_beamer_icon_a",
+      "x": 6,
+      "y": 15,
+      "exists": true
+    },
+    "party_beamer_32_a_2_0": {
+      "name": "party_beamer_32_a_2_0",
+      "flipH": 1,
+      "source": "party_beamer_32_a_4_0",
+      "x": 15,
+      "y": 47,
+      "exists": false
+    },
+    "party_beamer_32_a_4_0": {
+      "name": "party_beamer_32_a_4_0",
+      "x": 15,
+      "y": 47,
+      "exists": true
+    },
+    "party_beamer_32_b_2_0": {
+      "name": "party_beamer_32_b_2_0",
+      "flipH": 1,
+      "source": "party_beamer_32_b_4_0",
+      "x": 17,
+      "y": 1,
+      "exists": false
+    },
+    "party_beamer_32_b_2_1": {
+      "name": "party_beamer_32_b_2_1",
+      "flipH": 1,
+      "source": "party_beamer_32_b_4_1",
+      "x": 43,
+      "y": 40,
+      "exists": false
+    },
+    "party_beamer_32_b_4_0": {
+      "name": "party_beamer_32_b_4_0",
+      "x": 17,
+      "y": 1,
+      "exists": false
+    },
+    "party_beamer_32_b_4_1": {
+      "name": "party_beamer_32_b_4_1",
+      "x": 43,
+      "y": 40,
+      "exists": true
+    },
+    "party_beamer_32_c_2_0": {
+      "name": "party_beamer_32_c_2_0",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_0",
+      "x": 17,
+      "y": 1,
+      "exists": false
+    },
+    "party_beamer_32_c_2_1": {
+      "name": "party_beamer_32_c_2_1",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_1",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_c_2_10": {
+      "name": "party_beamer_32_c_2_10",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_10",
+      "x": 22,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_c_2_11": {
+      "name": "party_beamer_32_c_2_11",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_11",
+      "x": 23,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_2_12": {
+      "name": "party_beamer_32_c_2_12",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_12",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_2_13": {
+      "name": "party_beamer_32_c_2_13",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_13",
+      "x": 23,
+      "y": -13,
+      "exists": false
+    },
+    "party_beamer_32_c_2_14": {
+      "name": "party_beamer_32_c_2_14",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_14",
+      "x": 22,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_c_2_15": {
+      "name": "party_beamer_32_c_2_15",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_15",
+      "x": 22,
+      "y": -13,
+      "exists": false
+    },
+    "party_beamer_32_c_2_16": {
+      "name": "party_beamer_32_c_2_16",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_16",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_2_17": {
+      "name": "party_beamer_32_c_2_17",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_17",
+      "x": 22,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_c_2_18": {
+      "name": "party_beamer_32_c_2_18",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_18",
+      "x": 21,
+      "y": -10,
+      "exists": false
+    },
+    "party_beamer_32_c_2_19": {
+      "name": "party_beamer_32_c_2_19",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_19",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_c_2_2": {
+      "name": "party_beamer_32_c_2_2",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_2",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_2_20": {
+      "name": "party_beamer_32_c_2_20",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_20",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_2_21": {
+      "name": "party_beamer_32_c_2_21",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_21",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_c_2_22": {
+      "name": "party_beamer_32_c_2_22",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_22",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_2_23": {
+      "name": "party_beamer_32_c_2_23",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_23",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_2_24": {
+      "name": "party_beamer_32_c_2_24",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_24",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_2_3": {
+      "name": "party_beamer_32_c_2_3",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_3",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_c_2_4": {
+      "name": "party_beamer_32_c_2_4",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_4",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_2_5": {
+      "name": "party_beamer_32_c_2_5",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_5",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_c_2_6": {
+      "name": "party_beamer_32_c_2_6",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_6",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_2_7": {
+      "name": "party_beamer_32_c_2_7",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_7",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_c_2_8": {
+      "name": "party_beamer_32_c_2_8",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_8",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_2_9": {
+      "name": "party_beamer_32_c_2_9",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_9",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_c_4_0": {
+      "name": "party_beamer_32_c_4_0",
+      "x": 17,
+      "y": 1,
+      "exists": false
+    },
+    "party_beamer_32_c_4_1": {
+      "name": "party_beamer_32_c_4_1",
+      "x": 23,
+      "y": -12,
+      "exists": true
+    },
+    "party_beamer_32_c_4_10": {
+      "name": "party_beamer_32_c_4_10",
+      "x": 22,
+      "y": -12,
+      "exists": true
+    },
+    "party_beamer_32_c_4_11": {
+      "name": "party_beamer_32_c_4_11",
+      "x": 23,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_c_4_12": {
+      "name": "party_beamer_32_c_4_12",
+      "x": 21,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_c_4_13": {
+      "name": "party_beamer_32_c_4_13",
+      "x": 23,
+      "y": -13,
+      "exists": true
+    },
+    "party_beamer_32_c_4_14": {
+      "name": "party_beamer_32_c_4_14",
+      "x": 22,
+      "y": -12,
+      "exists": true
+    },
+    "party_beamer_32_c_4_15": {
+      "name": "party_beamer_32_c_4_15",
+      "x": 22,
+      "y": -13,
+      "exists": true
+    },
+    "party_beamer_32_c_4_16": {
+      "name": "party_beamer_32_c_4_16",
+      "x": 22,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_c_4_17": {
+      "name": "party_beamer_32_c_4_17",
+      "x": 22,
+      "y": -12,
+      "exists": true
+    },
+    "party_beamer_32_c_4_18": {
+      "name": "party_beamer_32_c_4_18",
+      "x": 21,
+      "y": -10,
+      "exists": true
+    },
+    "party_beamer_32_c_4_19": {
+      "name": "party_beamer_32_c_4_19",
+      "x": 23,
+      "y": -12,
+      "exists": true
+    },
+    "party_beamer_32_c_4_2": {
+      "name": "party_beamer_32_c_4_2",
+      "x": 22,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_c_4_20": {
+      "name": "party_beamer_32_c_4_20",
+      "x": 21,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_c_4_21": {
+      "name": "party_beamer_32_c_4_21",
+      "x": 23,
+      "y": -12,
+      "exists": true
+    },
+    "party_beamer_32_c_4_22": {
+      "name": "party_beamer_32_c_4_22",
+      "x": 21,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_c_4_23": {
+      "name": "party_beamer_32_c_4_23",
+      "x": 22,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_c_4_24": {
+      "name": "party_beamer_32_c_4_24",
+      "x": 22,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_c_4_3": {
+      "name": "party_beamer_32_c_4_3",
+      "x": 23,
+      "y": -12,
+      "exists": true
+    },
+    "party_beamer_32_c_4_4": {
+      "name": "party_beamer_32_c_4_4",
+      "x": 22,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_c_4_5": {
+      "name": "party_beamer_32_c_4_5",
+      "x": 23,
+      "y": -12,
+      "exists": true
+    },
+    "party_beamer_32_c_4_6": {
+      "name": "party_beamer_32_c_4_6",
+      "x": 22,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_c_4_7": {
+      "name": "party_beamer_32_c_4_7",
+      "x": 23,
+      "y": -12,
+      "exists": true
+    },
+    "party_beamer_32_c_4_8": {
+      "name": "party_beamer_32_c_4_8",
+      "x": 22,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_c_4_9": {
+      "name": "party_beamer_32_c_4_9",
+      "x": 21,
+      "y": -11,
+      "exists": true
+    },
+    "party_beamer_32_d_2_0": {
+      "name": "party_beamer_32_d_2_0",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_0",
+      "x": 17,
+      "y": 1,
+      "exists": false
+    },
+    "party_beamer_32_d_2_1": {
+      "name": "party_beamer_32_d_2_1",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_1",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_2_10": {
+      "name": "party_beamer_32_d_2_10",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_10",
+      "x": 22,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_2_11": {
+      "name": "party_beamer_32_d_2_11",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_11",
+      "x": 23,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_2_12": {
+      "name": "party_beamer_32_d_2_12",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_12",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_2_13": {
+      "name": "party_beamer_32_d_2_13",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_13",
+      "x": 23,
+      "y": -13,
+      "exists": false
+    },
+    "party_beamer_32_d_2_14": {
+      "name": "party_beamer_32_d_2_14",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_14",
+      "x": 22,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_2_15": {
+      "name": "party_beamer_32_d_2_15",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_15",
+      "x": 22,
+      "y": -13,
+      "exists": false
+    },
+    "party_beamer_32_d_2_16": {
+      "name": "party_beamer_32_d_2_16",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_16",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_2_17": {
+      "name": "party_beamer_32_d_2_17",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_17",
+      "x": 22,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_2_18": {
+      "name": "party_beamer_32_d_2_18",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_18",
+      "x": 21,
+      "y": -10,
+      "exists": false
+    },
+    "party_beamer_32_d_2_19": {
+      "name": "party_beamer_32_d_2_19",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_19",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_2_2": {
+      "name": "party_beamer_32_d_2_2",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_2",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_2_20": {
+      "name": "party_beamer_32_d_2_20",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_20",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_2_21": {
+      "name": "party_beamer_32_d_2_21",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_21",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_2_22": {
+      "name": "party_beamer_32_d_2_22",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_22",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_2_23": {
+      "name": "party_beamer_32_d_2_23",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_23",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_2_24": {
+      "name": "party_beamer_32_d_2_24",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_24",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_2_3": {
+      "name": "party_beamer_32_d_2_3",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_3",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_2_4": {
+      "name": "party_beamer_32_d_2_4",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_4",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_2_5": {
+      "name": "party_beamer_32_d_2_5",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_5",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_2_6": {
+      "name": "party_beamer_32_d_2_6",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_6",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_2_7": {
+      "name": "party_beamer_32_d_2_7",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_7",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_2_8": {
+      "name": "party_beamer_32_d_2_8",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_8",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_2_9": {
+      "name": "party_beamer_32_d_2_9",
+      "flipH": 1,
+      "source": "party_beamer_32_c_4_9",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_0": {
+      "name": "party_beamer_32_d_4_0",
+      "source": "party_beamer_32_c_4_0",
+      "x": 17,
+      "y": 1,
+      "exists": false
+    },
+    "party_beamer_32_d_4_1": {
+      "name": "party_beamer_32_d_4_1",
+      "source": "party_beamer_32_c_4_1",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_4_10": {
+      "name": "party_beamer_32_d_4_10",
+      "source": "party_beamer_32_c_4_10",
+      "x": 22,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_4_11": {
+      "name": "party_beamer_32_d_4_11",
+      "source": "party_beamer_32_c_4_11",
+      "x": 23,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_12": {
+      "name": "party_beamer_32_d_4_12",
+      "source": "party_beamer_32_c_4_12",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_13": {
+      "name": "party_beamer_32_d_4_13",
+      "source": "party_beamer_32_c_4_13",
+      "x": 23,
+      "y": -13,
+      "exists": false
+    },
+    "party_beamer_32_d_4_14": {
+      "name": "party_beamer_32_d_4_14",
+      "source": "party_beamer_32_c_4_14",
+      "x": 22,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_4_15": {
+      "name": "party_beamer_32_d_4_15",
+      "source": "party_beamer_32_c_4_15",
+      "x": 22,
+      "y": -13,
+      "exists": false
+    },
+    "party_beamer_32_d_4_16": {
+      "name": "party_beamer_32_d_4_16",
+      "source": "party_beamer_32_c_4_16",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_17": {
+      "name": "party_beamer_32_d_4_17",
+      "source": "party_beamer_32_c_4_17",
+      "x": 22,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_4_18": {
+      "name": "party_beamer_32_d_4_18",
+      "source": "party_beamer_32_c_4_18",
+      "x": 21,
+      "y": -10,
+      "exists": false
+    },
+    "party_beamer_32_d_4_19": {
+      "name": "party_beamer_32_d_4_19",
+      "source": "party_beamer_32_c_4_19",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_4_2": {
+      "name": "party_beamer_32_d_4_2",
+      "source": "party_beamer_32_c_4_2",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_20": {
+      "name": "party_beamer_32_d_4_20",
+      "source": "party_beamer_32_c_4_20",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_21": {
+      "name": "party_beamer_32_d_4_21",
+      "source": "party_beamer_32_c_4_21",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_4_22": {
+      "name": "party_beamer_32_d_4_22",
+      "source": "party_beamer_32_c_4_22",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_23": {
+      "name": "party_beamer_32_d_4_23",
+      "source": "party_beamer_32_c_4_23",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_24": {
+      "name": "party_beamer_32_d_4_24",
+      "source": "party_beamer_32_c_4_24",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_3": {
+      "name": "party_beamer_32_d_4_3",
+      "source": "party_beamer_32_c_4_3",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_4_4": {
+      "name": "party_beamer_32_d_4_4",
+      "source": "party_beamer_32_c_4_4",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_5": {
+      "name": "party_beamer_32_d_4_5",
+      "source": "party_beamer_32_c_4_5",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_4_6": {
+      "name": "party_beamer_32_d_4_6",
+      "source": "party_beamer_32_c_4_6",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_7": {
+      "name": "party_beamer_32_d_4_7",
+      "source": "party_beamer_32_c_4_7",
+      "x": 23,
+      "y": -12,
+      "exists": false
+    },
+    "party_beamer_32_d_4_8": {
+      "name": "party_beamer_32_d_4_8",
+      "source": "party_beamer_32_c_4_8",
+      "x": 22,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_d_4_9": {
+      "name": "party_beamer_32_d_4_9",
+      "source": "party_beamer_32_c_4_9",
+      "x": 21,
+      "y": -11,
+      "exists": false
+    },
+    "party_beamer_32_e_2_0": {
+      "name": "party_beamer_32_e_2_0",
+      "flipH": 1,
+      "source": "party_beamer_32_e_4_0",
+      "x": 3,
+      "y": 34,
+      "exists": false
+    },
+    "party_beamer_32_e_4_0": {
+      "name": "party_beamer_32_e_4_0",
+      "x": 3,
+      "y": 34,
+      "exists": true
+    },
+    "party_beamer_32_sd_2_0": {
+      "name": "party_beamer_32_sd_2_0",
+      "flipH": 1,
+      "source": "party_beamer_32_sd_4_0",
+      "x": 15,
+      "y": 5,
+      "exists": false
+    },
+    "party_beamer_32_sd_4_0": {
+      "name": "party_beamer_32_sd_4_0",
+      "x": 15,
+      "y": 5,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  22,
+                  23,
+                  24
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  22,
+                  23,
+                  24
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  22,
+                  23,
+                  24
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  22,
+                  23,
+                  24
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  22,
+                  23,
+                  24
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  22,
+                  23,
+                  24
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  22,
+                  23,
+                  24
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  22,
+                  23,
+                  24
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "party_beamer",
+    "visualization": "furniture_party_beamer"
+  }
+}

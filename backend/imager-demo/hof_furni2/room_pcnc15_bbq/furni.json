@@ -1,0 +1,161 @@
+{
+  "assets": {
+    "room_pcnc15_bbq_64_a_0_0": {
+      "name": "room_pcnc15_bbq_64_a_0_0",
+      "x": 57,
+      "y": 103,
+      "exists": true
+    },
+    "room_pcnc15_bbq_64_b_0_0": {
+      "name": "room_pcnc15_bbq_64_b_0_0",
+      "x": 32,
+      "y": 45,
+      "exists": true
+    },
+    "room_pcnc15_bbq_64_c_0_0": {
+      "name": "room_pcnc15_bbq_64_c_0_0",
+      "x": 2,
+      "y": 6,
+      "exists": true
+    },
+    "room_pcnc15_bbq_64_c_0_1": {
+      "name": "room_pcnc15_bbq_64_c_0_1",
+      "x": 2,
+      "y": 5,
+      "exists": true
+    },
+    "room_pcnc15_bbq_64_c_0_2": {
+      "name": "room_pcnc15_bbq_64_c_0_2",
+      "x": 2,
+      "y": 2,
+      "exists": true
+    },
+    "room_pcnc15_bbq_icon_a": {
+      "name": "room_pcnc15_bbq_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "room_pcnc15_bbq_64_a_2_0": {
+      "name": "room_pcnc15_bbq_64_a_2_0",
+      "flipH": 1,
+      "source": "room_pcnc15_bbq_64_a_0_0",
+      "x": 57,
+      "y": 103,
+      "exists": false
+    },
+    "room_pcnc15_bbq_64_b_2_0": {
+      "name": "room_pcnc15_bbq_64_b_2_0",
+      "flipH": 1,
+      "source": "room_pcnc15_bbq_64_b_0_0",
+      "x": 32,
+      "y": 45,
+      "exists": false
+    },
+    "room_pcnc15_bbq_64_c_2_0": {
+      "name": "room_pcnc15_bbq_64_c_2_0",
+      "flipH": 1,
+      "source": "room_pcnc15_bbq_64_c_0_0",
+      "x": 2,
+      "y": 6,
+      "exists": false
+    },
+    "room_pcnc15_bbq_64_c_2_1": {
+      "name": "room_pcnc15_bbq_64_c_2_1",
+      "flipH": 1,
+      "source": "room_pcnc15_bbq_64_c_0_1",
+      "x": 2,
+      "y": 5,
+      "exists": false
+    },
+    "room_pcnc15_bbq_64_c_2_2": {
+      "name": "room_pcnc15_bbq_64_c_2_2",
+      "flipH": 1,
+      "source": "room_pcnc15_bbq_64_c_0_2",
+      "x": 2,
+      "y": 2,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1000
+        },
+        {
+          "layerId": 1,
+          "z": 2000
+        },
+        {
+          "layerId": 2,
+          "z": 2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "room_pcnc15_bbq",
+    "visualization": "furniture_animated"
+  }
+}

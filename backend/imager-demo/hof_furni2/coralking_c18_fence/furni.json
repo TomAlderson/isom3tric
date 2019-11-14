@@ -1,0 +1,113 @@
+{
+  "assets": {
+    "coralking_c18_fence_64_sd_2_0": {
+      "name": "coralking_c18_fence_64_sd_2_0",
+      "x": 55,
+      "y": 11,
+      "exists": true
+    },
+    "coralking_c18_fence_64_a_2_0": {
+      "name": "coralking_c18_fence_64_a_2_0",
+      "x": -16,
+      "y": 36,
+      "exists": true
+    },
+    "coralking_c18_fence_64_b_2_0": {
+      "name": "coralking_c18_fence_64_b_2_0",
+      "x": 18,
+      "y": 37,
+      "exists": true
+    },
+    "coralking_c18_fence_64_c_2_0": {
+      "name": "coralking_c18_fence_64_c_2_0",
+      "x": 56,
+      "y": 24,
+      "exists": true
+    },
+    "coralking_c18_fence_64_sd_4_0": {
+      "name": "coralking_c18_fence_64_sd_4_0",
+      "x": 21,
+      "y": 9,
+      "exists": true
+    },
+    "coralking_c18_fence_64_a_4_0": {
+      "name": "coralking_c18_fence_64_a_4_0",
+      "x": 20,
+      "y": 35,
+      "exists": true
+    },
+    "coralking_c18_fence_64_b_4_0": {
+      "name": "coralking_c18_fence_64_b_4_0",
+      "x": 21,
+      "y": 36,
+      "exists": true
+    },
+    "coralking_c18_fence_64_c_4_0": {
+      "name": "coralking_c18_fence_64_c_4_0",
+      "x": -11,
+      "y": 23,
+      "exists": true
+    },
+    "coralking_c18_fence_icon_a": {
+      "name": "coralking_c18_fence_icon_a",
+      "x": 14,
+      "y": 11,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "coralking_c18_fence",
+    "visualization": "furniture_static"
+  }
+}

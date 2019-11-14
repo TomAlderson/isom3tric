@@ -1,0 +1,230 @@
+{
+  "assets": {
+    "ads_twi_bwall2_icon_a": {
+      "name": "ads_twi_bwall2_icon_a",
+      "x": 10,
+      "y": 15,
+      "exists": true
+    },
+    "ads_twi_bwall2_64_a_2_0": {
+      "name": "ads_twi_bwall2_64_a_2_0",
+      "x": 68,
+      "y": 58,
+      "exists": true
+    },
+    "ads_twi_bwall2_64_b_2_0": {
+      "name": "ads_twi_bwall2_64_b_2_0",
+      "x": 70,
+      "y": 162,
+      "exists": true
+    },
+    "ads_twi_bwall2_64_b_2_1": {
+      "name": "ads_twi_bwall2_64_b_2_1",
+      "x": 70,
+      "y": 162,
+      "exists": true
+    },
+    "ads_twi_bwall2_64_a_4_0": {
+      "name": "ads_twi_bwall2_64_a_4_0",
+      "flipH": 1,
+      "source": "ads_twi_bwall2_64_a_2_0",
+      "x": 68,
+      "y": 58,
+      "exists": false
+    },
+    "ads_twi_bwall2_64_b_4_0": {
+      "name": "ads_twi_bwall2_64_b_4_0",
+      "flipH": 1,
+      "source": "ads_twi_bwall2_64_b_2_0",
+      "x": 70,
+      "y": 162,
+      "exists": false
+    },
+    "ads_twi_bwall2_64_b_4_1": {
+      "name": "ads_twi_bwall2_64_b_4_1",
+      "flipH": 1,
+      "source": "ads_twi_bwall2_64_b_2_1",
+      "x": 70,
+      "y": 162,
+      "exists": false
+    },
+    "ads_twi_bwall2_32_a_2_0": {
+      "name": "ads_twi_bwall2_32_a_2_0",
+      "x": 34,
+      "y": 29,
+      "exists": true
+    },
+    "ads_twi_bwall2_32_b_2_0": {
+      "name": "ads_twi_bwall2_32_b_2_0",
+      "x": 36,
+      "y": 80,
+      "exists": true
+    },
+    "ads_twi_bwall2_32_b_2_1": {
+      "name": "ads_twi_bwall2_32_b_2_1",
+      "x": 36,
+      "y": 80,
+      "exists": true
+    },
+    "ads_twi_bwall2_32_a_4_0": {
+      "name": "ads_twi_bwall2_32_a_4_0",
+      "flipH": 1,
+      "source": "ads_twi_bwall2_32_a_2_0",
+      "x": 34,
+      "y": 29,
+      "exists": false
+    },
+    "ads_twi_bwall2_32_b_4_0": {
+      "name": "ads_twi_bwall2_32_b_4_0",
+      "flipH": 1,
+      "source": "ads_twi_bwall2_32_b_2_0",
+      "x": 36,
+      "y": 80,
+      "exists": false
+    },
+    "ads_twi_bwall2_32_b_4_1": {
+      "name": "ads_twi_bwall2_32_b_4_1",
+      "flipH": 1,
+      "source": "ads_twi_bwall2_32_b_2_1",
+      "x": 36,
+      "y": 80,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 4.0313,
+      "y": 0.2,
+      "z": 2.8438
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1900
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1900
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "ads_twi_bwall2",
+    "visualization": "furniture_animated"
+  }
+}

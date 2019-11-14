@@ -1,0 +1,174 @@
+{
+  "assets": {
+    "pillow_silver_32_sd_0_0": {
+      "name": "pillow_silver_32_sd_0_0",
+      "x": 17,
+      "y": 6,
+      "exists": true
+    },
+    "pillow_silver_32_a_0_0": {
+      "name": "pillow_silver_32_a_0_0",
+      "x": 18,
+      "y": 11,
+      "exists": true
+    },
+    "pillow_silver_64_sd_0_0": {
+      "name": "pillow_silver_64_sd_0_0",
+      "x": 36,
+      "y": 17,
+      "exists": true
+    },
+    "pillow_silver_64_a_0_0": {
+      "name": "pillow_silver_64_a_0_0",
+      "x": 36,
+      "y": 25,
+      "exists": true
+    },
+    "pillow_silver_icon_a": {
+      "name": "pillow_silver_icon_a",
+      "x": 14,
+      "y": 9,
+      "exists": true
+    },
+    "pillow_silver_32_sd_2_0": {
+      "name": "pillow_silver_32_sd_2_0",
+      "source": "pillow_silver_32_sd_0_0",
+      "x": 17,
+      "y": 6,
+      "exists": false
+    },
+    "pillow_silver_32_a_2_0": {
+      "name": "pillow_silver_32_a_2_0",
+      "source": "pillow_silver_32_a_0_0",
+      "x": 18,
+      "y": 11,
+      "exists": false
+    },
+    "pillow_silver_64_sd_2_0": {
+      "name": "pillow_silver_64_sd_2_0",
+      "source": "pillow_silver_64_sd_0_0",
+      "x": 36,
+      "y": 17,
+      "exists": false
+    },
+    "pillow_silver_64_a_2_0": {
+      "name": "pillow_silver_64_a_2_0",
+      "source": "pillow_silver_64_a_0_0",
+      "x": 36,
+      "y": 25,
+      "exists": false
+    },
+    "pillow_silver_32_sd_4_0": {
+      "name": "pillow_silver_32_sd_4_0",
+      "flipH": 1,
+      "source": "pillow_silver_32_sd_0_0",
+      "x": 17,
+      "y": 6,
+      "exists": false
+    },
+    "pillow_silver_32_a_4_0": {
+      "name": "pillow_silver_32_a_4_0",
+      "flipH": 1,
+      "source": "pillow_silver_32_a_0_0",
+      "x": 18,
+      "y": 11,
+      "exists": false
+    },
+    "pillow_silver_64_sd_4_0": {
+      "name": "pillow_silver_64_sd_4_0",
+      "flipH": 1,
+      "source": "pillow_silver_64_sd_0_0",
+      "x": 36,
+      "y": 17,
+      "exists": false
+    },
+    "pillow_silver_64_a_4_0": {
+      "name": "pillow_silver_64_a_4_0",
+      "flipH": 1,
+      "source": "pillow_silver_64_a_0_0",
+      "x": 36,
+      "y": 25,
+      "exists": false
+    },
+    "pillow_silver_32_sd_6_0": {
+      "name": "pillow_silver_32_sd_6_0",
+      "flipH": 1,
+      "source": "pillow_silver_32_sd_0_0",
+      "x": 17,
+      "y": 6,
+      "exists": false
+    },
+    "pillow_silver_32_a_6_0": {
+      "name": "pillow_silver_32_a_6_0",
+      "flipH": 1,
+      "source": "pillow_silver_32_a_0_0",
+      "x": 18,
+      "y": 11,
+      "exists": false
+    },
+    "pillow_silver_64_sd_6_0": {
+      "name": "pillow_silver_64_sd_6_0",
+      "flipH": 1,
+      "source": "pillow_silver_64_sd_0_0",
+      "x": 36,
+      "y": 17,
+      "exists": false
+    },
+    "pillow_silver_64_a_6_0": {
+      "name": "pillow_silver_64_a_6_0",
+      "flipH": 1,
+      "source": "pillow_silver_64_a_0_0",
+      "x": 36,
+      "y": 25,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.9
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "pillow_silver",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "assets": {
+    "noob_rug_64_a_0_0": {
+      "name": "noob_rug_64_a_0_0",
+      "x": 94,
+      "y": 15,
+      "exists": true
+    },
+    "noob_rug_64_a_2_0": {
+      "name": "noob_rug_64_a_2_0",
+      "flipH": 1,
+      "source": "noob_rug_64_a_0_0",
+      "x": 94,
+      "y": 15,
+      "exists": false
+    },
+    "noob_rug_64_b_0_0": {
+      "name": "noob_rug_64_b_0_0",
+      "x": 88,
+      "y": 11,
+      "exists": true
+    },
+    "noob_rug_64_b_2_0": {
+      "name": "noob_rug_64_b_2_0",
+      "flipH": 1,
+      "source": "noob_rug_64_b_0_0",
+      "x": 88,
+      "y": 11,
+      "exists": false
+    },
+    "noob_rug_icon_a": {
+      "name": "noob_rug_icon_a",
+      "x": 5,
+      "y": -8,
+      "exists": true
+    },
+    "noob_rug_icon_b": {
+      "name": "noob_rug_icon_b",
+      "x": 14,
+      "y": 9,
+      "exists": true
+    },
+    "noob_rug_icon_c": {
+      "name": "noob_rug_icon_c",
+      "x": 12,
+      "y": 6,
+      "exists": true
+    },
+    "noob_rug_32_a_0_0": {
+      "name": "noob_rug_32_a_0_0",
+      "x": 46,
+      "y": 7,
+      "exists": true
+    },
+    "noob_rug_32_a_2_0": {
+      "name": "noob_rug_32_a_2_0",
+      "flipH": 1,
+      "source": "noob_rug_32_a_0_0",
+      "x": 46,
+      "y": 7,
+      "exists": false
+    },
+    "noob_rug_32_b_0_0": {
+      "name": "noob_rug_32_b_0_0",
+      "x": 41,
+      "y": 5,
+      "exists": true
+    },
+    "noob_rug_32_b_2_0": {
+      "name": "noob_rug_32_b_2_0",
+      "flipH": 1,
+      "source": "noob_rug_32_b_0_0",
+      "x": 41,
+      "y": 5,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 3,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 3,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 1,
+            "color": "FC9C45"
+          },
+          {
+            "layerId": 2,
+            "color": "F4EC36"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": "4C526E"
+          },
+          {
+            "layerId": 2,
+            "color": "8D92AB"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 1,
+            "color": "985A47"
+          },
+          {
+            "layerId": 2,
+            "color": "D9AD90"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "94CBD7"
+          },
+          {
+            "layerId": 2,
+            "color": "DAF4FA"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "F5779F"
+          },
+          {
+            "layerId": 2,
+            "color": "F6C0C0"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "C1C400"
+          },
+          {
+            "layerId": 2,
+            "color": "FFD406"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 0,
+            "color": "FC9C45"
+          },
+          {
+            "layerId": 1,
+            "color": "F4EC36"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 0,
+            "color": "4C526E"
+          },
+          {
+            "layerId": 1,
+            "color": "8D92AB"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 0,
+            "color": "985A47"
+          },
+          {
+            "layerId": 1,
+            "color": "D9AD90"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 0,
+            "color": "94CBD7"
+          },
+          {
+            "layerId": 1,
+            "color": "DAF4FA"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 0,
+            "color": "F5779F"
+          },
+          {
+            "layerId": 1,
+            "color": "F6C0C0"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 0,
+            "color": "C1C400"
+          },
+          {
+            "layerId": 1,
+            "color": "FFD406"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1002
+        },
+        {
+          "layerId": 1,
+          "z": -999
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 0,
+            "color": "FC9C45"
+          },
+          {
+            "layerId": 1,
+            "color": "F4EC36"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 0,
+            "color": "4C526E"
+          },
+          {
+            "layerId": 1,
+            "color": "8D92AB"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 0,
+            "color": "985A47"
+          },
+          {
+            "layerId": 1,
+            "color": "D9AD90"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 0,
+            "color": "94CBD7"
+          },
+          {
+            "layerId": 1,
+            "color": "DAF4FA"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 0,
+            "color": "F5779F"
+          },
+          {
+            "layerId": 1,
+            "color": "F6C0C0"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 0,
+            "color": "C1C400"
+          },
+          {
+            "layerId": 1,
+            "color": "FFD406"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1002
+        },
+        {
+          "layerId": 1,
+          "z": -999
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "noob_rug",
+    "visualization": "furniture_static"
+  }
+}

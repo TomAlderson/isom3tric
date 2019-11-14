@@ -1,0 +1,80 @@
+{
+  "assets": {
+    "hween_c18_washpowder_64_sd_0_0": {
+      "name": "hween_c18_washpowder_64_sd_0_0",
+      "x": 15,
+      "y": 6,
+      "exists": true
+    },
+    "hween_c18_washpowder_64_a_0_0": {
+      "name": "hween_c18_washpowder_64_a_0_0",
+      "x": 18,
+      "y": 45,
+      "exists": true
+    },
+    "hween_c18_washpowder_icon_a": {
+      "name": "hween_c18_washpowder_icon_a",
+      "x": 8,
+      "y": 13,
+      "exists": true
+    },
+    "hween_c18_washpowder_64_sd_2_0": {
+      "name": "hween_c18_washpowder_64_sd_2_0",
+      "flipH": 1,
+      "source": "hween_c18_washpowder_64_sd_0_0",
+      "x": 15,
+      "y": 6,
+      "exists": false
+    },
+    "hween_c18_washpowder_64_a_2_0": {
+      "name": "hween_c18_washpowder_64_a_2_0",
+      "flipH": 1,
+      "source": "hween_c18_washpowder_64_a_0_0",
+      "x": 18,
+      "y": 45,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "hween_c18_washpowder",
+    "visualization": "furniture_static"
+  }
+}

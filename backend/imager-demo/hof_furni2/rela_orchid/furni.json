@@ -1,0 +1,122 @@
+{
+  "assets": {
+    "rela_orchid_64_a_0_0": {
+      "name": "rela_orchid_64_a_0_0",
+      "x": 24,
+      "y": 82,
+      "exists": true
+    },
+    "rela_orchid_64_a_2_0": {
+      "name": "rela_orchid_64_a_2_0",
+      "flipH": 1,
+      "source": "rela_orchid_64_a_0_0",
+      "x": 24,
+      "y": 82,
+      "exists": false
+    },
+    "rela_orchid_64_b_0_0": {
+      "name": "rela_orchid_64_b_0_0",
+      "x": 14,
+      "y": 43,
+      "exists": true
+    },
+    "rela_orchid_64_b_2_0": {
+      "name": "rela_orchid_64_b_2_0",
+      "flipH": 1,
+      "source": "rela_orchid_64_b_0_0",
+      "x": 14,
+      "y": 43,
+      "exists": false
+    },
+    "rela_orchid_icon_a": {
+      "name": "rela_orchid_icon_a",
+      "x": 7,
+      "y": 16,
+      "exists": true
+    },
+    "rela_orchid_32_a_0_0": {
+      "name": "rela_orchid_32_a_0_0",
+      "x": 11,
+      "y": 41,
+      "exists": true
+    },
+    "rela_orchid_32_a_2_0": {
+      "name": "rela_orchid_32_a_2_0",
+      "flipH": 1,
+      "source": "rela_orchid_32_a_0_0",
+      "x": 11,
+      "y": 41,
+      "exists": false
+    },
+    "rela_orchid_32_b_0_0": {
+      "name": "rela_orchid_32_b_0_0",
+      "x": 6,
+      "y": 21,
+      "exists": true
+    },
+    "rela_orchid_32_b_2_0": {
+      "name": "rela_orchid_32_b_2_0",
+      "flipH": 1,
+      "source": "rela_orchid_32_b_0_0",
+      "x": 6,
+      "y": 21,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "alpha": 179
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "alpha": 179
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "rela_orchid",
+    "visualization": "furniture_static"
+  }
+}

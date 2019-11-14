@@ -1,0 +1,120 @@
+{
+  "assets": {
+    "tokyo_r18_mapletree_64_sd_0_0": {
+      "name": "tokyo_r18_mapletree_64_sd_0_0",
+      "x": 67,
+      "y": 38,
+      "exists": true
+    },
+    "tokyo_r18_mapletree_64_a_0_0": {
+      "name": "tokyo_r18_mapletree_64_a_0_0",
+      "x": 73,
+      "y": 183,
+      "exists": true
+    },
+    "tokyo_r18_mapletree_64_b_0_0": {
+      "name": "tokyo_r18_mapletree_64_b_0_0",
+      "x": 55,
+      "y": 179,
+      "exists": true
+    },
+    "tokyo_r18_mapletree_64_c_0_0": {
+      "name": "tokyo_r18_mapletree_64_c_0_0",
+      "x": 87,
+      "y": 189,
+      "exists": true
+    },
+    "tokyo_r18_mapletree_icon_a": {
+      "name": "tokyo_r18_mapletree_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "tokyo_r18_mapletree_64_sd_2_0": {
+      "name": "tokyo_r18_mapletree_64_sd_2_0",
+      "flipH": 1,
+      "source": "tokyo_r18_mapletree_64_sd_0_0",
+      "x": 67,
+      "y": 38,
+      "exists": false
+    },
+    "tokyo_r18_mapletree_64_a_2_0": {
+      "name": "tokyo_r18_mapletree_64_a_2_0",
+      "flipH": 1,
+      "source": "tokyo_r18_mapletree_64_a_0_0",
+      "x": 73,
+      "y": 183,
+      "exists": false
+    },
+    "tokyo_r18_mapletree_64_b_2_0": {
+      "name": "tokyo_r18_mapletree_64_b_2_0",
+      "flipH": 1,
+      "source": "tokyo_r18_mapletree_64_b_0_0",
+      "x": 55,
+      "y": 179,
+      "exists": false
+    },
+    "tokyo_r18_mapletree_64_c_2_0": {
+      "name": "tokyo_r18_mapletree_64_c_2_0",
+      "flipH": 1,
+      "source": "tokyo_r18_mapletree_64_c_0_0",
+      "x": 87,
+      "y": 189,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "tokyo_r18_mapletree",
+    "visualization": "furniture_animated"
+  }
+}

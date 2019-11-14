@@ -1,0 +1,949 @@
+{
+  "assets": {
+    "jungle_c16_stairs_64_sd_0_0": {
+      "name": "jungle_c16_stairs_64_sd_0_0",
+      "x": 31,
+      "y": 15,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_a_0_0": {
+      "name": "jungle_c16_stairs_64_a_0_0",
+      "x": 33,
+      "y": 37,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_0_0": {
+      "name": "jungle_c16_stairs_64_b_0_0",
+      "x": 1,
+      "y": -8,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_0_1": {
+      "name": "jungle_c16_stairs_64_a_0_1",
+      "x": 41,
+      "y": 69,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_0_1": {
+      "name": "jungle_c16_stairs_64_b_0_1",
+      "x": 9,
+      "y": 13,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_0_2": {
+      "name": "jungle_c16_stairs_64_a_0_2",
+      "x": 41,
+      "y": 101,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_0_2": {
+      "name": "jungle_c16_stairs_64_b_0_2",
+      "x": 9,
+      "y": 45,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_0_3": {
+      "name": "jungle_c16_stairs_64_a_0_3",
+      "x": 41,
+      "y": 133,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_0_3": {
+      "name": "jungle_c16_stairs_64_b_0_3",
+      "x": 9,
+      "y": 77,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_0_4": {
+      "name": "jungle_c16_stairs_64_a_0_4",
+      "x": 41,
+      "y": 165,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_0_4": {
+      "name": "jungle_c16_stairs_64_b_0_4",
+      "x": 9,
+      "y": 109,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_0_5": {
+      "name": "jungle_c16_stairs_64_a_0_5",
+      "x": 41,
+      "y": 197,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_0_5": {
+      "name": "jungle_c16_stairs_64_b_0_5",
+      "x": 9,
+      "y": 141,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_0_6": {
+      "name": "jungle_c16_stairs_64_a_0_6",
+      "x": 41,
+      "y": 229,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_0_6": {
+      "name": "jungle_c16_stairs_64_b_0_6",
+      "x": 9,
+      "y": 173,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_0_7": {
+      "name": "jungle_c16_stairs_64_a_0_7",
+      "x": 41,
+      "y": 261,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_0_7": {
+      "name": "jungle_c16_stairs_64_b_0_7",
+      "x": 9,
+      "y": 205,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_0_8": {
+      "name": "jungle_c16_stairs_64_a_0_8",
+      "x": 41,
+      "y": 293,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_0_8": {
+      "name": "jungle_c16_stairs_64_b_0_8",
+      "x": 9,
+      "y": 237,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_0_9": {
+      "name": "jungle_c16_stairs_64_a_0_9",
+      "x": 41,
+      "y": 325,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_0_9": {
+      "name": "jungle_c16_stairs_64_b_0_9",
+      "x": 9,
+      "y": 269,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_a_0_10": {
+      "name": "jungle_c16_stairs_64_a_0_10",
+      "x": 41,
+      "y": 357,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_0_10": {
+      "name": "jungle_c16_stairs_64_b_0_10",
+      "x": 9,
+      "y": 301,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_2_0": {
+      "name": "jungle_c16_stairs_64_a_2_0",
+      "x": 25,
+      "y": 29,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_2_0": {
+      "name": "jungle_c16_stairs_64_b_2_0",
+      "x": 9,
+      "y": 29,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_2_1": {
+      "name": "jungle_c16_stairs_64_a_2_1",
+      "x": 33,
+      "y": 61,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_2_1": {
+      "name": "jungle_c16_stairs_64_b_2_1",
+      "x": 9,
+      "y": 61,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_2_2": {
+      "name": "jungle_c16_stairs_64_a_2_2",
+      "x": 33,
+      "y": 93,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_2_2": {
+      "name": "jungle_c16_stairs_64_b_2_2",
+      "x": 9,
+      "y": 93,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_2_3": {
+      "name": "jungle_c16_stairs_64_a_2_3",
+      "x": 33,
+      "y": 125,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_2_3": {
+      "name": "jungle_c16_stairs_64_b_2_3",
+      "x": 9,
+      "y": 125,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_2_4": {
+      "name": "jungle_c16_stairs_64_a_2_4",
+      "x": 33,
+      "y": 157,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_2_4": {
+      "name": "jungle_c16_stairs_64_b_2_4",
+      "x": 9,
+      "y": 157,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_2_5": {
+      "name": "jungle_c16_stairs_64_a_2_5",
+      "x": 33,
+      "y": 189,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_2_5": {
+      "name": "jungle_c16_stairs_64_b_2_5",
+      "x": 9,
+      "y": 189,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_2_6": {
+      "name": "jungle_c16_stairs_64_a_2_6",
+      "x": 33,
+      "y": 221,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_2_6": {
+      "name": "jungle_c16_stairs_64_b_2_6",
+      "x": 9,
+      "y": 221,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_2_7": {
+      "name": "jungle_c16_stairs_64_a_2_7",
+      "x": 33,
+      "y": 253,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_2_7": {
+      "name": "jungle_c16_stairs_64_b_2_7",
+      "x": 9,
+      "y": 253,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_2_8": {
+      "name": "jungle_c16_stairs_64_a_2_8",
+      "x": 33,
+      "y": 285,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_2_8": {
+      "name": "jungle_c16_stairs_64_b_2_8",
+      "x": 9,
+      "y": 285,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_a_2_9": {
+      "name": "jungle_c16_stairs_64_a_2_9",
+      "x": 33,
+      "y": 317,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_2_9": {
+      "name": "jungle_c16_stairs_64_b_2_9",
+      "x": 9,
+      "y": 317,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_2_10": {
+      "name": "jungle_c16_stairs_64_a_2_10",
+      "x": 33,
+      "y": 349,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_b_2_10": {
+      "name": "jungle_c16_stairs_64_b_2_10",
+      "x": 9,
+      "y": 349,
+      "exists": false
+    },
+    "jungle_c16_stairs_icon_a": {
+      "name": "jungle_c16_stairs_icon_a",
+      "x": 14,
+      "y": 11,
+      "exists": true
+    },
+    "jungle_c16_stairs_64_sd_6_0": {
+      "name": "jungle_c16_stairs_64_sd_6_0",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_sd_0_0",
+      "x": 31,
+      "y": 15,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_6_0": {
+      "name": "jungle_c16_stairs_64_a_6_0",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_0_0",
+      "x": 33,
+      "y": 37,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_6_0": {
+      "name": "jungle_c16_stairs_64_b_6_0",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_0_0",
+      "x": 1,
+      "y": -8,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_6_1": {
+      "name": "jungle_c16_stairs_64_a_6_1",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_0_1",
+      "x": 41,
+      "y": 69,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_6_1": {
+      "name": "jungle_c16_stairs_64_b_6_1",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_0_1",
+      "x": 9,
+      "y": 13,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_6_2": {
+      "name": "jungle_c16_stairs_64_a_6_2",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_0_2",
+      "x": 41,
+      "y": 101,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_6_2": {
+      "name": "jungle_c16_stairs_64_b_6_2",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_0_2",
+      "x": 9,
+      "y": 45,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_6_3": {
+      "name": "jungle_c16_stairs_64_a_6_3",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_0_3",
+      "x": 41,
+      "y": 133,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_6_3": {
+      "name": "jungle_c16_stairs_64_b_6_3",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_0_3",
+      "x": 9,
+      "y": 77,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_6_4": {
+      "name": "jungle_c16_stairs_64_a_6_4",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_0_4",
+      "x": 41,
+      "y": 165,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_6_4": {
+      "name": "jungle_c16_stairs_64_b_6_4",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_0_4",
+      "x": 9,
+      "y": 109,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_6_5": {
+      "name": "jungle_c16_stairs_64_a_6_5",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_0_5",
+      "x": 41,
+      "y": 197,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_6_5": {
+      "name": "jungle_c16_stairs_64_b_6_5",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_0_5",
+      "x": 9,
+      "y": 141,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_6_6": {
+      "name": "jungle_c16_stairs_64_a_6_6",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_0_6",
+      "x": 41,
+      "y": 229,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_6_6": {
+      "name": "jungle_c16_stairs_64_b_6_6",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_0_6",
+      "x": 9,
+      "y": 173,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_6_7": {
+      "name": "jungle_c16_stairs_64_a_6_7",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_0_7",
+      "x": 41,
+      "y": 261,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_6_7": {
+      "name": "jungle_c16_stairs_64_b_6_7",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_0_7",
+      "x": 9,
+      "y": 205,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_6_8": {
+      "name": "jungle_c16_stairs_64_a_6_8",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_0_8",
+      "x": 41,
+      "y": 293,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_6_8": {
+      "name": "jungle_c16_stairs_64_b_6_8",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_0_8",
+      "x": 9,
+      "y": 237,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_6_9": {
+      "name": "jungle_c16_stairs_64_a_6_9",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_0_9",
+      "x": 41,
+      "y": 325,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_6_9": {
+      "name": "jungle_c16_stairs_64_b_6_9",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_0_9",
+      "x": 9,
+      "y": 269,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_6_10": {
+      "name": "jungle_c16_stairs_64_a_6_10",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_0_10",
+      "x": 41,
+      "y": 357,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_6_10": {
+      "name": "jungle_c16_stairs_64_b_6_10",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_0_10",
+      "x": 9,
+      "y": 301,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_4_0": {
+      "name": "jungle_c16_stairs_64_a_4_0",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_2_0",
+      "x": 25,
+      "y": 29,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_4_0": {
+      "name": "jungle_c16_stairs_64_b_4_0",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_2_0",
+      "x": 9,
+      "y": 29,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_4_1": {
+      "name": "jungle_c16_stairs_64_a_4_1",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_2_1",
+      "x": 33,
+      "y": 61,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_4_1": {
+      "name": "jungle_c16_stairs_64_b_4_1",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_2_1",
+      "x": 9,
+      "y": 61,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_4_2": {
+      "name": "jungle_c16_stairs_64_a_4_2",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_2_2",
+      "x": 33,
+      "y": 93,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_4_2": {
+      "name": "jungle_c16_stairs_64_b_4_2",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_2_2",
+      "x": 9,
+      "y": 93,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_4_3": {
+      "name": "jungle_c16_stairs_64_a_4_3",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_2_3",
+      "x": 33,
+      "y": 125,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_4_3": {
+      "name": "jungle_c16_stairs_64_b_4_3",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_2_3",
+      "x": 9,
+      "y": 125,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_4_4": {
+      "name": "jungle_c16_stairs_64_a_4_4",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_2_4",
+      "x": 33,
+      "y": 157,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_4_4": {
+      "name": "jungle_c16_stairs_64_b_4_4",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_2_4",
+      "x": 9,
+      "y": 157,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_4_5": {
+      "name": "jungle_c16_stairs_64_a_4_5",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_2_5",
+      "x": 33,
+      "y": 189,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_4_5": {
+      "name": "jungle_c16_stairs_64_b_4_5",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_2_5",
+      "x": 9,
+      "y": 189,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_4_6": {
+      "name": "jungle_c16_stairs_64_a_4_6",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_2_6",
+      "x": 33,
+      "y": 221,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_4_6": {
+      "name": "jungle_c16_stairs_64_b_4_6",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_2_6",
+      "x": 9,
+      "y": 221,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_4_7": {
+      "name": "jungle_c16_stairs_64_a_4_7",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_2_7",
+      "x": 33,
+      "y": 253,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_4_7": {
+      "name": "jungle_c16_stairs_64_b_4_7",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_2_7",
+      "x": 9,
+      "y": 253,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_4_8": {
+      "name": "jungle_c16_stairs_64_a_4_8",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_2_8",
+      "x": 33,
+      "y": 285,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_4_8": {
+      "name": "jungle_c16_stairs_64_b_4_8",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_2_8",
+      "x": 9,
+      "y": 285,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_4_9": {
+      "name": "jungle_c16_stairs_64_a_4_9",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_2_9",
+      "x": 33,
+      "y": 317,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_4_9": {
+      "name": "jungle_c16_stairs_64_b_4_9",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_2_9",
+      "x": 9,
+      "y": 317,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_a_4_10": {
+      "name": "jungle_c16_stairs_64_a_4_10",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_a_2_10",
+      "x": 33,
+      "y": 349,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_b_4_10": {
+      "name": "jungle_c16_stairs_64_b_4_10",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_b_2_10",
+      "x": 9,
+      "y": 349,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_sd_2_0": {
+      "name": "jungle_c16_stairs_64_sd_2_0",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_sd_0_0",
+      "x": 31,
+      "y": 15,
+      "exists": false
+    },
+    "jungle_c16_stairs_64_sd_4_0": {
+      "name": "jungle_c16_stairs_64_sd_4_0",
+      "flipH": 1,
+      "source": "jungle_c16_stairs_64_sd_0_0",
+      "x": 31,
+      "y": 15,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.5
+    },
+    "directions": [
+      0,
+      270,
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            }
+          ]
+        },
+        "7": {
+          "id": 7,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            }
+          ]
+        },
+        "8": {
+          "id": 8,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  8
+                ]
+              ]
+            }
+          ]
+        },
+        "9": {
+          "id": 9,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            }
+          ]
+        },
+        "10": {
+          "id": 10,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  10
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  10
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 300
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "jungle_c16_stairs",
+    "visualization": "furniture_animated"
+  }
+}

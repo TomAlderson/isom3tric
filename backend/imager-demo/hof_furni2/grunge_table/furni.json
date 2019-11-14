@@ -1,0 +1,63 @@
+{
+  "assets": {
+    "grunge_table_64_a_0_0": {
+      "name": "grunge_table_64_a_0_0",
+      "x": 32,
+      "y": 29,
+      "exists": true
+    },
+    "grunge_table_icon_a": {
+      "name": "grunge_table_icon_a",
+      "x": 14,
+      "y": 15,
+      "exists": true
+    },
+    "grunge_table_32_a_0_0": {
+      "name": "grunge_table_32_a_0_0",
+      "x": 16,
+      "y": 15,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "grunge_table",
+    "visualization": "furniture_static"
+  }
+}

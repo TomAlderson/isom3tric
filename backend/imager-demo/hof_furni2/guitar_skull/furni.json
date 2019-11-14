@@ -1,0 +1,178 @@
+{
+  "assets": {
+    "guitar_skull_icon_a": {
+      "name": "guitar_skull_icon_a",
+      "x": 14,
+      "y": 10,
+      "exists": true
+    },
+    "guitar_skull_64_a_2_0": {
+      "name": "guitar_skull_64_a_2_0",
+      "x": 43,
+      "y": 25,
+      "exists": true
+    },
+    "guitar_skull_64_b_2_0": {
+      "name": "guitar_skull_64_b_2_0",
+      "x": 42,
+      "y": 20,
+      "exists": true
+    },
+    "guitar_skull_64_a_4_0": {
+      "name": "guitar_skull_64_a_4_0",
+      "flipH": 1,
+      "source": "guitar_skull_64_a_2_0",
+      "x": 43,
+      "y": 25,
+      "exists": false
+    },
+    "guitar_skull_64_b_4_0": {
+      "name": "guitar_skull_64_b_4_0",
+      "flipH": 1,
+      "source": "guitar_skull_64_b_2_0",
+      "x": 42,
+      "y": 20,
+      "exists": false
+    },
+    "guitar_skull_32_a_2_0": {
+      "name": "guitar_skull_32_a_2_0",
+      "x": 22,
+      "y": 13,
+      "exists": true
+    },
+    "guitar_skull_32_b_2_0": {
+      "name": "guitar_skull_32_b_2_0",
+      "x": 22,
+      "y": 7,
+      "exists": true
+    },
+    "guitar_skull_32_a_4_0": {
+      "name": "guitar_skull_32_a_4_0",
+      "flipH": 1,
+      "source": "guitar_skull_32_a_2_0",
+      "x": 22,
+      "y": 13,
+      "exists": false
+    },
+    "guitar_skull_32_b_4_0": {
+      "name": "guitar_skull_32_b_4_0",
+      "flipH": 1,
+      "source": "guitar_skull_32_b_2_0",
+      "x": 22,
+      "y": 7,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1.75,
+      "y": 0.2,
+      "z": 1.1563
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "alpha": 41,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "alpha": 41,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "guitar_skull",
+    "visualization": "furniture_animated"
+  }
+}

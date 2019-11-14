@@ -1,0 +1,257 @@
+{
+  "assets": {
+    "cland_c15_chocorock_64_a_4_0": {
+      "name": "cland_c15_chocorock_64_a_4_0",
+      "x": 27,
+      "y": 33,
+      "exists": true
+    },
+    "cland_c15_chocorock_64_a_4_1": {
+      "name": "cland_c15_chocorock_64_a_4_1",
+      "x": 18,
+      "y": 35,
+      "exists": true
+    },
+    "cland_c15_chocorock_64_a_4_2": {
+      "name": "cland_c15_chocorock_64_a_4_2",
+      "x": 27,
+      "y": 36,
+      "exists": true
+    },
+    "cland_c15_chocorock_64_a_4_3": {
+      "name": "cland_c15_chocorock_64_a_4_3",
+      "x": 18,
+      "y": 37,
+      "exists": true
+    },
+    "cland_c15_chocorock_64_a_4_4": {
+      "name": "cland_c15_chocorock_64_a_4_4",
+      "x": 27,
+      "y": 36,
+      "exists": true
+    },
+    "cland_c15_chocorock_64_a_4_5": {
+      "name": "cland_c15_chocorock_64_a_4_5",
+      "x": 18,
+      "y": 37,
+      "exists": true
+    },
+    "cland_c15_chocorock_64_a_4_6": {
+      "name": "cland_c15_chocorock_64_a_4_6",
+      "x": 27,
+      "y": 36,
+      "exists": true
+    },
+    "cland_c15_chocorock_64_a_4_7": {
+      "name": "cland_c15_chocorock_64_a_4_7",
+      "x": 18,
+      "y": 37,
+      "exists": true
+    },
+    "cland_c15_chocorock_icon_a": {
+      "name": "cland_c15_chocorock_icon_a",
+      "x": 13,
+      "y": 11,
+      "exists": true
+    },
+    "cland_c15_chocorock_64_a_2_0": {
+      "name": "cland_c15_chocorock_64_a_2_0",
+      "flipH": 1,
+      "source": "cland_c15_chocorock_64_a_4_0",
+      "x": 27,
+      "y": 33,
+      "exists": false
+    },
+    "cland_c15_chocorock_64_a_2_1": {
+      "name": "cland_c15_chocorock_64_a_2_1",
+      "flipH": 1,
+      "source": "cland_c15_chocorock_64_a_4_1",
+      "x": 18,
+      "y": 35,
+      "exists": false
+    },
+    "cland_c15_chocorock_64_a_2_2": {
+      "name": "cland_c15_chocorock_64_a_2_2",
+      "flipH": 1,
+      "source": "cland_c15_chocorock_64_a_4_2",
+      "x": 27,
+      "y": 36,
+      "exists": false
+    },
+    "cland_c15_chocorock_64_a_2_3": {
+      "name": "cland_c15_chocorock_64_a_2_3",
+      "flipH": 1,
+      "source": "cland_c15_chocorock_64_a_4_3",
+      "x": 18,
+      "y": 37,
+      "exists": false
+    },
+    "cland_c15_chocorock_64_a_2_4": {
+      "name": "cland_c15_chocorock_64_a_2_4",
+      "flipH": 1,
+      "source": "cland_c15_chocorock_64_a_4_4",
+      "x": 27,
+      "y": 36,
+      "exists": false
+    },
+    "cland_c15_chocorock_64_a_2_5": {
+      "name": "cland_c15_chocorock_64_a_2_5",
+      "flipH": 1,
+      "source": "cland_c15_chocorock_64_a_4_5",
+      "x": 18,
+      "y": 37,
+      "exists": false
+    },
+    "cland_c15_chocorock_64_a_2_6": {
+      "name": "cland_c15_chocorock_64_a_2_6",
+      "flipH": 1,
+      "source": "cland_c15_chocorock_64_a_4_6",
+      "x": 27,
+      "y": 36,
+      "exists": false
+    },
+    "cland_c15_chocorock_64_a_2_7": {
+      "name": "cland_c15_chocorock_64_a_2_7",
+      "flipH": 1,
+      "source": "cland_c15_chocorock_64_a_4_7",
+      "x": 18,
+      "y": 37,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            }
+          ]
+        },
+        "7": {
+          "id": 7,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "cland_c15_chocorock",
+    "visualization": "furniture_animated"
+  }
+}

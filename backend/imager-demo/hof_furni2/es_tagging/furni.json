@@ -1,0 +1,177 @@
+{
+  "assets": {
+    "es_tagging_32_a_2_0": {
+      "name": "es_tagging_32_a_2_0",
+      "x": 5,
+      "y": 48,
+      "exists": true
+    },
+    "es_tagging_32_b_2_0": {
+      "name": "es_tagging_32_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": true
+    },
+    "es_tagging_32_b_2_1": {
+      "name": "es_tagging_32_b_2_1",
+      "x": 30,
+      "y": 53,
+      "exists": true
+    },
+    "es_tagging_32_b_2_2": {
+      "name": "es_tagging_32_b_2_2",
+      "x": 46,
+      "y": 84,
+      "exists": true
+    },
+    "es_tagging_32_sd_2_0": {
+      "name": "es_tagging_32_sd_2_0",
+      "x": 6,
+      "y": 3,
+      "exists": true
+    },
+    "es_tagging_64_a_2_0": {
+      "name": "es_tagging_64_a_2_0",
+      "x": 9,
+      "y": 94,
+      "exists": true
+    },
+    "es_tagging_64_b_2_0": {
+      "name": "es_tagging_64_b_2_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "es_tagging_64_b_2_1": {
+      "name": "es_tagging_64_b_2_1",
+      "x": 60,
+      "y": 105,
+      "exists": true
+    },
+    "es_tagging_64_b_2_2": {
+      "name": "es_tagging_64_b_2_2",
+      "x": 90,
+      "y": 166,
+      "exists": true
+    },
+    "es_tagging_64_sd_2_0": {
+      "name": "es_tagging_64_sd_2_0",
+      "x": 12,
+      "y": 8,
+      "exists": true
+    },
+    "es_tagging_icon_a": {
+      "name": "es_tagging_icon_a",
+      "x": 9,
+      "y": 13,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "es_tagging",
+    "visualization": "furniture_animated"
+  }
+}

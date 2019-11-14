@@ -1,0 +1,610 @@
+{
+  "assets": {
+    "sofachair_silo_32_a_0_0": {
+      "name": "sofachair_silo_32_a_0_0",
+      "x": 19,
+      "y": 21,
+      "exists": true
+    },
+    "sofachair_silo_32_a_2_0": {
+      "name": "sofachair_silo_32_a_2_0",
+      "x": 18,
+      "y": 19,
+      "exists": true
+    },
+    "sofachair_silo_32_a_4_0": {
+      "name": "sofachair_silo_32_a_4_0",
+      "flipH": 1,
+      "source": "sofachair_silo_32_a_2_0",
+      "x": 18,
+      "y": 19,
+      "exists": false
+    },
+    "sofachair_silo_32_a_6_0": {
+      "name": "sofachair_silo_32_a_6_0",
+      "flipH": 1,
+      "source": "sofachair_silo_32_a_0_0",
+      "x": 19,
+      "y": 21,
+      "exists": false
+    },
+    "sofachair_silo_32_b_0_0": {
+      "name": "sofachair_silo_32_b_0_0",
+      "x": 9,
+      "y": 18,
+      "exists": true
+    },
+    "sofachair_silo_32_b_2_0": {
+      "name": "sofachair_silo_32_b_2_0",
+      "x": 17,
+      "y": 27,
+      "exists": true
+    },
+    "sofachair_silo_32_b_4_0": {
+      "name": "sofachair_silo_32_b_4_0",
+      "flipH": 1,
+      "source": "sofachair_silo_32_b_2_0",
+      "x": 17,
+      "y": 27,
+      "exists": false
+    },
+    "sofachair_silo_32_b_6_0": {
+      "name": "sofachair_silo_32_b_6_0",
+      "flipH": 1,
+      "source": "sofachair_silo_32_b_0_0",
+      "x": 9,
+      "y": 18,
+      "exists": false
+    },
+    "sofachair_silo_32_c_0_0": {
+      "name": "sofachair_silo_32_c_0_0",
+      "x": 12,
+      "y": 18,
+      "exists": true
+    },
+    "sofachair_silo_32_c_2_0": {
+      "name": "sofachair_silo_32_c_2_0",
+      "x": 14,
+      "y": 23,
+      "exists": true
+    },
+    "sofachair_silo_32_c_4_0": {
+      "name": "sofachair_silo_32_c_4_0",
+      "flipH": 1,
+      "source": "sofachair_silo_32_c_2_0",
+      "x": 14,
+      "y": 23,
+      "exists": false
+    },
+    "sofachair_silo_32_c_6_0": {
+      "name": "sofachair_silo_32_c_6_0",
+      "flipH": 1,
+      "source": "sofachair_silo_32_c_0_0",
+      "x": 12,
+      "y": 18,
+      "exists": false
+    },
+    "sofachair_silo_32_d_0_0": {
+      "name": "sofachair_silo_32_d_0_0",
+      "x": 3,
+      "y": 13,
+      "exists": true
+    },
+    "sofachair_silo_32_d_2_0": {
+      "name": "sofachair_silo_32_d_2_0",
+      "x": -4,
+      "y": 15,
+      "exists": true
+    },
+    "sofachair_silo_32_d_4_0": {
+      "name": "sofachair_silo_32_d_4_0",
+      "source": "sofachair_silo_32_d_0_0",
+      "x": 3,
+      "y": 13,
+      "exists": false
+    },
+    "sofachair_silo_32_d_6_0": {
+      "name": "sofachair_silo_32_d_6_0",
+      "source": "sofachair_silo_32_d_0_0",
+      "x": 3,
+      "y": 13,
+      "exists": false
+    },
+    "sofachair_silo_32_sd_0_0": {
+      "name": "sofachair_silo_32_sd_0_0",
+      "x": 18,
+      "y": 8,
+      "exists": true
+    },
+    "sofachair_silo_32_sd_2_0": {
+      "name": "sofachair_silo_32_sd_2_0",
+      "source": "sofachair_silo_32_sd_0_0",
+      "x": 18,
+      "y": 8,
+      "exists": false
+    },
+    "sofachair_silo_32_sd_4_0": {
+      "name": "sofachair_silo_32_sd_4_0",
+      "source": "sofachair_silo_32_sd_0_0",
+      "x": 18,
+      "y": 8,
+      "exists": false
+    },
+    "sofachair_silo_32_sd_6_0": {
+      "name": "sofachair_silo_32_sd_6_0",
+      "source": "sofachair_silo_32_sd_0_0",
+      "x": 18,
+      "y": 8,
+      "exists": false
+    },
+    "sofachair_silo_64_a_0_0": {
+      "name": "sofachair_silo_64_a_0_0",
+      "x": 37,
+      "y": 46,
+      "exists": true
+    },
+    "sofachair_silo_64_a_2_0": {
+      "name": "sofachair_silo_64_a_2_0",
+      "x": 33,
+      "y": 39,
+      "exists": true
+    },
+    "sofachair_silo_64_a_4_0": {
+      "name": "sofachair_silo_64_a_4_0",
+      "flipH": 1,
+      "source": "sofachair_silo_64_a_2_0",
+      "x": 33,
+      "y": 39,
+      "exists": false
+    },
+    "sofachair_silo_64_a_6_0": {
+      "name": "sofachair_silo_64_a_6_0",
+      "flipH": 1,
+      "source": "sofachair_silo_64_a_0_0",
+      "x": 37,
+      "y": 46,
+      "exists": false
+    },
+    "sofachair_silo_64_b_0_0": {
+      "name": "sofachair_silo_64_b_0_0",
+      "x": 17,
+      "y": 45,
+      "exists": true
+    },
+    "sofachair_silo_64_b_2_0": {
+      "name": "sofachair_silo_64_b_2_0",
+      "x": 28,
+      "y": 56,
+      "exists": true
+    },
+    "sofachair_silo_64_b_4_0": {
+      "name": "sofachair_silo_64_b_4_0",
+      "flipH": 1,
+      "source": "sofachair_silo_64_b_2_0",
+      "x": 28,
+      "y": 56,
+      "exists": false
+    },
+    "sofachair_silo_64_b_6_0": {
+      "name": "sofachair_silo_64_b_6_0",
+      "flipH": 1,
+      "source": "sofachair_silo_64_b_0_0",
+      "x": 17,
+      "y": 45,
+      "exists": false
+    },
+    "sofachair_silo_64_c_0_0": {
+      "name": "sofachair_silo_64_c_0_0",
+      "x": 26,
+      "y": 40,
+      "exists": true
+    },
+    "sofachair_silo_64_c_2_0": {
+      "name": "sofachair_silo_64_c_2_0",
+      "x": 24,
+      "y": 51,
+      "exists": true
+    },
+    "sofachair_silo_64_c_4_0": {
+      "name": "sofachair_silo_64_c_4_0",
+      "flipH": 1,
+      "source": "sofachair_silo_64_c_2_0",
+      "x": 24,
+      "y": 51,
+      "exists": false
+    },
+    "sofachair_silo_64_c_6_0": {
+      "name": "sofachair_silo_64_c_6_0",
+      "flipH": 1,
+      "source": "sofachair_silo_64_c_0_0",
+      "x": 26,
+      "y": 40,
+      "exists": false
+    },
+    "sofachair_silo_64_d_0_0": {
+      "name": "sofachair_silo_64_d_0_0",
+      "x": 7,
+      "y": 35,
+      "exists": true
+    },
+    "sofachair_silo_64_d_2_0": {
+      "name": "sofachair_silo_64_d_2_0",
+      "x": 18,
+      "y": 29,
+      "exists": false
+    },
+    "sofachair_silo_64_d_4_0": {
+      "name": "sofachair_silo_64_d_4_0",
+      "flipH": 1,
+      "source": "sofachair_silo_64_d_2_0",
+      "x": 18,
+      "y": 29,
+      "exists": false
+    },
+    "sofachair_silo_64_d_6_0": {
+      "name": "sofachair_silo_64_d_6_0",
+      "flipH": 1,
+      "source": "sofachair_silo_64_d_0_0",
+      "x": 7,
+      "y": 35,
+      "exists": false
+    },
+    "sofachair_silo_64_sd_0_0": {
+      "name": "sofachair_silo_64_sd_0_0",
+      "x": 35,
+      "y": 20,
+      "exists": true
+    },
+    "sofachair_silo_64_sd_2_0": {
+      "name": "sofachair_silo_64_sd_2_0",
+      "source": "sofachair_silo_64_sd_0_0",
+      "x": 35,
+      "y": 20,
+      "exists": false
+    },
+    "sofachair_silo_64_sd_4_0": {
+      "name": "sofachair_silo_64_sd_4_0",
+      "source": "sofachair_silo_64_sd_0_0",
+      "x": 35,
+      "y": 20,
+      "exists": false
+    },
+    "sofachair_silo_64_sd_6_0": {
+      "name": "sofachair_silo_64_sd_6_0",
+      "source": "sofachair_silo_64_sd_0_0",
+      "x": 35,
+      "y": 20,
+      "exists": false
+    },
+    "sofachair_silo_icon_a": {
+      "name": "sofachair_silo_icon_a",
+      "x": 14,
+      "y": 15,
+      "exists": true
+    },
+    "sofachair_silo_icon_b": {
+      "name": "sofachair_silo_icon_b",
+      "x": 9,
+      "y": 13,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 1,
+            "color": "ABD0D2"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": 525252
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "F7EBBC"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "EE7EA4"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "7CB135"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "a662f3"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 2,
+            "color": "ABD0D2"
+          },
+          {
+            "layerId": 3,
+            "color": "ABD0D2"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 2,
+            "color": 525252
+          },
+          {
+            "layerId": 3,
+            "color": 525252
+          }
+        ],
+        "4": [
+          {
+            "layerId": 2,
+            "color": "F7EBBC"
+          },
+          {
+            "layerId": 3,
+            "color": "F7EBBC"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 2,
+            "color": "EE7EA4"
+          },
+          {
+            "layerId": 3,
+            "color": "EE7EA4"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 2,
+            "color": "5EAAF8"
+          },
+          {
+            "layerId": 3,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 2,
+            "color": "7CB135"
+          },
+          {
+            "layerId": 3,
+            "color": "7CB135"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 2,
+            "color": "FFD837"
+          },
+          {
+            "layerId": 3,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 2,
+            "color": "E14218"
+          },
+          {
+            "layerId": 3,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 2,
+            "color": "a662f3"
+          },
+          {
+            "layerId": 3,
+            "color": "a662f3"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 30
+        },
+        {
+          "layerId": 1,
+          "z": -30
+        },
+        {
+          "layerId": 3,
+          "z": -30
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 2,
+            "color": "ABD0D2"
+          },
+          {
+            "layerId": 3,
+            "color": "ABD0D2"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 2,
+            "color": 525252
+          },
+          {
+            "layerId": 3,
+            "color": 525252
+          }
+        ],
+        "4": [
+          {
+            "layerId": 2,
+            "color": "F7EBBC"
+          },
+          {
+            "layerId": 3,
+            "color": "F7EBBC"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 2,
+            "color": "EE7EA4"
+          },
+          {
+            "layerId": 3,
+            "color": "EE7EA4"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 2,
+            "color": "5EAAF8"
+          },
+          {
+            "layerId": 3,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 2,
+            "color": "7CB135"
+          },
+          {
+            "layerId": 3,
+            "color": "7CB135"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 2,
+            "color": "FFD837"
+          },
+          {
+            "layerId": 3,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 2,
+            "color": "E14218"
+          },
+          {
+            "layerId": 3,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 2,
+            "color": "a662f3"
+          },
+          {
+            "layerId": 3,
+            "color": "a662f3"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 30
+        },
+        {
+          "layerId": 1,
+          "z": -30
+        },
+        {
+          "layerId": 3,
+          "z": -30
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "sofachair_silo",
+    "visualization": "furniture_static"
+  }
+}

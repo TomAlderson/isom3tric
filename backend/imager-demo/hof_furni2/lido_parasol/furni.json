@@ -1,0 +1,174 @@
+{
+  "assets": {
+    "lido_parasol_32_a_0_0": {
+      "name": "lido_parasol_32_a_0_0",
+      "x": 8,
+      "y": 26,
+      "exists": true
+    },
+    "lido_parasol_32_a_0_1": {
+      "name": "lido_parasol_32_a_0_1",
+      "x": 9,
+      "y": 60,
+      "exists": true
+    },
+    "lido_parasol_32_b_0_0": {
+      "name": "lido_parasol_32_b_0_0",
+      "x": 27,
+      "y": 67,
+      "exists": true
+    },
+    "lido_parasol_32_b_0_1": {
+      "name": "lido_parasol_32_b_0_1",
+      "source": "lido_parasol_64_b_0_1",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "lido_parasol_64_a_0_0": {
+      "name": "lido_parasol_64_a_0_0",
+      "x": 16,
+      "y": 51,
+      "exists": true
+    },
+    "lido_parasol_64_a_0_1": {
+      "name": "lido_parasol_64_a_0_1",
+      "x": 19,
+      "y": 119,
+      "exists": true
+    },
+    "lido_parasol_64_b_0_0": {
+      "name": "lido_parasol_64_b_0_0",
+      "x": 55,
+      "y": 133,
+      "exists": true
+    },
+    "lido_parasol_64_b_0_1": {
+      "name": "lido_parasol_64_b_0_1",
+      "x": 0,
+      "y": 0,
+      "exists": true
+    },
+    "lido_parasol_icon_a": {
+      "name": "lido_parasol_icon_a",
+      "x": 12,
+      "y": 15,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": []
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": []
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "lido_parasol",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,1326 @@
+{
+  "assets": {
+    "hween_r17_lichthrone_64_sd_4_0": {
+      "name": "hween_r17_lichthrone_64_sd_4_0",
+      "x": 18,
+      "y": 7,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_a_4_0": {
+      "name": "hween_r17_lichthrone_64_a_4_0",
+      "x": 21,
+      "y": 67,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_b_4_0": {
+      "name": "hween_r17_lichthrone_64_b_4_0",
+      "x": -10,
+      "y": 40,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_a_0_0": {
+      "name": "hween_r17_lichthrone_64_a_0_0",
+      "x": 22,
+      "y": 49,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_b_0_0": {
+      "name": "hween_r17_lichthrone_64_b_0_0",
+      "x": 27,
+      "y": 50,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_a_4_1": {
+      "name": "hween_r17_lichthrone_64_a_4_1",
+      "x": 21,
+      "y": 87,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_b_4_1": {
+      "name": "hween_r17_lichthrone_64_b_4_1",
+      "x": -10,
+      "y": 60,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_a_0_1": {
+      "name": "hween_r17_lichthrone_64_a_0_1",
+      "x": 22,
+      "y": 69,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_b_0_1": {
+      "name": "hween_r17_lichthrone_64_b_0_1",
+      "x": 27,
+      "y": 70,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_4_0": {
+      "name": "hween_r17_lichthrone_64_c_4_0",
+      "x": -4,
+      "y": 1,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_c_4_10": {
+      "name": "hween_r17_lichthrone_64_c_4_10",
+      "x": -13,
+      "y": 66,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_c_4_11": {
+      "name": "hween_r17_lichthrone_64_c_4_11",
+      "x": -11,
+      "y": 68,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_c_4_12": {
+      "name": "hween_r17_lichthrone_64_c_4_12",
+      "x": -10,
+      "y": 69,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_c_0_0": {
+      "name": "hween_r17_lichthrone_64_c_0_0",
+      "x": -4,
+      "y": 1,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_0_1": {
+      "name": "hween_r17_lichthrone_64_c_0_1",
+      "x": 7,
+      "y": 11,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_0_2": {
+      "name": "hween_r17_lichthrone_64_c_0_2",
+      "x": 9,
+      "y": 13,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_0_3": {
+      "name": "hween_r17_lichthrone_64_c_0_3",
+      "x": 10,
+      "y": 14,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_0_4": {
+      "name": "hween_r17_lichthrone_64_c_0_4",
+      "x": 20,
+      "y": 4,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_0_5": {
+      "name": "hween_r17_lichthrone_64_c_0_5",
+      "x": 22,
+      "y": 6,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_0_6": {
+      "name": "hween_r17_lichthrone_64_c_0_6",
+      "x": 23,
+      "y": 7,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_0_7": {
+      "name": "hween_r17_lichthrone_64_c_0_7",
+      "x": 16,
+      "y": 49,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_0_8": {
+      "name": "hween_r17_lichthrone_64_c_0_8",
+      "x": 18,
+      "y": 51,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_0_9": {
+      "name": "hween_r17_lichthrone_64_c_0_9",
+      "x": 19,
+      "y": 52,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_4_0": {
+      "name": "hween_r17_lichthrone_64_d_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_4_1": {
+      "name": "hween_r17_lichthrone_64_d_4_1",
+      "x": 12,
+      "y": 24,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_d_4_2": {
+      "name": "hween_r17_lichthrone_64_d_4_2",
+      "x": 8,
+      "y": 25,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_d_4_3": {
+      "name": "hween_r17_lichthrone_64_d_4_3",
+      "x": 5,
+      "y": 24,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_d_4_4": {
+      "name": "hween_r17_lichthrone_64_d_4_4",
+      "x": 4,
+      "y": 25,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_d_4_5": {
+      "name": "hween_r17_lichthrone_64_d_4_5",
+      "x": 4,
+      "y": 24,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_d_4_6": {
+      "name": "hween_r17_lichthrone_64_d_4_6",
+      "x": 5,
+      "y": 25,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_d_4_7": {
+      "name": "hween_r17_lichthrone_64_d_4_7",
+      "x": 8,
+      "y": 24,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_d_4_8": {
+      "name": "hween_r17_lichthrone_64_d_4_8",
+      "x": 12,
+      "y": 25,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_e_4_0": {
+      "name": "hween_r17_lichthrone_64_e_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_e_4_1": {
+      "name": "hween_r17_lichthrone_64_e_4_1",
+      "x": 7,
+      "y": 2,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_e_4_2": {
+      "name": "hween_r17_lichthrone_64_e_4_2",
+      "x": 7,
+      "y": 2,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_e_4_3": {
+      "name": "hween_r17_lichthrone_64_e_4_3",
+      "x": 7,
+      "y": 2,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_f_4_0": {
+      "name": "hween_r17_lichthrone_64_f_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_4_1": {
+      "name": "hween_r17_lichthrone_64_f_4_1",
+      "x": 15,
+      "y": 21,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_f_4_2": {
+      "name": "hween_r17_lichthrone_64_f_4_2",
+      "x": 15,
+      "y": 13,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_f_4_3": {
+      "name": "hween_r17_lichthrone_64_f_4_3",
+      "x": 15,
+      "y": 18,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_f_4_4": {
+      "name": "hween_r17_lichthrone_64_f_4_4",
+      "x": 15,
+      "y": 22,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_g_4_0": {
+      "name": "hween_r17_lichthrone_64_g_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_g_4_1": {
+      "name": "hween_r17_lichthrone_64_g_4_1",
+      "x": 25,
+      "y": 27,
+      "exists": true
+    },
+    "hween_r17_lichthrone_icon_a": {
+      "name": "hween_r17_lichthrone_icon_a",
+      "x": 7,
+      "y": 12,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_c_4_1": {
+      "name": "hween_r17_lichthrone_64_c_4_1",
+      "source": "hween_r17_lichthrone_64_c_0_1",
+      "x": 7,
+      "y": 11,
+      "exists": true
+    },
+    "hween_r17_lichthrone_64_c_4_2": {
+      "name": "hween_r17_lichthrone_64_c_4_2",
+      "source": "hween_r17_lichthrone_64_c_0_2",
+      "x": 9,
+      "y": 13,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_4_3": {
+      "name": "hween_r17_lichthrone_64_c_4_3",
+      "source": "hween_r17_lichthrone_64_c_0_3",
+      "x": 10,
+      "y": 14,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_4_4": {
+      "name": "hween_r17_lichthrone_64_c_4_4",
+      "source": "hween_r17_lichthrone_64_c_0_4",
+      "x": 20,
+      "y": 4,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_4_5": {
+      "name": "hween_r17_lichthrone_64_c_4_5",
+      "source": "hween_r17_lichthrone_64_c_0_5",
+      "x": 22,
+      "y": 6,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_4_6": {
+      "name": "hween_r17_lichthrone_64_c_4_6",
+      "source": "hween_r17_lichthrone_64_c_0_6",
+      "x": 23,
+      "y": 7,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_4_7": {
+      "name": "hween_r17_lichthrone_64_c_4_7",
+      "source": "hween_r17_lichthrone_64_c_0_7",
+      "x": 16,
+      "y": 49,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_4_8": {
+      "name": "hween_r17_lichthrone_64_c_4_8",
+      "source": "hween_r17_lichthrone_64_c_0_8",
+      "x": 18,
+      "y": 51,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_4_9": {
+      "name": "hween_r17_lichthrone_64_c_4_9",
+      "source": "hween_r17_lichthrone_64_c_0_9",
+      "x": 19,
+      "y": 52,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_a_6_0": {
+      "name": "hween_r17_lichthrone_64_a_6_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_a_0_0",
+      "x": 22,
+      "y": 49,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_b_6_0": {
+      "name": "hween_r17_lichthrone_64_b_6_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_b_0_0",
+      "x": 27,
+      "y": 50,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_a_6_1": {
+      "name": "hween_r17_lichthrone_64_a_6_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_a_0_1",
+      "x": 22,
+      "y": 69,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_b_6_1": {
+      "name": "hween_r17_lichthrone_64_b_6_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_b_0_1",
+      "x": 27,
+      "y": 70,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_sd_2_0": {
+      "name": "hween_r17_lichthrone_64_sd_2_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_sd_4_0",
+      "x": 18,
+      "y": 7,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_a_2_0": {
+      "name": "hween_r17_lichthrone_64_a_2_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_a_4_0",
+      "x": 21,
+      "y": 67,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_b_2_0": {
+      "name": "hween_r17_lichthrone_64_b_2_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_b_4_0",
+      "x": -10,
+      "y": 40,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_a_2_1": {
+      "name": "hween_r17_lichthrone_64_a_2_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_a_4_1",
+      "x": 21,
+      "y": 87,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_b_2_1": {
+      "name": "hween_r17_lichthrone_64_b_2_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_b_4_1",
+      "x": -10,
+      "y": 60,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_0": {
+      "name": "hween_r17_lichthrone_64_c_2_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_c_4_0",
+      "x": -4,
+      "y": 1,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_10": {
+      "name": "hween_r17_lichthrone_64_c_2_10",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_c_4_10",
+      "x": -13,
+      "y": 66,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_11": {
+      "name": "hween_r17_lichthrone_64_c_2_11",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_c_4_11",
+      "x": -11,
+      "y": 68,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_12": {
+      "name": "hween_r17_lichthrone_64_c_2_12",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_c_4_12",
+      "x": -10,
+      "y": 69,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_1": {
+      "name": "hween_r17_lichthrone_64_c_2_1",
+      "source": "hween_r17_lichthrone_64_c_0_1",
+      "x": 7,
+      "y": 11,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_2": {
+      "name": "hween_r17_lichthrone_64_c_2_2",
+      "source": "hween_r17_lichthrone_64_c_0_2",
+      "x": 9,
+      "y": 13,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_3": {
+      "name": "hween_r17_lichthrone_64_c_2_3",
+      "source": "hween_r17_lichthrone_64_c_0_3",
+      "x": 10,
+      "y": 14,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_4": {
+      "name": "hween_r17_lichthrone_64_c_2_4",
+      "source": "hween_r17_lichthrone_64_c_0_4",
+      "x": 20,
+      "y": 4,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_5": {
+      "name": "hween_r17_lichthrone_64_c_2_5",
+      "source": "hween_r17_lichthrone_64_c_0_5",
+      "x": 22,
+      "y": 6,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_6": {
+      "name": "hween_r17_lichthrone_64_c_2_6",
+      "source": "hween_r17_lichthrone_64_c_0_6",
+      "x": 23,
+      "y": 7,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_6_1": {
+      "name": "hween_r17_lichthrone_64_c_6_1",
+      "source": "hween_r17_lichthrone_64_c_0_1",
+      "x": 7,
+      "y": 11,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_6_2": {
+      "name": "hween_r17_lichthrone_64_c_6_2",
+      "source": "hween_r17_lichthrone_64_c_0_2",
+      "x": 9,
+      "y": 13,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_6_3": {
+      "name": "hween_r17_lichthrone_64_c_6_3",
+      "source": "hween_r17_lichthrone_64_c_0_3",
+      "x": 10,
+      "y": 14,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_6_4": {
+      "name": "hween_r17_lichthrone_64_c_6_4",
+      "source": "hween_r17_lichthrone_64_c_0_4",
+      "x": 20,
+      "y": 4,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_6_5": {
+      "name": "hween_r17_lichthrone_64_c_6_5",
+      "source": "hween_r17_lichthrone_64_c_0_5",
+      "x": 22,
+      "y": 6,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_6_6": {
+      "name": "hween_r17_lichthrone_64_c_6_6",
+      "source": "hween_r17_lichthrone_64_c_0_6",
+      "x": 23,
+      "y": 7,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_7": {
+      "name": "hween_r17_lichthrone_64_c_2_7",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_c_0_7",
+      "x": 16,
+      "y": 49,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_8": {
+      "name": "hween_r17_lichthrone_64_c_2_8",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_c_0_8",
+      "x": 18,
+      "y": 51,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_2_9": {
+      "name": "hween_r17_lichthrone_64_c_2_9",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_c_0_9",
+      "x": 19,
+      "y": 52,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_6_7": {
+      "name": "hween_r17_lichthrone_64_c_6_7",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_c_0_7",
+      "x": 16,
+      "y": 49,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_6_8": {
+      "name": "hween_r17_lichthrone_64_c_6_8",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_c_0_8",
+      "x": 18,
+      "y": 51,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_c_6_9": {
+      "name": "hween_r17_lichthrone_64_c_6_9",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_c_0_9",
+      "x": 19,
+      "y": 52,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_sd_0_0": {
+      "name": "hween_r17_lichthrone_64_sd_0_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_sd_4_0",
+      "x": 18,
+      "y": 7,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_0_1": {
+      "name": "hween_r17_lichthrone_64_d_0_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_1",
+      "x": 12,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_0_2": {
+      "name": "hween_r17_lichthrone_64_d_0_2",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_2",
+      "x": 8,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_0_3": {
+      "name": "hween_r17_lichthrone_64_d_0_3",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_3",
+      "x": 5,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_0_4": {
+      "name": "hween_r17_lichthrone_64_d_0_4",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_4",
+      "x": 4,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_0_5": {
+      "name": "hween_r17_lichthrone_64_d_0_5",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_5",
+      "x": 4,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_0_6": {
+      "name": "hween_r17_lichthrone_64_d_0_6",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_6",
+      "x": 5,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_0_7": {
+      "name": "hween_r17_lichthrone_64_d_0_7",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_7",
+      "x": 8,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_0_8": {
+      "name": "hween_r17_lichthrone_64_d_0_8",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_8",
+      "x": 12,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_0_0": {
+      "name": "hween_r17_lichthrone_64_e_0_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_e_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_0_1": {
+      "name": "hween_r17_lichthrone_64_e_0_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_e_4_1",
+      "x": 7,
+      "y": 2,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_0_2": {
+      "name": "hween_r17_lichthrone_64_e_0_2",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_e_4_2",
+      "x": 7,
+      "y": 2,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_0_3": {
+      "name": "hween_r17_lichthrone_64_e_0_3",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_e_4_3",
+      "x": 7,
+      "y": 2,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_0_0": {
+      "name": "hween_r17_lichthrone_64_f_0_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_f_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_0_1": {
+      "name": "hween_r17_lichthrone_64_f_0_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_f_4_1",
+      "x": 15,
+      "y": 21,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_0_2": {
+      "name": "hween_r17_lichthrone_64_f_0_2",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_f_4_2",
+      "x": 15,
+      "y": 13,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_0_3": {
+      "name": "hween_r17_lichthrone_64_f_0_3",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_f_4_3",
+      "x": 15,
+      "y": 18,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_0_4": {
+      "name": "hween_r17_lichthrone_64_f_0_4",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_f_4_4",
+      "x": 15,
+      "y": 22,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_g_0_0": {
+      "name": "hween_r17_lichthrone_64_g_0_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_g_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_g_0_1": {
+      "name": "hween_r17_lichthrone_64_g_0_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_g_4_1",
+      "x": 25,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_sd_6_0": {
+      "name": "hween_r17_lichthrone_64_sd_6_0",
+      "source": "hween_r17_lichthrone_64_sd_4_0",
+      "x": 18,
+      "y": 7,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_6_1": {
+      "name": "hween_r17_lichthrone_64_d_6_1",
+      "source": "hween_r17_lichthrone_64_d_4_1",
+      "x": 12,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_6_2": {
+      "name": "hween_r17_lichthrone_64_d_6_2",
+      "source": "hween_r17_lichthrone_64_d_4_2",
+      "x": 8,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_6_3": {
+      "name": "hween_r17_lichthrone_64_d_6_3",
+      "source": "hween_r17_lichthrone_64_d_4_3",
+      "x": 5,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_6_4": {
+      "name": "hween_r17_lichthrone_64_d_6_4",
+      "source": "hween_r17_lichthrone_64_d_4_4",
+      "x": 4,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_6_5": {
+      "name": "hween_r17_lichthrone_64_d_6_5",
+      "source": "hween_r17_lichthrone_64_d_4_5",
+      "x": 4,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_6_6": {
+      "name": "hween_r17_lichthrone_64_d_6_6",
+      "source": "hween_r17_lichthrone_64_d_4_6",
+      "x": 5,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_6_7": {
+      "name": "hween_r17_lichthrone_64_d_6_7",
+      "source": "hween_r17_lichthrone_64_d_4_7",
+      "x": 8,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_6_8": {
+      "name": "hween_r17_lichthrone_64_d_6_8",
+      "source": "hween_r17_lichthrone_64_d_4_8",
+      "x": 12,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_6_0": {
+      "name": "hween_r17_lichthrone_64_e_6_0",
+      "source": "hween_r17_lichthrone_64_e_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_6_1": {
+      "name": "hween_r17_lichthrone_64_e_6_1",
+      "source": "hween_r17_lichthrone_64_e_4_1",
+      "x": 7,
+      "y": 2,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_6_2": {
+      "name": "hween_r17_lichthrone_64_e_6_2",
+      "source": "hween_r17_lichthrone_64_e_4_2",
+      "x": 7,
+      "y": 2,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_6_3": {
+      "name": "hween_r17_lichthrone_64_e_6_3",
+      "source": "hween_r17_lichthrone_64_e_4_3",
+      "x": 7,
+      "y": 2,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_6_0": {
+      "name": "hween_r17_lichthrone_64_f_6_0",
+      "source": "hween_r17_lichthrone_64_f_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_6_1": {
+      "name": "hween_r17_lichthrone_64_f_6_1",
+      "source": "hween_r17_lichthrone_64_f_4_1",
+      "x": 15,
+      "y": 21,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_6_2": {
+      "name": "hween_r17_lichthrone_64_f_6_2",
+      "source": "hween_r17_lichthrone_64_f_4_2",
+      "x": 15,
+      "y": 13,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_6_3": {
+      "name": "hween_r17_lichthrone_64_f_6_3",
+      "source": "hween_r17_lichthrone_64_f_4_3",
+      "x": 15,
+      "y": 18,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_6_4": {
+      "name": "hween_r17_lichthrone_64_f_6_4",
+      "source": "hween_r17_lichthrone_64_f_4_4",
+      "x": 15,
+      "y": 22,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_g_6_0": {
+      "name": "hween_r17_lichthrone_64_g_6_0",
+      "source": "hween_r17_lichthrone_64_g_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_g_6_1": {
+      "name": "hween_r17_lichthrone_64_g_6_1",
+      "source": "hween_r17_lichthrone_64_g_4_1",
+      "x": 25,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_2_1": {
+      "name": "hween_r17_lichthrone_64_d_2_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_1",
+      "x": 12,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_2_2": {
+      "name": "hween_r17_lichthrone_64_d_2_2",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_2",
+      "x": 8,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_2_3": {
+      "name": "hween_r17_lichthrone_64_d_2_3",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_3",
+      "x": 5,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_2_4": {
+      "name": "hween_r17_lichthrone_64_d_2_4",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_4",
+      "x": 4,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_2_5": {
+      "name": "hween_r17_lichthrone_64_d_2_5",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_5",
+      "x": 4,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_2_6": {
+      "name": "hween_r17_lichthrone_64_d_2_6",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_6",
+      "x": 5,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_2_7": {
+      "name": "hween_r17_lichthrone_64_d_2_7",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_7",
+      "x": 8,
+      "y": 24,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_d_2_8": {
+      "name": "hween_r17_lichthrone_64_d_2_8",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_d_4_8",
+      "x": 12,
+      "y": 25,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_2_0": {
+      "name": "hween_r17_lichthrone_64_e_2_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_e_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_2_1": {
+      "name": "hween_r17_lichthrone_64_e_2_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_e_4_1",
+      "x": 7,
+      "y": 2,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_2_2": {
+      "name": "hween_r17_lichthrone_64_e_2_2",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_e_4_2",
+      "x": 7,
+      "y": 2,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_e_2_3": {
+      "name": "hween_r17_lichthrone_64_e_2_3",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_e_4_3",
+      "x": 7,
+      "y": 2,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_2_0": {
+      "name": "hween_r17_lichthrone_64_f_2_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_f_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_2_1": {
+      "name": "hween_r17_lichthrone_64_f_2_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_f_4_1",
+      "x": 15,
+      "y": 21,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_2_2": {
+      "name": "hween_r17_lichthrone_64_f_2_2",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_f_4_2",
+      "x": 15,
+      "y": 13,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_2_3": {
+      "name": "hween_r17_lichthrone_64_f_2_3",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_f_4_3",
+      "x": 15,
+      "y": 18,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_f_2_4": {
+      "name": "hween_r17_lichthrone_64_f_2_4",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_f_4_4",
+      "x": 15,
+      "y": 22,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_g_2_0": {
+      "name": "hween_r17_lichthrone_64_g_2_0",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_g_4_0",
+      "x": 2,
+      "y": 27,
+      "exists": false
+    },
+    "hween_r17_lichthrone_64_g_2_1": {
+      "name": "hween_r17_lichthrone_64_g_2_1",
+      "flipH": 1,
+      "source": "hween_r17_lichthrone_64_g_4_1",
+      "x": 25,
+      "y": 27,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.2
+    },
+    "directions": [
+      0,
+      180,
+      270,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 7,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  7,
+                  8,
+                  9,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  10,
+                  11,
+                  12,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 20
+        },
+        {
+          "layerId": 1,
+          "z": 900
+        },
+        {
+          "layerId": 2,
+          "z": 900
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD",
+          "z": 10
+        },
+        {
+          "layerId": 5,
+          "ink": "ADD",
+          "z": 10
+        },
+        {
+          "layerId": 6,
+          "ink": "ADD",
+          "z": 10
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween_r17_lichthrone",
+    "visualization": "furniture_animated"
+  }
+}

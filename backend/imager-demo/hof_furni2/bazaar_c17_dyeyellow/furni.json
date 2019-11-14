@@ -1,0 +1,80 @@
+{
+  "assets": {
+    "bazaar_c17_dyeyellow_64_sd_0_0": {
+      "name": "bazaar_c17_dyeyellow_64_sd_0_0",
+      "x": 16,
+      "y": 7,
+      "exists": true
+    },
+    "bazaar_c17_dyeyellow_64_a_0_0": {
+      "name": "bazaar_c17_dyeyellow_64_a_0_0",
+      "x": 15,
+      "y": 20,
+      "exists": true
+    },
+    "bazaar_c17_dyeyellow_icon_a": {
+      "name": "bazaar_c17_dyeyellow_icon_a",
+      "x": 14,
+      "y": 12,
+      "exists": true
+    },
+    "bazaar_c17_dyeyellow_64_sd_2_0": {
+      "name": "bazaar_c17_dyeyellow_64_sd_2_0",
+      "flipH": 1,
+      "source": "bazaar_c17_dyeyellow_64_sd_0_0",
+      "x": 16,
+      "y": 7,
+      "exists": false
+    },
+    "bazaar_c17_dyeyellow_64_a_2_0": {
+      "name": "bazaar_c17_dyeyellow_64_a_2_0",
+      "flipH": 1,
+      "source": "bazaar_c17_dyeyellow_64_a_0_0",
+      "x": 15,
+      "y": 20,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "bazaar_c17_dyeyellow",
+    "visualization": "furniture_static"
+  }
+}

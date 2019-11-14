@@ -1,0 +1,710 @@
+{
+  "assets": {
+    "school_bus_32_sd_2_0": {
+      "name": "school_bus_32_sd_2_0",
+      "x": 29,
+      "y": 6,
+      "exists": true
+    },
+    "school_bus_32_a_2_0": {
+      "name": "school_bus_32_a_2_0",
+      "x": 15,
+      "y": 46,
+      "exists": true
+    },
+    "school_bus_32_b_2_0": {
+      "name": "school_bus_32_b_2_0",
+      "x": 15,
+      "y": 41,
+      "exists": true
+    },
+    "school_bus_32_c_2_0": {
+      "name": "school_bus_32_c_2_0",
+      "x": 26,
+      "y": 36,
+      "exists": true
+    },
+    "school_bus_32_d_2_0": {
+      "name": "school_bus_32_d_2_0",
+      "x": -17,
+      "y": 33,
+      "exists": true
+    },
+    "school_bus_32_e_2_0": {
+      "name": "school_bus_32_e_2_0",
+      "x": 14,
+      "y": 28,
+      "exists": true
+    },
+    "school_bus_32_f_2_0": {
+      "name": "school_bus_32_f_2_0",
+      "x": -33,
+      "y": 25,
+      "exists": true
+    },
+    "school_bus_32_g_2_0": {
+      "name": "school_bus_32_g_2_0",
+      "x": -2,
+      "y": 20,
+      "exists": true
+    },
+    "school_bus_32_h_2_0": {
+      "name": "school_bus_32_h_2_0",
+      "x": -49,
+      "y": 17,
+      "exists": true
+    },
+    "school_bus_32_i_2_0": {
+      "name": "school_bus_32_i_2_0",
+      "x": -18,
+      "y": 4,
+      "exists": true
+    },
+    "school_bus_32_j_2_0": {
+      "name": "school_bus_32_j_2_0",
+      "x": 31,
+      "y": 50,
+      "exists": true
+    },
+    "school_bus_32_k_2_0": {
+      "name": "school_bus_32_k_2_0",
+      "x": 26,
+      "y": 45,
+      "exists": true
+    },
+    "school_bus_32_l_2_0": {
+      "name": "school_bus_32_l_2_0",
+      "x": 15,
+      "y": 43,
+      "exists": true
+    },
+    "school_bus_32_m_2_0": {
+      "name": "school_bus_32_m_2_0",
+      "x": 15,
+      "y": 42,
+      "exists": true
+    },
+    "school_bus_32_n_2_0": {
+      "name": "school_bus_32_n_2_0",
+      "x": -1,
+      "y": 36,
+      "exists": true
+    },
+    "school_bus_32_o_2_0": {
+      "name": "school_bus_32_o_2_0",
+      "x": -1,
+      "y": 31,
+      "exists": true
+    },
+    "school_bus_32_p_2_0": {
+      "name": "school_bus_32_p_2_0",
+      "x": -13,
+      "y": 20,
+      "exists": true
+    },
+    "school_bus_32_q_2_0": {
+      "name": "school_bus_32_q_2_0",
+      "x": -17,
+      "y": 23,
+      "exists": true
+    },
+    "school_bus_64_sd_2_0": {
+      "name": "school_bus_64_sd_2_0",
+      "x": 60,
+      "y": 14,
+      "exists": true
+    },
+    "school_bus_64_a_2_0": {
+      "name": "school_bus_64_a_2_0",
+      "x": 32,
+      "y": 91,
+      "exists": true
+    },
+    "school_bus_64_b_2_0": {
+      "name": "school_bus_64_b_2_0",
+      "x": 32,
+      "y": 85,
+      "exists": true
+    },
+    "school_bus_64_c_2_0": {
+      "name": "school_bus_64_c_2_0",
+      "x": 54,
+      "y": 71,
+      "exists": true
+    },
+    "school_bus_64_d_2_0": {
+      "name": "school_bus_64_d_2_0",
+      "x": -32,
+      "y": 68,
+      "exists": true
+    },
+    "school_bus_64_e_2_0": {
+      "name": "school_bus_64_e_2_0",
+      "x": 30,
+      "y": 55,
+      "exists": true
+    },
+    "school_bus_64_f_2_0": {
+      "name": "school_bus_64_f_2_0",
+      "x": -64,
+      "y": 52,
+      "exists": true
+    },
+    "school_bus_64_g_2_0": {
+      "name": "school_bus_64_g_2_0",
+      "x": -2,
+      "y": 39,
+      "exists": true
+    },
+    "school_bus_64_h_2_0": {
+      "name": "school_bus_64_h_2_0",
+      "x": -96,
+      "y": 36,
+      "exists": true
+    },
+    "school_bus_64_i_2_0": {
+      "name": "school_bus_64_i_2_0",
+      "x": -34,
+      "y": 8,
+      "exists": true
+    },
+    "school_bus_64_j_2_0": {
+      "name": "school_bus_64_j_2_0",
+      "x": 64,
+      "y": 100,
+      "exists": true
+    },
+    "school_bus_64_k_2_0": {
+      "name": "school_bus_64_k_2_0",
+      "x": 54,
+      "y": 91,
+      "exists": true
+    },
+    "school_bus_64_l_2_0": {
+      "name": "school_bus_64_l_2_0",
+      "x": 32,
+      "y": 87,
+      "exists": true
+    },
+    "school_bus_64_m_2_0": {
+      "name": "school_bus_64_m_2_0",
+      "x": 32,
+      "y": 85,
+      "exists": true
+    },
+    "school_bus_64_n_2_0": {
+      "name": "school_bus_64_n_2_0",
+      "x": 0,
+      "y": 71,
+      "exists": true
+    },
+    "school_bus_64_o_2_0": {
+      "name": "school_bus_64_o_2_0",
+      "x": 0,
+      "y": 62,
+      "exists": true
+    },
+    "school_bus_64_p_2_0": {
+      "name": "school_bus_64_p_2_0",
+      "x": -32,
+      "y": 40,
+      "exists": true
+    },
+    "school_bus_64_q_2_0": {
+      "name": "school_bus_64_q_2_0",
+      "x": -32,
+      "y": 47,
+      "exists": true
+    },
+    "school_bus_icon_a": {
+      "name": "school_bus_icon_a",
+      "x": 15,
+      "y": 14,
+      "exists": true
+    },
+    "school_bus_32_sd_4_0": {
+      "name": "school_bus_32_sd_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_sd_2_0",
+      "x": 31,
+      "y": 6,
+      "exists": false
+    },
+    "school_bus_32_a_4_0": {
+      "name": "school_bus_32_a_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_a_2_0",
+      "x": 17,
+      "y": 46,
+      "exists": false
+    },
+    "school_bus_32_b_4_0": {
+      "name": "school_bus_32_b_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_b_2_0",
+      "x": 17,
+      "y": 41,
+      "exists": false
+    },
+    "school_bus_32_c_4_0": {
+      "name": "school_bus_32_c_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_c_2_0",
+      "x": 28,
+      "y": 36,
+      "exists": false
+    },
+    "school_bus_32_d_4_0": {
+      "name": "school_bus_32_d_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_d_2_0",
+      "x": -15,
+      "y": 33,
+      "exists": false
+    },
+    "school_bus_32_e_4_0": {
+      "name": "school_bus_32_e_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_e_2_0",
+      "x": 16,
+      "y": 28,
+      "exists": false
+    },
+    "school_bus_32_f_4_0": {
+      "name": "school_bus_32_f_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_f_2_0",
+      "x": -31,
+      "y": 25,
+      "exists": false
+    },
+    "school_bus_32_g_4_0": {
+      "name": "school_bus_32_g_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_g_2_0",
+      "x": 0,
+      "y": 20,
+      "exists": false
+    },
+    "school_bus_32_h_4_0": {
+      "name": "school_bus_32_h_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_h_2_0",
+      "x": -47,
+      "y": 17,
+      "exists": false
+    },
+    "school_bus_32_i_4_0": {
+      "name": "school_bus_32_i_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_i_2_0",
+      "x": -16,
+      "y": 4,
+      "exists": false
+    },
+    "school_bus_32_j_4_0": {
+      "name": "school_bus_32_j_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_j_2_0",
+      "x": 33,
+      "y": 50,
+      "exists": false
+    },
+    "school_bus_32_k_4_0": {
+      "name": "school_bus_32_k_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_k_2_0",
+      "x": 28,
+      "y": 45,
+      "exists": false
+    },
+    "school_bus_32_l_4_0": {
+      "name": "school_bus_32_l_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_l_2_0",
+      "x": 17,
+      "y": 43,
+      "exists": false
+    },
+    "school_bus_32_m_4_0": {
+      "name": "school_bus_32_m_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_m_2_0",
+      "x": 17,
+      "y": 42,
+      "exists": false
+    },
+    "school_bus_32_n_4_0": {
+      "name": "school_bus_32_n_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_n_2_0",
+      "x": 1,
+      "y": 36,
+      "exists": false
+    },
+    "school_bus_32_o_4_0": {
+      "name": "school_bus_32_o_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_o_2_0",
+      "x": 1,
+      "y": 31,
+      "exists": false
+    },
+    "school_bus_32_p_4_0": {
+      "name": "school_bus_32_p_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_p_2_0",
+      "x": -11,
+      "y": 20,
+      "exists": false
+    },
+    "school_bus_32_q_4_0": {
+      "name": "school_bus_32_q_4_0",
+      "flipH": 1,
+      "source": "school_bus_32_q_2_0",
+      "x": -15,
+      "y": 23,
+      "exists": false
+    },
+    "school_bus_64_sd_4_0": {
+      "name": "school_bus_64_sd_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_sd_2_0",
+      "x": 60,
+      "y": 14,
+      "exists": false
+    },
+    "school_bus_64_a_4_0": {
+      "name": "school_bus_64_a_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_a_2_0",
+      "x": 32,
+      "y": 91,
+      "exists": false
+    },
+    "school_bus_64_b_4_0": {
+      "name": "school_bus_64_b_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_b_2_0",
+      "x": 32,
+      "y": 85,
+      "exists": false
+    },
+    "school_bus_64_c_4_0": {
+      "name": "school_bus_64_c_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_c_2_0",
+      "x": 54,
+      "y": 71,
+      "exists": false
+    },
+    "school_bus_64_d_4_0": {
+      "name": "school_bus_64_d_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_d_2_0",
+      "x": -32,
+      "y": 68,
+      "exists": false
+    },
+    "school_bus_64_e_4_0": {
+      "name": "school_bus_64_e_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_e_2_0",
+      "x": 30,
+      "y": 55,
+      "exists": false
+    },
+    "school_bus_64_f_4_0": {
+      "name": "school_bus_64_f_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_f_2_0",
+      "x": -64,
+      "y": 52,
+      "exists": false
+    },
+    "school_bus_64_g_4_0": {
+      "name": "school_bus_64_g_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_g_2_0",
+      "x": -2,
+      "y": 39,
+      "exists": false
+    },
+    "school_bus_64_h_4_0": {
+      "name": "school_bus_64_h_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_h_2_0",
+      "x": -96,
+      "y": 36,
+      "exists": false
+    },
+    "school_bus_64_i_4_0": {
+      "name": "school_bus_64_i_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_i_2_0",
+      "x": -34,
+      "y": 8,
+      "exists": false
+    },
+    "school_bus_64_j_4_0": {
+      "name": "school_bus_64_j_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_j_2_0",
+      "x": 64,
+      "y": 100,
+      "exists": false
+    },
+    "school_bus_64_k_4_0": {
+      "name": "school_bus_64_k_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_k_2_0",
+      "x": 54,
+      "y": 91,
+      "exists": false
+    },
+    "school_bus_64_l_4_0": {
+      "name": "school_bus_64_l_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_l_2_0",
+      "x": 32,
+      "y": 87,
+      "exists": false
+    },
+    "school_bus_64_m_4_0": {
+      "name": "school_bus_64_m_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_m_2_0",
+      "x": 32,
+      "y": 85,
+      "exists": false
+    },
+    "school_bus_64_n_4_0": {
+      "name": "school_bus_64_n_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_n_2_0",
+      "x": 0,
+      "y": 71,
+      "exists": false
+    },
+    "school_bus_64_o_4_0": {
+      "name": "school_bus_64_o_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_o_2_0",
+      "x": 0,
+      "y": 62,
+      "exists": false
+    },
+    "school_bus_64_p_4_0": {
+      "name": "school_bus_64_p_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_p_2_0",
+      "x": -32,
+      "y": 40,
+      "exists": false
+    },
+    "school_bus_64_q_4_0": {
+      "name": "school_bus_64_q_4_0",
+      "flipH": 1,
+      "source": "school_bus_64_q_2_0",
+      "x": -32,
+      "y": 47,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 4,
+      "z": 1.2
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 17,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "alpha": 128
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "alpha": 128,
+          "z": 1000
+        },
+        {
+          "layerId": 4,
+          "z": 2000
+        },
+        {
+          "layerId": 5,
+          "ink": "COPY",
+          "alpha": 128,
+          "z": 2000
+        },
+        {
+          "layerId": 6,
+          "z": 3000
+        },
+        {
+          "layerId": 7,
+          "alpha": 128,
+          "z": 3000
+        },
+        {
+          "layerId": 8,
+          "z": 4000
+        },
+        {
+          "layerId": 9,
+          "z": 1100
+        },
+        {
+          "layerId": 10,
+          "alpha": 128,
+          "z": 1100
+        },
+        {
+          "layerId": 11,
+          "z": 2100
+        },
+        {
+          "layerId": 12,
+          "alpha": 128,
+          "z": 2100
+        },
+        {
+          "layerId": 13,
+          "z": 3100
+        },
+        {
+          "layerId": 14,
+          "alpha": 128,
+          "z": 3100
+        },
+        {
+          "layerId": 15,
+          "z": 4100
+        },
+        {
+          "layerId": 16,
+          "alpha": 128,
+          "z": 4100
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 17,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "alpha": 128
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "alpha": 128,
+          "z": 1000
+        },
+        {
+          "layerId": 4,
+          "z": 2000
+        },
+        {
+          "layerId": 5,
+          "ink": "COPY",
+          "alpha": 128,
+          "z": 2000
+        },
+        {
+          "layerId": 6,
+          "z": 3000
+        },
+        {
+          "layerId": 7,
+          "alpha": 128,
+          "z": 3000
+        },
+        {
+          "layerId": 8,
+          "z": 4000
+        },
+        {
+          "layerId": 9,
+          "z": 1100
+        },
+        {
+          "layerId": 10,
+          "alpha": 128,
+          "z": 1100
+        },
+        {
+          "layerId": 11,
+          "z": 2100
+        },
+        {
+          "layerId": 12,
+          "alpha": 128,
+          "z": 2100
+        },
+        {
+          "layerId": 13,
+          "z": 3100
+        },
+        {
+          "layerId": 14,
+          "alpha": 128,
+          "z": 3100
+        },
+        {
+          "layerId": 15,
+          "z": 4100
+        },
+        {
+          "layerId": 16,
+          "alpha": 128,
+          "z": 4100
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "school_bus",
+    "visualization": "furniture_static"
+  }
+}

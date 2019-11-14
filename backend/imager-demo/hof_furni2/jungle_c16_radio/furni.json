@@ -1,0 +1,182 @@
+{
+  "assets": {
+    "jungle_c16_radio_icon_a": {
+      "name": "jungle_c16_radio_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "jungle_c16_radio_64_sd_0_0": {
+      "name": "jungle_c16_radio_64_sd_0_0",
+      "x": 17,
+      "y": 8,
+      "exists": true
+    },
+    "jungle_c16_radio_64_a_0_0": {
+      "name": "jungle_c16_radio_64_a_0_0",
+      "x": 17,
+      "y": 46,
+      "exists": true
+    },
+    "jungle_c16_radio_64_a_0_1": {
+      "name": "jungle_c16_radio_64_a_0_1",
+      "x": 17,
+      "y": 85,
+      "exists": true
+    },
+    "jungle_c16_radio_64_a_0_2": {
+      "name": "jungle_c16_radio_64_a_0_2",
+      "x": 17,
+      "y": 86,
+      "exists": true
+    },
+    "jungle_c16_radio_64_a_0_3": {
+      "name": "jungle_c16_radio_64_a_0_3",
+      "x": 17,
+      "y": 89,
+      "exists": true
+    },
+    "jungle_c16_radio_64_a_0_4": {
+      "name": "jungle_c16_radio_64_a_0_4",
+      "x": 17,
+      "y": 80,
+      "exists": true
+    },
+    "jungle_c16_radio_64_a_0_5": {
+      "name": "jungle_c16_radio_64_a_0_5",
+      "x": 17,
+      "y": 79,
+      "exists": true
+    },
+    "jungle_c16_radio_64_sd_2_0": {
+      "name": "jungle_c16_radio_64_sd_2_0",
+      "flipH": 1,
+      "source": "jungle_c16_radio_64_sd_0_0",
+      "x": 17,
+      "y": 8,
+      "exists": false
+    },
+    "jungle_c16_radio_64_a_2_0": {
+      "name": "jungle_c16_radio_64_a_2_0",
+      "flipH": 1,
+      "source": "jungle_c16_radio_64_a_0_0",
+      "x": 17,
+      "y": 46,
+      "exists": false
+    },
+    "jungle_c16_radio_64_a_2_1": {
+      "name": "jungle_c16_radio_64_a_2_1",
+      "flipH": 1,
+      "source": "jungle_c16_radio_64_a_0_1",
+      "x": 17,
+      "y": 85,
+      "exists": false
+    },
+    "jungle_c16_radio_64_a_2_2": {
+      "name": "jungle_c16_radio_64_a_2_2",
+      "flipH": 1,
+      "source": "jungle_c16_radio_64_a_0_2",
+      "x": 17,
+      "y": 86,
+      "exists": false
+    },
+    "jungle_c16_radio_64_a_2_3": {
+      "name": "jungle_c16_radio_64_a_2_3",
+      "flipH": 1,
+      "source": "jungle_c16_radio_64_a_0_3",
+      "x": 17,
+      "y": 89,
+      "exists": false
+    },
+    "jungle_c16_radio_64_a_2_4": {
+      "name": "jungle_c16_radio_64_a_2_4",
+      "flipH": 1,
+      "source": "jungle_c16_radio_64_a_0_4",
+      "x": 17,
+      "y": 80,
+      "exists": false
+    },
+    "jungle_c16_radio_64_a_2_5": {
+      "name": "jungle_c16_radio_64_a_2_5",
+      "flipH": 1,
+      "source": "jungle_c16_radio_64_a_0_5",
+      "x": 17,
+      "y": 79,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "jungle_c16_radio",
+    "visualization": "furniture_animated"
+  }
+}

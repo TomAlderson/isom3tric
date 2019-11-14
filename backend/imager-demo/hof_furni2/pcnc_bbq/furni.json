@@ -1,0 +1,253 @@
+{
+  "assets": {
+    "pcnc_bbq_32_a_0_0": {
+      "name": "pcnc_bbq_32_a_0_0",
+      "x": 24,
+      "y": 34,
+      "exists": true
+    },
+    "pcnc_bbq_32_b_0_0": {
+      "name": "pcnc_bbq_32_b_0_0",
+      "x": 41,
+      "y": 74,
+      "exists": true
+    },
+    "pcnc_bbq_32_c_0_0": {
+      "name": "pcnc_bbq_32_c_0_0",
+      "x": 30,
+      "y": 14,
+      "exists": true
+    },
+    "pcnc_bbq_32_d_0_0": {
+      "name": "pcnc_bbq_32_d_0_0",
+      "x": 9,
+      "y": -18,
+      "exists": true
+    },
+    "pcnc_bbq_32_e_0_0": {
+      "name": "pcnc_bbq_32_e_0_0",
+      "x": 13,
+      "y": -2,
+      "exists": true
+    },
+    "pcnc_bbq_32_e_0_1": {
+      "name": "pcnc_bbq_32_e_0_1",
+      "x": 13,
+      "y": -2,
+      "exists": true
+    },
+    "pcnc_bbq_32_e_0_2": {
+      "name": "pcnc_bbq_32_e_0_2",
+      "x": 13,
+      "y": -4,
+      "exists": true
+    },
+    "pcnc_bbq_64_a_0_0": {
+      "name": "pcnc_bbq_64_a_0_0",
+      "x": 49,
+      "y": 69,
+      "exists": true
+    },
+    "pcnc_bbq_64_b_0_0": {
+      "name": "pcnc_bbq_64_b_0_0",
+      "x": 81,
+      "y": 148,
+      "exists": true
+    },
+    "pcnc_bbq_64_c_0_0": {
+      "name": "pcnc_bbq_64_c_0_0",
+      "x": 61,
+      "y": 26,
+      "exists": true
+    },
+    "pcnc_bbq_64_d_0_0": {
+      "name": "pcnc_bbq_64_d_0_0",
+      "x": 19,
+      "y": -37,
+      "exists": true
+    },
+    "pcnc_bbq_64_e_0_0": {
+      "name": "pcnc_bbq_64_e_0_0",
+      "x": 26,
+      "y": -3,
+      "exists": true
+    },
+    "pcnc_bbq_64_e_0_1": {
+      "name": "pcnc_bbq_64_e_0_1",
+      "x": 26,
+      "y": -4,
+      "exists": true
+    },
+    "pcnc_bbq_64_e_0_2": {
+      "name": "pcnc_bbq_64_e_0_2",
+      "x": 26,
+      "y": -7,
+      "exists": true
+    },
+    "pcnc_bbq_icon_a": {
+      "name": "pcnc_bbq_icon_a",
+      "x": 12,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 3,
+      "z": 0.000001
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 2000
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 3000
+        },
+        {
+          "layerId": 3,
+          "ignoreMouse": 1,
+          "z": 4000
+        },
+        {
+          "layerId": 4,
+          "ignoreMouse": 1,
+          "z": 4000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 1,
+          "ignoreMouse": 1,
+          "z": 2000
+        },
+        {
+          "layerId": 2,
+          "ignoreMouse": 1,
+          "z": 3000
+        },
+        {
+          "layerId": 3,
+          "ignoreMouse": 1,
+          "z": 4000
+        },
+        {
+          "layerId": 4,
+          "ignoreMouse": 1,
+          "z": 4000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "pcnc_bbq",
+    "visualization": "furniture_animated"
+  }
+}

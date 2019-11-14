@@ -1,0 +1,126 @@
+{
+  "assets": {
+    "prizetrophy_thumb_64_a_0_0": {
+      "name": "prizetrophy_thumb_64_a_0_0",
+      "x": 20,
+      "y": 85,
+      "exists": true
+    },
+    "prizetrophy_thumb_64_a_2_0": {
+      "name": "prizetrophy_thumb_64_a_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_thumb_64_a_0_0",
+      "x": 20,
+      "y": 85,
+      "exists": false
+    },
+    "prizetrophy_thumb_64_b_0_0": {
+      "name": "prizetrophy_thumb_64_b_0_0",
+      "x": 28,
+      "y": 100,
+      "exists": true
+    },
+    "prizetrophy_thumb_64_b_2_0": {
+      "name": "prizetrophy_thumb_64_b_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_thumb_64_b_0_0",
+      "x": 28,
+      "y": 100,
+      "exists": false
+    },
+    "prizetrophy_thumb_icon_a": {
+      "name": "prizetrophy_thumb_icon_a",
+      "x": 15,
+      "y": 18,
+      "exists": true
+    },
+    "prizetrophy_thumb_32_a_0_0": {
+      "name": "prizetrophy_thumb_32_a_0_0",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "prizetrophy_thumb_32_a_2_0": {
+      "name": "prizetrophy_thumb_32_a_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_thumb_32_a_0_0",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "prizetrophy_thumb_32_b_0_0": {
+      "name": "prizetrophy_thumb_32_b_0_0",
+      "x": 18,
+      "y": 55,
+      "exists": true
+    },
+    "prizetrophy_thumb_32_b_2_0": {
+      "name": "prizetrophy_thumb_32_b_2_0",
+      "flipH": 1,
+      "source": "prizetrophy_thumb_32_b_0_0",
+      "x": 18,
+      "y": 55,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": 5
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1,
+          "z": 5
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_trophy",
+    "type": "prizetrophy_thumb",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "assets": {
+    "room_noob_tallfloor_32_sd_0_0": {
+      "name": "room_noob_tallfloor_32_sd_0_0",
+      "x": 15,
+      "y": 4,
+      "exists": true
+    },
+    "room_noob_tallfloor_32_a_0_0": {
+      "name": "room_noob_tallfloor_32_a_0_0",
+      "x": 1,
+      "y": 42,
+      "exists": true
+    },
+    "room_noob_tallfloor_32_b_0_0": {
+      "name": "room_noob_tallfloor_32_b_0_0",
+      "x": -23,
+      "y": 30,
+      "exists": false
+    },
+    "room_noob_tallfloor_32_c_0_0": {
+      "name": "room_noob_tallfloor_32_c_0_0",
+      "x": -39,
+      "y": 22,
+      "exists": false
+    },
+    "room_noob_tallfloor_32_d_0_0": {
+      "name": "room_noob_tallfloor_32_d_0_0",
+      "x": -55,
+      "y": 14,
+      "exists": true
+    },
+    "room_noob_tallfloor_32_e_0_0": {
+      "name": "room_noob_tallfloor_32_e_0_0",
+      "x": -71,
+      "y": 6,
+      "exists": true
+    },
+    "room_noob_tallfloor_32_f_0_0": {
+      "name": "room_noob_tallfloor_32_f_0_0",
+      "x": 19,
+      "y": 41,
+      "exists": true
+    },
+    "room_noob_tallfloor_32_g_0_0": {
+      "name": "room_noob_tallfloor_32_g_0_0",
+      "x": -5,
+      "y": 29,
+      "exists": true
+    },
+    "room_noob_tallfloor_32_h_0_0": {
+      "name": "room_noob_tallfloor_32_h_0_0",
+      "x": -21,
+      "y": 21,
+      "exists": true
+    },
+    "room_noob_tallfloor_32_i_0_0": {
+      "name": "room_noob_tallfloor_32_i_0_0",
+      "x": -37,
+      "y": 13,
+      "exists": true
+    },
+    "room_noob_tallfloor_32_j_0_0": {
+      "name": "room_noob_tallfloor_32_j_0_0",
+      "x": -53,
+      "y": 5,
+      "exists": true
+    },
+    "room_noob_tallfloor_64_sd_0_0": {
+      "name": "room_noob_tallfloor_64_sd_0_0",
+      "x": 31,
+      "y": 15,
+      "exists": true
+    },
+    "room_noob_tallfloor_64_a_0_0": {
+      "name": "room_noob_tallfloor_64_a_0_0",
+      "x": 1,
+      "y": 83,
+      "exists": true
+    },
+    "room_noob_tallfloor_64_b_0_0": {
+      "name": "room_noob_tallfloor_64_b_0_0",
+      "x": -37,
+      "y": 64,
+      "exists": false
+    },
+    "room_noob_tallfloor_64_c_0_0": {
+      "name": "room_noob_tallfloor_64_c_0_0",
+      "x": -69,
+      "y": 48,
+      "exists": true
+    },
+    "room_noob_tallfloor_64_d_0_0": {
+      "name": "room_noob_tallfloor_64_d_0_0",
+      "x": -101,
+      "y": 32,
+      "exists": false
+    },
+    "room_noob_tallfloor_64_e_0_0": {
+      "name": "room_noob_tallfloor_64_e_0_0",
+      "x": -133,
+      "y": 16,
+      "exists": true
+    },
+    "room_noob_tallfloor_64_f_0_0": {
+      "name": "room_noob_tallfloor_64_f_0_0",
+      "x": 33,
+      "y": 82,
+      "exists": true
+    },
+    "room_noob_tallfloor_64_g_0_0": {
+      "name": "room_noob_tallfloor_64_g_0_0",
+      "x": -5,
+      "y": 63,
+      "exists": true
+    },
+    "room_noob_tallfloor_64_h_0_0": {
+      "name": "room_noob_tallfloor_64_h_0_0",
+      "x": -37,
+      "y": 47,
+      "exists": true
+    },
+    "room_noob_tallfloor_64_i_0_0": {
+      "name": "room_noob_tallfloor_64_i_0_0",
+      "x": -69,
+      "y": 31,
+      "exists": true
+    },
+    "room_noob_tallfloor_64_j_0_0": {
+      "name": "room_noob_tallfloor_64_j_0_0",
+      "x": -101,
+      "y": 15,
+      "exists": true
+    },
+    "room_noob_tallfloor_icon_a": {
+      "name": "room_noob_tallfloor_icon_a",
+      "x": 13,
+      "y": 10,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 5,
+      "y": 1,
+      "z": 2
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 10,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -5000
+        },
+        {
+          "layerId": 1,
+          "z": -6000
+        },
+        {
+          "layerId": 2,
+          "z": -7000
+        },
+        {
+          "layerId": 3,
+          "z": -9000
+        },
+        {
+          "layerId": 4,
+          "z": -11000
+        },
+        {
+          "layerId": 5
+        },
+        {
+          "layerId": 6,
+          "z": 1000
+        },
+        {
+          "layerId": 7,
+          "z": 2000
+        },
+        {
+          "layerId": 8,
+          "z": 3000
+        },
+        {
+          "layerId": 9,
+          "z": 4000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 10,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -5000
+        },
+        {
+          "layerId": 1,
+          "z": -6000
+        },
+        {
+          "layerId": 2,
+          "z": -7000
+        },
+        {
+          "layerId": 3,
+          "z": -9000
+        },
+        {
+          "layerId": 4,
+          "z": -11000
+        },
+        {
+          "layerId": 5
+        },
+        {
+          "layerId": 6,
+          "z": 1000
+        },
+        {
+          "layerId": 7,
+          "z": 2000
+        },
+        {
+          "layerId": 8,
+          "z": 3000
+        },
+        {
+          "layerId": 9,
+          "z": 4000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "room_noob_tallfloor",
+    "visualization": "furniture_static"
+  }
+}

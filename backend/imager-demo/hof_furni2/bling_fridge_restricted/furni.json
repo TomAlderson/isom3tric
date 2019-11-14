@@ -1,0 +1,364 @@
+{
+  "assets": {
+    "bling_fridge_restricted_64_a_2_0": {
+      "name": "bling_fridge_restricted_64_a_2_0",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_64_a_4_0",
+      "x": 40,
+      "y": 105,
+      "exists": false
+    },
+    "bling_fridge_restricted_64_a_2_1": {
+      "name": "bling_fridge_restricted_64_a_2_1",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_64_a_4_1",
+      "x": 40,
+      "y": 105,
+      "exists": false
+    },
+    "bling_fridge_restricted_64_a_4_0": {
+      "name": "bling_fridge_restricted_64_a_4_0",
+      "x": 40,
+      "y": 105,
+      "exists": true
+    },
+    "bling_fridge_restricted_64_a_4_1": {
+      "name": "bling_fridge_restricted_64_a_4_1",
+      "x": 40,
+      "y": 105,
+      "exists": true
+    },
+    "bling_fridge_restricted_64_b_2_0": {
+      "name": "bling_fridge_restricted_64_b_2_0",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_64_b_4_0",
+      "x": -10,
+      "y": 58,
+      "exists": false
+    },
+    "bling_fridge_restricted_64_b_2_1": {
+      "name": "bling_fridge_restricted_64_b_2_1",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_64_b_4_1",
+      "x": 127,
+      "y": 54,
+      "exists": false
+    },
+    "bling_fridge_restricted_64_b_4_0": {
+      "name": "bling_fridge_restricted_64_b_4_0",
+      "x": -10,
+      "y": 58,
+      "exists": false
+    },
+    "bling_fridge_restricted_64_b_4_1": {
+      "name": "bling_fridge_restricted_64_b_4_1",
+      "x": 127,
+      "y": 54,
+      "exists": true
+    },
+    "bling_fridge_restricted_64_c_2_0": {
+      "name": "bling_fridge_restricted_64_c_2_0",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_64_c_4_0",
+      "x": -14,
+      "y": -6,
+      "exists": false
+    },
+    "bling_fridge_restricted_64_c_2_1": {
+      "name": "bling_fridge_restricted_64_c_2_1",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_64_c_4_1",
+      "x": 34,
+      "y": 46,
+      "exists": false
+    },
+    "bling_fridge_restricted_64_c_4_0": {
+      "name": "bling_fridge_restricted_64_c_4_0",
+      "x": -14,
+      "y": -6,
+      "exists": false
+    },
+    "bling_fridge_restricted_64_c_4_1": {
+      "name": "bling_fridge_restricted_64_c_4_1",
+      "x": 34,
+      "y": 46,
+      "exists": true
+    },
+    "bling_fridge_restricted_icon_a": {
+      "name": "bling_fridge_restricted_icon_a",
+      "x": 10,
+      "y": 15,
+      "exists": true
+    },
+    "bling_fridge_restricted_32_a_2_0": {
+      "name": "bling_fridge_restricted_32_a_2_0",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_32_a_4_0",
+      "x": 20,
+      "y": 51,
+      "exists": false
+    },
+    "bling_fridge_restricted_32_a_2_1": {
+      "name": "bling_fridge_restricted_32_a_2_1",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_32_a_4_1",
+      "x": 20,
+      "y": 51,
+      "exists": false
+    },
+    "bling_fridge_restricted_32_a_4_0": {
+      "name": "bling_fridge_restricted_32_a_4_0",
+      "x": 20,
+      "y": 51,
+      "exists": true
+    },
+    "bling_fridge_restricted_32_a_4_1": {
+      "name": "bling_fridge_restricted_32_a_4_1",
+      "x": 20,
+      "y": 51,
+      "exists": true
+    },
+    "bling_fridge_restricted_32_b_2_0": {
+      "name": "bling_fridge_restricted_32_b_2_0",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_32_b_4_0",
+      "x": -6,
+      "y": 31,
+      "exists": false
+    },
+    "bling_fridge_restricted_32_b_2_1": {
+      "name": "bling_fridge_restricted_32_b_2_1",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_32_b_4_1",
+      "x": 63,
+      "y": 25,
+      "exists": false
+    },
+    "bling_fridge_restricted_32_b_4_0": {
+      "name": "bling_fridge_restricted_32_b_4_0",
+      "x": -6,
+      "y": 31,
+      "exists": false
+    },
+    "bling_fridge_restricted_32_b_4_1": {
+      "name": "bling_fridge_restricted_32_b_4_1",
+      "x": 63,
+      "y": 25,
+      "exists": true
+    },
+    "bling_fridge_restricted_32_c_2_0": {
+      "name": "bling_fridge_restricted_32_c_2_0",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_32_c_4_0",
+      "x": -8,
+      "y": -5,
+      "exists": false
+    },
+    "bling_fridge_restricted_32_c_2_1": {
+      "name": "bling_fridge_restricted_32_c_2_1",
+      "flipH": 1,
+      "source": "bling_fridge_restricted_32_c_4_1",
+      "x": 17,
+      "y": 22,
+      "exists": false
+    },
+    "bling_fridge_restricted_32_c_4_0": {
+      "name": "bling_fridge_restricted_32_c_4_0",
+      "x": -8,
+      "y": -5,
+      "exists": true
+    },
+    "bling_fridge_restricted_32_c_4_1": {
+      "name": "bling_fridge_restricted_32_c_4_1",
+      "x": 17,
+      "y": 22,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1600
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1600
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "bling_fridge_restricted",
+    "visualization": "furniture_animated"
+  }
+}

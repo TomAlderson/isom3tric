@@ -1,0 +1,92 @@
+{
+  "assets": {
+    "pixel_walldeco_64_a_2_0": {
+      "name": "pixel_walldeco_64_a_2_0",
+      "x": 18,
+      "y": 37,
+      "exists": true
+    },
+    "pixel_walldeco_32_a_2_0": {
+      "name": "pixel_walldeco_32_a_2_0",
+      "x": 10,
+      "y": 18,
+      "exists": true
+    },
+    "pixel_walldeco_icon_a": {
+      "name": "pixel_walldeco_icon_a",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    },
+    "pixel_walldeco_64_a_4_0": {
+      "name": "pixel_walldeco_64_a_4_0",
+      "flipH": 1,
+      "source": "pixel_walldeco_64_a_2_0",
+      "x": 18,
+      "y": 37,
+      "exists": false
+    },
+    "pixel_walldeco_32_a_4_0": {
+      "name": "pixel_walldeco_32_a_4_0",
+      "flipH": 1,
+      "source": "pixel_walldeco_32_a_2_0",
+      "x": 10,
+      "y": 18,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 0.2,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "pixel_walldeco",
+    "visualization": "furniture_static"
+  }
+}

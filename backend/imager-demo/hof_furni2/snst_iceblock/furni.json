@@ -1,0 +1,118 @@
+{
+  "assets": {
+    "snst_iceblock_32_sd_0_0": {
+      "name": "snst_iceblock_32_sd_0_0",
+      "x": 21,
+      "y": -1,
+      "exists": false
+    },
+    "snst_iceblock_32_a_0_0": {
+      "name": "snst_iceblock_32_a_0_0",
+      "x": 18,
+      "y": 46,
+      "exists": true
+    },
+    "snst_iceblock_32_a_2_0": {
+      "name": "snst_iceblock_32_a_2_0",
+      "x": 18,
+      "y": 46,
+      "exists": true
+    },
+    "snst_iceblock_32_a_4_0": {
+      "name": "snst_iceblock_32_a_4_0",
+      "x": 18,
+      "y": 46,
+      "exists": false
+    },
+    "snst_iceblock_32_a_6_0": {
+      "name": "snst_iceblock_32_a_6_0",
+      "x": 18,
+      "y": 46,
+      "exists": false
+    },
+    "snst_iceblock_64_sd_0_0": {
+      "name": "snst_iceblock_64_sd_0_0",
+      "x": 21,
+      "y": -1,
+      "exists": true
+    },
+    "snst_iceblock_64_a_0_0": {
+      "name": "snst_iceblock_64_a_0_0",
+      "x": 18,
+      "y": 46,
+      "exists": false
+    },
+    "snst_iceblock_64_a_2_0": {
+      "name": "snst_iceblock_64_a_2_0",
+      "x": 18,
+      "y": 46,
+      "exists": false
+    },
+    "snst_iceblock_64_a_4_0": {
+      "name": "snst_iceblock_64_a_4_0",
+      "x": 18,
+      "y": 46,
+      "exists": true
+    },
+    "snst_iceblock_64_a_6_0": {
+      "name": "snst_iceblock_64_a_6_0",
+      "x": 18,
+      "y": 46,
+      "exists": true
+    },
+    "snst_iceblock_icon_a": {
+      "name": "snst_iceblock_icon_a",
+      "x": 9,
+      "y": 33,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "snst_iceblock",
+    "visualization": "furniture_static"
+  }
+}

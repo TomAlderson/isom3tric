@@ -1,0 +1,196 @@
+{
+  "assets": {
+    "room_noob_plant_32_sd_0_0": {
+      "name": "room_noob_plant_32_sd_0_0",
+      "x": 8,
+      "y": 1,
+      "exists": true
+    },
+    "room_noob_plant_32_a_0_0": {
+      "name": "room_noob_plant_32_a_0_0",
+      "x": 25,
+      "y": 82,
+      "exists": true
+    },
+    "room_noob_plant_64_sd_0_0": {
+      "name": "room_noob_plant_64_sd_0_0",
+      "x": 19,
+      "y": 10,
+      "exists": true
+    },
+    "room_noob_plant_64_a_0_0": {
+      "name": "room_noob_plant_64_a_0_0",
+      "x": 50,
+      "y": 161,
+      "exists": true
+    },
+    "room_noob_plant_icon_a": {
+      "name": "room_noob_plant_icon_a",
+      "x": 13,
+      "y": 13,
+      "exists": true
+    },
+    "room_noob_plant_32_sd_2_0": {
+      "name": "room_noob_plant_32_sd_2_0",
+      "flipH": 1,
+      "source": "room_noob_plant_32_sd_0_0",
+      "x": 8,
+      "y": 1,
+      "exists": false
+    },
+    "room_noob_plant_32_a_2_0": {
+      "name": "room_noob_plant_32_a_2_0",
+      "flipH": 1,
+      "source": "room_noob_plant_32_a_0_0",
+      "x": 25,
+      "y": 82,
+      "exists": false
+    },
+    "room_noob_plant_64_sd_2_0": {
+      "name": "room_noob_plant_64_sd_2_0",
+      "flipH": 1,
+      "source": "room_noob_plant_64_sd_0_0",
+      "x": 19,
+      "y": 10,
+      "exists": false
+    },
+    "room_noob_plant_64_a_2_0": {
+      "name": "room_noob_plant_64_a_2_0",
+      "flipH": 1,
+      "source": "room_noob_plant_64_a_0_0",
+      "x": 50,
+      "y": 161,
+      "exists": false
+    },
+    "room_noob_plant_32_a_0_1": {
+      "name": "room_noob_plant_32_a_0_1",
+      "x": 25,
+      "y": 59,
+      "exists": true
+    },
+    "room_noob_plant_64_a_0_1": {
+      "name": "room_noob_plant_64_a_0_1",
+      "x": 50,
+      "y": 113,
+      "exists": true
+    },
+    "room_noob_plant_32_a_2_1": {
+      "name": "room_noob_plant_32_a_2_1",
+      "flipH": 1,
+      "source": "room_noob_plant_32_a_0_1",
+      "x": 25,
+      "y": 59,
+      "exists": false
+    },
+    "room_noob_plant_64_a_2_1": {
+      "name": "room_noob_plant_64_a_2_1",
+      "flipH": 1,
+      "source": "room_noob_plant_64_a_0_1",
+      "x": 50,
+      "y": 113,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ignoreMouse": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "room_noob_plant",
+    "visualization": "furniture_animated"
+  }
+}

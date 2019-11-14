@@ -1,0 +1,564 @@
+{
+  "assets": {
+    "CF_750_duck_32_a_0_0": {
+      "name": "CF_750_duck_32_a_0_0",
+      "x": 15,
+      "y": 38,
+      "exists": true
+    },
+    "CF_750_duck_32_b_0_0": {
+      "name": "CF_750_duck_32_b_0_0",
+      "x": 2,
+      "y": 11,
+      "exists": false
+    },
+    "CF_750_duck_32_b_0_1": {
+      "name": "CF_750_duck_32_b_0_1",
+      "x": 10,
+      "y": 31,
+      "exists": true
+    },
+    "CF_750_duck_32_b_0_2": {
+      "name": "CF_750_duck_32_b_0_2",
+      "x": 10,
+      "y": 32,
+      "exists": true
+    },
+    "CF_750_duck_32_b_0_3": {
+      "name": "CF_750_duck_32_b_0_3",
+      "x": 10,
+      "y": 29,
+      "exists": true
+    },
+    "CF_750_duck_32_b_0_4": {
+      "name": "CF_750_duck_32_b_0_4",
+      "x": 10,
+      "y": 27,
+      "exists": true
+    },
+    "CF_750_duck_32_b_0_5": {
+      "name": "CF_750_duck_32_b_0_5",
+      "x": 2,
+      "y": 11,
+      "exists": true
+    },
+    "CF_750_duck_32_b_0_6": {
+      "name": "CF_750_duck_32_b_0_6",
+      "x": 0,
+      "y": 30,
+      "exists": true
+    },
+    "CF_750_duck_32_b_0_7": {
+      "name": "CF_750_duck_32_b_0_7",
+      "x": 0,
+      "y": 30,
+      "exists": true
+    },
+    "CF_750_duck_32_b_0_8": {
+      "name": "CF_750_duck_32_b_0_8",
+      "x": 0,
+      "y": 27,
+      "exists": true
+    },
+    "CF_750_duck_32_b_0_9": {
+      "name": "CF_750_duck_32_b_0_9",
+      "x": -1,
+      "y": 24,
+      "exists": true
+    },
+    "CF_750_duck_64_a_0_0": {
+      "name": "CF_750_duck_64_a_0_0",
+      "x": 28,
+      "y": 70,
+      "exists": true
+    },
+    "CF_750_duck_64_b_0_0": {
+      "name": "CF_750_duck_64_b_0_0",
+      "x": 2,
+      "y": 16,
+      "exists": false
+    },
+    "CF_750_duck_64_b_0_1": {
+      "name": "CF_750_duck_64_b_0_1",
+      "x": 17,
+      "y": 63,
+      "exists": false
+    },
+    "CF_750_duck_64_b_0_2": {
+      "name": "CF_750_duck_64_b_0_2",
+      "x": 17,
+      "y": 63,
+      "exists": false
+    },
+    "CF_750_duck_64_b_0_3": {
+      "name": "CF_750_duck_64_b_0_3",
+      "x": 17,
+      "y": 57,
+      "exists": true
+    },
+    "CF_750_duck_64_b_0_4": {
+      "name": "CF_750_duck_64_b_0_4",
+      "x": 16,
+      "y": 52,
+      "exists": true
+    },
+    "CF_750_duck_64_b_0_5": {
+      "name": "CF_750_duck_64_b_0_5",
+      "x": 2,
+      "y": 16,
+      "exists": false
+    },
+    "CF_750_duck_64_b_0_6": {
+      "name": "CF_750_duck_64_b_0_6",
+      "x": 0,
+      "y": 56,
+      "exists": true
+    },
+    "CF_750_duck_64_b_0_7": {
+      "name": "CF_750_duck_64_b_0_7",
+      "x": 0,
+      "y": 56,
+      "exists": true
+    },
+    "CF_750_duck_64_b_0_8": {
+      "name": "CF_750_duck_64_b_0_8",
+      "x": 0,
+      "y": 50,
+      "exists": false
+    },
+    "CF_750_duck_64_b_0_9": {
+      "name": "CF_750_duck_64_b_0_9",
+      "x": -1,
+      "y": 45,
+      "exists": false
+    },
+    "CF_750_duck_icon_a": {
+      "name": "CF_750_duck_icon_a",
+      "x": 14,
+      "y": 16,
+      "exists": true
+    },
+    "CF_750_duck_32_a_2_0": {
+      "name": "CF_750_duck_32_a_2_0",
+      "flipH": 1,
+      "source": "CF_750_duck_32_a_0_0",
+      "x": 15,
+      "y": 38,
+      "exists": false
+    },
+    "CF_750_duck_32_b_2_0": {
+      "name": "CF_750_duck_32_b_2_0",
+      "flipH": 1,
+      "source": "CF_750_duck_32_b_0_0",
+      "x": 2,
+      "y": 11,
+      "exists": false
+    },
+    "CF_750_duck_32_b_2_1": {
+      "name": "CF_750_duck_32_b_2_1",
+      "flipH": 1,
+      "source": "CF_750_duck_32_b_0_1",
+      "x": 10,
+      "y": 31,
+      "exists": false
+    },
+    "CF_750_duck_32_b_2_2": {
+      "name": "CF_750_duck_32_b_2_2",
+      "flipH": 1,
+      "source": "CF_750_duck_32_b_0_2",
+      "x": 10,
+      "y": 32,
+      "exists": false
+    },
+    "CF_750_duck_32_b_2_3": {
+      "name": "CF_750_duck_32_b_2_3",
+      "flipH": 1,
+      "source": "CF_750_duck_32_b_0_3",
+      "x": 10,
+      "y": 29,
+      "exists": false
+    },
+    "CF_750_duck_32_b_2_4": {
+      "name": "CF_750_duck_32_b_2_4",
+      "flipH": 1,
+      "source": "CF_750_duck_32_b_0_4",
+      "x": 10,
+      "y": 27,
+      "exists": false
+    },
+    "CF_750_duck_32_b_2_5": {
+      "name": "CF_750_duck_32_b_2_5",
+      "flipH": 1,
+      "source": "CF_750_duck_32_b_0_5",
+      "x": 2,
+      "y": 11,
+      "exists": false
+    },
+    "CF_750_duck_32_b_2_6": {
+      "name": "CF_750_duck_32_b_2_6",
+      "flipH": 1,
+      "source": "CF_750_duck_32_b_0_6",
+      "x": 0,
+      "y": 30,
+      "exists": false
+    },
+    "CF_750_duck_32_b_2_7": {
+      "name": "CF_750_duck_32_b_2_7",
+      "flipH": 1,
+      "source": "CF_750_duck_32_b_0_7",
+      "x": 0,
+      "y": 30,
+      "exists": false
+    },
+    "CF_750_duck_32_b_2_8": {
+      "name": "CF_750_duck_32_b_2_8",
+      "flipH": 1,
+      "source": "CF_750_duck_32_b_0_8",
+      "x": 0,
+      "y": 27,
+      "exists": false
+    },
+    "CF_750_duck_32_b_2_9": {
+      "name": "CF_750_duck_32_b_2_9",
+      "flipH": 1,
+      "source": "CF_750_duck_32_b_0_9",
+      "x": -1,
+      "y": 24,
+      "exists": false
+    },
+    "CF_750_duck_64_a_2_0": {
+      "name": "CF_750_duck_64_a_2_0",
+      "flipH": 1,
+      "source": "CF_750_duck_64_a_0_0",
+      "x": 28,
+      "y": 70,
+      "exists": false
+    },
+    "CF_750_duck_64_b_2_0": {
+      "name": "CF_750_duck_64_b_2_0",
+      "flipH": 1,
+      "source": "CF_750_duck_64_b_0_0",
+      "x": 2,
+      "y": 16,
+      "exists": false
+    },
+    "CF_750_duck_64_b_2_1": {
+      "name": "CF_750_duck_64_b_2_1",
+      "flipH": 1,
+      "source": "CF_750_duck_64_b_0_1",
+      "x": 17,
+      "y": 63,
+      "exists": false
+    },
+    "CF_750_duck_64_b_2_2": {
+      "name": "CF_750_duck_64_b_2_2",
+      "flipH": 1,
+      "source": "CF_750_duck_64_b_0_2",
+      "x": 17,
+      "y": 63,
+      "exists": false
+    },
+    "CF_750_duck_64_b_2_3": {
+      "name": "CF_750_duck_64_b_2_3",
+      "flipH": 1,
+      "source": "CF_750_duck_64_b_0_3",
+      "x": 17,
+      "y": 57,
+      "exists": false
+    },
+    "CF_750_duck_64_b_2_4": {
+      "name": "CF_750_duck_64_b_2_4",
+      "flipH": 1,
+      "source": "CF_750_duck_64_b_0_4",
+      "x": 16,
+      "y": 52,
+      "exists": false
+    },
+    "CF_750_duck_64_b_2_5": {
+      "name": "CF_750_duck_64_b_2_5",
+      "flipH": 1,
+      "source": "CF_750_duck_64_b_0_5",
+      "x": 2,
+      "y": 16,
+      "exists": false
+    },
+    "CF_750_duck_64_b_2_6": {
+      "name": "CF_750_duck_64_b_2_6",
+      "flipH": 1,
+      "source": "CF_750_duck_64_b_0_6",
+      "x": 0,
+      "y": 56,
+      "exists": false
+    },
+    "CF_750_duck_64_b_2_7": {
+      "name": "CF_750_duck_64_b_2_7",
+      "flipH": 1,
+      "source": "CF_750_duck_64_b_0_7",
+      "x": 0,
+      "y": 56,
+      "exists": false
+    },
+    "CF_750_duck_64_b_2_8": {
+      "name": "CF_750_duck_64_b_2_8",
+      "flipH": 1,
+      "source": "CF_750_duck_64_b_0_8",
+      "x": 0,
+      "y": 50,
+      "exists": false
+    },
+    "CF_750_duck_64_b_2_9": {
+      "name": "CF_750_duck_64_b_2_9",
+      "flipH": 1,
+      "source": "CF_750_duck_64_b_0_9",
+      "x": -1,
+      "y": 45,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 2
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  6,
+                  7,
+                  8,
+                  9,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  6,
+                  7,
+                  8,
+                  9,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_credit",
+    "type": "CF_750_duck",
+    "visualization": "furniture_animated"
+  }
+}

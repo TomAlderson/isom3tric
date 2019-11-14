@@ -1,0 +1,88 @@
+{
+  "assets": {
+    "st_uni_poster_64_a_4_0": {
+      "name": "st_uni_poster_64_a_4_0",
+      "x": 18,
+      "y": 55,
+      "exists": true
+    },
+    "st_uni_poster_64_a_2_0": {
+      "name": "st_uni_poster_64_a_2_0",
+      "x": 17,
+      "y": 55,
+      "exists": true
+    },
+    "st_uni_poster_32_a_4_0": {
+      "name": "st_uni_poster_32_a_4_0",
+      "x": 9,
+      "y": 28,
+      "exists": true
+    },
+    "st_uni_poster_32_a_2_0": {
+      "name": "st_uni_poster_32_a_2_0",
+      "x": 8,
+      "y": 27,
+      "exists": true
+    },
+    "st_uni_poster_icon_a": {
+      "name": "st_uni_poster_icon_a",
+      "x": 4,
+      "y": 11,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 0.2,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "st_uni_poster",
+    "visualization": "furniture_static"
+  }
+}

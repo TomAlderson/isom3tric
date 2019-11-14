@@ -1,0 +1,1800 @@
+{
+  "assets": {
+    "hween10_pond_32_a_2_0": {
+      "name": "hween10_pond_32_a_2_0",
+      "x": 31,
+      "y": 8,
+      "exists": true
+    },
+    "hween10_pond_32_a_6_0": {
+      "name": "hween10_pond_32_a_6_0",
+      "x": 31,
+      "y": 8,
+      "exists": true
+    },
+    "hween10_pond_32_b_2_0": {
+      "name": "hween10_pond_32_b_2_0",
+      "x": 34,
+      "y": 10,
+      "exists": true
+    },
+    "hween10_pond_32_b_2_1": {
+      "name": "hween10_pond_32_b_2_1",
+      "x": 34,
+      "y": 10,
+      "exists": true
+    },
+    "hween10_pond_32_b_2_2": {
+      "name": "hween10_pond_32_b_2_2",
+      "x": 36,
+      "y": 10,
+      "exists": true
+    },
+    "hween10_pond_32_b_2_3": {
+      "name": "hween10_pond_32_b_2_3",
+      "x": 36,
+      "y": 10,
+      "exists": true
+    },
+    "hween10_pond_32_b_2_4": {
+      "name": "hween10_pond_32_b_2_4",
+      "x": 34,
+      "y": 10,
+      "exists": true
+    },
+    "hween10_pond_32_c_2_0": {
+      "name": "hween10_pond_32_c_2_0",
+      "x": 20,
+      "y": -15,
+      "exists": true
+    },
+    "hween10_pond_32_c_2_1": {
+      "name": "hween10_pond_32_c_2_1",
+      "x": 20,
+      "y": -15,
+      "exists": false
+    },
+    "hween10_pond_32_c_2_2": {
+      "name": "hween10_pond_32_c_2_2",
+      "x": 21,
+      "y": -15,
+      "exists": true
+    },
+    "hween10_pond_32_c_2_3": {
+      "name": "hween10_pond_32_c_2_3",
+      "x": 23,
+      "y": -14,
+      "exists": true
+    },
+    "hween10_pond_32_c_2_4": {
+      "name": "hween10_pond_32_c_2_4",
+      "x": 24,
+      "y": -13,
+      "exists": true
+    },
+    "hween10_pond_32_c_2_5": {
+      "name": "hween10_pond_32_c_2_5",
+      "x": 25,
+      "y": -12,
+      "exists": true
+    },
+    "hween10_pond_32_c_2_6": {
+      "name": "hween10_pond_32_c_2_6",
+      "x": 25,
+      "y": -11,
+      "exists": true
+    },
+    "hween10_pond_32_c_2_7": {
+      "name": "hween10_pond_32_c_2_7",
+      "x": 26,
+      "y": -15,
+      "exists": false
+    },
+    "hween10_pond_32_c_2_20": {
+      "name": "hween10_pond_32_c_2_20",
+      "x": 26,
+      "y": -15,
+      "exists": true
+    },
+    "hween10_pond_32_d_2_0": {
+      "name": "hween10_pond_32_d_2_0",
+      "x": -3,
+      "y": 7,
+      "exists": false
+    },
+    "hween10_pond_32_d_2_1": {
+      "name": "hween10_pond_32_d_2_1",
+      "x": -3,
+      "y": 7,
+      "exists": true
+    },
+    "hween10_pond_32_d_2_2": {
+      "name": "hween10_pond_32_d_2_2",
+      "x": -2,
+      "y": 7,
+      "exists": true
+    },
+    "hween10_pond_32_d_2_3": {
+      "name": "hween10_pond_32_d_2_3",
+      "x": 0,
+      "y": 7,
+      "exists": true
+    },
+    "hween10_pond_32_d_2_4": {
+      "name": "hween10_pond_32_d_2_4",
+      "x": 1,
+      "y": 7,
+      "exists": true
+    },
+    "hween10_pond_32_d_2_5": {
+      "name": "hween10_pond_32_d_2_5",
+      "x": 2,
+      "y": 7,
+      "exists": true
+    },
+    "hween10_pond_32_d_2_6": {
+      "name": "hween10_pond_32_d_2_6",
+      "x": -4,
+      "y": 7,
+      "exists": true
+    },
+    "hween10_pond_32_d_2_7": {
+      "name": "hween10_pond_32_d_2_7",
+      "x": -3,
+      "y": 4,
+      "exists": true
+    },
+    "hween10_pond_32_d_2_8": {
+      "name": "hween10_pond_32_d_2_8",
+      "x": -2,
+      "y": 4,
+      "exists": true
+    },
+    "hween10_pond_32_d_2_9": {
+      "name": "hween10_pond_32_d_2_9",
+      "x": -11,
+      "y": 4,
+      "exists": true
+    },
+    "hween10_pond_32_d_2_10": {
+      "name": "hween10_pond_32_d_2_10",
+      "x": -16,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_2_11": {
+      "name": "hween10_pond_32_d_2_11",
+      "x": -15,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_2_12": {
+      "name": "hween10_pond_32_d_2_12",
+      "x": -13,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_2_13": {
+      "name": "hween10_pond_32_d_2_13",
+      "x": -11,
+      "y": -14,
+      "exists": true
+    },
+    "hween10_pond_32_d_2_14": {
+      "name": "hween10_pond_32_d_2_14",
+      "x": -10,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_2_15": {
+      "name": "hween10_pond_32_d_2_15",
+      "x": -9,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_2_16": {
+      "name": "hween10_pond_32_d_2_16",
+      "x": -8,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_2_17": {
+      "name": "hween10_pond_32_d_2_17",
+      "x": -10,
+      "y": -17,
+      "exists": false
+    },
+    "hween10_pond_32_d_2_18": {
+      "name": "hween10_pond_32_d_2_18",
+      "x": -9,
+      "y": -17,
+      "exists": false
+    },
+    "hween10_pond_32_d_2_19": {
+      "name": "hween10_pond_32_d_2_19",
+      "x": -8,
+      "y": -17,
+      "exists": false
+    },
+    "hween10_pond_32_d_2_20": {
+      "name": "hween10_pond_32_d_2_20",
+      "x": -8,
+      "y": -17,
+      "exists": true
+    },
+    "hween10_pond_32_e_2_0": {
+      "name": "hween10_pond_32_e_2_0",
+      "x": 46,
+      "y": 17,
+      "exists": true
+    },
+    "hween10_pond_64_e_2_0": {
+      "name": "hween10_pond_64_e_2_0",
+      "x": 93,
+      "y": 35,
+      "exists": true
+    },
+    "hween10_pond_64_a_2_0": {
+      "name": "hween10_pond_64_a_2_0",
+      "x": 63,
+      "y": 16,
+      "exists": true
+    },
+    "hween10_pond_64_a_6_0": {
+      "name": "hween10_pond_64_a_6_0",
+      "x": 63,
+      "y": 16,
+      "exists": true
+    },
+    "hween10_pond_64_b_2_0": {
+      "name": "hween10_pond_64_b_2_0",
+      "x": 62,
+      "y": 15,
+      "exists": true
+    },
+    "hween10_pond_64_b_2_1": {
+      "name": "hween10_pond_64_b_2_1",
+      "x": 62,
+      "y": 15,
+      "exists": true
+    },
+    "hween10_pond_64_b_2_2": {
+      "name": "hween10_pond_64_b_2_2",
+      "x": 62,
+      "y": 16,
+      "exists": true
+    },
+    "hween10_pond_64_b_2_3": {
+      "name": "hween10_pond_64_b_2_3",
+      "x": 62,
+      "y": 17,
+      "exists": false
+    },
+    "hween10_pond_64_b_2_4": {
+      "name": "hween10_pond_64_b_2_4",
+      "x": 62,
+      "y": 17,
+      "exists": false
+    },
+    "hween10_pond_64_b_2_5": {
+      "name": "hween10_pond_64_b_2_5",
+      "x": 62,
+      "y": 17,
+      "exists": false
+    },
+    "hween10_pond_64_b_2_6": {
+      "name": "hween10_pond_64_b_2_6",
+      "x": 62,
+      "y": 16,
+      "exists": true
+    },
+    "hween10_pond_64_b_2_7": {
+      "name": "hween10_pond_64_b_2_7",
+      "x": 62,
+      "y": 15,
+      "exists": false
+    },
+    "hween10_pond_64_b_2_8": {
+      "name": "hween10_pond_64_b_2_8",
+      "x": 62,
+      "y": 15,
+      "exists": true
+    },
+    "hween10_pond_64_b_2_9": {
+      "name": "hween10_pond_64_b_2_9",
+      "x": 62,
+      "y": 15,
+      "exists": false
+    },
+    "hween10_pond_64_b_2_10": {
+      "name": "hween10_pond_64_b_2_10",
+      "x": 62,
+      "y": 16,
+      "exists": true
+    },
+    "hween10_pond_64_b_2_11": {
+      "name": "hween10_pond_64_b_2_11",
+      "x": 62,
+      "y": 17,
+      "exists": true
+    },
+    "hween10_pond_64_b_2_12": {
+      "name": "hween10_pond_64_b_2_12",
+      "x": 62,
+      "y": 17,
+      "exists": true
+    },
+    "hween10_pond_64_c_2_0": {
+      "name": "hween10_pond_64_c_2_0",
+      "x": 31,
+      "y": 4,
+      "exists": false
+    },
+    "hween10_pond_64_c_2_1": {
+      "name": "hween10_pond_64_c_2_1",
+      "x": 32,
+      "y": 4,
+      "exists": true
+    },
+    "hween10_pond_64_c_2_2": {
+      "name": "hween10_pond_64_c_2_2",
+      "x": 33,
+      "y": 4,
+      "exists": false
+    },
+    "hween10_pond_64_c_2_3": {
+      "name": "hween10_pond_64_c_2_3",
+      "x": 35,
+      "y": 5,
+      "exists": false
+    },
+    "hween10_pond_64_c_2_4": {
+      "name": "hween10_pond_64_c_2_4",
+      "x": 36,
+      "y": 6,
+      "exists": false
+    },
+    "hween10_pond_64_c_2_5": {
+      "name": "hween10_pond_64_c_2_5",
+      "x": 37,
+      "y": 7,
+      "exists": false
+    },
+    "hween10_pond_64_c_2_6": {
+      "name": "hween10_pond_64_c_2_6",
+      "x": 37,
+      "y": 8,
+      "exists": false
+    },
+    "hween10_pond_64_c_2_7": {
+      "name": "hween10_pond_64_c_2_7",
+      "x": 38,
+      "y": 4,
+      "exists": false
+    },
+    "hween10_pond_64_c_2_8": {
+      "name": "hween10_pond_64_c_2_8",
+      "x": -19,
+      "y": -35,
+      "exists": false
+    },
+    "hween10_pond_64_c_2_9": {
+      "name": "hween10_pond_64_c_2_9",
+      "x": -19,
+      "y": -35,
+      "exists": false
+    },
+    "hween10_pond_64_c_2_10": {
+      "name": "hween10_pond_64_c_2_10",
+      "x": -18,
+      "y": -35,
+      "exists": true
+    },
+    "hween10_pond_64_c_2_11": {
+      "name": "hween10_pond_64_c_2_11",
+      "x": -16,
+      "y": -34,
+      "exists": true
+    },
+    "hween10_pond_64_c_2_12": {
+      "name": "hween10_pond_64_c_2_12",
+      "x": -15,
+      "y": -33,
+      "exists": true
+    },
+    "hween10_pond_64_c_2_13": {
+      "name": "hween10_pond_64_c_2_13",
+      "x": -14,
+      "y": -32,
+      "exists": true
+    },
+    "hween10_pond_64_c_2_14": {
+      "name": "hween10_pond_64_c_2_14",
+      "x": -18,
+      "y": -31,
+      "exists": true
+    },
+    "hween10_pond_64_c_2_15": {
+      "name": "hween10_pond_64_c_2_15",
+      "x": -27,
+      "y": -35,
+      "exists": false
+    },
+    "hween10_pond_64_c_2_20": {
+      "name": "hween10_pond_64_c_2_20",
+      "x": -27,
+      "y": -35,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_0": {
+      "name": "hween10_pond_64_d_2_0",
+      "x": 26,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_1": {
+      "name": "hween10_pond_64_d_2_1",
+      "x": 26,
+      "y": -24,
+      "exists": true
+    },
+    "hween10_pond_64_d_2_2": {
+      "name": "hween10_pond_64_d_2_2",
+      "x": 27,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_3": {
+      "name": "hween10_pond_64_d_2_3",
+      "x": 29,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_4": {
+      "name": "hween10_pond_64_d_2_4",
+      "x": 30,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_5": {
+      "name": "hween10_pond_64_d_2_5",
+      "x": 31,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_6": {
+      "name": "hween10_pond_64_d_2_6",
+      "x": 25,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_7": {
+      "name": "hween10_pond_64_d_2_7",
+      "x": 26,
+      "y": -27,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_8": {
+      "name": "hween10_pond_64_d_2_8",
+      "x": 27,
+      "y": -27,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_9": {
+      "name": "hween10_pond_64_d_2_9",
+      "x": 18,
+      "y": -27,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_10": {
+      "name": "hween10_pond_64_d_2_10",
+      "x": -28,
+      "y": -3,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_11": {
+      "name": "hween10_pond_64_d_2_11",
+      "x": -27,
+      "y": -3,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_12": {
+      "name": "hween10_pond_64_d_2_12",
+      "x": -25,
+      "y": -3,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_13": {
+      "name": "hween10_pond_64_d_2_13",
+      "x": -23,
+      "y": -3,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_14": {
+      "name": "hween10_pond_64_d_2_14",
+      "x": -22,
+      "y": -3,
+      "exists": true
+    },
+    "hween10_pond_64_d_2_15": {
+      "name": "hween10_pond_64_d_2_15",
+      "x": -21,
+      "y": -3,
+      "exists": true
+    },
+    "hween10_pond_64_d_2_16": {
+      "name": "hween10_pond_64_d_2_16",
+      "x": -20,
+      "y": -3,
+      "exists": true
+    },
+    "hween10_pond_64_d_2_17": {
+      "name": "hween10_pond_64_d_2_17",
+      "x": -22,
+      "y": -6,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_18": {
+      "name": "hween10_pond_64_d_2_18",
+      "x": -21,
+      "y": -6,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_19": {
+      "name": "hween10_pond_64_d_2_19",
+      "x": -20,
+      "y": -6,
+      "exists": false
+    },
+    "hween10_pond_64_d_2_20": {
+      "name": "hween10_pond_64_d_2_20",
+      "x": -20,
+      "y": -6,
+      "exists": false
+    },
+    "hween10_pond_icon_a": {
+      "name": "hween10_pond_icon_a",
+      "x": 15,
+      "y": 7,
+      "exists": true
+    },
+    "hween10_pond_32_b_6_0": {
+      "name": "hween10_pond_32_b_6_0",
+      "flipH": 1,
+      "source": "hween10_pond_32_b_2_0",
+      "x": 34,
+      "y": 10,
+      "exists": false
+    },
+    "hween10_pond_32_b_6_1": {
+      "name": "hween10_pond_32_b_6_1",
+      "flipH": 1,
+      "source": "hween10_pond_32_b_2_1",
+      "x": 34,
+      "y": 10,
+      "exists": false
+    },
+    "hween10_pond_32_b_6_2": {
+      "name": "hween10_pond_32_b_6_2",
+      "flipH": 1,
+      "source": "hween10_pond_32_b_2_2",
+      "x": 36,
+      "y": 10,
+      "exists": false
+    },
+    "hween10_pond_32_b_6_3": {
+      "name": "hween10_pond_32_b_6_3",
+      "flipH": 1,
+      "source": "hween10_pond_32_b_2_3",
+      "x": 36,
+      "y": 10,
+      "exists": false
+    },
+    "hween10_pond_32_b_6_4": {
+      "name": "hween10_pond_32_b_6_4",
+      "flipH": 1,
+      "source": "hween10_pond_32_b_2_4",
+      "x": 34,
+      "y": 10,
+      "exists": false
+    },
+    "hween10_pond_32_c_6_0": {
+      "name": "hween10_pond_32_c_6_0",
+      "flipH": 1,
+      "source": "hween10_pond_32_c_2_0",
+      "x": 20,
+      "y": -15,
+      "exists": false
+    },
+    "hween10_pond_32_c_6_1": {
+      "name": "hween10_pond_32_c_6_1",
+      "flipH": 1,
+      "source": "hween10_pond_32_c_2_1",
+      "x": 20,
+      "y": -15,
+      "exists": false
+    },
+    "hween10_pond_32_c_6_2": {
+      "name": "hween10_pond_32_c_6_2",
+      "flipH": 1,
+      "source": "hween10_pond_32_c_2_2",
+      "x": 21,
+      "y": -15,
+      "exists": false
+    },
+    "hween10_pond_32_c_6_3": {
+      "name": "hween10_pond_32_c_6_3",
+      "flipH": 1,
+      "source": "hween10_pond_32_c_2_3",
+      "x": 23,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_c_6_4": {
+      "name": "hween10_pond_32_c_6_4",
+      "flipH": 1,
+      "source": "hween10_pond_32_c_2_4",
+      "x": 24,
+      "y": -13,
+      "exists": false
+    },
+    "hween10_pond_32_c_6_5": {
+      "name": "hween10_pond_32_c_6_5",
+      "flipH": 1,
+      "source": "hween10_pond_32_c_2_5",
+      "x": 25,
+      "y": -12,
+      "exists": false
+    },
+    "hween10_pond_32_c_6_6": {
+      "name": "hween10_pond_32_c_6_6",
+      "flipH": 1,
+      "source": "hween10_pond_32_c_2_6",
+      "x": 25,
+      "y": -11,
+      "exists": false
+    },
+    "hween10_pond_32_c_6_7": {
+      "name": "hween10_pond_32_c_6_7",
+      "flipH": 1,
+      "source": "hween10_pond_32_c_2_7",
+      "x": 26,
+      "y": -15,
+      "exists": false
+    },
+    "hween10_pond_32_c_6_20": {
+      "name": "hween10_pond_32_c_6_20",
+      "flipH": 1,
+      "source": "hween10_pond_32_c_2_20",
+      "x": 26,
+      "y": -15,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_0": {
+      "name": "hween10_pond_32_d_6_0",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_0",
+      "x": -3,
+      "y": 7,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_1": {
+      "name": "hween10_pond_32_d_6_1",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_1",
+      "x": -3,
+      "y": 7,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_2": {
+      "name": "hween10_pond_32_d_6_2",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_2",
+      "x": -2,
+      "y": 7,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_3": {
+      "name": "hween10_pond_32_d_6_3",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_3",
+      "x": 0,
+      "y": 7,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_4": {
+      "name": "hween10_pond_32_d_6_4",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_4",
+      "x": 1,
+      "y": 7,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_5": {
+      "name": "hween10_pond_32_d_6_5",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_5",
+      "x": 2,
+      "y": 7,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_6": {
+      "name": "hween10_pond_32_d_6_6",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_6",
+      "x": -4,
+      "y": 7,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_7": {
+      "name": "hween10_pond_32_d_6_7",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_7",
+      "x": -3,
+      "y": 4,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_8": {
+      "name": "hween10_pond_32_d_6_8",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_8",
+      "x": -2,
+      "y": 4,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_9": {
+      "name": "hween10_pond_32_d_6_9",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_9",
+      "x": -11,
+      "y": 4,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_10": {
+      "name": "hween10_pond_32_d_6_10",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_10",
+      "x": -16,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_11": {
+      "name": "hween10_pond_32_d_6_11",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_11",
+      "x": -15,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_12": {
+      "name": "hween10_pond_32_d_6_12",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_12",
+      "x": -13,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_13": {
+      "name": "hween10_pond_32_d_6_13",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_13",
+      "x": -11,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_14": {
+      "name": "hween10_pond_32_d_6_14",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_14",
+      "x": -10,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_15": {
+      "name": "hween10_pond_32_d_6_15",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_15",
+      "x": -9,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_16": {
+      "name": "hween10_pond_32_d_6_16",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_16",
+      "x": -8,
+      "y": -14,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_17": {
+      "name": "hween10_pond_32_d_6_17",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_17",
+      "x": -10,
+      "y": -17,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_18": {
+      "name": "hween10_pond_32_d_6_18",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_18",
+      "x": -9,
+      "y": -17,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_19": {
+      "name": "hween10_pond_32_d_6_19",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_19",
+      "x": -8,
+      "y": -17,
+      "exists": false
+    },
+    "hween10_pond_32_d_6_20": {
+      "name": "hween10_pond_32_d_6_20",
+      "flipH": 1,
+      "source": "hween10_pond_32_d_2_20",
+      "x": -8,
+      "y": -17,
+      "exists": false
+    },
+    "hween10_pond_32_e_6_0": {
+      "name": "hween10_pond_32_e_6_0",
+      "flipH": 1,
+      "source": "hween10_pond_32_e_2_0",
+      "x": 46,
+      "y": 17,
+      "exists": false
+    },
+    "hween10_pond_64_e_6_0": {
+      "name": "hween10_pond_64_e_6_0",
+      "flipH": 1,
+      "source": "hween10_pond_64_e_2_0",
+      "x": 93,
+      "y": 35,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_0": {
+      "name": "hween10_pond_64_b_6_0",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_0",
+      "x": 62,
+      "y": 15,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_1": {
+      "name": "hween10_pond_64_b_6_1",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_1",
+      "x": 62,
+      "y": 15,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_2": {
+      "name": "hween10_pond_64_b_6_2",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_2",
+      "x": 62,
+      "y": 16,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_3": {
+      "name": "hween10_pond_64_b_6_3",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_3",
+      "x": 62,
+      "y": 17,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_4": {
+      "name": "hween10_pond_64_b_6_4",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_4",
+      "x": 62,
+      "y": 17,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_5": {
+      "name": "hween10_pond_64_b_6_5",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_5",
+      "x": 62,
+      "y": 17,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_6": {
+      "name": "hween10_pond_64_b_6_6",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_6",
+      "x": 62,
+      "y": 16,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_7": {
+      "name": "hween10_pond_64_b_6_7",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_7",
+      "x": 62,
+      "y": 15,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_8": {
+      "name": "hween10_pond_64_b_6_8",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_8",
+      "x": 62,
+      "y": 15,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_9": {
+      "name": "hween10_pond_64_b_6_9",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_9",
+      "x": 62,
+      "y": 15,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_10": {
+      "name": "hween10_pond_64_b_6_10",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_10",
+      "x": 62,
+      "y": 16,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_11": {
+      "name": "hween10_pond_64_b_6_11",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_11",
+      "x": 62,
+      "y": 17,
+      "exists": false
+    },
+    "hween10_pond_64_b_6_12": {
+      "name": "hween10_pond_64_b_6_12",
+      "flipH": 1,
+      "source": "hween10_pond_64_b_2_12",
+      "x": 62,
+      "y": 17,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_0": {
+      "name": "hween10_pond_64_c_6_0",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_0",
+      "x": 31,
+      "y": 4,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_1": {
+      "name": "hween10_pond_64_c_6_1",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_1",
+      "x": 32,
+      "y": 4,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_2": {
+      "name": "hween10_pond_64_c_6_2",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_2",
+      "x": 33,
+      "y": 4,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_3": {
+      "name": "hween10_pond_64_c_6_3",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_3",
+      "x": 35,
+      "y": 5,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_4": {
+      "name": "hween10_pond_64_c_6_4",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_4",
+      "x": 36,
+      "y": 6,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_5": {
+      "name": "hween10_pond_64_c_6_5",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_5",
+      "x": 37,
+      "y": 7,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_6": {
+      "name": "hween10_pond_64_c_6_6",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_6",
+      "x": 37,
+      "y": 8,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_7": {
+      "name": "hween10_pond_64_c_6_7",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_7",
+      "x": 38,
+      "y": 4,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_8": {
+      "name": "hween10_pond_64_c_6_8",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_8",
+      "x": -19,
+      "y": -35,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_9": {
+      "name": "hween10_pond_64_c_6_9",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_9",
+      "x": -19,
+      "y": -35,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_10": {
+      "name": "hween10_pond_64_c_6_10",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_10",
+      "x": -18,
+      "y": -35,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_11": {
+      "name": "hween10_pond_64_c_6_11",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_11",
+      "x": -16,
+      "y": -34,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_12": {
+      "name": "hween10_pond_64_c_6_12",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_12",
+      "x": -15,
+      "y": -33,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_13": {
+      "name": "hween10_pond_64_c_6_13",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_13",
+      "x": -14,
+      "y": -32,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_14": {
+      "name": "hween10_pond_64_c_6_14",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_14",
+      "x": -18,
+      "y": -31,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_15": {
+      "name": "hween10_pond_64_c_6_15",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_15",
+      "x": -27,
+      "y": -35,
+      "exists": false
+    },
+    "hween10_pond_64_c_6_20": {
+      "name": "hween10_pond_64_c_6_20",
+      "flipH": 1,
+      "source": "hween10_pond_64_c_2_20",
+      "x": -27,
+      "y": -35,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_0": {
+      "name": "hween10_pond_64_d_6_0",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_0",
+      "x": 26,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_1": {
+      "name": "hween10_pond_64_d_6_1",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_1",
+      "x": 26,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_2": {
+      "name": "hween10_pond_64_d_6_2",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_2",
+      "x": 27,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_3": {
+      "name": "hween10_pond_64_d_6_3",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_3",
+      "x": 29,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_4": {
+      "name": "hween10_pond_64_d_6_4",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_4",
+      "x": 30,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_5": {
+      "name": "hween10_pond_64_d_6_5",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_5",
+      "x": 31,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_6": {
+      "name": "hween10_pond_64_d_6_6",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_6",
+      "x": 25,
+      "y": -24,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_7": {
+      "name": "hween10_pond_64_d_6_7",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_7",
+      "x": 26,
+      "y": -27,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_8": {
+      "name": "hween10_pond_64_d_6_8",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_8",
+      "x": 27,
+      "y": -27,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_9": {
+      "name": "hween10_pond_64_d_6_9",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_9",
+      "x": 18,
+      "y": -27,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_10": {
+      "name": "hween10_pond_64_d_6_10",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_10",
+      "x": -28,
+      "y": -3,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_11": {
+      "name": "hween10_pond_64_d_6_11",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_11",
+      "x": -27,
+      "y": -3,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_12": {
+      "name": "hween10_pond_64_d_6_12",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_12",
+      "x": -25,
+      "y": -3,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_13": {
+      "name": "hween10_pond_64_d_6_13",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_13",
+      "x": -23,
+      "y": -3,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_14": {
+      "name": "hween10_pond_64_d_6_14",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_14",
+      "x": -22,
+      "y": -3,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_15": {
+      "name": "hween10_pond_64_d_6_15",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_15",
+      "x": -21,
+      "y": -3,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_16": {
+      "name": "hween10_pond_64_d_6_16",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_16",
+      "x": -20,
+      "y": -3,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_17": {
+      "name": "hween10_pond_64_d_6_17",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_17",
+      "x": -22,
+      "y": -6,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_18": {
+      "name": "hween10_pond_64_d_6_18",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_18",
+      "x": -21,
+      "y": -6,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_19": {
+      "name": "hween10_pond_64_d_6_19",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_19",
+      "x": -20,
+      "y": -6,
+      "exists": false
+    },
+    "hween10_pond_64_d_6_20": {
+      "name": "hween10_pond_64_d_6_20",
+      "flipH": 1,
+      "source": "hween10_pond_64_d_2_20",
+      "x": -20,
+      "y": -6,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      90,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                [
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ],
+                [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19
+                ],
+                [
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  20,
+                  20,
+                  20
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                [
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ],
+                [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19
+                ],
+                [
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  20,
+                  20,
+                  20
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -6010
+        },
+        {
+          "layerId": 1,
+          "alpha": 150,
+          "z": -6010
+        },
+        {
+          "layerId": 2,
+          "alpha": 230,
+          "z": -6010
+        },
+        {
+          "layerId": 3,
+          "alpha": 230,
+          "z": -6010
+        },
+        {
+          "layerId": 4,
+          "z": -6010
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ],
+                [
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19
+                ],
+                [
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  20,
+                  20,
+                  20
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ],
+                [
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19
+                ],
+                [
+                  20,
+                  20,
+                  20
+                ],
+                [
+                  20,
+                  20,
+                  20
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -6010
+        },
+        {
+          "layerId": 1,
+          "alpha": 200,
+          "z": -6010
+        },
+        {
+          "layerId": 2,
+          "alpha": 230,
+          "z": -6010
+        },
+        {
+          "layerId": 3,
+          "alpha": 230,
+          "z": -6010
+        },
+        {
+          "layerId": 4,
+          "z": -6010
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween10_pond",
+    "visualization": "furniture_water_area"
+  }
+}

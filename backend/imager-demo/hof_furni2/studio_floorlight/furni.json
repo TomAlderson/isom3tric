@@ -1,0 +1,247 @@
+{
+  "assets": {
+    "studio_floorlight_32_a_0_0": {
+      "name": "studio_floorlight_32_a_0_0",
+      "x": 49,
+      "y": 1,
+      "exists": true
+    },
+    "studio_floorlight_32_a_0_1": {
+      "name": "studio_floorlight_32_a_0_1",
+      "x": 49,
+      "y": 1,
+      "exists": true
+    },
+    "studio_floorlight_32_a_0_2": {
+      "name": "studio_floorlight_32_a_0_2",
+      "x": 49,
+      "y": 1,
+      "exists": true
+    },
+    "studio_floorlight_32_a_0_3": {
+      "name": "studio_floorlight_32_a_0_3",
+      "x": 49,
+      "y": 1,
+      "exists": true
+    },
+    "studio_floorlight_64_a_0_0": {
+      "name": "studio_floorlight_64_a_0_0",
+      "x": 99,
+      "y": 2,
+      "exists": true
+    },
+    "studio_floorlight_64_a_0_1": {
+      "name": "studio_floorlight_64_a_0_1",
+      "x": 99,
+      "y": 2,
+      "exists": true
+    },
+    "studio_floorlight_64_a_0_2": {
+      "name": "studio_floorlight_64_a_0_2",
+      "x": 99,
+      "y": 2,
+      "exists": true
+    },
+    "studio_floorlight_64_a_0_3": {
+      "name": "studio_floorlight_64_a_0_3",
+      "x": 99,
+      "y": 2,
+      "exists": true
+    },
+    "studio_floorlight_icon_a": {
+      "name": "studio_floorlight_icon_a",
+      "x": 14,
+      "y": 7,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 4,
+      "y": 4,
+      "z": 0.000001
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY",
+          "alpha": 255,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "studio_floorlight",
+    "visualization": "furniture_animated"
+  }
+}

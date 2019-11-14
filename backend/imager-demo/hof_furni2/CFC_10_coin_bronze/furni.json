@@ -1,0 +1,114 @@
+{
+  "assets": {
+    "CFC_10_coin_bronze_64_a_0_0": {
+      "name": "CFC_10_coin_bronze_64_a_0_0",
+      "x": 10,
+      "y": 11,
+      "exists": true
+    },
+    "CFC_10_coin_bronze_64_a_2_0": {
+      "name": "CFC_10_coin_bronze_64_a_2_0",
+      "source": "CFC_10_coin_bronze_64_a_0_0",
+      "x": 10,
+      "y": 11,
+      "exists": false
+    },
+    "CFC_10_coin_bronze_64_a_4_0": {
+      "name": "CFC_10_coin_bronze_64_a_4_0",
+      "source": "CFC_10_coin_bronze_64_a_0_0",
+      "x": 10,
+      "y": 11,
+      "exists": false
+    },
+    "CFC_10_coin_bronze_64_a_6_0": {
+      "name": "CFC_10_coin_bronze_64_a_6_0",
+      "source": "CFC_10_coin_bronze_64_a_0_0",
+      "x": 10,
+      "y": 11,
+      "exists": false
+    },
+    "CFC_10_coin_bronze_icon_a": {
+      "name": "CFC_10_coin_bronze_icon_a",
+      "x": 15,
+      "y": 14,
+      "exists": true
+    },
+    "CFC_10_coin_bronze_32_a_0_0": {
+      "name": "CFC_10_coin_bronze_32_a_0_0",
+      "x": 5,
+      "y": 6,
+      "exists": true
+    },
+    "CFC_10_coin_bronze_32_a_2_0": {
+      "name": "CFC_10_coin_bronze_32_a_2_0",
+      "source": "CFC_10_coin_bronze_32_a_0_0",
+      "x": 5,
+      "y": 6,
+      "exists": false
+    },
+    "CFC_10_coin_bronze_32_a_4_0": {
+      "name": "CFC_10_coin_bronze_32_a_4_0",
+      "source": "CFC_10_coin_bronze_32_a_0_0",
+      "x": 5,
+      "y": 6,
+      "exists": false
+    },
+    "CFC_10_coin_bronze_32_a_6_0": {
+      "name": "CFC_10_coin_bronze_32_a_6_0",
+      "source": "CFC_10_coin_bronze_32_a_0_0",
+      "x": 5,
+      "y": 6,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.16
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_credit",
+    "type": "CFC_10_coin_bronze",
+    "visualization": "furniture_static"
+  }
+}

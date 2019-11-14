@@ -1,0 +1,55 @@
+{
+  "assets": {
+    "paris_c15_crn_64_a_2_0": {
+      "name": "paris_c15_crn_64_a_2_0",
+      "x": 39,
+      "y": 274,
+      "exists": true
+    },
+    "paris_c15_crn_icon_a": {
+      "name": "paris_c15_crn_icon_a",
+      "x": 5,
+      "y": 14,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 8.1
+    },
+    "directions": [
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "paris_c15_crn",
+    "visualization": "furniture_static"
+  }
+}

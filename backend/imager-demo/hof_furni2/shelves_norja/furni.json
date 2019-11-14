@@ -1,0 +1,312 @@
+{
+  "assets": {
+    "shelves_norja_32_a_0_0": {
+      "name": "shelves_norja_32_a_0_0",
+      "x": 13,
+      "y": 51,
+      "exists": true
+    },
+    "shelves_norja_32_a_2_0": {
+      "name": "shelves_norja_32_a_2_0",
+      "flipH": 1,
+      "source": "shelves_norja_32_a_0_0",
+      "x": 13,
+      "y": 51,
+      "exists": false
+    },
+    "shelves_norja_32_b_0_0": {
+      "name": "shelves_norja_32_b_0_0",
+      "x": 13,
+      "y": 44,
+      "exists": true
+    },
+    "shelves_norja_32_b_2_0": {
+      "name": "shelves_norja_32_b_2_0",
+      "flipH": 1,
+      "source": "shelves_norja_32_b_0_0",
+      "x": 13,
+      "y": 44,
+      "exists": false
+    },
+    "shelves_norja_32_sd_0_0": {
+      "name": "shelves_norja_32_sd_0_0",
+      "x": 10,
+      "y": 5,
+      "exists": true
+    },
+    "shelves_norja_32_sd_2_0": {
+      "name": "shelves_norja_32_sd_2_0",
+      "flipH": 1,
+      "source": "shelves_norja_32_sd_0_0",
+      "x": 10,
+      "y": 5,
+      "exists": false
+    },
+    "shelves_norja_64_a_0_0": {
+      "name": "shelves_norja_64_a_0_0",
+      "x": 22,
+      "y": 101,
+      "exists": true
+    },
+    "shelves_norja_64_a_2_0": {
+      "name": "shelves_norja_64_a_2_0",
+      "flipH": 1,
+      "source": "shelves_norja_64_a_0_0",
+      "x": 22,
+      "y": 101,
+      "exists": false
+    },
+    "shelves_norja_64_b_0_0": {
+      "name": "shelves_norja_64_b_0_0",
+      "x": 21,
+      "y": 84,
+      "exists": true
+    },
+    "shelves_norja_64_b_2_0": {
+      "name": "shelves_norja_64_b_2_0",
+      "flipH": 1,
+      "source": "shelves_norja_64_b_0_0",
+      "x": 21,
+      "y": 84,
+      "exists": false
+    },
+    "shelves_norja_64_sd_0_0": {
+      "name": "shelves_norja_64_sd_0_0",
+      "x": 18,
+      "y": 11,
+      "exists": true
+    },
+    "shelves_norja_64_sd_2_0": {
+      "name": "shelves_norja_64_sd_2_0",
+      "flipH": 1,
+      "source": "shelves_norja_64_sd_0_0",
+      "x": 18,
+      "y": 11,
+      "exists": false
+    },
+    "shelves_norja_icon_a": {
+      "name": "shelves_norja_icon_a",
+      "x": 7,
+      "y": 16,
+      "exists": true
+    },
+    "shelves_norja_icon_b": {
+      "name": "shelves_norja_icon_b",
+      "x": 5,
+      "y": 11,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 1,
+            "color": "F7EBBC"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": 525252
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "ABD0D2"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "EE7EA4"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "7CB135"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "764DA5"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 1,
+            "color": "F7EBBC"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": 525252
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "ABD0D2"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "EE7EA4"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "7CB135"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "764DA5"
+          }
+        ]
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 1,
+            "color": "F7EBBC"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 1,
+            "color": 525252
+          }
+        ],
+        "4": [
+          {
+            "layerId": 1,
+            "color": "ABD0D2"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 1,
+            "color": "EE7EA4"
+          }
+        ],
+        "6": [
+          {
+            "layerId": 1,
+            "color": "5EAAF8"
+          }
+        ],
+        "7": [
+          {
+            "layerId": 1,
+            "color": "7CB135"
+          }
+        ],
+        "8": [
+          {
+            "layerId": 1,
+            "color": "FFD837"
+          }
+        ],
+        "9": [
+          {
+            "layerId": 1,
+            "color": "E14218"
+          }
+        ],
+        "10": [
+          {
+            "layerId": 1,
+            "color": "764DA5"
+          }
+        ]
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "shelves_norja",
+    "visualization": "furniture_static"
+  }
+}

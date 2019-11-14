@@ -1,0 +1,366 @@
+{
+  "assets": {
+    "rare_trex_icon_a": {
+      "name": "rare_trex_icon_a",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    },
+    "rare_trex_64_a_4_0": {
+      "name": "rare_trex_64_a_4_0",
+      "x": 54,
+      "y": 13,
+      "exists": true
+    },
+    "rare_trex_64_b_4_0": {
+      "name": "rare_trex_64_b_4_0",
+      "x": 203,
+      "y": -42,
+      "exists": true
+    },
+    "rare_trex_64_c_4_0": {
+      "name": "rare_trex_64_c_4_0",
+      "x": 112,
+      "y": -13,
+      "exists": true
+    },
+    "rare_trex_64_d_4_0": {
+      "name": "rare_trex_64_d_4_0",
+      "x": -21,
+      "y": 74,
+      "exists": true
+    },
+    "rare_trex_64_e_4_0": {
+      "name": "rare_trex_64_e_4_0",
+      "x": 22,
+      "y": 95,
+      "exists": true
+    },
+    "rare_trex_64_f_4_0": {
+      "name": "rare_trex_64_f_4_0",
+      "x": 116,
+      "y": 98,
+      "exists": true
+    },
+    "rare_trex_64_g_4_0": {
+      "name": "rare_trex_64_g_4_0",
+      "x": 197,
+      "y": 123,
+      "exists": true
+    },
+    "rare_trex_64_a_2_0": {
+      "name": "rare_trex_64_a_2_0",
+      "flipH": 1,
+      "source": "rare_trex_64_a_4_0",
+      "x": 54,
+      "y": 13,
+      "exists": false
+    },
+    "rare_trex_64_b_2_0": {
+      "name": "rare_trex_64_b_2_0",
+      "flipH": 1,
+      "source": "rare_trex_64_b_4_0",
+      "x": 203,
+      "y": -42,
+      "exists": false
+    },
+    "rare_trex_64_c_2_0": {
+      "name": "rare_trex_64_c_2_0",
+      "flipH": 1,
+      "source": "rare_trex_64_c_4_0",
+      "x": 112,
+      "y": -13,
+      "exists": false
+    },
+    "rare_trex_64_d_2_0": {
+      "name": "rare_trex_64_d_2_0",
+      "flipH": 1,
+      "source": "rare_trex_64_d_4_0",
+      "x": -21,
+      "y": 74,
+      "exists": false
+    },
+    "rare_trex_64_e_2_0": {
+      "name": "rare_trex_64_e_2_0",
+      "flipH": 1,
+      "source": "rare_trex_64_e_4_0",
+      "x": 22,
+      "y": 95,
+      "exists": false
+    },
+    "rare_trex_64_f_2_0": {
+      "name": "rare_trex_64_f_2_0",
+      "flipH": 1,
+      "source": "rare_trex_64_f_4_0",
+      "x": 116,
+      "y": 98,
+      "exists": false
+    },
+    "rare_trex_64_g_2_0": {
+      "name": "rare_trex_64_g_2_0",
+      "flipH": 1,
+      "source": "rare_trex_64_g_4_0",
+      "x": 197,
+      "y": 123,
+      "exists": false
+    },
+    "rare_trex_32_a_4_0": {
+      "name": "rare_trex_32_a_4_0",
+      "x": 28,
+      "y": 6,
+      "exists": true
+    },
+    "rare_trex_32_b_4_0": {
+      "name": "rare_trex_32_b_4_0",
+      "x": 55,
+      "y": -8,
+      "exists": true
+    },
+    "rare_trex_32_c_4_0": {
+      "name": "rare_trex_32_c_4_0",
+      "x": 101,
+      "y": -21,
+      "exists": true
+    },
+    "rare_trex_32_d_4_0": {
+      "name": "rare_trex_32_d_4_0",
+      "x": -12,
+      "y": 34,
+      "exists": true
+    },
+    "rare_trex_32_e_4_0": {
+      "name": "rare_trex_32_e_4_0",
+      "x": 10,
+      "y": 45,
+      "exists": true
+    },
+    "rare_trex_32_f_4_0": {
+      "name": "rare_trex_32_f_4_0",
+      "x": 55,
+      "y": 49,
+      "exists": true
+    },
+    "rare_trex_32_g_4_0": {
+      "name": "rare_trex_32_g_4_0",
+      "x": 98,
+      "y": 61,
+      "exists": true
+    },
+    "_rare_trex_64_a_4_0": {
+      "name": "_rare_trex_64_a_4_0",
+      "source": "rare_trex_64_a_4_0",
+      "x": 54,
+      "y": 13,
+      "exists": false
+    },
+    "_rare_trex_64_b_4_0": {
+      "name": "_rare_trex_64_b_4_0",
+      "source": "rare_trex_64_b_4_0",
+      "x": 203,
+      "y": -42,
+      "exists": false
+    },
+    "_rare_trex_64_c_4_0": {
+      "name": "_rare_trex_64_c_4_0",
+      "source": "rare_trex_64_c_4_0",
+      "x": 112,
+      "y": -13,
+      "exists": false
+    },
+    "_rare_trex_64_d_4_0": {
+      "name": "_rare_trex_64_d_4_0",
+      "source": "rare_trex_64_d_4_0",
+      "x": -21,
+      "y": 74,
+      "exists": false
+    },
+    "_rare_trex_64_e_4_0": {
+      "name": "_rare_trex_64_e_4_0",
+      "source": "rare_trex_64_e_4_0",
+      "x": 22,
+      "y": 95,
+      "exists": false
+    },
+    "_rare_trex_64_f_4_0": {
+      "name": "_rare_trex_64_f_4_0",
+      "source": "rare_trex_64_f_4_0",
+      "x": 116,
+      "y": 98,
+      "exists": false
+    },
+    "_rare_trex_64_g_4_0": {
+      "name": "_rare_trex_64_g_4_0",
+      "source": "rare_trex_64_g_4_0",
+      "x": 197,
+      "y": 123,
+      "exists": false
+    },
+    "rare_trex_32_a_2_0": {
+      "name": "rare_trex_32_a_2_0",
+      "flipH": 1,
+      "source": "rare_trex_32_a_4_0",
+      "x": 28,
+      "y": 6,
+      "exists": false
+    },
+    "rare_trex_32_b_2_0": {
+      "name": "rare_trex_32_b_2_0",
+      "flipH": 1,
+      "source": "rare_trex_32_b_4_0",
+      "x": 55,
+      "y": -8,
+      "exists": false
+    },
+    "rare_trex_32_c_2_0": {
+      "name": "rare_trex_32_c_2_0",
+      "flipH": 1,
+      "source": "rare_trex_32_c_4_0",
+      "x": 101,
+      "y": -21,
+      "exists": false
+    },
+    "rare_trex_32_d_2_0": {
+      "name": "rare_trex_32_d_2_0",
+      "flipH": 1,
+      "source": "rare_trex_32_d_4_0",
+      "x": -12,
+      "y": 34,
+      "exists": false
+    },
+    "rare_trex_32_e_2_0": {
+      "name": "rare_trex_32_e_2_0",
+      "flipH": 1,
+      "source": "rare_trex_32_e_4_0",
+      "x": 10,
+      "y": 45,
+      "exists": false
+    },
+    "rare_trex_32_f_2_0": {
+      "name": "rare_trex_32_f_2_0",
+      "flipH": 1,
+      "source": "rare_trex_32_f_4_0",
+      "x": 55,
+      "y": 49,
+      "exists": false
+    },
+    "rare_trex_32_g_2_0": {
+      "name": "rare_trex_32_g_2_0",
+      "flipH": 1,
+      "source": "rare_trex_32_g_4_0",
+      "x": 98,
+      "y": 61,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3,
+      "y": 7,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 7,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1000
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY",
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 4000
+        },
+        {
+          "layerId": 3,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 4,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 5,
+          "ignoreMouse": 1,
+          "z": 3000
+        },
+        {
+          "layerId": 6,
+          "ignoreMouse": 1,
+          "z": 4000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 7,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY",
+          "z": 1000
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY",
+          "z": 4000
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "ignoreMouse": 1
+        },
+        {
+          "layerId": 4,
+          "ignoreMouse": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 5,
+          "ignoreMouse": 1,
+          "z": 3000
+        },
+        {
+          "layerId": 6,
+          "ignoreMouse": 1,
+          "z": 4000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "rare_trex",
+    "visualization": "furniture_static"
+  }
+}

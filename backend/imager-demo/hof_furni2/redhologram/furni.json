@@ -1,0 +1,580 @@
+{
+  "assets": {
+    "redhologram_64_a_0_0": {
+      "name": "redhologram_64_a_0_0",
+      "x": 21,
+      "y": 21,
+      "exists": true
+    },
+    "redhologram_64_a_0_1": {
+      "name": "redhologram_64_a_0_1",
+      "x": 21,
+      "y": 21,
+      "exists": true
+    },
+    "redhologram_64_a_1_0": {
+      "name": "redhologram_64_a_1_0",
+      "source": "redhologram_64_a_0_0",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "redhologram_64_a_2_0": {
+      "name": "redhologram_64_a_2_0",
+      "source": "redhologram_64_a_0_0",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "redhologram_64_a_3_0": {
+      "name": "redhologram_64_a_3_0",
+      "source": "redhologram_64_a_0_0",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "redhologram_64_a_4_0": {
+      "name": "redhologram_64_a_4_0",
+      "source": "redhologram_64_a_0_0",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "redhologram_64_a_5_0": {
+      "name": "redhologram_64_a_5_0",
+      "source": "redhologram_64_a_0_0",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "redhologram_64_a_6_0": {
+      "name": "redhologram_64_a_6_0",
+      "source": "redhologram_64_a_0_0",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "redhologram_64_a_7_0": {
+      "name": "redhologram_64_a_7_0",
+      "source": "redhologram_64_a_0_0",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "redhologram_64_b_0_0": {
+      "name": "redhologram_64_b_0_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "redhologram_64_b_0_1": {
+      "name": "redhologram_64_b_0_1",
+      "x": 13,
+      "y": 48,
+      "exists": true
+    },
+    "redhologram_64_b_0_2": {
+      "name": "redhologram_64_b_0_2",
+      "x": 9,
+      "y": 48,
+      "exists": true
+    },
+    "redhologram_64_b_0_3": {
+      "name": "redhologram_64_b_0_3",
+      "x": 13,
+      "y": 48,
+      "exists": true
+    },
+    "redhologram_64_b_0_4": {
+      "name": "redhologram_64_b_0_4",
+      "x": 13,
+      "y": 48,
+      "exists": true
+    },
+    "redhologram_64_b_0_5": {
+      "name": "redhologram_64_b_0_5",
+      "x": 11,
+      "y": 48,
+      "exists": true
+    },
+    "redhologram_64_b_0_6": {
+      "name": "redhologram_64_b_0_6",
+      "x": 8,
+      "y": 48,
+      "exists": true
+    },
+    "redhologram_64_b_0_7": {
+      "name": "redhologram_64_b_0_7",
+      "x": 11,
+      "y": 48,
+      "exists": true
+    },
+    "redhologram_64_b_0_8": {
+      "name": "redhologram_64_b_0_8",
+      "x": 13,
+      "y": 48,
+      "exists": true
+    },
+    "redhologram_64_c_0_0": {
+      "name": "redhologram_64_c_0_0",
+      "source": "redhologram_64_b_0_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "redhologram_64_c_0_1": {
+      "name": "redhologram_64_c_0_1",
+      "x": 14,
+      "y": 49,
+      "exists": true
+    },
+    "redhologram_64_c_0_2": {
+      "name": "redhologram_64_c_0_2",
+      "x": 10,
+      "y": 49,
+      "exists": true
+    },
+    "redhologram_64_c_0_3": {
+      "name": "redhologram_64_c_0_3",
+      "x": 14,
+      "y": 49,
+      "exists": true
+    },
+    "redhologram_64_c_0_4": {
+      "name": "redhologram_64_c_0_4",
+      "x": 14,
+      "y": 49,
+      "exists": true
+    },
+    "redhologram_64_c_0_5": {
+      "name": "redhologram_64_c_0_5",
+      "x": 12,
+      "y": 49,
+      "exists": true
+    },
+    "redhologram_64_c_0_6": {
+      "name": "redhologram_64_c_0_6",
+      "x": 9,
+      "y": 49,
+      "exists": true
+    },
+    "redhologram_64_c_0_7": {
+      "name": "redhologram_64_c_0_7",
+      "x": 12,
+      "y": 49,
+      "exists": true
+    },
+    "redhologram_64_c_0_8": {
+      "name": "redhologram_64_c_0_8",
+      "x": 14,
+      "y": 49,
+      "exists": true
+    },
+    "redhologram_64_d_0_0": {
+      "name": "redhologram_64_d_0_0",
+      "source": "redhologram_64_b_0_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "redhologram_64_d_0_1": {
+      "name": "redhologram_64_d_0_1",
+      "x": 18,
+      "y": 68,
+      "exists": true
+    },
+    "redhologram_icon_a": {
+      "name": "redhologram_icon_a",
+      "x": 10,
+      "y": 15,
+      "exists": true
+    },
+    "redhologram_32_a_0_0": {
+      "name": "redhologram_32_a_0_0",
+      "x": 11,
+      "y": 10,
+      "exists": true
+    },
+    "redhologram_32_a_0_1": {
+      "name": "redhologram_32_a_0_1",
+      "x": 11,
+      "y": 10,
+      "exists": true
+    },
+    "redhologram_32_b_0_0": {
+      "name": "redhologram_32_b_0_0",
+      "x": 16,
+      "y": 0,
+      "exists": true
+    },
+    "redhologram_32_b_0_1": {
+      "name": "redhologram_32_b_0_1",
+      "x": 6,
+      "y": 24,
+      "exists": true
+    },
+    "redhologram_32_b_0_2": {
+      "name": "redhologram_32_b_0_2",
+      "x": 4,
+      "y": 24,
+      "exists": true
+    },
+    "redhologram_32_b_0_3": {
+      "name": "redhologram_32_b_0_3",
+      "x": 6,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_b_0_4": {
+      "name": "redhologram_32_b_0_4",
+      "x": 6,
+      "y": 24,
+      "exists": true
+    },
+    "redhologram_32_b_0_5": {
+      "name": "redhologram_32_b_0_5",
+      "x": 5,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_b_0_6": {
+      "name": "redhologram_32_b_0_6",
+      "x": 3,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_b_0_7": {
+      "name": "redhologram_32_b_0_7",
+      "x": 5,
+      "y": 24,
+      "exists": true
+    },
+    "redhologram_32_b_0_8": {
+      "name": "redhologram_32_b_0_8",
+      "x": 6,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_c_0_0": {
+      "name": "redhologram_32_c_0_0",
+      "x": 16,
+      "y": 0,
+      "exists": false
+    },
+    "redhologram_32_c_0_1": {
+      "name": "redhologram_32_c_0_1",
+      "x": 7,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_c_0_2": {
+      "name": "redhologram_32_c_0_2",
+      "x": 5,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_c_0_3": {
+      "name": "redhologram_32_c_0_3",
+      "x": 7,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_c_0_4": {
+      "name": "redhologram_32_c_0_4",
+      "x": 7,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_c_0_5": {
+      "name": "redhologram_32_c_0_5",
+      "x": 6,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_c_0_6": {
+      "name": "redhologram_32_c_0_6",
+      "x": 4,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_c_0_7": {
+      "name": "redhologram_32_c_0_7",
+      "x": 6,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_c_0_8": {
+      "name": "redhologram_32_c_0_8",
+      "x": 7,
+      "y": 25,
+      "exists": true
+    },
+    "redhologram_32_d_0_0": {
+      "name": "redhologram_32_d_0_0",
+      "x": 16,
+      "y": 0,
+      "exists": false
+    },
+    "redhologram_32_d_0_1": {
+      "name": "redhologram_32_d_0_1",
+      "x": 9,
+      "y": 33,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": []
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1
+        },
+        {
+          "layerId": 2,
+          "z": 2
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "z": 3
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1
+        },
+        {
+          "layerId": 2,
+          "z": 2
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "z": 3
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "redhologram",
+    "visualization": "furniture_animated"
+  }
+}

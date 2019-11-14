@@ -1,0 +1,1190 @@
+{
+  "assets": {
+    "party_ravel_64_a_2_0": {
+      "name": "party_ravel_64_a_2_0",
+      "flipH": 1,
+      "source": "party_ravel_64_a_4_0",
+      "x": 28,
+      "y": 106,
+      "exists": false
+    },
+    "party_ravel_64_a_4_0": {
+      "name": "party_ravel_64_a_4_0",
+      "x": 28,
+      "y": 106,
+      "exists": true
+    },
+    "party_ravel_64_b_2_0": {
+      "name": "party_ravel_64_b_2_0",
+      "flipH": 1,
+      "source": "party_ravel_64_b_4_0",
+      "x": 33,
+      "y": 1,
+      "exists": false
+    },
+    "party_ravel_64_b_2_1": {
+      "name": "party_ravel_64_b_2_1",
+      "flipH": 1,
+      "source": "party_ravel_64_b_4_4",
+      "x": 91,
+      "y": 122,
+      "exists": false
+    },
+    "party_ravel_64_b_2_2": {
+      "name": "party_ravel_64_b_2_2",
+      "flipH": 1,
+      "source": "party_ravel_64_b_4_3",
+      "x": 70,
+      "y": 90,
+      "exists": false
+    },
+    "party_ravel_64_b_2_3": {
+      "name": "party_ravel_64_b_2_3",
+      "flipH": 1,
+      "source": "party_ravel_64_b_4_2",
+      "x": 8,
+      "y": 144,
+      "exists": false
+    },
+    "party_ravel_64_b_2_4": {
+      "name": "party_ravel_64_b_2_4",
+      "flipH": 1,
+      "source": "party_ravel_64_b_4_1",
+      "x": 55,
+      "y": 168,
+      "exists": false
+    },
+    "party_ravel_64_b_2_5": {
+      "name": "party_ravel_64_b_2_5",
+      "flipH": 1,
+      "source": "party_ravel_64_b_4_5",
+      "x": 60,
+      "y": 89,
+      "exists": false
+    },
+    "party_ravel_64_b_2_6": {
+      "name": "party_ravel_64_b_2_6",
+      "flipH": 1,
+      "source": "party_ravel_64_b_4_6",
+      "x": 65,
+      "y": 89,
+      "exists": false
+    },
+    "party_ravel_64_b_2_7": {
+      "name": "party_ravel_64_b_2_7",
+      "flipH": 1,
+      "source": "party_ravel_64_b_4_7",
+      "x": 65,
+      "y": 90,
+      "exists": false
+    },
+    "party_ravel_64_b_2_8": {
+      "name": "party_ravel_64_b_2_8",
+      "flipH": 1,
+      "source": "party_ravel_64_b_4_8",
+      "x": 60,
+      "y": 125,
+      "exists": false
+    },
+    "party_ravel_64_b_2_9": {
+      "name": "party_ravel_64_b_2_9",
+      "flipH": 1,
+      "source": "party_ravel_64_b_4_9",
+      "x": 64,
+      "y": 158,
+      "exists": false
+    },
+    "party_ravel_64_b_4_0": {
+      "name": "party_ravel_64_b_4_0",
+      "x": 33,
+      "y": 1,
+      "exists": true
+    },
+    "party_ravel_64_b_4_1": {
+      "name": "party_ravel_64_b_4_1",
+      "x": 55,
+      "y": 168,
+      "exists": true
+    },
+    "party_ravel_64_b_4_2": {
+      "name": "party_ravel_64_b_4_2",
+      "x": 8,
+      "y": 144,
+      "exists": true
+    },
+    "party_ravel_64_b_4_3": {
+      "name": "party_ravel_64_b_4_3",
+      "x": 70,
+      "y": 90,
+      "exists": true
+    },
+    "party_ravel_64_b_4_4": {
+      "name": "party_ravel_64_b_4_4",
+      "x": 91,
+      "y": 122,
+      "exists": true
+    },
+    "party_ravel_64_b_4_5": {
+      "name": "party_ravel_64_b_4_5",
+      "x": 60,
+      "y": 89,
+      "exists": true
+    },
+    "party_ravel_64_b_4_6": {
+      "name": "party_ravel_64_b_4_6",
+      "x": 65,
+      "y": 89,
+      "exists": true
+    },
+    "party_ravel_64_b_4_7": {
+      "name": "party_ravel_64_b_4_7",
+      "x": 65,
+      "y": 90,
+      "exists": true
+    },
+    "party_ravel_64_b_4_8": {
+      "name": "party_ravel_64_b_4_8",
+      "x": 60,
+      "y": 125,
+      "exists": true
+    },
+    "party_ravel_64_b_4_9": {
+      "name": "party_ravel_64_b_4_9",
+      "x": 64,
+      "y": 158,
+      "exists": true
+    },
+    "party_ravel_64_c_2_0": {
+      "name": "party_ravel_64_c_2_0",
+      "flipH": 1,
+      "source": "party_ravel_64_c_4_0",
+      "x": 10,
+      "y": 14,
+      "exists": false
+    },
+    "party_ravel_64_c_4_0": {
+      "name": "party_ravel_64_c_4_0",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "party_ravel_64_sd_2_0": {
+      "name": "party_ravel_64_sd_2_0",
+      "flipH": 1,
+      "source": "party_ravel_64_sd_4_0",
+      "x": 28,
+      "y": 11,
+      "exists": false
+    },
+    "party_ravel_64_sd_4_0": {
+      "name": "party_ravel_64_sd_4_0",
+      "x": 28,
+      "y": 11,
+      "exists": true
+    },
+    "party_ravel_icon_a": {
+      "name": "party_ravel_icon_a",
+      "x": 6,
+      "y": 15,
+      "exists": true
+    },
+    "party_ravel_32_a_2_0": {
+      "name": "party_ravel_32_a_2_0",
+      "flipH": 1,
+      "source": "party_ravel_32_a_4_0",
+      "x": 15,
+      "y": 53,
+      "exists": false
+    },
+    "party_ravel_32_a_4_0": {
+      "name": "party_ravel_32_a_4_0",
+      "x": 15,
+      "y": 53,
+      "exists": true
+    },
+    "party_ravel_32_b_2_0": {
+      "name": "party_ravel_32_b_2_0",
+      "flipH": 1,
+      "source": "party_ravel_32_b_4_0",
+      "x": 17,
+      "y": 1,
+      "exists": false
+    },
+    "party_ravel_32_b_2_1": {
+      "name": "party_ravel_32_b_2_1",
+      "flipH": 1,
+      "source": "party_ravel_32_b_4_4",
+      "x": 46,
+      "y": 62,
+      "exists": false
+    },
+    "party_ravel_32_b_2_2": {
+      "name": "party_ravel_32_b_2_2",
+      "flipH": 1,
+      "source": "party_ravel_32_b_4_3",
+      "x": 36,
+      "y": 46,
+      "exists": false
+    },
+    "party_ravel_32_b_2_3": {
+      "name": "party_ravel_32_b_2_3",
+      "flipH": 1,
+      "source": "party_ravel_32_b_4_2",
+      "x": 4,
+      "y": 72,
+      "exists": false
+    },
+    "party_ravel_32_b_2_4": {
+      "name": "party_ravel_32_b_2_4",
+      "flipH": 1,
+      "source": "party_ravel_32_b_4_1",
+      "x": 29,
+      "y": 84,
+      "exists": false
+    },
+    "party_ravel_32_b_2_5": {
+      "name": "party_ravel_32_b_2_5",
+      "flipH": 1,
+      "source": "party_ravel_32_b_4_5",
+      "x": 30,
+      "y": 45,
+      "exists": false
+    },
+    "party_ravel_32_b_2_6": {
+      "name": "party_ravel_32_b_2_6",
+      "flipH": 1,
+      "source": "party_ravel_32_b_4_6",
+      "x": 33,
+      "y": 45,
+      "exists": false
+    },
+    "party_ravel_32_b_2_7": {
+      "name": "party_ravel_32_b_2_7",
+      "flipH": 1,
+      "source": "party_ravel_32_b_4_7",
+      "x": 32,
+      "y": 45,
+      "exists": false
+    },
+    "party_ravel_32_b_2_8": {
+      "name": "party_ravel_32_b_2_8",
+      "flipH": 1,
+      "source": "party_ravel_32_b_4_8",
+      "x": 31,
+      "y": 63,
+      "exists": false
+    },
+    "party_ravel_32_b_2_9": {
+      "name": "party_ravel_32_b_2_9",
+      "flipH": 1,
+      "source": "party_ravel_32_b_4_9",
+      "x": 32,
+      "y": 79,
+      "exists": false
+    },
+    "party_ravel_32_b_4_0": {
+      "name": "party_ravel_32_b_4_0",
+      "x": 17,
+      "y": 1,
+      "exists": false
+    },
+    "party_ravel_32_b_4_1": {
+      "name": "party_ravel_32_b_4_1",
+      "x": 29,
+      "y": 84,
+      "exists": true
+    },
+    "party_ravel_32_b_4_2": {
+      "name": "party_ravel_32_b_4_2",
+      "x": 4,
+      "y": 72,
+      "exists": true
+    },
+    "party_ravel_32_b_4_3": {
+      "name": "party_ravel_32_b_4_3",
+      "x": 36,
+      "y": 46,
+      "exists": true
+    },
+    "party_ravel_32_b_4_4": {
+      "name": "party_ravel_32_b_4_4",
+      "x": 46,
+      "y": 62,
+      "exists": true
+    },
+    "party_ravel_32_b_4_5": {
+      "name": "party_ravel_32_b_4_5",
+      "x": 30,
+      "y": 45,
+      "exists": true
+    },
+    "party_ravel_32_b_4_6": {
+      "name": "party_ravel_32_b_4_6",
+      "x": 33,
+      "y": 45,
+      "exists": true
+    },
+    "party_ravel_32_b_4_7": {
+      "name": "party_ravel_32_b_4_7",
+      "x": 32,
+      "y": 45,
+      "exists": true
+    },
+    "party_ravel_32_b_4_8": {
+      "name": "party_ravel_32_b_4_8",
+      "x": 31,
+      "y": 63,
+      "exists": true
+    },
+    "party_ravel_32_b_4_9": {
+      "name": "party_ravel_32_b_4_9",
+      "x": 32,
+      "y": 79,
+      "exists": true
+    },
+    "party_ravel_32_c_2_0": {
+      "name": "party_ravel_32_c_2_0",
+      "flipH": 1,
+      "source": "party_ravel_32_c_4_0",
+      "x": 3,
+      "y": 8,
+      "exists": false
+    },
+    "party_ravel_32_c_4_0": {
+      "name": "party_ravel_32_c_4_0",
+      "x": 3,
+      "y": 8,
+      "exists": true
+    },
+    "party_ravel_32_sd_2_0": {
+      "name": "party_ravel_32_sd_2_0",
+      "flipH": 1,
+      "source": "party_ravel_32_sd_4_0",
+      "x": 14,
+      "y": 5,
+      "exists": false
+    },
+    "party_ravel_32_sd_4_0": {
+      "name": "party_ravel_32_sd_4_0",
+      "x": 14,
+      "y": 5,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  3,
+                  2,
+                  4,
+                  3,
+                  1,
+                  3,
+                  2,
+                  4,
+                  1,
+                  2,
+                  4,
+                  1,
+                  3,
+                  4,
+                  2,
+                  1,
+                  3,
+                  2,
+                  4,
+                  3,
+                  1,
+                  3,
+                  2,
+                  4,
+                  1,
+                  2,
+                  4,
+                  1,
+                  3,
+                  4,
+                  2,
+                  1,
+                  3,
+                  2,
+                  4,
+                  3,
+                  1,
+                  3,
+                  2,
+                  4,
+                  1,
+                  2,
+                  4,
+                  1,
+                  3,
+                  4,
+                  2,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  3,
+                  2,
+                  4,
+                  3,
+                  1,
+                  3,
+                  2,
+                  4,
+                  1,
+                  2,
+                  4,
+                  1,
+                  3,
+                  4,
+                  2,
+                  1,
+                  3,
+                  2,
+                  4,
+                  3,
+                  1,
+                  3,
+                  2,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  3,
+                  4,
+                  2,
+                  1,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  3,
+                  2,
+                  4,
+                  3,
+                  1,
+                  3,
+                  2,
+                  4,
+                  1,
+                  2,
+                  4,
+                  1,
+                  3,
+                  4,
+                  2,
+                  1,
+                  3,
+                  2,
+                  4,
+                  3,
+                  1,
+                  3,
+                  2,
+                  4,
+                  1,
+                  2,
+                  4,
+                  1,
+                  3,
+                  4,
+                  2,
+                  1,
+                  3,
+                  2,
+                  4,
+                  3,
+                  1,
+                  3,
+                  2,
+                  4,
+                  1,
+                  2,
+                  4,
+                  1,
+                  3,
+                  4,
+                  2,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  9,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  3,
+                  2,
+                  4,
+                  3,
+                  1,
+                  3,
+                  2,
+                  4,
+                  1,
+                  2,
+                  4,
+                  1,
+                  3,
+                  4,
+                  2,
+                  1,
+                  3,
+                  2,
+                  4,
+                  3,
+                  1,
+                  3,
+                  2,
+                  4,
+                  1,
+                  2,
+                  3,
+                  4,
+                  1,
+                  3,
+                  4,
+                  2,
+                  1,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  9,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  5,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "party_ravel",
+    "visualization": "furniture_animated"
+  }
+}

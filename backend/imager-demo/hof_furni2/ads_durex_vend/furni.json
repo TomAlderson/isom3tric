@@ -1,0 +1,114 @@
+{
+  "assets": {
+    "ads_durex_vend_icon_a": {
+      "name": "ads_durex_vend_icon_a",
+      "x": 10,
+      "y": 13,
+      "exists": true
+    },
+    "ads_durex_vend_64_b_2_0": {
+      "name": "ads_durex_vend_64_b_2_0",
+      "x": 62,
+      "y": 110,
+      "exists": true
+    },
+    "ads_durex_vend_64_a_2_0": {
+      "name": "ads_durex_vend_64_a_2_0",
+      "x": 26,
+      "y": 124,
+      "exists": true
+    },
+    "ads_durex_vend_64_b_4_0": {
+      "name": "ads_durex_vend_64_b_4_0",
+      "x": -1,
+      "y": 109,
+      "exists": true
+    },
+    "ads_durex_vend_64_a_4_0": {
+      "name": "ads_durex_vend_64_a_4_0",
+      "x": 29,
+      "y": 124,
+      "exists": true
+    },
+    "ads_durex_vend_32_a_4_0": {
+      "name": "ads_durex_vend_32_a_4_0",
+      "x": 15,
+      "y": 62,
+      "exists": true
+    },
+    "ads_durex_vend_32_b_4_0": {
+      "name": "ads_durex_vend_32_b_4_0",
+      "x": -2,
+      "y": 54,
+      "exists": true
+    },
+    "ads_durex_vend_32_a_2_0": {
+      "name": "ads_durex_vend_32_a_2_0",
+      "x": 12,
+      "y": 63,
+      "exists": true
+    },
+    "ads_durex_vend_32_b_2_0": {
+      "name": "ads_durex_vend_32_b_2_0",
+      "x": 30,
+      "y": 56,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 90,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "64": {
+      "angle": 90,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "ads_durex_vend",
+    "visualization": "furniture_static"
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "assets": {
+    "army_c15_doorscan_64_sd_4_0": {
+      "name": "army_c15_doorscan_64_sd_4_0",
+      "x": 34,
+      "y": 17,
+      "exists": true
+    },
+    "army_c15_doorscan_64_a_4_0": {
+      "name": "army_c15_doorscan_64_a_4_0",
+      "x": 34,
+      "y": 131,
+      "exists": true
+    },
+    "army_c15_doorscan_64_b_4_0": {
+      "name": "army_c15_doorscan_64_b_4_0",
+      "x": 4,
+      "y": 116,
+      "exists": true
+    },
+    "army_c15_doorscan_64_c_4_0": {
+      "name": "army_c15_doorscan_64_c_4_0",
+      "x": 1,
+      "y": 103,
+      "exists": true
+    },
+    "army_c15_doorscan_64_c_4_2": {
+      "name": "army_c15_doorscan_64_c_4_2",
+      "x": 11,
+      "y": 98,
+      "exists": true
+    },
+    "army_c15_doorscan_64_c_4_1": {
+      "name": "army_c15_doorscan_64_c_4_1",
+      "x": 15,
+      "y": 100,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_1": {
+      "name": "army_c15_doorscan_64_d_4_1",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_2": {
+      "name": "army_c15_doorscan_64_d_4_2",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_3": {
+      "name": "army_c15_doorscan_64_d_4_3",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_4": {
+      "name": "army_c15_doorscan_64_d_4_4",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_5": {
+      "name": "army_c15_doorscan_64_d_4_5",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_6": {
+      "name": "army_c15_doorscan_64_d_4_6",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_7": {
+      "name": "army_c15_doorscan_64_d_4_7",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_8": {
+      "name": "army_c15_doorscan_64_d_4_8",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_9": {
+      "name": "army_c15_doorscan_64_d_4_9",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_10": {
+      "name": "army_c15_doorscan_64_d_4_10",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_11": {
+      "name": "army_c15_doorscan_64_d_4_11",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_12": {
+      "name": "army_c15_doorscan_64_d_4_12",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_13": {
+      "name": "army_c15_doorscan_64_d_4_13",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_14": {
+      "name": "army_c15_doorscan_64_d_4_14",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_15": {
+      "name": "army_c15_doorscan_64_d_4_15",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_16": {
+      "name": "army_c15_doorscan_64_d_4_16",
+      "x": 21,
+      "y": 95,
+      "exists": true
+    },
+    "army_c15_doorscan_64_d_4_0": {
+      "name": "army_c15_doorscan_64_d_4_0",
+      "x": 34,
+      "y": 103,
+      "exists": true
+    },
+    "army_c15_doorscan_icon_a": {
+      "name": "army_c15_doorscan_icon_a",
+      "x": 6,
+      "y": 14,
+      "exists": true
+    },
+    "army_c15_doorscan_64_sd_2_0": {
+      "name": "army_c15_doorscan_64_sd_2_0",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_sd_4_0",
+      "x": 34,
+      "y": 17,
+      "exists": false
+    },
+    "army_c15_doorscan_64_a_2_0": {
+      "name": "army_c15_doorscan_64_a_2_0",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_a_4_0",
+      "x": 34,
+      "y": 131,
+      "exists": false
+    },
+    "army_c15_doorscan_64_b_2_0": {
+      "name": "army_c15_doorscan_64_b_2_0",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_b_4_0",
+      "x": 4,
+      "y": 116,
+      "exists": false
+    },
+    "army_c15_doorscan_64_c_2_0": {
+      "name": "army_c15_doorscan_64_c_2_0",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_c_4_0",
+      "x": 1,
+      "y": 103,
+      "exists": false
+    },
+    "army_c15_doorscan_64_c_2_2": {
+      "name": "army_c15_doorscan_64_c_2_2",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_c_4_2",
+      "x": 11,
+      "y": 98,
+      "exists": false
+    },
+    "army_c15_doorscan_64_c_2_1": {
+      "name": "army_c15_doorscan_64_c_2_1",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_c_4_1",
+      "x": 15,
+      "y": 100,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_1": {
+      "name": "army_c15_doorscan_64_d_2_1",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_1",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_2": {
+      "name": "army_c15_doorscan_64_d_2_2",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_2",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_3": {
+      "name": "army_c15_doorscan_64_d_2_3",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_3",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_4": {
+      "name": "army_c15_doorscan_64_d_2_4",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_4",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_5": {
+      "name": "army_c15_doorscan_64_d_2_5",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_5",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_6": {
+      "name": "army_c15_doorscan_64_d_2_6",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_6",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_7": {
+      "name": "army_c15_doorscan_64_d_2_7",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_7",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_8": {
+      "name": "army_c15_doorscan_64_d_2_8",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_8",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_9": {
+      "name": "army_c15_doorscan_64_d_2_9",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_9",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_10": {
+      "name": "army_c15_doorscan_64_d_2_10",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_10",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_11": {
+      "name": "army_c15_doorscan_64_d_2_11",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_11",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_12": {
+      "name": "army_c15_doorscan_64_d_2_12",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_12",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_13": {
+      "name": "army_c15_doorscan_64_d_2_13",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_13",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_14": {
+      "name": "army_c15_doorscan_64_d_2_14",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_14",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_15": {
+      "name": "army_c15_doorscan_64_d_2_15",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_15",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_16": {
+      "name": "army_c15_doorscan_64_d_2_16",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_16",
+      "x": 21,
+      "y": 95,
+      "exists": false
+    },
+    "army_c15_doorscan_64_d_2_0": {
+      "name": "army_c15_doorscan_64_d_2_0",
+      "flipH": 1,
+      "source": "army_c15_doorscan_64_d_4_0",
+      "x": 34,
+      "y": 103,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.000001
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  15,
+                  14,
+                  13,
+                  12,
+                  11,
+                  10,
+                  9,
+                  8,
+                  7,
+                  6,
+                  5,
+                  4,
+                  3,
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 50
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "army_c15_doorscan",
+    "visualization": "furniture_animated"
+  }
+}

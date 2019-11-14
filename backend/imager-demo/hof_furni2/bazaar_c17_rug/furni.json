@@ -1,0 +1,72 @@
+{
+  "assets": {
+    "bazaar_c17_rug_64_a_0_0": {
+      "name": "bazaar_c17_rug_64_a_0_0",
+      "x": 64,
+      "y": 18,
+      "exists": true
+    },
+    "bazaar_c17_rug_icon_a": {
+      "name": "bazaar_c17_rug_icon_a",
+      "x": 9,
+      "y": 12,
+      "exists": true
+    },
+    "bazaar_c17_rug_64_a_2_0": {
+      "name": "bazaar_c17_rug_64_a_2_0",
+      "flipH": 1,
+      "source": "bazaar_c17_rug_64_a_0_0",
+      "x": 64,
+      "y": 18,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3,
+      "y": 2,
+      "z": 0.001
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "bazaar_c17_rug",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "assets": {
+    "hween08_curtain2_64_a_0_0": {
+      "name": "hween08_curtain2_64_a_0_0",
+      "x": 26,
+      "y": 89,
+      "exists": true
+    },
+    "hween08_curtain2_64_a_6_0": {
+      "name": "hween08_curtain2_64_a_6_0",
+      "flipH": 1,
+      "source": "hween08_curtain2_64_a_0_0",
+      "x": 26,
+      "y": 89,
+      "exists": false
+    },
+    "hween08_curtain2_64_b_0_0": {
+      "name": "hween08_curtain2_64_b_0_0",
+      "x": 9,
+      "y": 20,
+      "exists": true
+    },
+    "hween08_curtain2_64_b_6_0": {
+      "name": "hween08_curtain2_64_b_6_0",
+      "flipH": 1,
+      "source": "hween08_curtain2_64_b_0_0",
+      "x": 9,
+      "y": 20,
+      "exists": false
+    },
+    "hween08_curtain2_64_c_0_0": {
+      "name": "hween08_curtain2_64_c_0_0",
+      "x": -1,
+      "y": 75,
+      "exists": true
+    },
+    "hween08_curtain2_64_c_6_0": {
+      "name": "hween08_curtain2_64_c_6_0",
+      "flipH": 1,
+      "source": "hween08_curtain2_64_c_0_0",
+      "x": -1,
+      "y": 75,
+      "exists": false
+    },
+    "hween08_curtain2_64_d_0_0": {
+      "name": "hween08_curtain2_64_d_0_0",
+      "x": -33,
+      "y": 59,
+      "exists": true
+    },
+    "hween08_curtain2_64_d_6_0": {
+      "name": "hween08_curtain2_64_d_6_0",
+      "flipH": 1,
+      "source": "hween08_curtain2_64_d_0_0",
+      "x": -33,
+      "y": 59,
+      "exists": false
+    },
+    "hween08_curtain2_64_e_0_0": {
+      "name": "hween08_curtain2_64_e_0_0",
+      "x": -33,
+      "y": 31,
+      "exists": true
+    },
+    "hween08_curtain2_64_e_6_0": {
+      "name": "hween08_curtain2_64_e_6_0",
+      "flipH": 1,
+      "source": "hween08_curtain2_64_e_0_0",
+      "x": -33,
+      "y": 31,
+      "exists": false
+    },
+    "hween08_curtain2_64_sd_0_0": {
+      "name": "hween08_curtain2_64_sd_0_0",
+      "x": 17,
+      "y": 9,
+      "exists": true
+    },
+    "hween08_curtain2_64_sd_6_0": {
+      "name": "hween08_curtain2_64_sd_6_0",
+      "flipH": 1,
+      "source": "hween08_curtain2_64_sd_0_0",
+      "x": 17,
+      "y": 9,
+      "exists": false
+    },
+    "hween08_curtain2_icon_a": {
+      "name": "hween08_curtain2_icon_a",
+      "x": 14,
+      "y": 15,
+      "exists": true
+    },
+    "hween08_curtain2_32_a_0_0": {
+      "name": "hween08_curtain2_32_a_0_0",
+      "x": 13,
+      "y": 44,
+      "exists": true
+    },
+    "hween08_curtain2_32_a_6_0": {
+      "name": "hween08_curtain2_32_a_6_0",
+      "flipH": 1,
+      "source": "hween08_curtain2_32_a_0_0",
+      "x": 13,
+      "y": 44,
+      "exists": false
+    },
+    "hween08_curtain2_32_b_0_0": {
+      "name": "hween08_curtain2_32_b_0_0",
+      "x": 0,
+      "y": 36,
+      "exists": true
+    },
+    "hween08_curtain2_32_b_6_0": {
+      "name": "hween08_curtain2_32_b_6_0",
+      "flipH": 1,
+      "source": "hween08_curtain2_32_b_0_0",
+      "x": 0,
+      "y": 36,
+      "exists": false
+    },
+    "hween08_curtain2_32_c_0_0": {
+      "name": "hween08_curtain2_32_c_0_0",
+      "x": -17,
+      "y": 28,
+      "exists": true
+    },
+    "hween08_curtain2_32_c_6_0": {
+      "name": "hween08_curtain2_32_c_6_0",
+      "flipH": 1,
+      "source": "hween08_curtain2_32_c_0_0",
+      "x": -17,
+      "y": 28,
+      "exists": false
+    },
+    "hween08_curtain2_32_sd_0_0": {
+      "name": "hween08_curtain2_32_sd_0_0",
+      "x": 9,
+      "y": 4,
+      "exists": true
+    },
+    "hween08_curtain2_32_sd_6_0": {
+      "name": "hween08_curtain2_32_sd_6_0",
+      "flipH": 1,
+      "source": "hween08_curtain2_32_sd_0_0",
+      "x": 9,
+      "y": 4,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3,
+      "y": 1,
+      "z": 3
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 2000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 2000
+        },
+        {
+          "layerId": 4,
+          "z": 2000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "hween08_curtain2",
+    "visualization": "furniture_static"
+  }
+}

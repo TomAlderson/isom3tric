@@ -1,0 +1,1416 @@
+{
+  "assets": {
+    "hween_r16_chandelier_64_sd_0_0": {
+      "name": "hween_r16_chandelier_64_sd_0_0",
+      "x": 20,
+      "y": 10,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_a_0_0": {
+      "name": "hween_r16_chandelier_64_a_0_0",
+      "x": 49,
+      "y": 263,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_b_0_0": {
+      "name": "hween_r16_chandelier_64_b_0_0",
+      "x": 79,
+      "y": 293,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_b_0_1": {
+      "name": "hween_r16_chandelier_64_b_0_1",
+      "x": 7,
+      "y": 211,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_c_0_0": {
+      "name": "hween_r16_chandelier_64_c_0_0",
+      "x": 77,
+      "y": 291,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_c_0_1": {
+      "name": "hween_r16_chandelier_64_c_0_1",
+      "x": 7,
+      "y": 211,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_d_0_0": {
+      "name": "hween_r16_chandelier_64_d_0_0",
+      "x": 49,
+      "y": 211,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_d_0_1": {
+      "name": "hween_r16_chandelier_64_d_0_1",
+      "x": 7,
+      "y": 211,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_e_0_0": {
+      "name": "hween_r16_chandelier_64_e_0_0",
+      "x": 49,
+      "y": 341,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_f_0_0": {
+      "name": "hween_r16_chandelier_64_f_0_0",
+      "x": 37,
+      "y": 189,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_f_0_1": {
+      "name": "hween_r16_chandelier_64_f_0_1",
+      "x": 50,
+      "y": 191,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_f_0_2": {
+      "name": "hween_r16_chandelier_64_f_0_2",
+      "x": 67,
+      "y": 196,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_0_3": {
+      "name": "hween_r16_chandelier_64_f_0_3",
+      "x": 75,
+      "y": 213,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_f_0_4": {
+      "name": "hween_r16_chandelier_64_f_0_4",
+      "x": 82,
+      "y": 233,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_0_5": {
+      "name": "hween_r16_chandelier_64_f_0_5",
+      "x": 84,
+      "y": 254,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_0_6": {
+      "name": "hween_r16_chandelier_64_f_0_6",
+      "x": 81,
+      "y": 274,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_0_7": {
+      "name": "hween_r16_chandelier_64_f_0_7",
+      "x": 71,
+      "y": 297,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_0_8": {
+      "name": "hween_r16_chandelier_64_f_0_8",
+      "x": 61,
+      "y": 319,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_0_9": {
+      "name": "hween_r16_chandelier_64_f_0_9",
+      "x": 50,
+      "y": 339,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_0_10": {
+      "name": "hween_r16_chandelier_64_f_0_10",
+      "x": 39,
+      "y": 366,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_0_11": {
+      "name": "hween_r16_chandelier_64_f_0_11",
+      "x": 7,
+      "y": 227,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_0_0": {
+      "name": "hween_r16_chandelier_64_g_0_0",
+      "x": -5,
+      "y": 138,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_g_0_1": {
+      "name": "hween_r16_chandelier_64_g_0_1",
+      "x": -1,
+      "y": 139,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_g_0_2": {
+      "name": "hween_r16_chandelier_64_g_0_2",
+      "x": -8,
+      "y": 145,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_0_3": {
+      "name": "hween_r16_chandelier_64_g_0_3",
+      "x": -19,
+      "y": 162,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_g_0_4": {
+      "name": "hween_r16_chandelier_64_g_0_4",
+      "x": -30,
+      "y": 182,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_0_5": {
+      "name": "hween_r16_chandelier_64_g_0_5",
+      "x": -40,
+      "y": 203,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_0_6": {
+      "name": "hween_r16_chandelier_64_g_0_6",
+      "x": -40,
+      "y": 223,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_0_7": {
+      "name": "hween_r16_chandelier_64_g_0_7",
+      "x": -28,
+      "y": 246,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_0_8": {
+      "name": "hween_r16_chandelier_64_g_0_8",
+      "x": -18,
+      "y": 268,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_0_9": {
+      "name": "hween_r16_chandelier_64_g_0_9",
+      "x": -8,
+      "y": 288,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_0_10": {
+      "name": "hween_r16_chandelier_64_g_0_10",
+      "x": 3,
+      "y": 315,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_0_11": {
+      "name": "hween_r16_chandelier_64_g_0_11",
+      "x": 7,
+      "y": 227,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_0_0": {
+      "name": "hween_r16_chandelier_64_h_0_0",
+      "x": 25,
+      "y": 138,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_h_0_1": {
+      "name": "hween_r16_chandelier_64_h_0_1",
+      "x": 39,
+      "y": 139,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_h_0_2": {
+      "name": "hween_r16_chandelier_64_h_0_2",
+      "x": 56,
+      "y": 145,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_h_0_3": {
+      "name": "hween_r16_chandelier_64_h_0_3",
+      "x": 64,
+      "y": 162,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_h_0_4": {
+      "name": "hween_r16_chandelier_64_h_0_4",
+      "x": 71,
+      "y": 182,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_h_0_5": {
+      "name": "hween_r16_chandelier_64_h_0_5",
+      "x": 73,
+      "y": 203,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_h_0_6": {
+      "name": "hween_r16_chandelier_64_h_0_6",
+      "x": 70,
+      "y": 223,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_h_0_7": {
+      "name": "hween_r16_chandelier_64_h_0_7",
+      "x": 60,
+      "y": 246,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_h_0_8": {
+      "name": "hween_r16_chandelier_64_h_0_8",
+      "x": 50,
+      "y": 268,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_h_0_9": {
+      "name": "hween_r16_chandelier_64_h_0_9",
+      "x": 39,
+      "y": 288,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_h_0_10": {
+      "name": "hween_r16_chandelier_64_h_0_10",
+      "x": 28,
+      "y": 315,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_h_0_11": {
+      "name": "hween_r16_chandelier_64_h_0_11",
+      "x": 7,
+      "y": 227,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_0_0": {
+      "name": "hween_r16_chandelier_64_i_0_0",
+      "x": -8,
+      "y": 189,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_i_0_1": {
+      "name": "hween_r16_chandelier_64_i_0_1",
+      "x": -12,
+      "y": 191,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_i_0_2": {
+      "name": "hween_r16_chandelier_64_i_0_2",
+      "x": -22,
+      "y": 196,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_i_0_3": {
+      "name": "hween_r16_chandelier_64_i_0_3",
+      "x": -33,
+      "y": 213,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_i_0_4": {
+      "name": "hween_r16_chandelier_64_i_0_4",
+      "x": -44,
+      "y": 233,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_i_0_5": {
+      "name": "hween_r16_chandelier_64_i_0_5",
+      "x": -54,
+      "y": 254,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_i_0_6": {
+      "name": "hween_r16_chandelier_64_i_0_6",
+      "x": -54,
+      "y": 274,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_i_0_7": {
+      "name": "hween_r16_chandelier_64_i_0_7",
+      "x": -42,
+      "y": 297,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_i_0_8": {
+      "name": "hween_r16_chandelier_64_i_0_8",
+      "x": -32,
+      "y": 319,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_i_0_9": {
+      "name": "hween_r16_chandelier_64_i_0_9",
+      "x": -22,
+      "y": 339,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_i_0_10": {
+      "name": "hween_r16_chandelier_64_i_0_10",
+      "x": -11,
+      "y": 366,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_i_0_11": {
+      "name": "hween_r16_chandelier_64_i_0_11",
+      "x": 7,
+      "y": 227,
+      "exists": true
+    },
+    "hween_r16_chandelier_icon_a": {
+      "name": "hween_r16_chandelier_icon_a",
+      "x": 1,
+      "y": 18,
+      "exists": true
+    },
+    "hween_r16_chandelier_64_sd_2_0": {
+      "name": "hween_r16_chandelier_64_sd_2_0",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_sd_0_0",
+      "x": 20,
+      "y": 10,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_a_2_0": {
+      "name": "hween_r16_chandelier_64_a_2_0",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_a_0_0",
+      "x": 49,
+      "y": 263,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_b_2_0": {
+      "name": "hween_r16_chandelier_64_b_2_0",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_b_0_0",
+      "x": 79,
+      "y": 293,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_b_2_1": {
+      "name": "hween_r16_chandelier_64_b_2_1",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_b_0_1",
+      "x": 7,
+      "y": 211,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_c_2_0": {
+      "name": "hween_r16_chandelier_64_c_2_0",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_c_0_0",
+      "x": 77,
+      "y": 291,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_c_2_1": {
+      "name": "hween_r16_chandelier_64_c_2_1",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_c_0_1",
+      "x": 7,
+      "y": 211,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_d_2_0": {
+      "name": "hween_r16_chandelier_64_d_2_0",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_d_0_0",
+      "x": 49,
+      "y": 211,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_d_2_1": {
+      "name": "hween_r16_chandelier_64_d_2_1",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_d_0_1",
+      "x": 7,
+      "y": 211,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_e_2_0": {
+      "name": "hween_r16_chandelier_64_e_2_0",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_e_0_0",
+      "x": 49,
+      "y": 341,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_0": {
+      "name": "hween_r16_chandelier_64_f_2_0",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_0",
+      "x": 37,
+      "y": 189,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_1": {
+      "name": "hween_r16_chandelier_64_f_2_1",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_1",
+      "x": 50,
+      "y": 191,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_2": {
+      "name": "hween_r16_chandelier_64_f_2_2",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_2",
+      "x": 67,
+      "y": 196,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_3": {
+      "name": "hween_r16_chandelier_64_f_2_3",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_3",
+      "x": 75,
+      "y": 213,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_4": {
+      "name": "hween_r16_chandelier_64_f_2_4",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_4",
+      "x": 82,
+      "y": 233,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_5": {
+      "name": "hween_r16_chandelier_64_f_2_5",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_5",
+      "x": 84,
+      "y": 254,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_6": {
+      "name": "hween_r16_chandelier_64_f_2_6",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_6",
+      "x": 81,
+      "y": 274,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_7": {
+      "name": "hween_r16_chandelier_64_f_2_7",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_7",
+      "x": 71,
+      "y": 297,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_8": {
+      "name": "hween_r16_chandelier_64_f_2_8",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_8",
+      "x": 61,
+      "y": 319,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_9": {
+      "name": "hween_r16_chandelier_64_f_2_9",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_9",
+      "x": 50,
+      "y": 339,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_10": {
+      "name": "hween_r16_chandelier_64_f_2_10",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_10",
+      "x": 39,
+      "y": 366,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_f_2_11": {
+      "name": "hween_r16_chandelier_64_f_2_11",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_f_0_11",
+      "x": 7,
+      "y": 227,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_0": {
+      "name": "hween_r16_chandelier_64_g_2_0",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_0",
+      "x": -5,
+      "y": 138,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_1": {
+      "name": "hween_r16_chandelier_64_g_2_1",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_1",
+      "x": -1,
+      "y": 139,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_2": {
+      "name": "hween_r16_chandelier_64_g_2_2",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_2",
+      "x": -8,
+      "y": 145,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_3": {
+      "name": "hween_r16_chandelier_64_g_2_3",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_3",
+      "x": -19,
+      "y": 162,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_4": {
+      "name": "hween_r16_chandelier_64_g_2_4",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_4",
+      "x": -30,
+      "y": 182,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_5": {
+      "name": "hween_r16_chandelier_64_g_2_5",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_5",
+      "x": -40,
+      "y": 203,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_6": {
+      "name": "hween_r16_chandelier_64_g_2_6",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_6",
+      "x": -40,
+      "y": 223,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_7": {
+      "name": "hween_r16_chandelier_64_g_2_7",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_7",
+      "x": -28,
+      "y": 246,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_8": {
+      "name": "hween_r16_chandelier_64_g_2_8",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_8",
+      "x": -18,
+      "y": 268,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_9": {
+      "name": "hween_r16_chandelier_64_g_2_9",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_9",
+      "x": -8,
+      "y": 288,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_10": {
+      "name": "hween_r16_chandelier_64_g_2_10",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_10",
+      "x": 3,
+      "y": 315,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_g_2_11": {
+      "name": "hween_r16_chandelier_64_g_2_11",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_g_0_11",
+      "x": 7,
+      "y": 227,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_0": {
+      "name": "hween_r16_chandelier_64_h_2_0",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_0",
+      "x": 25,
+      "y": 138,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_1": {
+      "name": "hween_r16_chandelier_64_h_2_1",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_1",
+      "x": 39,
+      "y": 139,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_2": {
+      "name": "hween_r16_chandelier_64_h_2_2",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_2",
+      "x": 56,
+      "y": 145,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_3": {
+      "name": "hween_r16_chandelier_64_h_2_3",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_3",
+      "x": 64,
+      "y": 162,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_4": {
+      "name": "hween_r16_chandelier_64_h_2_4",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_4",
+      "x": 71,
+      "y": 182,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_5": {
+      "name": "hween_r16_chandelier_64_h_2_5",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_5",
+      "x": 73,
+      "y": 203,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_6": {
+      "name": "hween_r16_chandelier_64_h_2_6",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_6",
+      "x": 70,
+      "y": 223,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_7": {
+      "name": "hween_r16_chandelier_64_h_2_7",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_7",
+      "x": 60,
+      "y": 246,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_8": {
+      "name": "hween_r16_chandelier_64_h_2_8",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_8",
+      "x": 50,
+      "y": 268,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_9": {
+      "name": "hween_r16_chandelier_64_h_2_9",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_9",
+      "x": 39,
+      "y": 288,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_10": {
+      "name": "hween_r16_chandelier_64_h_2_10",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_10",
+      "x": 28,
+      "y": 315,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_h_2_11": {
+      "name": "hween_r16_chandelier_64_h_2_11",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_h_0_11",
+      "x": 7,
+      "y": 227,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_0": {
+      "name": "hween_r16_chandelier_64_i_2_0",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_0",
+      "x": -8,
+      "y": 189,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_1": {
+      "name": "hween_r16_chandelier_64_i_2_1",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_1",
+      "x": -12,
+      "y": 191,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_2": {
+      "name": "hween_r16_chandelier_64_i_2_2",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_2",
+      "x": -22,
+      "y": 196,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_3": {
+      "name": "hween_r16_chandelier_64_i_2_3",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_3",
+      "x": -33,
+      "y": 213,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_4": {
+      "name": "hween_r16_chandelier_64_i_2_4",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_4",
+      "x": -44,
+      "y": 233,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_5": {
+      "name": "hween_r16_chandelier_64_i_2_5",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_5",
+      "x": -54,
+      "y": 254,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_6": {
+      "name": "hween_r16_chandelier_64_i_2_6",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_6",
+      "x": -54,
+      "y": 274,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_7": {
+      "name": "hween_r16_chandelier_64_i_2_7",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_7",
+      "x": -42,
+      "y": 297,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_8": {
+      "name": "hween_r16_chandelier_64_i_2_8",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_8",
+      "x": -32,
+      "y": 319,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_9": {
+      "name": "hween_r16_chandelier_64_i_2_9",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_9",
+      "x": -22,
+      "y": 339,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_10": {
+      "name": "hween_r16_chandelier_64_i_2_10",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_10",
+      "x": -11,
+      "y": 366,
+      "exists": false
+    },
+    "hween_r16_chandelier_64_i_2_11": {
+      "name": "hween_r16_chandelier_64_i_2_11",
+      "flipH": 1,
+      "source": "hween_r16_chandelier_64_i_0_11",
+      "x": 7,
+      "y": 227,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.001
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 9,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  11,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  11,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  11,
+                  11
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  11
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  11
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY",
+          "z": 500
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "z": 500
+        },
+        {
+          "layerId": 4,
+          "z": 500
+        },
+        {
+          "layerId": 5,
+          "ink": "ADD",
+          "z": 500
+        },
+        {
+          "layerId": 6,
+          "ink": "ADD",
+          "z": 500
+        },
+        {
+          "layerId": 7,
+          "ink": "ADD",
+          "z": 500
+        },
+        {
+          "layerId": 8,
+          "ink": "ADD",
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween_r16_chandelier",
+    "visualization": "furniture_animated"
+  }
+}

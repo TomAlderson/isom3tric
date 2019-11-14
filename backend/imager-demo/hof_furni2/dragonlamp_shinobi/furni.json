@@ -1,0 +1,535 @@
+{
+  "assets": {
+    "dragonlamp_shinobi_32_sd_0_0": {
+      "name": "dragonlamp_shinobi_32_sd_0_0",
+      "x": 14,
+      "y": 1,
+      "exists": true
+    },
+    "dragonlamp_shinobi_32_a_0_0": {
+      "name": "dragonlamp_shinobi_32_a_0_0",
+      "x": 14,
+      "y": 30,
+      "exists": true
+    },
+    "dragonlamp_shinobi_32_a_0_1": {
+      "name": "dragonlamp_shinobi_32_a_0_1",
+      "x": 14,
+      "y": 33,
+      "exists": true
+    },
+    "dragonlamp_shinobi_32_b_0_0": {
+      "name": "dragonlamp_shinobi_32_b_0_0",
+      "x": 1,
+      "y": 30,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_b_0_1": {
+      "name": "dragonlamp_shinobi_32_b_0_1",
+      "x": 8,
+      "y": 55,
+      "exists": true
+    },
+    "dragonlamp_shinobi_32_b_0_2": {
+      "name": "dragonlamp_shinobi_32_b_0_2",
+      "x": 8,
+      "y": 51,
+      "exists": true
+    },
+    "dragonlamp_shinobi_32_b_0_3": {
+      "name": "dragonlamp_shinobi_32_b_0_3",
+      "x": 10,
+      "y": 53,
+      "exists": true
+    },
+    "dragonlamp_shinobi_32_b_0_4": {
+      "name": "dragonlamp_shinobi_32_b_0_4",
+      "x": 10,
+      "y": 54,
+      "exists": true
+    },
+    "dragonlamp_shinobi_32_b_0_5": {
+      "name": "dragonlamp_shinobi_32_b_0_5",
+      "x": 8,
+      "y": 55,
+      "exists": true
+    },
+    "dragonlamp_shinobi_32_b_0_6": {
+      "name": "dragonlamp_shinobi_32_b_0_6",
+      "x": 8,
+      "y": 51,
+      "exists": true
+    },
+    "dragonlamp_shinobi_32_b_0_7": {
+      "name": "dragonlamp_shinobi_32_b_0_7",
+      "x": 10,
+      "y": 53,
+      "exists": true
+    },
+    "dragonlamp_shinobi_32_b_0_8": {
+      "name": "dragonlamp_shinobi_32_b_0_8",
+      "x": 10,
+      "y": 54,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_sd_0_0": {
+      "name": "dragonlamp_shinobi_64_sd_0_0",
+      "x": 29,
+      "y": 3,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_a_0_0": {
+      "name": "dragonlamp_shinobi_64_a_0_0",
+      "x": 28,
+      "y": 60,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_a_0_1": {
+      "name": "dragonlamp_shinobi_64_a_0_1",
+      "x": 28,
+      "y": 69,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_b_0_0": {
+      "name": "dragonlamp_shinobi_64_b_0_0",
+      "x": 1,
+      "y": 60,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_b_0_1": {
+      "name": "dragonlamp_shinobi_64_b_0_1",
+      "x": 17,
+      "y": 109,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_b_0_2": {
+      "name": "dragonlamp_shinobi_64_b_0_2",
+      "x": 18,
+      "y": 104,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_b_0_3": {
+      "name": "dragonlamp_shinobi_64_b_0_3",
+      "x": 20,
+      "y": 106,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_b_0_4": {
+      "name": "dragonlamp_shinobi_64_b_0_4",
+      "x": 21,
+      "y": 108,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_b_0_5": {
+      "name": "dragonlamp_shinobi_64_b_0_5",
+      "x": 17,
+      "y": 109,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_b_0_6": {
+      "name": "dragonlamp_shinobi_64_b_0_6",
+      "x": 18,
+      "y": 104,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_b_0_7": {
+      "name": "dragonlamp_shinobi_64_b_0_7",
+      "x": 20,
+      "y": 106,
+      "exists": true
+    },
+    "dragonlamp_shinobi_64_b_0_8": {
+      "name": "dragonlamp_shinobi_64_b_0_8",
+      "x": 21,
+      "y": 108,
+      "exists": true
+    },
+    "dragonlamp_shinobi_icon_a": {
+      "name": "dragonlamp_shinobi_icon_a",
+      "x": 12,
+      "y": 27,
+      "exists": true
+    },
+    "dragonlamp_shinobi_32_sd_2_0": {
+      "name": "dragonlamp_shinobi_32_sd_2_0",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_sd_0_0",
+      "x": 14,
+      "y": 1,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_a_2_0": {
+      "name": "dragonlamp_shinobi_32_a_2_0",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_a_0_0",
+      "x": 14,
+      "y": 30,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_a_2_1": {
+      "name": "dragonlamp_shinobi_32_a_2_1",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_a_0_1",
+      "x": 14,
+      "y": 33,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_b_2_0": {
+      "name": "dragonlamp_shinobi_32_b_2_0",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_b_0_0",
+      "x": 1,
+      "y": 30,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_b_2_1": {
+      "name": "dragonlamp_shinobi_32_b_2_1",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_b_0_1",
+      "x": 8,
+      "y": 55,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_b_2_2": {
+      "name": "dragonlamp_shinobi_32_b_2_2",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_b_0_2",
+      "x": 8,
+      "y": 51,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_b_2_3": {
+      "name": "dragonlamp_shinobi_32_b_2_3",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_b_0_3",
+      "x": 10,
+      "y": 53,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_b_2_4": {
+      "name": "dragonlamp_shinobi_32_b_2_4",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_b_0_4",
+      "x": 10,
+      "y": 54,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_b_2_5": {
+      "name": "dragonlamp_shinobi_32_b_2_5",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_b_0_5",
+      "x": 8,
+      "y": 55,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_b_2_6": {
+      "name": "dragonlamp_shinobi_32_b_2_6",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_b_0_6",
+      "x": 8,
+      "y": 51,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_b_2_7": {
+      "name": "dragonlamp_shinobi_32_b_2_7",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_b_0_7",
+      "x": 10,
+      "y": 53,
+      "exists": false
+    },
+    "dragonlamp_shinobi_32_b_2_8": {
+      "name": "dragonlamp_shinobi_32_b_2_8",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_32_b_0_8",
+      "x": 10,
+      "y": 54,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_sd_2_0": {
+      "name": "dragonlamp_shinobi_64_sd_2_0",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_sd_0_0",
+      "x": 29,
+      "y": 3,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_a_2_0": {
+      "name": "dragonlamp_shinobi_64_a_2_0",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_a_0_0",
+      "x": 28,
+      "y": 60,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_a_2_1": {
+      "name": "dragonlamp_shinobi_64_a_2_1",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_a_0_1",
+      "x": 28,
+      "y": 69,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_b_2_0": {
+      "name": "dragonlamp_shinobi_64_b_2_0",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_b_0_0",
+      "x": 1,
+      "y": 60,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_b_2_1": {
+      "name": "dragonlamp_shinobi_64_b_2_1",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_b_0_1",
+      "x": 17,
+      "y": 109,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_b_2_2": {
+      "name": "dragonlamp_shinobi_64_b_2_2",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_b_0_2",
+      "x": 18,
+      "y": 104,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_b_2_3": {
+      "name": "dragonlamp_shinobi_64_b_2_3",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_b_0_3",
+      "x": 20,
+      "y": 106,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_b_2_4": {
+      "name": "dragonlamp_shinobi_64_b_2_4",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_b_0_4",
+      "x": 21,
+      "y": 108,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_b_2_5": {
+      "name": "dragonlamp_shinobi_64_b_2_5",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_b_0_5",
+      "x": 17,
+      "y": 109,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_b_2_6": {
+      "name": "dragonlamp_shinobi_64_b_2_6",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_b_0_6",
+      "x": 18,
+      "y": 104,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_b_2_7": {
+      "name": "dragonlamp_shinobi_64_b_2_7",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_b_0_7",
+      "x": 20,
+      "y": 106,
+      "exists": false
+    },
+    "dragonlamp_shinobi_64_b_2_8": {
+      "name": "dragonlamp_shinobi_64_b_2_8",
+      "flipH": 1,
+      "source": "dragonlamp_shinobi_64_b_0_8",
+      "x": 21,
+      "y": 108,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "z": 100
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "alpha": 255,
+          "z": 100
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "dragonlamp_shinobi",
+    "visualization": "furniture_animated"
+  }
+}

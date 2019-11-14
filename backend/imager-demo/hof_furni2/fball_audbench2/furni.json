@@ -1,0 +1,676 @@
+{
+  "assets": {
+    "fball_audbench2_32_sd_2_0": {
+      "name": "fball_audbench2_32_sd_2_0",
+      "x": 61,
+      "y": 7,
+      "exists": true
+    },
+    "fball_audbench2_32_a_2_0": {
+      "name": "fball_audbench2_32_a_2_0",
+      "x": 15,
+      "y": 38,
+      "exists": true
+    },
+    "fball_audbench2_32_a_2_1": {
+      "name": "fball_audbench2_32_a_2_1",
+      "x": 15,
+      "y": 48,
+      "exists": true
+    },
+    "fball_audbench2_32_a_2_2": {
+      "name": "fball_audbench2_32_a_2_2",
+      "x": 15,
+      "y": 58,
+      "exists": true
+    },
+    "fball_audbench2_32_b_2_0": {
+      "name": "fball_audbench2_32_b_2_0",
+      "x": 31,
+      "y": 28,
+      "exists": true
+    },
+    "fball_audbench2_32_b_2_1": {
+      "name": "fball_audbench2_32_b_2_1",
+      "x": 31,
+      "y": 38,
+      "exists": true
+    },
+    "fball_audbench2_32_b_2_2": {
+      "name": "fball_audbench2_32_b_2_2",
+      "x": 31,
+      "y": 48,
+      "exists": true
+    },
+    "fball_audbench2_32_c_2_0": {
+      "name": "fball_audbench2_32_c_2_0",
+      "x": 45,
+      "y": 20,
+      "exists": true
+    },
+    "fball_audbench2_32_c_2_1": {
+      "name": "fball_audbench2_32_c_2_1",
+      "x": 45,
+      "y": 30,
+      "exists": true
+    },
+    "fball_audbench2_32_c_2_2": {
+      "name": "fball_audbench2_32_c_2_2",
+      "x": 45,
+      "y": 40,
+      "exists": true
+    },
+    "fball_audbench2_32_d_2_0": {
+      "name": "fball_audbench2_32_d_2_0",
+      "x": 67,
+      "y": 13,
+      "exists": true
+    },
+    "fball_audbench2_32_d_2_1": {
+      "name": "fball_audbench2_32_d_2_1",
+      "x": 67,
+      "y": 23,
+      "exists": true
+    },
+    "fball_audbench2_32_d_2_2": {
+      "name": "fball_audbench2_32_d_2_2",
+      "x": 67,
+      "y": 33,
+      "exists": true
+    },
+    "fball_audbench2_64_sd_2_0": {
+      "name": "fball_audbench2_64_sd_2_0",
+      "x": 130,
+      "y": 14,
+      "exists": true
+    },
+    "fball_audbench2_64_a_2_0": {
+      "name": "fball_audbench2_64_a_2_0",
+      "x": 34,
+      "y": 73,
+      "exists": true
+    },
+    "fball_audbench2_64_a_2_1": {
+      "name": "fball_audbench2_64_a_2_1",
+      "x": 34,
+      "y": 93,
+      "exists": true
+    },
+    "fball_audbench2_64_a_2_2": {
+      "name": "fball_audbench2_64_a_2_2",
+      "x": 34,
+      "y": 113,
+      "exists": true
+    },
+    "fball_audbench2_64_b_2_0": {
+      "name": "fball_audbench2_64_b_2_0",
+      "x": 66,
+      "y": 52,
+      "exists": true
+    },
+    "fball_audbench2_64_b_2_1": {
+      "name": "fball_audbench2_64_b_2_1",
+      "x": 66,
+      "y": 72,
+      "exists": true
+    },
+    "fball_audbench2_64_b_2_2": {
+      "name": "fball_audbench2_64_b_2_2",
+      "x": 66,
+      "y": 92,
+      "exists": true
+    },
+    "fball_audbench2_64_c_2_0": {
+      "name": "fball_audbench2_64_c_2_0",
+      "x": 98,
+      "y": 36,
+      "exists": true
+    },
+    "fball_audbench2_64_c_2_1": {
+      "name": "fball_audbench2_64_c_2_1",
+      "x": 98,
+      "y": 56,
+      "exists": true
+    },
+    "fball_audbench2_64_c_2_2": {
+      "name": "fball_audbench2_64_c_2_2",
+      "x": 98,
+      "y": 76,
+      "exists": true
+    },
+    "fball_audbench2_64_d_2_0": {
+      "name": "fball_audbench2_64_d_2_0",
+      "x": 135,
+      "y": 20,
+      "exists": true
+    },
+    "fball_audbench2_64_d_2_1": {
+      "name": "fball_audbench2_64_d_2_1",
+      "x": 135,
+      "y": 40,
+      "exists": true
+    },
+    "fball_audbench2_64_d_2_2": {
+      "name": "fball_audbench2_64_d_2_2",
+      "x": 135,
+      "y": 60,
+      "exists": true
+    },
+    "fball_audbench2_icon_a": {
+      "name": "fball_audbench2_icon_a",
+      "x": 13,
+      "y": 13,
+      "exists": true
+    },
+    "fball_audbench2_32_sd_4_0": {
+      "name": "fball_audbench2_32_sd_4_0",
+      "flipH": 1,
+      "source": "fball_audbench2_32_sd_2_0",
+      "x": 61,
+      "y": 7,
+      "exists": false
+    },
+    "fball_audbench2_32_a_4_0": {
+      "name": "fball_audbench2_32_a_4_0",
+      "flipH": 1,
+      "source": "fball_audbench2_32_a_2_0",
+      "x": 15,
+      "y": 38,
+      "exists": false
+    },
+    "fball_audbench2_32_a_4_1": {
+      "name": "fball_audbench2_32_a_4_1",
+      "flipH": 1,
+      "source": "fball_audbench2_32_a_2_1",
+      "x": 15,
+      "y": 48,
+      "exists": false
+    },
+    "fball_audbench2_32_a_4_2": {
+      "name": "fball_audbench2_32_a_4_2",
+      "flipH": 1,
+      "source": "fball_audbench2_32_a_2_2",
+      "x": 15,
+      "y": 58,
+      "exists": false
+    },
+    "fball_audbench2_32_b_4_0": {
+      "name": "fball_audbench2_32_b_4_0",
+      "flipH": 1,
+      "source": "fball_audbench2_32_b_2_0",
+      "x": 31,
+      "y": 28,
+      "exists": false
+    },
+    "fball_audbench2_32_b_4_1": {
+      "name": "fball_audbench2_32_b_4_1",
+      "flipH": 1,
+      "source": "fball_audbench2_32_b_2_1",
+      "x": 31,
+      "y": 38,
+      "exists": false
+    },
+    "fball_audbench2_32_b_4_2": {
+      "name": "fball_audbench2_32_b_4_2",
+      "flipH": 1,
+      "source": "fball_audbench2_32_b_2_2",
+      "x": 31,
+      "y": 48,
+      "exists": false
+    },
+    "fball_audbench2_32_c_4_0": {
+      "name": "fball_audbench2_32_c_4_0",
+      "flipH": 1,
+      "source": "fball_audbench2_32_c_2_0",
+      "x": 45,
+      "y": 20,
+      "exists": false
+    },
+    "fball_audbench2_32_c_4_1": {
+      "name": "fball_audbench2_32_c_4_1",
+      "flipH": 1,
+      "source": "fball_audbench2_32_c_2_1",
+      "x": 45,
+      "y": 30,
+      "exists": false
+    },
+    "fball_audbench2_32_c_4_2": {
+      "name": "fball_audbench2_32_c_4_2",
+      "flipH": 1,
+      "source": "fball_audbench2_32_c_2_2",
+      "x": 45,
+      "y": 40,
+      "exists": false
+    },
+    "fball_audbench2_32_d_4_0": {
+      "name": "fball_audbench2_32_d_4_0",
+      "flipH": 1,
+      "source": "fball_audbench2_32_d_2_0",
+      "x": 67,
+      "y": 13,
+      "exists": false
+    },
+    "fball_audbench2_32_d_4_1": {
+      "name": "fball_audbench2_32_d_4_1",
+      "flipH": 1,
+      "source": "fball_audbench2_32_d_2_1",
+      "x": 67,
+      "y": 23,
+      "exists": false
+    },
+    "fball_audbench2_32_d_4_2": {
+      "name": "fball_audbench2_32_d_4_2",
+      "flipH": 1,
+      "source": "fball_audbench2_32_d_2_2",
+      "x": 67,
+      "y": 33,
+      "exists": false
+    },
+    "fball_audbench2_64_sd_4_0": {
+      "name": "fball_audbench2_64_sd_4_0",
+      "flipH": 1,
+      "source": "fball_audbench2_64_sd_2_0",
+      "x": 130,
+      "y": 14,
+      "exists": false
+    },
+    "fball_audbench2_64_a_4_0": {
+      "name": "fball_audbench2_64_a_4_0",
+      "flipH": 1,
+      "source": "fball_audbench2_64_a_2_0",
+      "x": 34,
+      "y": 73,
+      "exists": false
+    },
+    "fball_audbench2_64_a_4_1": {
+      "name": "fball_audbench2_64_a_4_1",
+      "flipH": 1,
+      "source": "fball_audbench2_64_a_2_1",
+      "x": 34,
+      "y": 93,
+      "exists": false
+    },
+    "fball_audbench2_64_a_4_2": {
+      "name": "fball_audbench2_64_a_4_2",
+      "flipH": 1,
+      "source": "fball_audbench2_64_a_2_2",
+      "x": 34,
+      "y": 113,
+      "exists": false
+    },
+    "fball_audbench2_64_b_4_0": {
+      "name": "fball_audbench2_64_b_4_0",
+      "flipH": 1,
+      "source": "fball_audbench2_64_b_2_0",
+      "x": 66,
+      "y": 52,
+      "exists": false
+    },
+    "fball_audbench2_64_b_4_1": {
+      "name": "fball_audbench2_64_b_4_1",
+      "flipH": 1,
+      "source": "fball_audbench2_64_b_2_1",
+      "x": 66,
+      "y": 72,
+      "exists": false
+    },
+    "fball_audbench2_64_b_4_2": {
+      "name": "fball_audbench2_64_b_4_2",
+      "flipH": 1,
+      "source": "fball_audbench2_64_b_2_2",
+      "x": 66,
+      "y": 92,
+      "exists": false
+    },
+    "fball_audbench2_64_c_4_0": {
+      "name": "fball_audbench2_64_c_4_0",
+      "flipH": 1,
+      "source": "fball_audbench2_64_c_2_0",
+      "x": 98,
+      "y": 36,
+      "exists": false
+    },
+    "fball_audbench2_64_c_4_1": {
+      "name": "fball_audbench2_64_c_4_1",
+      "flipH": 1,
+      "source": "fball_audbench2_64_c_2_1",
+      "x": 98,
+      "y": 56,
+      "exists": false
+    },
+    "fball_audbench2_64_c_4_2": {
+      "name": "fball_audbench2_64_c_4_2",
+      "flipH": 1,
+      "source": "fball_audbench2_64_c_2_2",
+      "x": 98,
+      "y": 76,
+      "exists": false
+    },
+    "fball_audbench2_64_d_4_0": {
+      "name": "fball_audbench2_64_d_4_0",
+      "flipH": 1,
+      "source": "fball_audbench2_64_d_2_0",
+      "x": 135,
+      "y": 20,
+      "exists": false
+    },
+    "fball_audbench2_64_d_4_1": {
+      "name": "fball_audbench2_64_d_4_1",
+      "flipH": 1,
+      "source": "fball_audbench2_64_d_2_1",
+      "x": 135,
+      "y": 40,
+      "exists": false
+    },
+    "fball_audbench2_64_d_4_2": {
+      "name": "fball_audbench2_64_d_4_2",
+      "flipH": 1,
+      "source": "fball_audbench2_64_d_2_2",
+      "x": 135,
+      "y": 60,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 4,
+      "y": 1,
+      "z": 1.4
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 900
+        },
+        {
+          "layerId": 2,
+          "z": 1900
+        },
+        {
+          "layerId": 3,
+          "z": 2900
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 900
+        },
+        {
+          "layerId": 2,
+          "z": 1900
+        },
+        {
+          "layerId": 3,
+          "z": 2900
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "fball_audbench2",
+    "visualization": "furniture_animated"
+  }
+}

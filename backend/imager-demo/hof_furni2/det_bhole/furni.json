@@ -1,0 +1,445 @@
+{
+  "assets": {
+    "det_bhole_icon_a": {
+      "name": "det_bhole_icon_a",
+      "x": 5,
+      "y": 6,
+      "exists": true
+    },
+    "det_bhole_64_a_2_0": {
+      "name": "det_bhole_64_a_2_0",
+      "x": 9,
+      "y": 10,
+      "exists": true
+    },
+    "det_bhole_64_a_2_1": {
+      "name": "det_bhole_64_a_2_1",
+      "x": 12,
+      "y": 14,
+      "exists": true
+    },
+    "det_bhole_64_a_2_2": {
+      "name": "det_bhole_64_a_2_2",
+      "x": 9,
+      "y": 10,
+      "exists": true
+    },
+    "det_bhole_64_b_2_0": {
+      "name": "det_bhole_64_b_2_0",
+      "x": 1,
+      "y": 0,
+      "exists": false
+    },
+    "det_bhole_64_b_2_1": {
+      "name": "det_bhole_64_b_2_1",
+      "x": -2,
+      "y": -2,
+      "exists": false
+    },
+    "det_bhole_64_b_2_2": {
+      "name": "det_bhole_64_b_2_2",
+      "x": -3,
+      "y": -2,
+      "exists": false
+    },
+    "det_bhole_64_c_2_0": {
+      "name": "det_bhole_64_c_2_0",
+      "x": 1,
+      "y": 2,
+      "exists": false
+    },
+    "det_bhole_64_c_2_1": {
+      "name": "det_bhole_64_c_2_1",
+      "x": -2,
+      "y": 0,
+      "exists": true
+    },
+    "det_bhole_64_c_2_2": {
+      "name": "det_bhole_64_c_2_2",
+      "x": -3,
+      "y": 0,
+      "exists": false
+    },
+    "det_bhole_64_a_4_0": {
+      "name": "det_bhole_64_a_4_0",
+      "flipH": 1,
+      "source": "det_bhole_64_a_2_0",
+      "x": 9,
+      "y": 10,
+      "exists": false
+    },
+    "det_bhole_64_a_4_1": {
+      "name": "det_bhole_64_a_4_1",
+      "flipH": 1,
+      "source": "det_bhole_64_a_2_1",
+      "x": 12,
+      "y": 14,
+      "exists": false
+    },
+    "det_bhole_64_a_4_2": {
+      "name": "det_bhole_64_a_4_2",
+      "flipH": 1,
+      "source": "det_bhole_64_a_2_2",
+      "x": 9,
+      "y": 10,
+      "exists": false
+    },
+    "det_bhole_64_b_4_0": {
+      "name": "det_bhole_64_b_4_0",
+      "flipH": 1,
+      "source": "det_bhole_64_b_2_0",
+      "x": 1,
+      "y": 0,
+      "exists": false
+    },
+    "det_bhole_64_b_4_1": {
+      "name": "det_bhole_64_b_4_1",
+      "flipH": 1,
+      "source": "det_bhole_64_b_2_1",
+      "x": -2,
+      "y": -2,
+      "exists": false
+    },
+    "det_bhole_64_b_4_2": {
+      "name": "det_bhole_64_b_4_2",
+      "flipH": 1,
+      "source": "det_bhole_64_b_2_2",
+      "x": -3,
+      "y": -2,
+      "exists": false
+    },
+    "det_bhole_64_c_4_0": {
+      "name": "det_bhole_64_c_4_0",
+      "flipH": 1,
+      "source": "det_bhole_64_c_2_0",
+      "x": 1,
+      "y": 2,
+      "exists": false
+    },
+    "det_bhole_64_c_4_1": {
+      "name": "det_bhole_64_c_4_1",
+      "flipH": 1,
+      "source": "det_bhole_64_c_2_1",
+      "x": -2,
+      "y": 0,
+      "exists": false
+    },
+    "det_bhole_64_c_4_2": {
+      "name": "det_bhole_64_c_4_2",
+      "flipH": 1,
+      "source": "det_bhole_64_c_2_2",
+      "x": -3,
+      "y": 0,
+      "exists": false
+    },
+    "det_bhole_32_a_2_0": {
+      "name": "det_bhole_32_a_2_0",
+      "x": 5,
+      "y": 6,
+      "exists": true
+    },
+    "det_bhole_32_a_2_1": {
+      "name": "det_bhole_32_a_2_1",
+      "x": 6,
+      "y": 6,
+      "exists": true
+    },
+    "det_bhole_32_a_2_2": {
+      "name": "det_bhole_32_a_2_2",
+      "x": 5,
+      "y": 7,
+      "exists": true
+    },
+    "det_bhole_32_b_2_0": {
+      "name": "det_bhole_32_b_2_0",
+      "x": 1,
+      "y": 0,
+      "exists": false
+    },
+    "det_bhole_32_b_2_1": {
+      "name": "det_bhole_32_b_2_1",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "det_bhole_32_b_2_2": {
+      "name": "det_bhole_32_b_2_2",
+      "x": -1,
+      "y": -1,
+      "exists": true
+    },
+    "det_bhole_32_a_4_0": {
+      "name": "det_bhole_32_a_4_0",
+      "flipH": 1,
+      "source": "det_bhole_32_a_2_0",
+      "x": 5,
+      "y": 6,
+      "exists": false
+    },
+    "det_bhole_32_a_4_1": {
+      "name": "det_bhole_32_a_4_1",
+      "flipH": 1,
+      "source": "det_bhole_32_a_2_1",
+      "x": 6,
+      "y": 6,
+      "exists": false
+    },
+    "det_bhole_32_a_4_2": {
+      "name": "det_bhole_32_a_4_2",
+      "flipH": 1,
+      "source": "det_bhole_32_a_2_2",
+      "x": 5,
+      "y": 7,
+      "exists": false
+    },
+    "det_bhole_32_b_4_0": {
+      "name": "det_bhole_32_b_4_0",
+      "flipH": 1,
+      "source": "det_bhole_32_b_2_0",
+      "x": 1,
+      "y": 0,
+      "exists": false
+    },
+    "det_bhole_32_b_4_1": {
+      "name": "det_bhole_32_b_4_1",
+      "flipH": 1,
+      "source": "det_bhole_32_b_2_1",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "det_bhole_32_b_4_2": {
+      "name": "det_bhole_32_b_4_2",
+      "flipH": 1,
+      "source": "det_bhole_32_b_2_2",
+      "x": -1,
+      "y": -1,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 0.4063,
+      "y": 0.2,
+      "z": 0.4375
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "alpha": 102,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "alpha": 102,
+          "z": -3000
+        },
+        {
+          "layerId": 1,
+          "z": -3000
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "det_bhole",
+    "visualization": "furniture_animated"
+  }
+}

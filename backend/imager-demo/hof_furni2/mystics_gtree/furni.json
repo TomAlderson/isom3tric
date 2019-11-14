@@ -1,0 +1,281 @@
+{
+  "assets": {
+    "mystics_gtree_64_a_0_0": {
+      "name": "mystics_gtree_64_a_0_0",
+      "x": 75,
+      "y": 145,
+      "exists": true
+    },
+    "mystics_gtree_64_b_0_0": {
+      "name": "mystics_gtree_64_b_0_0",
+      "x": 0,
+      "y": -2,
+      "exists": true
+    },
+    "mystics_gtree_64_b_0_1": {
+      "name": "mystics_gtree_64_b_0_1",
+      "x": 65,
+      "y": 132,
+      "exists": true
+    },
+    "mystics_gtree_32_a_0_0": {
+      "name": "mystics_gtree_32_a_0_0",
+      "x": 39,
+      "y": 74,
+      "exists": true
+    },
+    "mystics_gtree_32_b_0_0": {
+      "name": "mystics_gtree_32_b_0_0",
+      "x": 2,
+      "y": 1,
+      "exists": false
+    },
+    "mystics_gtree_32_b_0_1": {
+      "name": "mystics_gtree_32_b_0_1",
+      "x": 36,
+      "y": 70,
+      "exists": true
+    },
+    "mystics_gtree_icon_a": {
+      "name": "mystics_gtree_icon_a",
+      "x": 11,
+      "y": 14,
+      "exists": true
+    },
+    "mystics_gtree_64_a_2_0": {
+      "name": "mystics_gtree_64_a_2_0",
+      "flipH": 1,
+      "source": "mystics_gtree_64_a_0_0",
+      "x": 75,
+      "y": 145,
+      "exists": false
+    },
+    "mystics_gtree_64_b_2_0": {
+      "name": "mystics_gtree_64_b_2_0",
+      "flipH": 1,
+      "source": "mystics_gtree_64_b_0_0",
+      "x": 0,
+      "y": -2,
+      "exists": false
+    },
+    "mystics_gtree_64_b_2_1": {
+      "name": "mystics_gtree_64_b_2_1",
+      "flipH": 1,
+      "source": "mystics_gtree_64_b_0_1",
+      "x": 65,
+      "y": 132,
+      "exists": false
+    },
+    "mystics_gtree_32_a_2_0": {
+      "name": "mystics_gtree_32_a_2_0",
+      "flipH": 1,
+      "source": "mystics_gtree_32_a_0_0",
+      "x": 39,
+      "y": 74,
+      "exists": false
+    },
+    "mystics_gtree_32_b_2_0": {
+      "name": "mystics_gtree_32_b_2_0",
+      "flipH": 1,
+      "source": "mystics_gtree_32_b_0_0",
+      "x": 2,
+      "y": 1,
+      "exists": false
+    },
+    "mystics_gtree_32_b_2_1": {
+      "name": "mystics_gtree_32_b_2_1",
+      "flipH": 1,
+      "source": "mystics_gtree_32_b_0_1",
+      "x": 36,
+      "y": 70,
+      "exists": false
+    },
+    "mystics_gtree_32_sd_0_0": {
+      "name": "mystics_gtree_32_sd_0_0",
+      "x": 23,
+      "y": 7,
+      "exists": true
+    },
+    "mystics_gtree_64_sd_0_0": {
+      "name": "mystics_gtree_64_sd_0_0",
+      "x": 48,
+      "y": 13,
+      "exists": true
+    },
+    "mystics_gtree_32_sd_2_0": {
+      "name": "mystics_gtree_32_sd_2_0",
+      "flipH": 1,
+      "source": "mystics_gtree_32_sd_0_0",
+      "x": 23,
+      "y": 7,
+      "exists": false
+    },
+    "mystics_gtree_64_sd_2_0": {
+      "name": "mystics_gtree_64_sd_2_0",
+      "flipH": 1,
+      "source": "mystics_gtree_64_sd_0_0",
+      "x": 48,
+      "y": 13,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 2.5
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "mystics_gtree",
+    "visualization": "furniture_animated"
+  }
+}

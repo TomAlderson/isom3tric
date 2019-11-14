@@ -1,0 +1,542 @@
+{
+  "assets": {
+    "bathroom_shampoo_icon_a": {
+      "name": "bathroom_shampoo_icon_a",
+      "x": 8,
+      "y": 9,
+      "exists": true
+    },
+    "bathroom_shampoo_32_a_0_0": {
+      "name": "bathroom_shampoo_32_a_0_0",
+      "x": 8,
+      "y": 14,
+      "exists": false
+    },
+    "bathroom_shampoo_32_a_0_1": {
+      "name": "bathroom_shampoo_32_a_0_1",
+      "x": 10,
+      "y": 17,
+      "exists": true
+    },
+    "bathroom_shampoo_32_a_0_2": {
+      "name": "bathroom_shampoo_32_a_0_2",
+      "x": 12,
+      "y": 15,
+      "exists": true
+    },
+    "bathroom_shampoo_32_a_0_3": {
+      "name": "bathroom_shampoo_32_a_0_3",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    },
+    "bathroom_shampoo_32_a_0_4": {
+      "name": "bathroom_shampoo_32_a_0_4",
+      "x": 10,
+      "y": 17,
+      "exists": true
+    },
+    "bathroom_shampoo_32_a_0_5": {
+      "name": "bathroom_shampoo_32_a_0_5",
+      "x": 12,
+      "y": 15,
+      "exists": true
+    },
+    "bathroom_shampoo_32_a_0_6": {
+      "name": "bathroom_shampoo_32_a_0_6",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    },
+    "bathroom_shampoo_32_a_0_7": {
+      "name": "bathroom_shampoo_32_a_0_7",
+      "x": 10,
+      "y": 17,
+      "exists": true
+    },
+    "bathroom_shampoo_32_a_0_8": {
+      "name": "bathroom_shampoo_32_a_0_8",
+      "x": 12,
+      "y": 15,
+      "exists": true
+    },
+    "bathroom_shampoo_64_a_0_0": {
+      "name": "bathroom_shampoo_64_a_0_0",
+      "x": 19,
+      "y": 27,
+      "exists": true
+    },
+    "bathroom_shampoo_64_a_0_1": {
+      "name": "bathroom_shampoo_64_a_0_1",
+      "x": 21,
+      "y": 32,
+      "exists": true
+    },
+    "bathroom_shampoo_64_a_0_2": {
+      "name": "bathroom_shampoo_64_a_0_2",
+      "x": 24,
+      "y": 29,
+      "exists": true
+    },
+    "bathroom_shampoo_64_a_0_3": {
+      "name": "bathroom_shampoo_64_a_0_3",
+      "x": 19,
+      "y": 27,
+      "exists": true
+    },
+    "bathroom_shampoo_64_a_0_4": {
+      "name": "bathroom_shampoo_64_a_0_4",
+      "x": 21,
+      "y": 32,
+      "exists": true
+    },
+    "bathroom_shampoo_64_a_0_5": {
+      "name": "bathroom_shampoo_64_a_0_5",
+      "x": 24,
+      "y": 29,
+      "exists": true
+    },
+    "bathroom_shampoo_64_a_0_6": {
+      "name": "bathroom_shampoo_64_a_0_6",
+      "x": 19,
+      "y": 27,
+      "exists": true
+    },
+    "bathroom_shampoo_64_a_0_7": {
+      "name": "bathroom_shampoo_64_a_0_7",
+      "x": 21,
+      "y": 32,
+      "exists": true
+    },
+    "bathroom_shampoo_64_a_0_8": {
+      "name": "bathroom_shampoo_64_a_0_8",
+      "x": 24,
+      "y": 29,
+      "exists": true
+    },
+    "bathroom_shampoo_32_a_2_0": {
+      "name": "bathroom_shampoo_32_a_2_0",
+      "flipH": 1,
+      "source": "bathroom_shampoo_32_a_0_0",
+      "x": 8,
+      "y": 14,
+      "exists": false
+    },
+    "bathroom_shampoo_32_a_2_1": {
+      "name": "bathroom_shampoo_32_a_2_1",
+      "flipH": 1,
+      "source": "bathroom_shampoo_32_a_0_1",
+      "x": 10,
+      "y": 17,
+      "exists": false
+    },
+    "bathroom_shampoo_32_a_2_2": {
+      "name": "bathroom_shampoo_32_a_2_2",
+      "flipH": 1,
+      "source": "bathroom_shampoo_32_a_0_2",
+      "x": 12,
+      "y": 15,
+      "exists": false
+    },
+    "bathroom_shampoo_32_a_2_3": {
+      "name": "bathroom_shampoo_32_a_2_3",
+      "flipH": 1,
+      "source": "bathroom_shampoo_32_a_0_3",
+      "x": 8,
+      "y": 14,
+      "exists": false
+    },
+    "bathroom_shampoo_32_a_2_4": {
+      "name": "bathroom_shampoo_32_a_2_4",
+      "flipH": 1,
+      "source": "bathroom_shampoo_32_a_0_4",
+      "x": 10,
+      "y": 17,
+      "exists": false
+    },
+    "bathroom_shampoo_32_a_2_5": {
+      "name": "bathroom_shampoo_32_a_2_5",
+      "flipH": 1,
+      "source": "bathroom_shampoo_32_a_0_5",
+      "x": 12,
+      "y": 15,
+      "exists": false
+    },
+    "bathroom_shampoo_32_a_2_6": {
+      "name": "bathroom_shampoo_32_a_2_6",
+      "flipH": 1,
+      "source": "bathroom_shampoo_32_a_0_6",
+      "x": 8,
+      "y": 14,
+      "exists": false
+    },
+    "bathroom_shampoo_32_a_2_7": {
+      "name": "bathroom_shampoo_32_a_2_7",
+      "flipH": 1,
+      "source": "bathroom_shampoo_32_a_0_7",
+      "x": 10,
+      "y": 17,
+      "exists": false
+    },
+    "bathroom_shampoo_32_a_2_8": {
+      "name": "bathroom_shampoo_32_a_2_8",
+      "flipH": 1,
+      "source": "bathroom_shampoo_32_a_0_8",
+      "x": 12,
+      "y": 15,
+      "exists": false
+    },
+    "bathroom_shampoo_64_a_2_0": {
+      "name": "bathroom_shampoo_64_a_2_0",
+      "flipH": 1,
+      "source": "bathroom_shampoo_64_a_0_0",
+      "x": 19,
+      "y": 27,
+      "exists": false
+    },
+    "bathroom_shampoo_64_a_2_1": {
+      "name": "bathroom_shampoo_64_a_2_1",
+      "flipH": 1,
+      "source": "bathroom_shampoo_64_a_0_1",
+      "x": 21,
+      "y": 32,
+      "exists": false
+    },
+    "bathroom_shampoo_64_a_2_2": {
+      "name": "bathroom_shampoo_64_a_2_2",
+      "flipH": 1,
+      "source": "bathroom_shampoo_64_a_0_2",
+      "x": 24,
+      "y": 29,
+      "exists": false
+    },
+    "bathroom_shampoo_64_a_2_3": {
+      "name": "bathroom_shampoo_64_a_2_3",
+      "flipH": 1,
+      "source": "bathroom_shampoo_64_a_0_3",
+      "x": 19,
+      "y": 27,
+      "exists": false
+    },
+    "bathroom_shampoo_64_a_2_4": {
+      "name": "bathroom_shampoo_64_a_2_4",
+      "flipH": 1,
+      "source": "bathroom_shampoo_64_a_0_4",
+      "x": 21,
+      "y": 32,
+      "exists": false
+    },
+    "bathroom_shampoo_64_a_2_5": {
+      "name": "bathroom_shampoo_64_a_2_5",
+      "flipH": 1,
+      "source": "bathroom_shampoo_64_a_0_5",
+      "x": 24,
+      "y": 29,
+      "exists": false
+    },
+    "bathroom_shampoo_64_a_2_6": {
+      "name": "bathroom_shampoo_64_a_2_6",
+      "flipH": 1,
+      "source": "bathroom_shampoo_64_a_0_6",
+      "x": 19,
+      "y": 27,
+      "exists": false
+    },
+    "bathroom_shampoo_64_a_2_7": {
+      "name": "bathroom_shampoo_64_a_2_7",
+      "flipH": 1,
+      "source": "bathroom_shampoo_64_a_0_7",
+      "x": 21,
+      "y": 32,
+      "exists": false
+    },
+    "bathroom_shampoo_64_a_2_8": {
+      "name": "bathroom_shampoo_64_a_2_8",
+      "flipH": 1,
+      "source": "bathroom_shampoo_64_a_0_8",
+      "x": 24,
+      "y": 29,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            }
+          ]
+        },
+        "7": {
+          "id": 7,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            }
+          ]
+        },
+        "8": {
+          "id": 8,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  8
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            }
+          ]
+        },
+        "7": {
+          "id": 7,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            }
+          ]
+        },
+        "8": {
+          "id": 8,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  8
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "bathroom_shampoo",
+    "visualization": "furniture_animated"
+  }
+}

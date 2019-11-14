@@ -1,0 +1,306 @@
+{
+  "assets": {
+    "pirate_plank_32_a_0_0": {
+      "name": "pirate_plank_32_a_0_0",
+      "x": 1,
+      "y": 2,
+      "exists": true
+    },
+    "pirate_plank_32_b_0_0": {
+      "name": "pirate_plank_32_b_0_0",
+      "x": 12,
+      "y": 16,
+      "exists": true
+    },
+    "pirate_plank_32_c_0_0": {
+      "name": "pirate_plank_32_c_0_0",
+      "x": 0,
+      "y": 8,
+      "exists": true
+    },
+    "pirate_plank_32_d_0_0": {
+      "name": "pirate_plank_32_d_0_0",
+      "x": -22,
+      "y": 4,
+      "exists": true
+    },
+    "pirate_plank_32_b_4_0": {
+      "name": "pirate_plank_32_b_4_0",
+      "x": 10,
+      "y": 15,
+      "exists": true
+    },
+    "pirate_plank_32_c_4_0": {
+      "name": "pirate_plank_32_c_4_0",
+      "x": -7,
+      "y": 6,
+      "exists": true
+    },
+    "pirate_plank_32_d_4_0": {
+      "name": "pirate_plank_32_d_4_0",
+      "x": -12,
+      "y": 9,
+      "exists": true
+    },
+    "pirate_plank_64_a_0_0": {
+      "name": "pirate_plank_64_a_0_0",
+      "x": 1,
+      "y": 3,
+      "exists": true
+    },
+    "pirate_plank_64_b_0_0": {
+      "name": "pirate_plank_64_b_0_0",
+      "x": 18,
+      "y": 28,
+      "exists": true
+    },
+    "pirate_plank_64_c_0_0": {
+      "name": "pirate_plank_64_c_0_0",
+      "x": 0,
+      "y": 18,
+      "exists": true
+    },
+    "pirate_plank_64_d_0_0": {
+      "name": "pirate_plank_64_d_0_0",
+      "x": -35,
+      "y": 12,
+      "exists": true
+    },
+    "pirate_plank_64_b_4_0": {
+      "name": "pirate_plank_64_b_4_0",
+      "x": 20,
+      "y": 27,
+      "exists": true
+    },
+    "pirate_plank_64_c_4_0": {
+      "name": "pirate_plank_64_c_4_0",
+      "x": -14,
+      "y": 12,
+      "exists": true
+    },
+    "pirate_plank_64_d_4_0": {
+      "name": "pirate_plank_64_d_4_0",
+      "x": -17,
+      "y": 21,
+      "exists": true
+    },
+    "pirate_plank_icon_a": {
+      "name": "pirate_plank_icon_a",
+      "x": 14,
+      "y": 9,
+      "exists": true
+    },
+    "pirate_plank_32_a_2_0": {
+      "name": "pirate_plank_32_a_2_0",
+      "source": "pirate_plank_32_a_0_0",
+      "x": 33,
+      "y": 2,
+      "exists": false
+    },
+    "pirate_plank_32_b_2_0": {
+      "name": "pirate_plank_32_b_2_0",
+      "flipH": 1,
+      "source": "pirate_plank_32_b_0_0",
+      "x": 12,
+      "y": 16,
+      "exists": false
+    },
+    "pirate_plank_32_c_2_0": {
+      "name": "pirate_plank_32_c_2_0",
+      "flipH": 1,
+      "source": "pirate_plank_32_c_0_0",
+      "x": 0,
+      "y": 8,
+      "exists": false
+    },
+    "pirate_plank_32_d_2_0": {
+      "name": "pirate_plank_32_d_2_0",
+      "flipH": 1,
+      "source": "pirate_plank_32_d_0_0",
+      "x": -22,
+      "y": 4,
+      "exists": false
+    },
+    "pirate_plank_32_a_4_0": {
+      "name": "pirate_plank_32_a_4_0",
+      "source": "pirate_plank_32_a_0_0",
+      "x": 17,
+      "y": 10,
+      "exists": false
+    },
+    "pirate_plank_32_a_6_0": {
+      "name": "pirate_plank_32_a_6_0",
+      "source": "pirate_plank_32_a_0_0",
+      "x": 17,
+      "y": 10,
+      "exists": false
+    },
+    "pirate_plank_32_b_6_0": {
+      "name": "pirate_plank_32_b_6_0",
+      "flipH": 1,
+      "source": "pirate_plank_32_b_4_0",
+      "x": 10,
+      "y": 15,
+      "exists": false
+    },
+    "pirate_plank_32_c_6_0": {
+      "name": "pirate_plank_32_c_6_0",
+      "flipH": 1,
+      "source": "pirate_plank_32_c_4_0",
+      "x": -7,
+      "y": 6,
+      "exists": false
+    },
+    "pirate_plank_32_d_6_0": {
+      "name": "pirate_plank_32_d_6_0",
+      "flipH": 1,
+      "source": "pirate_plank_32_d_4_0",
+      "x": -12,
+      "y": 9,
+      "exists": false
+    },
+    "pirate_plank_64_a_2_0": {
+      "name": "pirate_plank_64_a_2_0",
+      "source": "pirate_plank_64_a_0_0",
+      "x": 66,
+      "y": 3,
+      "exists": false
+    },
+    "pirate_plank_64_b_2_0": {
+      "name": "pirate_plank_64_b_2_0",
+      "flipH": 1,
+      "source": "pirate_plank_64_b_0_0",
+      "x": 18,
+      "y": 28,
+      "exists": false
+    },
+    "pirate_plank_64_c_2_0": {
+      "name": "pirate_plank_64_c_2_0",
+      "flipH": 1,
+      "source": "pirate_plank_64_c_0_0",
+      "x": 0,
+      "y": 18,
+      "exists": false
+    },
+    "pirate_plank_64_d_2_0": {
+      "name": "pirate_plank_64_d_2_0",
+      "flipH": 1,
+      "source": "pirate_plank_64_d_0_0",
+      "x": -35,
+      "y": 12,
+      "exists": false
+    },
+    "pirate_plank_64_a_4_0": {
+      "name": "pirate_plank_64_a_4_0",
+      "source": "pirate_plank_64_a_0_0",
+      "x": 33,
+      "y": 19,
+      "exists": false
+    },
+    "pirate_plank_64_a_6_0": {
+      "name": "pirate_plank_64_a_6_0",
+      "source": "pirate_plank_64_a_0_0",
+      "x": 33,
+      "y": 19,
+      "exists": false
+    },
+    "pirate_plank_64_b_6_0": {
+      "name": "pirate_plank_64_b_6_0",
+      "flipH": 1,
+      "source": "pirate_plank_64_b_4_0",
+      "x": 20,
+      "y": 27,
+      "exists": false
+    },
+    "pirate_plank_64_c_6_0": {
+      "name": "pirate_plank_64_c_6_0",
+      "flipH": 1,
+      "source": "pirate_plank_64_c_4_0",
+      "x": -14,
+      "y": 12,
+      "exists": false
+    },
+    "pirate_plank_64_d_6_0": {
+      "name": "pirate_plank_64_d_6_0",
+      "flipH": 1,
+      "source": "pirate_plank_64_d_4_0",
+      "x": -17,
+      "y": 21,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0.6
+    },
+    "directions": [
+      0,
+      180,
+      90,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "pirate_plank",
+    "visualization": "furniture_static"
+  }
+}

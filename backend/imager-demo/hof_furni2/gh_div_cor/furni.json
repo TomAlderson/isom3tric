@@ -1,0 +1,170 @@
+{
+  "assets": {
+    "gh_div_cor_32_a_1_0": {
+      "name": "gh_div_cor_32_a_1_0",
+      "x": 14,
+      "y": 65,
+      "exists": true
+    },
+    "gh_div_cor_32_a_3_0": {
+      "name": "gh_div_cor_32_a_3_0",
+      "x": 16,
+      "y": 64,
+      "exists": true
+    },
+    "gh_div_cor_32_a_5_0": {
+      "name": "gh_div_cor_32_a_5_0",
+      "x": 13,
+      "y": 65,
+      "exists": true
+    },
+    "gh_div_cor_32_a_7_0": {
+      "name": "gh_div_cor_32_a_7_0",
+      "x": 15,
+      "y": 57,
+      "exists": true
+    },
+    "gh_div_cor_32_b_1_0": {
+      "name": "gh_div_cor_32_b_1_0",
+      "x": 12,
+      "y": 66,
+      "exists": true
+    },
+    "gh_div_cor_32_b_3_0": {
+      "name": "gh_div_cor_32_b_3_0",
+      "x": 17,
+      "y": 63,
+      "exists": true
+    },
+    "gh_div_cor_32_b_5_0": {
+      "name": "gh_div_cor_32_b_5_0",
+      "x": 10,
+      "y": 66,
+      "exists": true
+    },
+    "gh_div_cor_32_b_7_0": {
+      "name": "gh_div_cor_32_b_7_0",
+      "x": 16,
+      "y": 51,
+      "exists": true
+    },
+    "gh_div_cor_64_a_1_0": {
+      "name": "gh_div_cor_64_a_1_0",
+      "x": 27,
+      "y": 129,
+      "exists": true
+    },
+    "gh_div_cor_64_a_3_0": {
+      "name": "gh_div_cor_64_a_3_0",
+      "x": 34,
+      "y": 127,
+      "exists": true
+    },
+    "gh_div_cor_64_a_5_0": {
+      "name": "gh_div_cor_64_a_5_0",
+      "x": 25,
+      "y": 129,
+      "exists": true
+    },
+    "gh_div_cor_64_a_7_0": {
+      "name": "gh_div_cor_64_a_7_0",
+      "x": 30,
+      "y": 115,
+      "exists": true
+    },
+    "gh_div_cor_64_b_1_0": {
+      "name": "gh_div_cor_64_b_1_0",
+      "x": 22,
+      "y": 130,
+      "exists": true
+    },
+    "gh_div_cor_64_b_3_0": {
+      "name": "gh_div_cor_64_b_3_0",
+      "x": 35,
+      "y": 126,
+      "exists": true
+    },
+    "gh_div_cor_64_b_5_0": {
+      "name": "gh_div_cor_64_b_5_0",
+      "x": 21,
+      "y": 130,
+      "exists": true
+    },
+    "gh_div_cor_64_b_7_0": {
+      "name": "gh_div_cor_64_b_7_0",
+      "x": 31,
+      "y": 102,
+      "exists": true
+    },
+    "gh_div_cor_icon_a": {
+      "name": "gh_div_cor_icon_a",
+      "x": 6,
+      "y": 16,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      315,
+      225,
+      45,
+      135
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "1": [],
+        "3": [],
+        "5": [],
+        "7": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "1": [],
+        "3": [],
+        "5": [],
+        "7": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "gh_div_cor",
+    "visualization": "furniture_static"
+  }
+}

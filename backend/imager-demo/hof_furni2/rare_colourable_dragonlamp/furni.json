@@ -1,0 +1,513 @@
+{
+  "assets": {
+    "rare_colourable_dragonlamp_64_sd_4_0": {
+      "name": "rare_colourable_dragonlamp_64_sd_4_0",
+      "x": 28,
+      "y": 13,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_a_4_0": {
+      "name": "rare_colourable_dragonlamp_64_a_4_0",
+      "x": 28,
+      "y": 13,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_b_4_0": {
+      "name": "rare_colourable_dragonlamp_64_b_4_0",
+      "x": 18,
+      "y": 35,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_c_4_0": {
+      "name": "rare_colourable_dragonlamp_64_c_4_0",
+      "x": 20,
+      "y": 60,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_c_4_1": {
+      "name": "rare_colourable_dragonlamp_64_c_4_1",
+      "x": 8,
+      "y": 69,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_d_4_0": {
+      "name": "rare_colourable_dragonlamp_64_d_4_0",
+      "x": 17,
+      "y": 34,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_e_4_0": {
+      "name": "rare_colourable_dragonlamp_64_e_4_0",
+      "x": 19,
+      "y": 59,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_e_4_1": {
+      "name": "rare_colourable_dragonlamp_64_e_4_1",
+      "x": 7,
+      "y": 68,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_f_4_0": {
+      "name": "rare_colourable_dragonlamp_64_f_4_0",
+      "x": 0,
+      "y": 0,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_f_4_1": {
+      "name": "rare_colourable_dragonlamp_64_f_4_1",
+      "x": 3,
+      "y": 98,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_f_4_2": {
+      "name": "rare_colourable_dragonlamp_64_f_4_2",
+      "x": 5,
+      "y": 92,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_f_4_3": {
+      "name": "rare_colourable_dragonlamp_64_f_4_3",
+      "x": 7,
+      "y": 94,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_f_4_4": {
+      "name": "rare_colourable_dragonlamp_64_f_4_4",
+      "x": 8,
+      "y": 96,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_g_4_0": {
+      "name": "rare_colourable_dragonlamp_64_g_4_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_g_4_1": {
+      "name": "rare_colourable_dragonlamp_64_g_4_1",
+      "x": 23,
+      "y": 114,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_icon_a": {
+      "name": "rare_colourable_dragonlamp_icon_a",
+      "x": 13,
+      "y": 15,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_icon_b": {
+      "name": "rare_colourable_dragonlamp_icon_b",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    },
+    "rare_colourable_dragonlamp_64_sd_2_0": {
+      "name": "rare_colourable_dragonlamp_64_sd_2_0",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_sd_4_0",
+      "x": 28,
+      "y": 13,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_a_2_0": {
+      "name": "rare_colourable_dragonlamp_64_a_2_0",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_a_4_0",
+      "x": 28,
+      "y": 13,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_b_2_0": {
+      "name": "rare_colourable_dragonlamp_64_b_2_0",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_b_4_0",
+      "x": 18,
+      "y": 35,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_c_2_0": {
+      "name": "rare_colourable_dragonlamp_64_c_2_0",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_c_4_0",
+      "x": 20,
+      "y": 60,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_c_2_1": {
+      "name": "rare_colourable_dragonlamp_64_c_2_1",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_c_4_1",
+      "x": 8,
+      "y": 69,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_d_2_0": {
+      "name": "rare_colourable_dragonlamp_64_d_2_0",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_d_4_0",
+      "x": 17,
+      "y": 34,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_e_2_0": {
+      "name": "rare_colourable_dragonlamp_64_e_2_0",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_e_4_0",
+      "x": 19,
+      "y": 59,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_e_2_1": {
+      "name": "rare_colourable_dragonlamp_64_e_2_1",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_e_4_1",
+      "x": 7,
+      "y": 68,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_f_2_0": {
+      "name": "rare_colourable_dragonlamp_64_f_2_0",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_f_4_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_f_2_1": {
+      "name": "rare_colourable_dragonlamp_64_f_2_1",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_f_4_1",
+      "x": 3,
+      "y": 98,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_f_2_2": {
+      "name": "rare_colourable_dragonlamp_64_f_2_2",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_f_4_2",
+      "x": 5,
+      "y": 92,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_f_2_3": {
+      "name": "rare_colourable_dragonlamp_64_f_2_3",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_f_4_3",
+      "x": 7,
+      "y": 94,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_f_2_4": {
+      "name": "rare_colourable_dragonlamp_64_f_2_4",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_f_4_4",
+      "x": 8,
+      "y": 96,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_g_2_0": {
+      "name": "rare_colourable_dragonlamp_64_g_2_0",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_g_4_0",
+      "x": 0,
+      "y": 0,
+      "exists": false
+    },
+    "rare_colourable_dragonlamp_64_g_2_1": {
+      "name": "rare_colourable_dragonlamp_64_g_2_1",
+      "flipH": 1,
+      "source": "rare_colourable_dragonlamp_64_g_4_1",
+      "x": 23,
+      "y": 114,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.0001
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 2,
+      "size": 1,
+      "directions": {},
+      "colors": {
+        "1": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "13ABEA"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "00700D"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "7CDED4"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 7,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "13ABEA"
+          },
+          {
+            "layerId": 2,
+            "color": "13ABEA"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 4,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 5,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 6,
+            "color": "FFFFFF"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "00700D"
+          },
+          {
+            "layerId": 2,
+            "color": "00700D"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 4,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 5,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 6,
+            "color": "FFFFFF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "7CDED4"
+          },
+          {
+            "layerId": 2,
+            "color": "7CDED4"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 4,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 5,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 6,
+            "color": "FFFFFF"
+          }
+        ]
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 5,
+          "ink": "COPY",
+          "alpha": 204
+        },
+        {
+          "layerId": 6,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "rare_colourable_dragonlamp",
+    "visualization": "furniture_animated"
+  }
+}

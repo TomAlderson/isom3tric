@@ -1,0 +1,255 @@
+{
+  "assets": {
+    "easter_r16_crackable_64_sd_2_0": {
+      "name": "easter_r16_crackable_64_sd_2_0",
+      "x": 27,
+      "y": 14,
+      "exists": true
+    },
+    "easter_r16_crackable_64_a_2_0": {
+      "name": "easter_r16_crackable_64_a_2_0",
+      "x": 29,
+      "y": 163,
+      "exists": true
+    },
+    "easter_r16_crackable_64_a_2_1": {
+      "name": "easter_r16_crackable_64_a_2_1",
+      "x": 28,
+      "y": 163,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_2_2": {
+      "name": "easter_r16_crackable_64_a_2_2",
+      "x": 27,
+      "y": 163,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_2_3": {
+      "name": "easter_r16_crackable_64_a_2_3",
+      "x": 30,
+      "y": 163,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_2_4": {
+      "name": "easter_r16_crackable_64_a_2_4",
+      "x": 31,
+      "y": 163,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_2_5": {
+      "name": "easter_r16_crackable_64_a_2_5",
+      "x": 44,
+      "y": 160,
+      "exists": true
+    },
+    "easter_r16_crackable_64_a_2_6": {
+      "name": "easter_r16_crackable_64_a_2_6",
+      "x": 51,
+      "y": 165,
+      "exists": true
+    },
+    "easter_r16_crackable_64_a_2_7": {
+      "name": "easter_r16_crackable_64_a_2_7",
+      "x": 59,
+      "y": 176,
+      "exists": true
+    },
+    "easter_r16_crackable_64_a_2_8": {
+      "name": "easter_r16_crackable_64_a_2_8",
+      "x": 68,
+      "y": 185,
+      "exists": true
+    },
+    "easter_r16_crackable_icon_a": {
+      "name": "easter_r16_crackable_icon_a",
+      "x": 8,
+      "y": 14,
+      "exists": true
+    },
+    "easter_r16_crackable_64_sd_4_0": {
+      "name": "easter_r16_crackable_64_sd_4_0",
+      "flipH": 1,
+      "source": "easter_r16_crackable_64_sd_2_0",
+      "x": 27,
+      "y": 14,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_4_0": {
+      "name": "easter_r16_crackable_64_a_4_0",
+      "flipH": 1,
+      "source": "easter_r16_crackable_64_a_2_0",
+      "x": 29,
+      "y": 163,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_4_1": {
+      "name": "easter_r16_crackable_64_a_4_1",
+      "flipH": 1,
+      "source": "easter_r16_crackable_64_a_2_1",
+      "x": 28,
+      "y": 163,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_4_2": {
+      "name": "easter_r16_crackable_64_a_4_2",
+      "flipH": 1,
+      "source": "easter_r16_crackable_64_a_2_2",
+      "x": 27,
+      "y": 163,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_4_3": {
+      "name": "easter_r16_crackable_64_a_4_3",
+      "flipH": 1,
+      "source": "easter_r16_crackable_64_a_2_3",
+      "x": 30,
+      "y": 163,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_4_4": {
+      "name": "easter_r16_crackable_64_a_4_4",
+      "flipH": 1,
+      "source": "easter_r16_crackable_64_a_2_4",
+      "x": 31,
+      "y": 163,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_4_5": {
+      "name": "easter_r16_crackable_64_a_4_5",
+      "flipH": 1,
+      "source": "easter_r16_crackable_64_a_2_5",
+      "x": 44,
+      "y": 160,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_4_6": {
+      "name": "easter_r16_crackable_64_a_4_6",
+      "flipH": 1,
+      "source": "easter_r16_crackable_64_a_2_6",
+      "x": 51,
+      "y": 165,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_4_7": {
+      "name": "easter_r16_crackable_64_a_4_7",
+      "flipH": 1,
+      "source": "easter_r16_crackable_64_a_2_7",
+      "x": 59,
+      "y": 176,
+      "exists": false
+    },
+    "easter_r16_crackable_64_a_4_8": {
+      "name": "easter_r16_crackable_64_a_4_8",
+      "flipH": 1,
+      "source": "easter_r16_crackable_64_a_2_8",
+      "x": 68,
+      "y": 185,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.0001
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  3,
+                  4,
+                  3,
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  10
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_crackable",
+    "type": "easter_r16_crackable",
+    "visualization": "furniture_animated"
+  }
+}

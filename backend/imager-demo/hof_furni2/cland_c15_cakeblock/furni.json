@@ -1,0 +1,637 @@
+{
+  "assets": {
+    "cland_c15_cakeblock_64_sd_0_0": {
+      "name": "cland_c15_cakeblock_64_sd_0_0",
+      "x": 34,
+      "y": 17,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_a_0_0": {
+      "name": "cland_c15_cakeblock_64_a_0_0",
+      "x": 35,
+      "y": 52,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_a_0_1": {
+      "name": "cland_c15_cakeblock_64_a_0_1",
+      "x": 36,
+      "y": 53,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_b_0_0": {
+      "name": "cland_c15_cakeblock_64_b_0_0",
+      "x": 1,
+      "y": 53,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_b_0_1": {
+      "name": "cland_c15_cakeblock_64_b_0_1",
+      "x": 3,
+      "y": 54,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_c_0_0": {
+      "name": "cland_c15_cakeblock_64_c_0_0",
+      "x": 35,
+      "y": 52,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_c_0_1": {
+      "name": "cland_c15_cakeblock_64_c_0_1",
+      "x": 35,
+      "y": 52,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_c_0_2": {
+      "name": "cland_c15_cakeblock_64_c_0_2",
+      "x": 33,
+      "y": 52,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_c_0_3": {
+      "name": "cland_c15_cakeblock_64_c_0_3",
+      "x": 33,
+      "y": 52,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_c_0_4": {
+      "name": "cland_c15_cakeblock_64_c_0_4",
+      "x": 33,
+      "y": 52,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_d_0_0": {
+      "name": "cland_c15_cakeblock_64_d_0_0",
+      "x": -1,
+      "y": 34,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_d_0_1": {
+      "name": "cland_c15_cakeblock_64_d_0_1",
+      "x": 35,
+      "y": 53,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_d_0_2": {
+      "name": "cland_c15_cakeblock_64_d_0_2",
+      "x": 35,
+      "y": 53,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_d_0_3": {
+      "name": "cland_c15_cakeblock_64_d_0_3",
+      "x": 35,
+      "y": 53,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_d_0_4": {
+      "name": "cland_c15_cakeblock_64_d_0_4",
+      "x": 35,
+      "y": 53,
+      "exists": true
+    },
+    "cland_c15_cakeblock_64_d_0_5": {
+      "name": "cland_c15_cakeblock_64_d_0_5",
+      "x": 35,
+      "y": 53,
+      "exists": true
+    },
+    "cland_c15_cakeblock_icon_a": {
+      "name": "cland_c15_cakeblock_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "cland_c15_cakeblock_sd_0_0": {
+      "name": "cland_c15_cakeblock_sd_0_0",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_sd_0_0",
+      "x": 34,
+      "y": 17,
+      "exists": false
+    },
+    "cland_c15_cakeblock_b_0_2": {
+      "name": "cland_c15_cakeblock_b_0_2",
+      "source": "cland_c15_cakeblock_64_c_0_2",
+      "x": 33,
+      "y": 52,
+      "exists": false
+    },
+    "cland_c15_cakeblock_b_0_4": {
+      "name": "cland_c15_cakeblock_b_0_4",
+      "source": "cland_c15_cakeblock_64_c_0_4",
+      "x": 33,
+      "y": 52,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_sd_6_0": {
+      "name": "cland_c15_cakeblock_64_sd_6_0",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_sd_0_0",
+      "x": 34,
+      "y": 17,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_a_6_0": {
+      "name": "cland_c15_cakeblock_64_a_6_0",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_a_0_0",
+      "x": 35,
+      "y": 52,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_a_6_1": {
+      "name": "cland_c15_cakeblock_64_a_6_1",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_a_0_1",
+      "x": 36,
+      "y": 53,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_b_6_0": {
+      "name": "cland_c15_cakeblock_64_b_6_0",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_b_0_0",
+      "x": 1,
+      "y": 53,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_b_6_1": {
+      "name": "cland_c15_cakeblock_64_b_6_1",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_b_0_1",
+      "x": 3,
+      "y": 54,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_c_6_0": {
+      "name": "cland_c15_cakeblock_64_c_6_0",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_c_0_0",
+      "x": 35,
+      "y": 52,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_c_6_1": {
+      "name": "cland_c15_cakeblock_64_c_6_1",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_c_0_1",
+      "x": 35,
+      "y": 52,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_c_6_2": {
+      "name": "cland_c15_cakeblock_64_c_6_2",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_c_0_2",
+      "x": 33,
+      "y": 52,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_c_6_3": {
+      "name": "cland_c15_cakeblock_64_c_6_3",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_c_0_3",
+      "x": 33,
+      "y": 52,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_c_6_4": {
+      "name": "cland_c15_cakeblock_64_c_6_4",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_c_0_4",
+      "x": 33,
+      "y": 52,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_d_6_0": {
+      "name": "cland_c15_cakeblock_64_d_6_0",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_d_0_0",
+      "x": -1,
+      "y": 34,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_d_6_1": {
+      "name": "cland_c15_cakeblock_64_d_6_1",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_d_0_1",
+      "x": 35,
+      "y": 53,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_d_6_2": {
+      "name": "cland_c15_cakeblock_64_d_6_2",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_d_0_2",
+      "x": 35,
+      "y": 53,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_d_6_3": {
+      "name": "cland_c15_cakeblock_64_d_6_3",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_d_0_3",
+      "x": 35,
+      "y": 53,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_d_6_4": {
+      "name": "cland_c15_cakeblock_64_d_6_4",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_d_0_4",
+      "x": 35,
+      "y": 53,
+      "exists": false
+    },
+    "cland_c15_cakeblock_64_d_6_5": {
+      "name": "cland_c15_cakeblock_64_d_6_5",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_d_0_5",
+      "x": 35,
+      "y": 53,
+      "exists": false
+    },
+    "cland_c15_cakeblock_0_0_6_0": {
+      "name": "cland_c15_cakeblock_0_0_6_0",
+      "flipH": 1,
+      "source": "cland_c15_cakeblock_64_sd_0_0",
+      "x": 34,
+      "y": 17,
+      "exists": false
+    },
+    "cland_c15_cakeblock_0_0_2_0": {
+      "name": "cland_c15_cakeblock_0_0_2_0",
+      "source": "cland_c15_cakeblock_64_c_0_2",
+      "x": 33,
+      "y": 52,
+      "exists": false
+    },
+    "cland_c15_cakeblock_0_0_4_0": {
+      "name": "cland_c15_cakeblock_0_0_4_0",
+      "source": "cland_c15_cakeblock_64_c_0_4",
+      "x": 33,
+      "y": 52,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "7": {
+          "id": 7,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "8": {
+          "id": 8,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "9": {
+          "id": 9,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1000
+        },
+        {
+          "layerId": 1,
+          "z": -1010
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "cland_c15_cakeblock",
+    "visualization": "furniture_animated"
+  }
+}

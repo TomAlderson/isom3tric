@@ -1,0 +1,371 @@
+{
+  "assets": {
+    "bonusrare19_3_64_sd_0_0": {
+      "name": "bonusrare19_3_64_sd_0_0",
+      "x": 22,
+      "y": 11,
+      "exists": true
+    },
+    "bonusrare19_3_64_a_0_0": {
+      "name": "bonusrare19_3_64_a_0_0",
+      "x": 15,
+      "y": 48,
+      "exists": true
+    },
+    "bonusrare19_3_64_b_0_0": {
+      "name": "bonusrare19_3_64_b_0_0",
+      "x": 22,
+      "y": 32,
+      "exists": true
+    },
+    "bonusrare19_3_64_c_0_0": {
+      "name": "bonusrare19_3_64_c_0_0",
+      "x": 21,
+      "y": 63,
+      "exists": true
+    },
+    "bonusrare19_3_64_d_0_0": {
+      "name": "bonusrare19_3_64_d_0_0",
+      "x": 21,
+      "y": 31,
+      "exists": true
+    },
+    "bonusrare19_3_icon_a": {
+      "name": "bonusrare19_3_icon_a",
+      "x": 7,
+      "y": 2,
+      "exists": true
+    },
+    "bonusrare19_3_icon_b": {
+      "name": "bonusrare19_3_icon_b",
+      "x": 2,
+      "y": 4,
+      "exists": true
+    },
+    "bonusrare19_3_icon_c": {
+      "name": "bonusrare19_3_icon_c",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    },
+    "bonusrare19_3_icon_d": {
+      "name": "bonusrare19_3_icon_d",
+      "x": 6,
+      "y": 1,
+      "exists": true
+    },
+    "bonusrare19_3_64_sd_2_0": {
+      "name": "bonusrare19_3_64_sd_2_0",
+      "flipH": 1,
+      "source": "bonusrare19_3_64_sd_0_0",
+      "x": 22,
+      "y": 11,
+      "exists": false
+    },
+    "bonusrare19_3_64_a_2_0": {
+      "name": "bonusrare19_3_64_a_2_0",
+      "flipH": 1,
+      "source": "bonusrare19_3_64_a_0_0",
+      "x": 15,
+      "y": 48,
+      "exists": false
+    },
+    "bonusrare19_3_64_b_2_0": {
+      "name": "bonusrare19_3_64_b_2_0",
+      "flipH": 1,
+      "source": "bonusrare19_3_64_b_0_0",
+      "x": 22,
+      "y": 32,
+      "exists": false
+    },
+    "bonusrare19_3_64_c_2_0": {
+      "name": "bonusrare19_3_64_c_2_0",
+      "flipH": 1,
+      "source": "bonusrare19_3_64_c_0_0",
+      "x": 21,
+      "y": 63,
+      "exists": false
+    },
+    "bonusrare19_3_64_d_2_0": {
+      "name": "bonusrare19_3_64_d_2_0",
+      "flipH": 1,
+      "source": "bonusrare19_3_64_d_0_0",
+      "x": 21,
+      "y": 31,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 4,
+      "size": 1,
+      "directions": {},
+      "colors": {
+        "0": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": 665296
+          },
+          {
+            "layerId": 2,
+            "color": "42C181"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ],
+        "1": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "FFA071"
+          },
+          {
+            "layerId": 2,
+            "color": "1FB0C2"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "DCFF99"
+          },
+          {
+            "layerId": 2,
+            "color": "69C21F"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "FFB456"
+          },
+          {
+            "layerId": 2,
+            "color": "D53B43"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "4191F2"
+          },
+          {
+            "layerId": 2,
+            "color": "5BD10C"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "FFB1B8"
+          },
+          {
+            "layerId": 2,
+            "color": "8A4D89"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "colors": {
+        "0": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": 665296
+          },
+          {
+            "layerId": 2,
+            "color": "42C181"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ],
+        "1": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "FFA071"
+          },
+          {
+            "layerId": 2,
+            "color": "1FB0C2"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "DCFF99"
+          },
+          {
+            "layerId": 2,
+            "color": "69C21F"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "FFB456"
+          },
+          {
+            "layerId": 2,
+            "color": "D53B43"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ],
+        "4": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "4191F2"
+          },
+          {
+            "layerId": 2,
+            "color": "5BD10C"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ],
+        "5": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          },
+          {
+            "layerId": 1,
+            "color": "FFB1B8"
+          },
+          {
+            "layerId": 2,
+            "color": "8A4D89"
+          },
+          {
+            "layerId": 3,
+            "color": "FFFFFF"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "bonusrare19_3",
+    "visualization": "furniture_animated"
+  }
+}

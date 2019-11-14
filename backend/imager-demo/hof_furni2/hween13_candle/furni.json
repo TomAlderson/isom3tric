@@ -1,0 +1,584 @@
+{
+  "assets": {
+    "hween13_candle_32_sd_0_0": {
+      "name": "hween13_candle_32_sd_0_0",
+      "x": 2,
+      "y": 1,
+      "exists": true
+    },
+    "hween13_candle_32_a_0_0": {
+      "name": "hween13_candle_32_a_0_0",
+      "x": 2,
+      "y": 62,
+      "exists": true
+    },
+    "hween13_candle_32_a_0_4": {
+      "name": "hween13_candle_32_a_0_4",
+      "x": 2,
+      "y": 62,
+      "exists": true
+    },
+    "hween13_candle_32_a_0_8": {
+      "name": "hween13_candle_32_a_0_8",
+      "x": 2,
+      "y": 62,
+      "exists": true
+    },
+    "hween13_candle_32_b_0_0": {
+      "name": "hween13_candle_32_b_0_0",
+      "x": 1,
+      "y": 68,
+      "exists": true
+    },
+    "hween13_candle_32_b_0_1": {
+      "name": "hween13_candle_32_b_0_1",
+      "x": 1,
+      "y": 66,
+      "exists": true
+    },
+    "hween13_candle_32_b_0_2": {
+      "name": "hween13_candle_32_b_0_2",
+      "x": 2,
+      "y": 68,
+      "exists": true
+    },
+    "hween13_candle_32_b_0_3": {
+      "name": "hween13_candle_32_b_0_3",
+      "x": 2,
+      "y": 69,
+      "exists": true
+    },
+    "hween13_candle_32_c_0_0": {
+      "name": "hween13_candle_32_c_0_0",
+      "x": 7,
+      "y": 73,
+      "exists": true
+    },
+    "hween13_candle_64_sd_0_0": {
+      "name": "hween13_candle_64_sd_0_0",
+      "x": 3,
+      "y": 2,
+      "exists": true
+    },
+    "hween13_candle_64_a_0_0": {
+      "name": "hween13_candle_64_a_0_0",
+      "x": 3,
+      "y": 122,
+      "exists": true
+    },
+    "hween13_candle_64_a_0_4": {
+      "name": "hween13_candle_64_a_0_4",
+      "x": 3,
+      "y": 122,
+      "exists": true
+    },
+    "hween13_candle_64_a_0_8": {
+      "name": "hween13_candle_64_a_0_8",
+      "x": 3,
+      "y": 122,
+      "exists": true
+    },
+    "hween13_candle_64_b_0_0": {
+      "name": "hween13_candle_64_b_0_0",
+      "x": 2,
+      "y": 131,
+      "exists": true
+    },
+    "hween13_candle_64_b_0_1": {
+      "name": "hween13_candle_64_b_0_1",
+      "x": 3,
+      "y": 127,
+      "exists": true
+    },
+    "hween13_candle_64_b_0_2": {
+      "name": "hween13_candle_64_b_0_2",
+      "x": 3,
+      "y": 129,
+      "exists": true
+    },
+    "hween13_candle_64_b_0_3": {
+      "name": "hween13_candle_64_b_0_3",
+      "x": 3,
+      "y": 132,
+      "exists": true
+    },
+    "hween13_candle_64_c_0_0": {
+      "name": "hween13_candle_64_c_0_0",
+      "x": 15,
+      "y": 143,
+      "exists": true
+    },
+    "hween13_candle_icon_a": {
+      "name": "hween13_candle_icon_a",
+      "x": 4,
+      "y": 14,
+      "exists": true
+    },
+    "hween13_candle_32_a_0_1": {
+      "name": "hween13_candle_32_a_0_1",
+      "source": "hween13_candle_32_a_0_0",
+      "x": 2,
+      "y": 61,
+      "exists": false
+    },
+    "hween13_candle_32_a_0_2": {
+      "name": "hween13_candle_32_a_0_2",
+      "source": "hween13_candle_32_a_0_0",
+      "x": 2,
+      "y": 62,
+      "exists": false
+    },
+    "hween13_candle_32_a_0_3": {
+      "name": "hween13_candle_32_a_0_3",
+      "source": "hween13_candle_32_a_0_0",
+      "x": 2,
+      "y": 63,
+      "exists": false
+    },
+    "hween13_candle_32_a_0_5": {
+      "name": "hween13_candle_32_a_0_5",
+      "source": "hween13_candle_32_a_0_4",
+      "x": 2,
+      "y": 61,
+      "exists": false
+    },
+    "hween13_candle_32_a_0_6": {
+      "name": "hween13_candle_32_a_0_6",
+      "source": "hween13_candle_32_a_0_4",
+      "x": 2,
+      "y": 62,
+      "exists": false
+    },
+    "hween13_candle_32_a_0_7": {
+      "name": "hween13_candle_32_a_0_7",
+      "source": "hween13_candle_32_a_0_4",
+      "x": 2,
+      "y": 63,
+      "exists": false
+    },
+    "hween13_candle_32_a_0_9": {
+      "name": "hween13_candle_32_a_0_9",
+      "source": "hween13_candle_32_a_0_8",
+      "x": 2,
+      "y": 61,
+      "exists": false
+    },
+    "hween13_candle_32_a_0_10": {
+      "name": "hween13_candle_32_a_0_10",
+      "source": "hween13_candle_32_a_0_8",
+      "x": 2,
+      "y": 62,
+      "exists": false
+    },
+    "hween13_candle_32_a_0_11": {
+      "name": "hween13_candle_32_a_0_11",
+      "source": "hween13_candle_32_a_0_8",
+      "x": 2,
+      "y": 63,
+      "exists": false
+    },
+    "hween13_candle_32_c_0_1": {
+      "name": "hween13_candle_32_c_0_1",
+      "source": "hween13_candle_32_c_0_0",
+      "x": 7,
+      "y": 72,
+      "exists": false
+    },
+    "hween13_candle_32_c_0_2": {
+      "name": "hween13_candle_32_c_0_2",
+      "source": "hween13_candle_32_c_0_0",
+      "x": 7,
+      "y": 73,
+      "exists": false
+    },
+    "hween13_candle_32_c_0_3": {
+      "name": "hween13_candle_32_c_0_3",
+      "source": "hween13_candle_32_c_0_0",
+      "x": 7,
+      "y": 74,
+      "exists": false
+    },
+    "hween13_candle_64_a_0_1": {
+      "name": "hween13_candle_64_a_0_1",
+      "source": "hween13_candle_64_a_0_0",
+      "x": 3,
+      "y": 120,
+      "exists": false
+    },
+    "hween13_candle_64_a_0_2": {
+      "name": "hween13_candle_64_a_0_2",
+      "source": "hween13_candle_64_a_0_0",
+      "x": 3,
+      "y": 122,
+      "exists": false
+    },
+    "hween13_candle_64_a_0_3": {
+      "name": "hween13_candle_64_a_0_3",
+      "source": "hween13_candle_64_a_0_0",
+      "x": 3,
+      "y": 124,
+      "exists": false
+    },
+    "hween13_candle_64_a_0_5": {
+      "name": "hween13_candle_64_a_0_5",
+      "source": "hween13_candle_64_a_0_4",
+      "x": 3,
+      "y": 120,
+      "exists": false
+    },
+    "hween13_candle_64_a_0_6": {
+      "name": "hween13_candle_64_a_0_6",
+      "source": "hween13_candle_64_a_0_4",
+      "x": 3,
+      "y": 122,
+      "exists": false
+    },
+    "hween13_candle_64_a_0_7": {
+      "name": "hween13_candle_64_a_0_7",
+      "source": "hween13_candle_64_a_0_4",
+      "x": 3,
+      "y": 124,
+      "exists": false
+    },
+    "hween13_candle_64_a_0_9": {
+      "name": "hween13_candle_64_a_0_9",
+      "source": "hween13_candle_64_a_0_8",
+      "x": 3,
+      "y": 120,
+      "exists": false
+    },
+    "hween13_candle_64_a_0_10": {
+      "name": "hween13_candle_64_a_0_10",
+      "source": "hween13_candle_64_a_0_8",
+      "x": 3,
+      "y": 122,
+      "exists": false
+    },
+    "hween13_candle_64_a_0_11": {
+      "name": "hween13_candle_64_a_0_11",
+      "source": "hween13_candle_64_a_0_8",
+      "x": 3,
+      "y": 124,
+      "exists": false
+    },
+    "hween13_candle_64_c_0_1": {
+      "name": "hween13_candle_64_c_0_1",
+      "source": "hween13_candle_64_c_0_0",
+      "x": 15,
+      "y": 141,
+      "exists": false
+    },
+    "hween13_candle_64_c_0_2": {
+      "name": "hween13_candle_64_c_0_2",
+      "source": "hween13_candle_64_c_0_0",
+      "x": 15,
+      "y": 143,
+      "exists": false
+    },
+    "hween13_candle_64_c_0_3": {
+      "name": "hween13_candle_64_c_0_3",
+      "source": "hween13_candle_64_c_0_0",
+      "x": 15,
+      "y": 145,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.000001
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  8,
+                  9,
+                  10,
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  8,
+                  9,
+                  10,
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "ignoreMouse": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween13_candle",
+    "visualization": "furniture_animated"
+  }
+}

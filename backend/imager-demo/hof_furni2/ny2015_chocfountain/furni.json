@@ -1,0 +1,601 @@
+{
+  "assets": {
+    "ny2015_chocfountain_64_a_0_0": {
+      "name": "ny2015_chocfountain_64_a_0_0",
+      "x": 26,
+      "y": 23,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_b_0_0": {
+      "name": "ny2015_chocfountain_64_b_0_0",
+      "x": 22,
+      "y": 20,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_b_0_1": {
+      "name": "ny2015_chocfountain_64_b_0_1",
+      "x": 22,
+      "y": 20,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_b_0_2": {
+      "name": "ny2015_chocfountain_64_b_0_2",
+      "x": 22,
+      "y": 20,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_b_0_3": {
+      "name": "ny2015_chocfountain_64_b_0_3",
+      "x": 22,
+      "y": 20,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_c_0_0": {
+      "name": "ny2015_chocfountain_64_c_0_0",
+      "x": 15,
+      "y": 47,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_d_0_0": {
+      "name": "ny2015_chocfountain_64_d_0_0",
+      "x": 14,
+      "y": 48,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_d_0_1": {
+      "name": "ny2015_chocfountain_64_d_0_1",
+      "x": 14,
+      "y": 46,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_e_0_0": {
+      "name": "ny2015_chocfountain_64_e_0_0",
+      "x": 8,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_0_1": {
+      "name": "ny2015_chocfountain_64_e_0_1",
+      "x": 8,
+      "y": 60,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_e_0_2": {
+      "name": "ny2015_chocfountain_64_e_0_2",
+      "x": 8,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_0_3": {
+      "name": "ny2015_chocfountain_64_e_0_3",
+      "x": 8,
+      "y": 60,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_e_0_4": {
+      "name": "ny2015_chocfountain_64_e_0_4",
+      "x": 8,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_0_5": {
+      "name": "ny2015_chocfountain_64_e_0_5",
+      "x": 8,
+      "y": 60,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_e_0_6": {
+      "name": "ny2015_chocfountain_64_e_0_6",
+      "x": 7,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_0_7": {
+      "name": "ny2015_chocfountain_64_e_0_7",
+      "x": 7,
+      "y": 60,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_e_0_8": {
+      "name": "ny2015_chocfountain_64_e_0_8",
+      "x": 7,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_0_9": {
+      "name": "ny2015_chocfountain_64_e_0_9",
+      "x": 7,
+      "y": 60,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_e_0_10": {
+      "name": "ny2015_chocfountain_64_e_0_10",
+      "x": 7,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_0_11": {
+      "name": "ny2015_chocfountain_64_e_0_11",
+      "x": 7,
+      "y": 60,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_e_0_12": {
+      "name": "ny2015_chocfountain_64_e_0_12",
+      "x": 7,
+      "y": 59,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_e_0_13": {
+      "name": "ny2015_chocfountain_64_e_0_13",
+      "x": 7,
+      "y": 60,
+      "exists": false
+    },
+    "ny2015_chocfountain_icon_a": {
+      "name": "ny2015_chocfountain_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "ny2015_chocfountain_64_a_2_0": {
+      "name": "ny2015_chocfountain_64_a_2_0",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_a_0_0",
+      "x": 26,
+      "y": 23,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_b_2_0": {
+      "name": "ny2015_chocfountain_64_b_2_0",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_b_0_0",
+      "x": 22,
+      "y": 20,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_b_2_1": {
+      "name": "ny2015_chocfountain_64_b_2_1",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_b_0_1",
+      "x": 22,
+      "y": 20,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_b_2_2": {
+      "name": "ny2015_chocfountain_64_b_2_2",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_b_0_2",
+      "x": 22,
+      "y": 20,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_b_2_3": {
+      "name": "ny2015_chocfountain_64_b_2_3",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_b_0_3",
+      "x": 22,
+      "y": 20,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_c_2_0": {
+      "name": "ny2015_chocfountain_64_c_2_0",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_c_0_0",
+      "x": 15,
+      "y": 47,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_d_2_0": {
+      "name": "ny2015_chocfountain_64_d_2_0",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_d_0_0",
+      "x": 14,
+      "y": 48,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_d_2_1": {
+      "name": "ny2015_chocfountain_64_d_2_1",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_d_0_1",
+      "x": 14,
+      "y": 46,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_0": {
+      "name": "ny2015_chocfountain_64_e_2_0",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_0",
+      "x": 8,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_1": {
+      "name": "ny2015_chocfountain_64_e_2_1",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_1",
+      "x": 8,
+      "y": 60,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_2": {
+      "name": "ny2015_chocfountain_64_e_2_2",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_2",
+      "x": 8,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_3": {
+      "name": "ny2015_chocfountain_64_e_2_3",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_3",
+      "x": 8,
+      "y": 60,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_4": {
+      "name": "ny2015_chocfountain_64_e_2_4",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_4",
+      "x": 8,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_5": {
+      "name": "ny2015_chocfountain_64_e_2_5",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_5",
+      "x": 8,
+      "y": 60,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_6": {
+      "name": "ny2015_chocfountain_64_e_2_6",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_6",
+      "x": 7,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_7": {
+      "name": "ny2015_chocfountain_64_e_2_7",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_7",
+      "x": 7,
+      "y": 60,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_8": {
+      "name": "ny2015_chocfountain_64_e_2_8",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_8",
+      "x": 7,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_9": {
+      "name": "ny2015_chocfountain_64_e_2_9",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_9",
+      "x": 7,
+      "y": 60,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_10": {
+      "name": "ny2015_chocfountain_64_e_2_10",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_10",
+      "x": 7,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_11": {
+      "name": "ny2015_chocfountain_64_e_2_11",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_11",
+      "x": 7,
+      "y": 60,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_12": {
+      "name": "ny2015_chocfountain_64_e_2_12",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_12",
+      "x": 7,
+      "y": 59,
+      "exists": false
+    },
+    "ny2015_chocfountain_64_e_2_13": {
+      "name": "ny2015_chocfountain_64_e_2_13",
+      "flipH": 1,
+      "source": "ny2015_chocfountain_64_e_0_13",
+      "x": 7,
+      "y": 60,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  2,
+                  3,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  12,
+                  13,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  2,
+                  3,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  9,
+                  10,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  8,
+                  9,
+                  12,
+                  13,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  6,
+                  7,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "ny2015_chocfountain",
+    "visualization": "furniture_animated"
+  }
+}

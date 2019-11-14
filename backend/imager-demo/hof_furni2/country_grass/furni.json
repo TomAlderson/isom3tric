@@ -1,0 +1,296 @@
+{
+  "assets": {
+    "country_grass_64_a_0_0": {
+      "name": "country_grass_64_a_0_0",
+      "x": 62,
+      "y": 20,
+      "exists": true
+    },
+    "country_grass_64_a_0_1": {
+      "name": "country_grass_64_a_0_1",
+      "x": 58,
+      "y": 8,
+      "exists": true
+    },
+    "country_grass_64_a_0_2": {
+      "name": "country_grass_64_a_0_2",
+      "x": 62,
+      "y": 15,
+      "exists": true
+    },
+    "country_grass_64_a_2_0": {
+      "name": "country_grass_64_a_2_0",
+      "flipH": 1,
+      "source": "country_grass_64_a_0_0",
+      "x": 62,
+      "y": 20,
+      "exists": false
+    },
+    "country_grass_64_a_2_1": {
+      "name": "country_grass_64_a_2_1",
+      "x": 64,
+      "y": 14,
+      "exists": true
+    },
+    "country_grass_64_a_2_2": {
+      "name": "country_grass_64_a_2_2",
+      "x": 64,
+      "y": 19,
+      "exists": true
+    },
+    "country_grass_64_a_4_0": {
+      "name": "country_grass_64_a_4_0",
+      "source": "country_grass_64_a_0_0",
+      "x": 62,
+      "y": 20,
+      "exists": false
+    },
+    "country_grass_64_a_4_1": {
+      "name": "country_grass_64_a_4_1",
+      "x": 58,
+      "y": 18,
+      "exists": true
+    },
+    "country_grass_64_a_4_2": {
+      "name": "country_grass_64_a_4_2",
+      "x": 59,
+      "y": 19,
+      "exists": true
+    },
+    "country_grass_64_a_6_0": {
+      "name": "country_grass_64_a_6_0",
+      "flipH": 1,
+      "source": "country_grass_64_a_0_0",
+      "x": 62,
+      "y": 20,
+      "exists": false
+    },
+    "country_grass_64_a_6_1": {
+      "name": "country_grass_64_a_6_1",
+      "x": 41,
+      "y": 14,
+      "exists": true
+    },
+    "country_grass_64_a_6_2": {
+      "name": "country_grass_64_a_6_2",
+      "x": 57,
+      "y": 15,
+      "exists": true
+    },
+    "country_grass_icon_a": {
+      "name": "country_grass_icon_a",
+      "x": 13,
+      "y": 7,
+      "exists": true
+    },
+    "country_grass_32_a_0_0": {
+      "name": "country_grass_32_a_0_0",
+      "x": 30,
+      "y": 9,
+      "exists": true
+    },
+    "country_grass_32_a_0_1": {
+      "name": "country_grass_32_a_0_1",
+      "x": 28,
+      "y": 4,
+      "exists": true
+    },
+    "country_grass_32_a_0_2": {
+      "name": "country_grass_32_a_0_2",
+      "x": 31,
+      "y": 6,
+      "exists": true
+    },
+    "country_grass_32_a_2_0": {
+      "name": "country_grass_32_a_2_0",
+      "flipH": 1,
+      "source": "country_grass_32_a_0_0",
+      "x": 30,
+      "y": 9,
+      "exists": false
+    },
+    "country_grass_32_a_2_1": {
+      "name": "country_grass_32_a_2_1",
+      "x": 30,
+      "y": 6,
+      "exists": true
+    },
+    "country_grass_32_a_2_2": {
+      "name": "country_grass_32_a_2_2",
+      "x": 30,
+      "y": 9,
+      "exists": true
+    },
+    "country_grass_32_a_4_0": {
+      "name": "country_grass_32_a_4_0",
+      "source": "country_grass_32_a_0_0",
+      "x": 30,
+      "y": 9,
+      "exists": false
+    },
+    "country_grass_32_a_4_1": {
+      "name": "country_grass_32_a_4_1",
+      "x": 29,
+      "y": 9,
+      "exists": true
+    },
+    "country_grass_32_a_4_2": {
+      "name": "country_grass_32_a_4_2",
+      "x": 28,
+      "y": 9,
+      "exists": true
+    },
+    "country_grass_32_a_6_0": {
+      "name": "country_grass_32_a_6_0",
+      "flipH": 1,
+      "source": "country_grass_32_a_0_0",
+      "x": 30,
+      "y": 9,
+      "exists": false
+    },
+    "country_grass_32_a_6_1": {
+      "name": "country_grass_32_a_6_1",
+      "x": 17,
+      "y": 6,
+      "exists": true
+    },
+    "country_grass_32_a_6_2": {
+      "name": "country_grass_32_a_6_2",
+      "x": 28,
+      "y": 6,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "country_grass",
+    "visualization": "furniture_animated"
+  }
+}

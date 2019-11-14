@@ -1,0 +1,298 @@
+{
+  "assets": {
+    "hc3_hugelamp_icon_a": {
+      "name": "hc3_hugelamp_icon_a",
+      "x": 15,
+      "y": 15,
+      "exists": true
+    },
+    "hc3_hugelamp_64_sd_4_0": {
+      "name": "hc3_hugelamp_64_sd_4_0",
+      "x": 52,
+      "y": 12,
+      "exists": true
+    },
+    "hc3_hugelamp_64_a_4_0": {
+      "name": "hc3_hugelamp_64_a_4_0",
+      "x": 50,
+      "y": 314,
+      "exists": true
+    },
+    "hc3_hugelamp_64_b_4_0": {
+      "name": "hc3_hugelamp_64_b_4_0",
+      "x": -14,
+      "y": 149,
+      "exists": false
+    },
+    "hc3_hugelamp_64_b_4_1": {
+      "name": "hc3_hugelamp_64_b_4_1",
+      "x": 106,
+      "y": 275,
+      "exists": true
+    },
+    "hc3_hugelamp_64_c_4_0": {
+      "name": "hc3_hugelamp_64_c_4_0",
+      "x": 22,
+      "y": 154,
+      "exists": true
+    },
+    "hc3_hugelamp_64_c_4_1": {
+      "name": "hc3_hugelamp_64_c_4_1",
+      "x": 50,
+      "y": 314,
+      "exists": true
+    },
+    "hc3_hugelamp_32_sd_4_0": {
+      "name": "hc3_hugelamp_32_sd_4_0",
+      "x": 25,
+      "y": 5,
+      "exists": true
+    },
+    "hc3_hugelamp_32_a_4_0": {
+      "name": "hc3_hugelamp_32_a_4_0",
+      "x": 25,
+      "y": 157,
+      "exists": true
+    },
+    "hc3_hugelamp_32_b_4_0": {
+      "name": "hc3_hugelamp_32_b_4_0",
+      "x": -22,
+      "y": 81,
+      "exists": false
+    },
+    "hc3_hugelamp_32_b_4_1": {
+      "name": "hc3_hugelamp_32_b_4_1",
+      "x": 52,
+      "y": 137,
+      "exists": true
+    },
+    "hc3_hugelamp_32_c_4_0": {
+      "name": "hc3_hugelamp_32_c_4_0",
+      "x": 13,
+      "y": 76,
+      "exists": false
+    },
+    "hc3_hugelamp_32_c_4_1": {
+      "name": "hc3_hugelamp_32_c_4_1",
+      "x": 25,
+      "y": 108,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "z": -10
+        },
+        {
+          "layerId": 2,
+          "z": 10
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY",
+          "alpha": 255
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "z": -10
+        },
+        {
+          "layerId": 2,
+          "z": 10
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hc3_hugelamp",
+    "visualization": "furniture_animated"
+  }
+}

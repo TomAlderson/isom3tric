@@ -1,0 +1,216 @@
+{
+  "assets": {
+    "prizetrophy_roller_32_a_0_0": {
+      "name": "prizetrophy_roller_32_a_0_0",
+      "x": 11,
+      "y": 23,
+      "exists": true
+    },
+    "prizetrophy_roller_32_c_0_0": {
+      "name": "prizetrophy_roller_32_c_0_0",
+      "x": 9,
+      "y": 43,
+      "exists": true
+    },
+    "prizetrophy_roller_32_b_0_0": {
+      "name": "prizetrophy_roller_32_b_0_0",
+      "x": 10,
+      "y": 44,
+      "exists": true
+    },
+    "prizetrophy_roller_64_a_0_0": {
+      "name": "prizetrophy_roller_64_a_0_0",
+      "x": 22,
+      "y": 46,
+      "exists": true
+    },
+    "prizetrophy_roller_64_c_0_0": {
+      "name": "prizetrophy_roller_64_c_0_0",
+      "x": 15,
+      "y": 80,
+      "exists": true
+    },
+    "prizetrophy_roller_64_b_0_0": {
+      "name": "prizetrophy_roller_64_b_0_0",
+      "x": 15,
+      "y": 81,
+      "exists": true
+    },
+    "prizetrophy_roller_icon_a": {
+      "name": "prizetrophy_roller_icon_a",
+      "x": 9,
+      "y": 13,
+      "exists": true
+    },
+    "prizetrophy_roller_32_a_6_0": {
+      "name": "prizetrophy_roller_32_a_6_0",
+      "flipH": 1,
+      "source": "prizetrophy_roller_32_a_0_0",
+      "x": 11,
+      "y": 23,
+      "exists": false
+    },
+    "prizetrophy_roller_32_c_6_0": {
+      "name": "prizetrophy_roller_32_c_6_0",
+      "flipH": 1,
+      "source": "prizetrophy_roller_32_c_0_0",
+      "x": 9,
+      "y": 43,
+      "exists": false
+    },
+    "prizetrophy_roller_32_b_6_0": {
+      "name": "prizetrophy_roller_32_b_6_0",
+      "flipH": 1,
+      "source": "prizetrophy_roller_32_b_0_0",
+      "x": 10,
+      "y": 44,
+      "exists": false
+    },
+    "prizetrophy_roller_64_a_6_0": {
+      "name": "prizetrophy_roller_64_a_6_0",
+      "flipH": 1,
+      "source": "prizetrophy_roller_64_a_0_0",
+      "x": 22,
+      "y": 46,
+      "exists": false
+    },
+    "prizetrophy_roller_64_c_6_0": {
+      "name": "prizetrophy_roller_64_c_6_0",
+      "flipH": 1,
+      "source": "prizetrophy_roller_64_c_0_0",
+      "x": 15,
+      "y": 80,
+      "exists": false
+    },
+    "prizetrophy_roller_64_b_6_0": {
+      "name": "prizetrophy_roller_64_b_6_0",
+      "flipH": 1,
+      "source": "prizetrophy_roller_64_b_0_0",
+      "x": 15,
+      "y": 81,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 3
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 0,
+            "color": "FFDD3F"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 0,
+            "color": "FFFFFF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 0,
+            "color": "BF4705"
+          }
+        ]
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 2,
+            "color": "FFDD3F"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 2,
+            "color": "FFFFFF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 2,
+            "color": "BF4705"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "colors": {
+        "1": [
+          {
+            "layerId": 2,
+            "color": "FFDD3F"
+          }
+        ],
+        "2": [
+          {
+            "layerId": 2,
+            "color": "FFFFFF"
+          }
+        ],
+        "3": [
+          {
+            "layerId": 2,
+            "color": "BF4705"
+          }
+        ]
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_trophy",
+    "type": "prizetrophy_roller",
+    "visualization": "furniture_static"
+  }
+}

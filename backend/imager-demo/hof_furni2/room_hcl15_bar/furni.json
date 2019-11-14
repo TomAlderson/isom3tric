@@ -1,0 +1,313 @@
+{
+  "assets": {
+    "room_hcl15_bar_64_a_0_0": {
+      "name": "room_hcl15_bar_64_a_0_0",
+      "x": 28,
+      "y": 53,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_1": {
+      "name": "room_hcl15_bar_64_a_0_1",
+      "x": 32,
+      "y": 55,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_2": {
+      "name": "room_hcl15_bar_64_a_0_2",
+      "x": 32,
+      "y": 55,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_3": {
+      "name": "room_hcl15_bar_64_a_0_3",
+      "x": 28,
+      "y": 58,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_4": {
+      "name": "room_hcl15_bar_64_a_0_4",
+      "x": 28,
+      "y": 55,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_5": {
+      "name": "room_hcl15_bar_64_a_0_5",
+      "x": 28,
+      "y": 55,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_6": {
+      "name": "room_hcl15_bar_64_a_0_6",
+      "x": 28,
+      "y": 55,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_7": {
+      "name": "room_hcl15_bar_64_a_0_7",
+      "x": 31,
+      "y": 57,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_8": {
+      "name": "room_hcl15_bar_64_a_0_8",
+      "x": 31,
+      "y": 56,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_9": {
+      "name": "room_hcl15_bar_64_a_0_9",
+      "x": 31,
+      "y": 55,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_10": {
+      "name": "room_hcl15_bar_64_a_0_10",
+      "x": 29,
+      "y": 54,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_11": {
+      "name": "room_hcl15_bar_64_a_0_11",
+      "x": 30,
+      "y": 54,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_12": {
+      "name": "room_hcl15_bar_64_a_0_12",
+      "x": 29,
+      "y": 54,
+      "exists": true
+    },
+    "room_hcl15_bar_64_a_0_13": {
+      "name": "room_hcl15_bar_64_a_0_13",
+      "x": 29,
+      "y": 68,
+      "exists": true
+    },
+    "room_hcl15_bar_icon_a": {
+      "name": "room_hcl15_bar_icon_a",
+      "x": 14,
+      "y": 11,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            }
+          ]
+        },
+        "7": {
+          "id": 7,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            }
+          ]
+        },
+        "8": {
+          "id": 8,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  8
+                ]
+              ]
+            }
+          ]
+        },
+        "9": {
+          "id": 9,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            }
+          ]
+        },
+        "10": {
+          "id": 10,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  10
+                ]
+              ]
+            }
+          ]
+        },
+        "11": {
+          "id": 11,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  11
+                ]
+              ]
+            }
+          ]
+        },
+        "12": {
+          "id": 12,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  12
+                ]
+              ]
+            }
+          ]
+        },
+        "13": {
+          "id": 13,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  13
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "room_hcl15_bar",
+    "visualization": "furniture_animated"
+  }
+}

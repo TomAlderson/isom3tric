@@ -1,0 +1,76 @@
+{
+  "assets": {
+    "ads_spiderman_trophy_icon_a": {
+      "name": "ads_spiderman_trophy_icon_a",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "ads_spiderman_trophy_64_a_2_0": {
+      "name": "ads_spiderman_trophy_64_a_2_0",
+      "x": 33,
+      "y": 114,
+      "exists": true
+    },
+    "ads_spiderman_trophy_64_a_4_0": {
+      "name": "ads_spiderman_trophy_64_a_4_0",
+      "x": 33,
+      "y": 114,
+      "exists": true
+    },
+    "ads_spiderman_trophy_32_a_2_0": {
+      "name": "ads_spiderman_trophy_32_a_2_0",
+      "x": 17,
+      "y": 59,
+      "exists": true
+    },
+    "ads_spiderman_trophy_32_a_4_0": {
+      "name": "ads_spiderman_trophy_32_a_4_0",
+      "x": 17,
+      "y": 59,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "ads_spiderman_trophy",
+    "visualization": "furniture_static"
+  }
+}

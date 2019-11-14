@@ -1,0 +1,110 @@
+{
+  "assets": {
+    "garden_seed_64_a_0_0": {
+      "name": "garden_seed_64_a_0_0",
+      "x": 21,
+      "y": 110,
+      "exists": true
+    },
+    "garden_seed_32_a_0_0": {
+      "name": "garden_seed_32_a_0_0",
+      "x": 10,
+      "y": 53,
+      "exists": true
+    },
+    "garden_seed_icon_a": {
+      "name": "garden_seed_icon_a",
+      "x": 7,
+      "y": 17,
+      "exists": true
+    },
+    "garden_seed_64_a_2_0": {
+      "name": "garden_seed_64_a_2_0",
+      "flipH": 1,
+      "source": "garden_seed_64_a_0_0",
+      "x": 21,
+      "y": 110,
+      "exists": false
+    },
+    "garden_seed_32_a_2_0": {
+      "name": "garden_seed_32_a_2_0",
+      "flipH": 1,
+      "source": "garden_seed_32_a_0_0",
+      "x": 10,
+      "y": 53,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "garden_seed",
+    "visualization": "furniture_static"
+  }
+}

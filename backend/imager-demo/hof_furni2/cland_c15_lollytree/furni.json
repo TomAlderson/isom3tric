@@ -1,0 +1,145 @@
+{
+  "assets": {
+    "cland_c15_lollytree_64_sd_2_0": {
+      "name": "cland_c15_lollytree_64_sd_2_0",
+      "x": 13,
+      "y": 6,
+      "exists": true
+    },
+    "cland_c15_lollytree_64_a_2_0": {
+      "name": "cland_c15_lollytree_64_a_2_0",
+      "x": 44,
+      "y": 184,
+      "exists": true
+    },
+    "cland_c15_lollytree_64_a_2_1": {
+      "name": "cland_c15_lollytree_64_a_2_1",
+      "x": 22,
+      "y": 85,
+      "exists": true
+    },
+    "cland_c15_lollytree_64_a_2_2": {
+      "name": "cland_c15_lollytree_64_a_2_2",
+      "x": 26,
+      "y": 63,
+      "exists": true
+    },
+    "cland_c15_lollytree_icon_a": {
+      "name": "cland_c15_lollytree_icon_a",
+      "x": 8,
+      "y": 13,
+      "exists": true
+    },
+    "cland_c15_lollytree_64_sd_4_0": {
+      "name": "cland_c15_lollytree_64_sd_4_0",
+      "flipH": 1,
+      "source": "cland_c15_lollytree_64_sd_2_0",
+      "x": 13,
+      "y": 6,
+      "exists": false
+    },
+    "cland_c15_lollytree_64_a_4_0": {
+      "name": "cland_c15_lollytree_64_a_4_0",
+      "flipH": 1,
+      "source": "cland_c15_lollytree_64_a_2_0",
+      "x": 44,
+      "y": 184,
+      "exists": false
+    },
+    "cland_c15_lollytree_64_a_4_1": {
+      "name": "cland_c15_lollytree_64_a_4_1",
+      "flipH": 1,
+      "source": "cland_c15_lollytree_64_a_2_1",
+      "x": 22,
+      "y": 85,
+      "exists": false
+    },
+    "cland_c15_lollytree_64_a_4_2": {
+      "name": "cland_c15_lollytree_64_a_4_2",
+      "flipH": 1,
+      "source": "cland_c15_lollytree_64_a_2_2",
+      "x": 26,
+      "y": 63,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "cland_c15_lollytree",
+    "visualization": "furniture_animated"
+  }
+}

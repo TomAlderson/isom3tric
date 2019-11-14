@@ -1,0 +1,255 @@
+{
+  "assets": {
+    "petfood27_64_sd_2_0": {
+      "name": "petfood27_64_sd_2_0",
+      "x": 18,
+      "y": 1,
+      "exists": true
+    },
+    "petfood27_64_a_2_4": {
+      "name": "petfood27_64_a_2_4",
+      "x": 26,
+      "y": 20,
+      "exists": true
+    },
+    "petfood27_64_a_2_3": {
+      "name": "petfood27_64_a_2_3",
+      "x": 26,
+      "y": 20,
+      "exists": true
+    },
+    "petfood27_64_a_2_2": {
+      "name": "petfood27_64_a_2_2",
+      "x": 26,
+      "y": 28,
+      "exists": true
+    },
+    "petfood27_64_a_2_1": {
+      "name": "petfood27_64_a_2_1",
+      "x": 26,
+      "y": 35,
+      "exists": true
+    },
+    "petfood27_64_a_2_0": {
+      "name": "petfood27_64_a_2_0",
+      "x": 20,
+      "y": 37,
+      "exists": true
+    },
+    "petfood27_32_sd_2_0": {
+      "name": "petfood27_32_sd_2_0",
+      "x": 10,
+      "y": 2,
+      "exists": true
+    },
+    "petfood27_32_a_2_4": {
+      "name": "petfood27_32_a_2_4",
+      "x": 13,
+      "y": 11,
+      "exists": true
+    },
+    "petfood27_32_a_2_3": {
+      "name": "petfood27_32_a_2_3",
+      "x": 13,
+      "y": 11,
+      "exists": true
+    },
+    "petfood27_32_a_2_2": {
+      "name": "petfood27_32_a_2_2",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "petfood27_32_a_2_1": {
+      "name": "petfood27_32_a_2_1",
+      "x": 13,
+      "y": 18,
+      "exists": true
+    },
+    "petfood27_32_a_2_0": {
+      "name": "petfood27_32_a_2_0",
+      "x": 10,
+      "y": 19,
+      "exists": true
+    },
+    "petfood27_icon_a": {
+      "name": "petfood27_icon_a",
+      "x": 6,
+      "y": 18,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "petfood27",
+    "visualization": "furniture_animated"
+  }
+}

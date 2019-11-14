@@ -1,0 +1,447 @@
+{
+  "assets": {
+    "easter_c19_chillgnome_64_sd_2_0": {
+      "name": "easter_c19_chillgnome_64_sd_2_0",
+      "x": 16,
+      "y": 6,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_0": {
+      "name": "easter_c19_chillgnome_64_a_2_0",
+      "x": 23,
+      "y": 54,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_1": {
+      "name": "easter_c19_chillgnome_64_a_2_1",
+      "x": 23,
+      "y": 52,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_2": {
+      "name": "easter_c19_chillgnome_64_a_2_2",
+      "x": 24,
+      "y": 57,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_3": {
+      "name": "easter_c19_chillgnome_64_a_2_3",
+      "x": 23,
+      "y": 54,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_4": {
+      "name": "easter_c19_chillgnome_64_a_2_4",
+      "x": 23,
+      "y": 54,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_5": {
+      "name": "easter_c19_chillgnome_64_a_2_5",
+      "x": 23,
+      "y": 54,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_6": {
+      "name": "easter_c19_chillgnome_64_a_2_6",
+      "x": 23,
+      "y": 59,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_7": {
+      "name": "easter_c19_chillgnome_64_a_2_7",
+      "x": 22,
+      "y": 66,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_8": {
+      "name": "easter_c19_chillgnome_64_a_2_8",
+      "x": 22,
+      "y": 71,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_9": {
+      "name": "easter_c19_chillgnome_64_a_2_9",
+      "x": 25,
+      "y": 79,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_10": {
+      "name": "easter_c19_chillgnome_64_a_2_10",
+      "x": 25,
+      "y": 81,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_11": {
+      "name": "easter_c19_chillgnome_64_a_2_11",
+      "x": 22,
+      "y": 83,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_12": {
+      "name": "easter_c19_chillgnome_64_a_2_12",
+      "x": 21,
+      "y": 54,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_13": {
+      "name": "easter_c19_chillgnome_64_a_2_13",
+      "x": 22,
+      "y": 55,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_14": {
+      "name": "easter_c19_chillgnome_64_a_2_14",
+      "x": 23,
+      "y": 54,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_15": {
+      "name": "easter_c19_chillgnome_64_a_2_15",
+      "x": 19,
+      "y": 53,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_16": {
+      "name": "easter_c19_chillgnome_64_a_2_16",
+      "x": 21,
+      "y": 51,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_17": {
+      "name": "easter_c19_chillgnome_64_a_2_17",
+      "x": 20,
+      "y": 54,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_18": {
+      "name": "easter_c19_chillgnome_64_a_2_18",
+      "x": 22,
+      "y": 53,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_a_2_19": {
+      "name": "easter_c19_chillgnome_64_a_2_19",
+      "x": 23,
+      "y": 53,
+      "exists": true
+    },
+    "easter_c19_chillgnome_icon_a": {
+      "name": "easter_c19_chillgnome_icon_a",
+      "x": 11,
+      "y": 14,
+      "exists": true
+    },
+    "easter_c19_chillgnome_64_sd_4_0": {
+      "name": "easter_c19_chillgnome_64_sd_4_0",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_sd_2_0",
+      "x": 16,
+      "y": 6,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_0": {
+      "name": "easter_c19_chillgnome_64_a_4_0",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_0",
+      "x": 23,
+      "y": 54,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_1": {
+      "name": "easter_c19_chillgnome_64_a_4_1",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_1",
+      "x": 23,
+      "y": 52,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_2": {
+      "name": "easter_c19_chillgnome_64_a_4_2",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_2",
+      "x": 24,
+      "y": 57,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_3": {
+      "name": "easter_c19_chillgnome_64_a_4_3",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_3",
+      "x": 23,
+      "y": 54,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_4": {
+      "name": "easter_c19_chillgnome_64_a_4_4",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_4",
+      "x": 23,
+      "y": 54,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_5": {
+      "name": "easter_c19_chillgnome_64_a_4_5",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_5",
+      "x": 23,
+      "y": 54,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_6": {
+      "name": "easter_c19_chillgnome_64_a_4_6",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_6",
+      "x": 23,
+      "y": 59,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_7": {
+      "name": "easter_c19_chillgnome_64_a_4_7",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_7",
+      "x": 22,
+      "y": 66,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_8": {
+      "name": "easter_c19_chillgnome_64_a_4_8",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_8",
+      "x": 22,
+      "y": 71,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_9": {
+      "name": "easter_c19_chillgnome_64_a_4_9",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_9",
+      "x": 25,
+      "y": 79,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_10": {
+      "name": "easter_c19_chillgnome_64_a_4_10",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_10",
+      "x": 25,
+      "y": 81,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_11": {
+      "name": "easter_c19_chillgnome_64_a_4_11",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_11",
+      "x": 22,
+      "y": 83,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_12": {
+      "name": "easter_c19_chillgnome_64_a_4_12",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_12",
+      "x": 21,
+      "y": 54,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_13": {
+      "name": "easter_c19_chillgnome_64_a_4_13",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_13",
+      "x": 22,
+      "y": 55,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_14": {
+      "name": "easter_c19_chillgnome_64_a_4_14",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_14",
+      "x": 23,
+      "y": 54,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_15": {
+      "name": "easter_c19_chillgnome_64_a_4_15",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_15",
+      "x": 19,
+      "y": 53,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_16": {
+      "name": "easter_c19_chillgnome_64_a_4_16",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_16",
+      "x": 21,
+      "y": 51,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_17": {
+      "name": "easter_c19_chillgnome_64_a_4_17",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_17",
+      "x": 20,
+      "y": 54,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_18": {
+      "name": "easter_c19_chillgnome_64_a_4_18",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_18",
+      "x": 22,
+      "y": 53,
+      "exists": false
+    },
+    "easter_c19_chillgnome_64_a_4_19": {
+      "name": "easter_c19_chillgnome_64_a_4_19",
+      "flipH": 1,
+      "source": "easter_c19_chillgnome_64_a_2_19",
+      "x": 23,
+      "y": 53,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "easter_c19_chillgnome",
+    "visualization": "furniture_animated"
+  }
+}

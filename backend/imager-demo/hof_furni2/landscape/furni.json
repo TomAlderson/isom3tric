@@ -1,0 +1,90 @@
+{
+  "assets": {
+    "landscape_icon_a": {
+      "name": "landscape_icon_a",
+      "x": 12,
+      "y": 13,
+      "exists": false
+    },
+    "landscape_64_a_2_0": {
+      "name": "landscape_64_a_2_0",
+      "x": 12,
+      "y": 13,
+      "exists": false
+    },
+    "landscape_64_a_4_0": {
+      "name": "landscape_64_a_4_0",
+      "x": 12,
+      "y": 13,
+      "exists": false
+    },
+    "landscape_32_a_2_0": {
+      "name": "landscape_32_a_2_0",
+      "x": 12,
+      "y": 13,
+      "exists": false
+    },
+    "landscape_32_a_4_0": {
+      "name": "landscape_32_a_4_0",
+      "x": 12,
+      "y": 13,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 0.7813,
+      "y": 0.2,
+      "z": 0.625
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -3000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "landscape",
+    "visualization": "furniture_static"
+  }
+}

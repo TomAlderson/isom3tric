@@ -1,0 +1,421 @@
+{
+  "assets": {
+    "ktchn_c15_dishwasher_64_a_4_0": {
+      "name": "ktchn_c15_dishwasher_64_a_4_0",
+      "x": 28,
+      "y": 54,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_a_4_1": {
+      "name": "ktchn_c15_dishwasher_64_a_4_1",
+      "x": 28,
+      "y": 54,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_a_4_2": {
+      "name": "ktchn_c15_dishwasher_64_a_4_2",
+      "x": 39,
+      "y": 54,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_b_4_0": {
+      "name": "ktchn_c15_dishwasher_64_b_4_0",
+      "x": 0,
+      "y": -13,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_b_4_1": {
+      "name": "ktchn_c15_dishwasher_64_b_4_1",
+      "x": 29,
+      "y": 34,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_b_4_2": {
+      "name": "ktchn_c15_dishwasher_64_b_4_2",
+      "x": 30,
+      "y": 34,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_b_4_3": {
+      "name": "ktchn_c15_dishwasher_64_b_4_3",
+      "x": 31,
+      "y": 35,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_b_4_4": {
+      "name": "ktchn_c15_dishwasher_64_b_4_4",
+      "x": 30,
+      "y": 34,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_b_4_5": {
+      "name": "ktchn_c15_dishwasher_64_b_4_5",
+      "x": 35,
+      "y": 37,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_b_4_6": {
+      "name": "ktchn_c15_dishwasher_64_b_4_6",
+      "x": 33,
+      "y": 36,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_b_4_7": {
+      "name": "ktchn_c15_dishwasher_64_b_4_7",
+      "x": 33,
+      "y": 35,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_c_4_0": {
+      "name": "ktchn_c15_dishwasher_64_c_4_0",
+      "x": 0,
+      "y": -13,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_c_4_1": {
+      "name": "ktchn_c15_dishwasher_64_c_4_1",
+      "x": 41,
+      "y": 49,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_c_4_2": {
+      "name": "ktchn_c15_dishwasher_64_c_4_2",
+      "x": 47,
+      "y": 57,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_c_4_3": {
+      "name": "ktchn_c15_dishwasher_64_c_4_3",
+      "x": 50,
+      "y": 62,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_c_4_4": {
+      "name": "ktchn_c15_dishwasher_64_c_4_4",
+      "x": 44,
+      "y": 66,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_c_4_5": {
+      "name": "ktchn_c15_dishwasher_64_c_4_5",
+      "x": 49,
+      "y": 69,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_c_4_6": {
+      "name": "ktchn_c15_dishwasher_64_c_4_6",
+      "x": 46,
+      "y": 73,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_c_4_7": {
+      "name": "ktchn_c15_dishwasher_64_c_4_7",
+      "x": 42,
+      "y": 74,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_icon_a": {
+      "name": "ktchn_c15_dishwasher_icon_a",
+      "x": 10,
+      "y": 12,
+      "exists": true
+    },
+    "ktchn_c15_dishwasher_64_a_2_0": {
+      "name": "ktchn_c15_dishwasher_64_a_2_0",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_a_4_0",
+      "x": 28,
+      "y": 54,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_a_2_1": {
+      "name": "ktchn_c15_dishwasher_64_a_2_1",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_a_4_1",
+      "x": 28,
+      "y": 54,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_a_2_2": {
+      "name": "ktchn_c15_dishwasher_64_a_2_2",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_a_4_2",
+      "x": 39,
+      "y": 54,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_b_2_0": {
+      "name": "ktchn_c15_dishwasher_64_b_2_0",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_b_4_0",
+      "x": 0,
+      "y": -13,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_b_2_1": {
+      "name": "ktchn_c15_dishwasher_64_b_2_1",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_b_4_1",
+      "x": 29,
+      "y": 34,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_b_2_2": {
+      "name": "ktchn_c15_dishwasher_64_b_2_2",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_b_4_2",
+      "x": 30,
+      "y": 34,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_b_2_3": {
+      "name": "ktchn_c15_dishwasher_64_b_2_3",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_b_4_3",
+      "x": 31,
+      "y": 35,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_b_2_4": {
+      "name": "ktchn_c15_dishwasher_64_b_2_4",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_b_4_4",
+      "x": 30,
+      "y": 34,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_b_2_5": {
+      "name": "ktchn_c15_dishwasher_64_b_2_5",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_b_4_5",
+      "x": 35,
+      "y": 37,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_b_2_6": {
+      "name": "ktchn_c15_dishwasher_64_b_2_6",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_b_4_6",
+      "x": 33,
+      "y": 36,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_b_2_7": {
+      "name": "ktchn_c15_dishwasher_64_b_2_7",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_b_4_7",
+      "x": 33,
+      "y": 35,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_c_2_0": {
+      "name": "ktchn_c15_dishwasher_64_c_2_0",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_c_4_0",
+      "x": 0,
+      "y": -13,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_c_2_1": {
+      "name": "ktchn_c15_dishwasher_64_c_2_1",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_c_4_1",
+      "x": 41,
+      "y": 49,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_c_2_2": {
+      "name": "ktchn_c15_dishwasher_64_c_2_2",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_c_4_2",
+      "x": 47,
+      "y": 57,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_c_2_3": {
+      "name": "ktchn_c15_dishwasher_64_c_2_3",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_c_4_3",
+      "x": 50,
+      "y": 62,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_c_2_4": {
+      "name": "ktchn_c15_dishwasher_64_c_2_4",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_c_4_4",
+      "x": 44,
+      "y": 66,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_c_2_5": {
+      "name": "ktchn_c15_dishwasher_64_c_2_5",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_c_4_5",
+      "x": 49,
+      "y": 69,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_c_2_6": {
+      "name": "ktchn_c15_dishwasher_64_c_2_6",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_c_4_6",
+      "x": 46,
+      "y": 73,
+      "exists": false
+    },
+    "ktchn_c15_dishwasher_64_c_2_7": {
+      "name": "ktchn_c15_dishwasher_64_c_2_7",
+      "flipH": 1,
+      "source": "ktchn_c15_dishwasher_64_c_4_7",
+      "x": 42,
+      "y": 74,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.25
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "ktchn_c15_dishwasher",
+    "visualization": "furniture_animated"
+  }
+}

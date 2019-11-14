@@ -1,0 +1,424 @@
+{
+  "assets": {
+    "toaster_32_sd_0_0": {
+      "name": "toaster_32_sd_0_0",
+      "x": 8,
+      "y": 0,
+      "exists": true
+    },
+    "toaster_32_a_0_0": {
+      "name": "toaster_32_a_0_0",
+      "x": 8,
+      "y": 10,
+      "exists": true
+    },
+    "toaster_32_b_0_0": {
+      "name": "toaster_32_b_0_0",
+      "x": 6,
+      "y": 1,
+      "exists": true
+    },
+    "toaster_32_b_0_1": {
+      "name": "toaster_32_b_0_1",
+      "x": 6,
+      "y": 12,
+      "exists": true
+    },
+    "toaster_32_b_0_2": {
+      "name": "toaster_32_b_0_2",
+      "x": 6,
+      "y": 18,
+      "exists": true
+    },
+    "toaster_32_b_0_3": {
+      "name": "toaster_32_b_0_3",
+      "x": 6,
+      "y": 23,
+      "exists": true
+    },
+    "toaster_32_b_0_4": {
+      "name": "toaster_32_b_0_4",
+      "x": 6,
+      "y": 26,
+      "exists": true
+    },
+    "toaster_32_b_0_5": {
+      "name": "toaster_32_b_0_5",
+      "x": 6,
+      "y": 23,
+      "exists": true
+    },
+    "toaster_32_b_0_6": {
+      "name": "toaster_32_b_0_6",
+      "x": 6,
+      "y": 18,
+      "exists": true
+    },
+    "toaster_32_b_0_7": {
+      "name": "toaster_32_b_0_7",
+      "x": 6,
+      "y": 13,
+      "exists": true
+    },
+    "toaster_32_b_0_8": {
+      "name": "toaster_32_b_0_8",
+      "x": 6,
+      "y": 2,
+      "exists": false
+    },
+    "toaster_64_sd_0_0": {
+      "name": "toaster_64_sd_0_0",
+      "x": 14,
+      "y": 0,
+      "exists": true
+    },
+    "toaster_64_a_0_0": {
+      "name": "toaster_64_a_0_0",
+      "x": 14,
+      "y": 19,
+      "exists": true
+    },
+    "toaster_64_b_0_0": {
+      "name": "toaster_64_b_0_0",
+      "x": 11,
+      "y": 0,
+      "exists": true
+    },
+    "toaster_64_b_0_1": {
+      "name": "toaster_64_b_0_1",
+      "x": 11,
+      "y": 24,
+      "exists": true
+    },
+    "toaster_64_b_0_2": {
+      "name": "toaster_64_b_0_2",
+      "x": 11,
+      "y": 34,
+      "exists": true
+    },
+    "toaster_64_b_0_3": {
+      "name": "toaster_64_b_0_3",
+      "x": 11,
+      "y": 44,
+      "exists": true
+    },
+    "toaster_64_b_0_4": {
+      "name": "toaster_64_b_0_4",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "toaster_64_b_0_5": {
+      "name": "toaster_64_b_0_5",
+      "x": 11,
+      "y": 48,
+      "exists": true
+    },
+    "toaster_64_b_0_6": {
+      "name": "toaster_64_b_0_6",
+      "x": 11,
+      "y": 40,
+      "exists": true
+    },
+    "toaster_64_b_0_7": {
+      "name": "toaster_64_b_0_7",
+      "x": 11,
+      "y": 26,
+      "exists": true
+    },
+    "toaster_64_b_0_8": {
+      "name": "toaster_64_b_0_8",
+      "x": 11,
+      "y": 19,
+      "exists": true
+    },
+    "toaster_icon_a": {
+      "name": "toaster_icon_a",
+      "x": 13,
+      "y": 13,
+      "exists": true
+    },
+    "toaster_32_sd_2_0": {
+      "name": "toaster_32_sd_2_0",
+      "flipH": 1,
+      "source": "toaster_32_sd_0_0",
+      "x": 8,
+      "y": 0,
+      "exists": false
+    },
+    "toaster_32_a_2_0": {
+      "name": "toaster_32_a_2_0",
+      "flipH": 1,
+      "source": "toaster_32_a_0_0",
+      "x": 8,
+      "y": 10,
+      "exists": false
+    },
+    "toaster_32_b_2_0": {
+      "name": "toaster_32_b_2_0",
+      "flipH": 1,
+      "source": "toaster_32_b_0_0",
+      "x": 6,
+      "y": 1,
+      "exists": false
+    },
+    "toaster_32_b_2_1": {
+      "name": "toaster_32_b_2_1",
+      "flipH": 1,
+      "source": "toaster_32_b_0_1",
+      "x": 6,
+      "y": 12,
+      "exists": false
+    },
+    "toaster_32_b_2_2": {
+      "name": "toaster_32_b_2_2",
+      "flipH": 1,
+      "source": "toaster_32_b_0_2",
+      "x": 6,
+      "y": 18,
+      "exists": false
+    },
+    "toaster_32_b_2_3": {
+      "name": "toaster_32_b_2_3",
+      "flipH": 1,
+      "source": "toaster_32_b_0_3",
+      "x": 6,
+      "y": 23,
+      "exists": false
+    },
+    "toaster_32_b_2_4": {
+      "name": "toaster_32_b_2_4",
+      "flipH": 1,
+      "source": "toaster_32_b_0_4",
+      "x": 6,
+      "y": 26,
+      "exists": false
+    },
+    "toaster_32_b_2_5": {
+      "name": "toaster_32_b_2_5",
+      "flipH": 1,
+      "source": "toaster_32_b_0_5",
+      "x": 6,
+      "y": 23,
+      "exists": false
+    },
+    "toaster_32_b_2_6": {
+      "name": "toaster_32_b_2_6",
+      "flipH": 1,
+      "source": "toaster_32_b_0_6",
+      "x": 6,
+      "y": 18,
+      "exists": false
+    },
+    "toaster_32_b_2_7": {
+      "name": "toaster_32_b_2_7",
+      "flipH": 1,
+      "source": "toaster_32_b_0_7",
+      "x": 6,
+      "y": 13,
+      "exists": false
+    },
+    "toaster_32_b_2_8": {
+      "name": "toaster_32_b_2_8",
+      "flipH": 1,
+      "source": "toaster_32_b_0_8",
+      "x": 6,
+      "y": 2,
+      "exists": false
+    },
+    "toaster_64_sd_2_0": {
+      "name": "toaster_64_sd_2_0",
+      "flipH": 1,
+      "source": "toaster_64_sd_0_0",
+      "x": 14,
+      "y": 0,
+      "exists": false
+    },
+    "toaster_64_a_2_0": {
+      "name": "toaster_64_a_2_0",
+      "flipH": 1,
+      "source": "toaster_64_a_0_0",
+      "x": 14,
+      "y": 19,
+      "exists": false
+    },
+    "toaster_64_b_2_0": {
+      "name": "toaster_64_b_2_0",
+      "flipH": 1,
+      "source": "toaster_64_b_0_0",
+      "x": 11,
+      "y": 0,
+      "exists": false
+    },
+    "toaster_64_b_2_1": {
+      "name": "toaster_64_b_2_1",
+      "flipH": 1,
+      "source": "toaster_64_b_0_1",
+      "x": 11,
+      "y": 24,
+      "exists": false
+    },
+    "toaster_64_b_2_2": {
+      "name": "toaster_64_b_2_2",
+      "flipH": 1,
+      "source": "toaster_64_b_0_2",
+      "x": 11,
+      "y": 34,
+      "exists": false
+    },
+    "toaster_64_b_2_3": {
+      "name": "toaster_64_b_2_3",
+      "flipH": 1,
+      "source": "toaster_64_b_0_3",
+      "x": 11,
+      "y": 44,
+      "exists": false
+    },
+    "toaster_64_b_2_4": {
+      "name": "toaster_64_b_2_4",
+      "flipH": 1,
+      "source": "toaster_64_b_0_4",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "toaster_64_b_2_5": {
+      "name": "toaster_64_b_2_5",
+      "flipH": 1,
+      "source": "toaster_64_b_0_5",
+      "x": 11,
+      "y": 48,
+      "exists": false
+    },
+    "toaster_64_b_2_6": {
+      "name": "toaster_64_b_2_6",
+      "flipH": 1,
+      "source": "toaster_64_b_0_6",
+      "x": 11,
+      "y": 40,
+      "exists": false
+    },
+    "toaster_64_b_2_7": {
+      "name": "toaster_64_b_2_7",
+      "flipH": 1,
+      "source": "toaster_64_b_0_7",
+      "x": 11,
+      "y": 26,
+      "exists": false
+    },
+    "toaster_64_b_2_8": {
+      "name": "toaster_64_b_2_8",
+      "flipH": 1,
+      "source": "toaster_64_b_0_8",
+      "x": 11,
+      "y": 19,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "toaster",
+    "visualization": "furniture_animated"
+  }
+}

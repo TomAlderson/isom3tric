@@ -1,0 +1,491 @@
+{
+  "assets": {
+    "easter_ltd18_habberge10_64_sd_2_0": {
+      "name": "easter_ltd18_habberge10_64_sd_2_0",
+      "x": 31,
+      "y": 11,
+      "exists": true
+    },
+    "easter_ltd18_habberge10_64_a_2_0": {
+      "name": "easter_ltd18_habberge10_64_a_2_0",
+      "x": 33,
+      "y": 104,
+      "exists": true
+    },
+    "easter_ltd18_habberge10_64_a_2_1": {
+      "name": "easter_ltd18_habberge10_64_a_2_1",
+      "x": 33,
+      "y": 189,
+      "exists": true
+    },
+    "easter_ltd18_habberge10_64_b_2_0": {
+      "name": "easter_ltd18_habberge10_64_b_2_0",
+      "x": 29,
+      "y": 54,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_b_2_1": {
+      "name": "easter_ltd18_habberge10_64_b_2_1",
+      "x": 23,
+      "y": 125,
+      "exists": true
+    },
+    "easter_ltd18_habberge10_64_c_2_0": {
+      "name": "easter_ltd18_habberge10_64_c_2_0",
+      "x": 29,
+      "y": 54,
+      "exists": true
+    },
+    "easter_ltd18_habberge10_64_c_2_1": {
+      "name": "easter_ltd18_habberge10_64_c_2_1",
+      "x": 30,
+      "y": 136,
+      "exists": true
+    },
+    "easter_ltd18_habberge10_64_d_2_0": {
+      "name": "easter_ltd18_habberge10_64_d_2_0",
+      "x": 29,
+      "y": 54,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_2_1": {
+      "name": "easter_ltd18_habberge10_64_d_2_1",
+      "x": -12,
+      "y": 86,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_2_2": {
+      "name": "easter_ltd18_habberge10_64_d_2_2",
+      "x": -10,
+      "y": 88,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_2_3": {
+      "name": "easter_ltd18_habberge10_64_d_2_3",
+      "x": -9,
+      "y": 89,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_2_4": {
+      "name": "easter_ltd18_habberge10_64_d_2_4",
+      "x": 14,
+      "y": 117,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_2_5": {
+      "name": "easter_ltd18_habberge10_64_d_2_5",
+      "x": 16,
+      "y": 119,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_2_6": {
+      "name": "easter_ltd18_habberge10_64_d_2_6",
+      "x": 17,
+      "y": 120,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_2_7": {
+      "name": "easter_ltd18_habberge10_64_d_2_7",
+      "x": 19,
+      "y": 83,
+      "exists": true
+    },
+    "easter_ltd18_habberge10_64_d_2_8": {
+      "name": "easter_ltd18_habberge10_64_d_2_8",
+      "x": 21,
+      "y": 85,
+      "exists": true
+    },
+    "easter_ltd18_habberge10_64_d_2_9": {
+      "name": "easter_ltd18_habberge10_64_d_2_9",
+      "x": 22,
+      "y": 86,
+      "exists": true
+    },
+    "easter_ltd18_habberge10_icon_a": {
+      "name": "easter_ltd18_habberge10_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "easter_ltd18_habberge10_64_sd_4_0": {
+      "name": "easter_ltd18_habberge10_64_sd_4_0",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_sd_2_0",
+      "x": 31,
+      "y": 11,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_a_4_0": {
+      "name": "easter_ltd18_habberge10_64_a_4_0",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_a_2_0",
+      "x": 33,
+      "y": 104,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_a_4_1": {
+      "name": "easter_ltd18_habberge10_64_a_4_1",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_a_2_1",
+      "x": 33,
+      "y": 189,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_b_4_0": {
+      "name": "easter_ltd18_habberge10_64_b_4_0",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_b_2_0",
+      "x": 29,
+      "y": 54,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_b_4_1": {
+      "name": "easter_ltd18_habberge10_64_b_4_1",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_b_2_1",
+      "x": 23,
+      "y": 125,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_c_4_0": {
+      "name": "easter_ltd18_habberge10_64_c_4_0",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_c_2_0",
+      "x": 29,
+      "y": 54,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_c_4_1": {
+      "name": "easter_ltd18_habberge10_64_c_4_1",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_c_2_1",
+      "x": 30,
+      "y": 136,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_4_0": {
+      "name": "easter_ltd18_habberge10_64_d_4_0",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_d_2_0",
+      "x": 29,
+      "y": 54,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_4_1": {
+      "name": "easter_ltd18_habberge10_64_d_4_1",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_d_2_1",
+      "x": -12,
+      "y": 86,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_4_2": {
+      "name": "easter_ltd18_habberge10_64_d_4_2",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_d_2_2",
+      "x": -10,
+      "y": 88,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_4_3": {
+      "name": "easter_ltd18_habberge10_64_d_4_3",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_d_2_3",
+      "x": -9,
+      "y": 89,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_4_4": {
+      "name": "easter_ltd18_habberge10_64_d_4_4",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_d_2_4",
+      "x": 14,
+      "y": 117,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_4_5": {
+      "name": "easter_ltd18_habberge10_64_d_4_5",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_d_2_5",
+      "x": 16,
+      "y": 119,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_4_6": {
+      "name": "easter_ltd18_habberge10_64_d_4_6",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_d_2_6",
+      "x": 17,
+      "y": 120,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_4_7": {
+      "name": "easter_ltd18_habberge10_64_d_4_7",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_d_2_7",
+      "x": 19,
+      "y": 83,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_4_8": {
+      "name": "easter_ltd18_habberge10_64_d_4_8",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_d_2_8",
+      "x": 21,
+      "y": 85,
+      "exists": false
+    },
+    "easter_ltd18_habberge10_64_d_4_9": {
+      "name": "easter_ltd18_habberge10_64_d_4_9",
+      "flipH": 1,
+      "source": "easter_ltd18_habberge10_64_d_2_9",
+      "x": 22,
+      "y": 86,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  4,
+                  5,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  7,
+                  8,
+                  9,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "alpha": 130
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 3
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "easter_ltd18_habberge10",
+    "visualization": "furniture_animated"
+  }
+}

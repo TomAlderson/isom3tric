@@ -1,0 +1,103 @@
+{
+  "assets": {
+    "modern_c17_speakers_64_sd_0_0": {
+      "name": "modern_c17_speakers_64_sd_0_0",
+      "x": 19,
+      "y": 13,
+      "exists": true
+    },
+    "modern_c17_speakers_64_a_0_0": {
+      "name": "modern_c17_speakers_64_a_0_0",
+      "x": 19,
+      "y": 26,
+      "exists": true
+    },
+    "modern_c17_speakers_64_b_0_0": {
+      "name": "modern_c17_speakers_64_b_0_0",
+      "x": -11,
+      "y": 11,
+      "exists": false
+    },
+    "modern_c17_speakers_icon_a": {
+      "name": "modern_c17_speakers_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "modern_c17_speakers_64_sd_2_0": {
+      "name": "modern_c17_speakers_64_sd_2_0",
+      "flipH": 1,
+      "source": "modern_c17_speakers_64_sd_0_0",
+      "x": 19,
+      "y": 13,
+      "exists": false
+    },
+    "modern_c17_speakers_64_a_2_0": {
+      "name": "modern_c17_speakers_64_a_2_0",
+      "flipH": 1,
+      "source": "modern_c17_speakers_64_a_0_0",
+      "x": 19,
+      "y": 26,
+      "exists": false
+    },
+    "modern_c17_speakers_64_b_2_0": {
+      "name": "modern_c17_speakers_64_b_2_0",
+      "flipH": 1,
+      "source": "modern_c17_speakers_64_b_0_0",
+      "x": -11,
+      "y": 11,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "modern_c17_speakers",
+    "visualization": "furniture_static"
+  }
+}

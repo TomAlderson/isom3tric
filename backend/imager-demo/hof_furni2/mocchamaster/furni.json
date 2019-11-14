@@ -1,0 +1,194 @@
+{
+  "assets": {
+    "mocchamaster_64_a_2_0": {
+      "name": "mocchamaster_64_a_2_0",
+      "x": 28,
+      "y": 128,
+      "exists": true
+    },
+    "mocchamaster_64_a_2_1": {
+      "name": "mocchamaster_64_a_2_1",
+      "x": 28,
+      "y": 128,
+      "exists": true
+    },
+    "mocchamaster_64_a_4_0": {
+      "name": "mocchamaster_64_a_4_0",
+      "flipH": 1,
+      "source": "mocchamaster_64_a_2_0",
+      "x": 28,
+      "y": 128,
+      "exists": false
+    },
+    "mocchamaster_64_a_4_1": {
+      "name": "mocchamaster_64_a_4_1",
+      "flipH": 1,
+      "source": "mocchamaster_64_a_2_1",
+      "x": 28,
+      "y": 128,
+      "exists": false
+    },
+    "mocchamaster_64_sd_2_0": {
+      "name": "mocchamaster_64_sd_2_0",
+      "x": 24,
+      "y": 5,
+      "exists": true
+    },
+    "mocchamaster_64_sd_4_0": {
+      "name": "mocchamaster_64_sd_4_0",
+      "flipH": 1,
+      "source": "mocchamaster_64_sd_2_0",
+      "x": 24,
+      "y": 5,
+      "exists": false
+    },
+    "mocchamaster_icon_a": {
+      "name": "mocchamaster_icon_a",
+      "x": 8,
+      "y": 15,
+      "exists": true
+    },
+    "mocchamaster_32_a_2_0": {
+      "name": "mocchamaster_32_a_2_0",
+      "x": 15,
+      "y": 63,
+      "exists": true
+    },
+    "mocchamaster_32_a_2_1": {
+      "name": "mocchamaster_32_a_2_1",
+      "x": 15,
+      "y": 63,
+      "exists": true
+    },
+    "mocchamaster_32_a_4_0": {
+      "name": "mocchamaster_32_a_4_0",
+      "flipH": 1,
+      "source": "mocchamaster_32_a_2_0",
+      "x": 15,
+      "y": 63,
+      "exists": false
+    },
+    "mocchamaster_32_a_4_1": {
+      "name": "mocchamaster_32_a_4_1",
+      "flipH": 1,
+      "source": "mocchamaster_32_a_2_1",
+      "x": 15,
+      "y": 63,
+      "exists": false
+    },
+    "mocchamaster_32_sd_2_0": {
+      "name": "mocchamaster_32_sd_2_0",
+      "x": 12,
+      "y": 2,
+      "exists": true
+    },
+    "mocchamaster_32_sd_4_0": {
+      "name": "mocchamaster_32_sd_4_0",
+      "flipH": 1,
+      "source": "mocchamaster_32_sd_2_0",
+      "x": 12,
+      "y": 2,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 2
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "mocchamaster",
+    "visualization": "furniture_animated"
+  }
+}

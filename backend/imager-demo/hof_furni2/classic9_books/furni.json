@@ -1,0 +1,185 @@
+{
+  "assets": {
+    "classic9_books_64_a_0_0": {
+      "name": "classic9_books_64_a_0_0",
+      "x": 17,
+      "y": 11,
+      "exists": true
+    },
+    "classic9_books_64_a_0_1": {
+      "name": "classic9_books_64_a_0_1",
+      "x": 22,
+      "y": 14,
+      "exists": true
+    },
+    "classic9_books_64_a_0_2": {
+      "name": "classic9_books_64_a_0_2",
+      "x": 18,
+      "y": 25,
+      "exists": true
+    },
+    "classic9_books_64_a_0_3": {
+      "name": "classic9_books_64_a_0_3",
+      "x": 12,
+      "y": 18,
+      "exists": true
+    },
+    "classic9_books_64_a_0_4": {
+      "name": "classic9_books_64_a_0_4",
+      "x": 14,
+      "y": 13,
+      "exists": true
+    },
+    "classic9_books_icon_a": {
+      "name": "classic9_books_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "classic9_books_64_a_2_0": {
+      "name": "classic9_books_64_a_2_0",
+      "flipH": 1,
+      "source": "classic9_books_64_a_0_0",
+      "x": 17,
+      "y": 11,
+      "exists": false
+    },
+    "classic9_books_64_a_2_1": {
+      "name": "classic9_books_64_a_2_1",
+      "flipH": 1,
+      "source": "classic9_books_64_a_0_1",
+      "x": 22,
+      "y": 14,
+      "exists": false
+    },
+    "classic9_books_64_a_2_2": {
+      "name": "classic9_books_64_a_2_2",
+      "flipH": 1,
+      "source": "classic9_books_64_a_0_2",
+      "x": 18,
+      "y": 25,
+      "exists": false
+    },
+    "classic9_books_64_a_2_3": {
+      "name": "classic9_books_64_a_2_3",
+      "flipH": 1,
+      "source": "classic9_books_64_a_0_3",
+      "x": 12,
+      "y": 18,
+      "exists": false
+    },
+    "classic9_books_64_a_2_4": {
+      "name": "classic9_books_64_a_2_4",
+      "flipH": 1,
+      "source": "classic9_books_64_a_0_4",
+      "x": 14,
+      "y": 13,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "classic9_books",
+    "visualization": "furniture_animated"
+  }
+}

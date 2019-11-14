@@ -1,0 +1,108 @@
+{
+  "assets": {
+    "stories_oldmusic_vinyl_64_sd_2_0": {
+      "name": "stories_oldmusic_vinyl_64_sd_2_0",
+      "x": 28,
+      "y": 12,
+      "exists": true
+    },
+    "stories_oldmusic_vinyl_64_a_2_0": {
+      "name": "stories_oldmusic_vinyl_64_a_2_0",
+      "x": 29,
+      "y": 36,
+      "exists": true
+    },
+    "stories_oldmusic_vinyl_32_sd_2_0": {
+      "name": "stories_oldmusic_vinyl_32_sd_2_0",
+      "x": 15,
+      "y": 6,
+      "exists": true
+    },
+    "stories_oldmusic_vinyl_32_a_2_0": {
+      "name": "stories_oldmusic_vinyl_32_a_2_0",
+      "x": 15,
+      "y": 18,
+      "exists": false
+    },
+    "stories_oldmusic_vinyl_icon_a": {
+      "name": "stories_oldmusic_vinyl_icon_a",
+      "x": 15,
+      "y": 18,
+      "exists": true
+    },
+    "stories_oldmusic_vinyl_64_sd_4_0": {
+      "name": "stories_oldmusic_vinyl_64_sd_4_0",
+      "flipH": 1,
+      "source": "stories_oldmusic_vinyl_64_sd_2_0",
+      "x": 28,
+      "y": 12,
+      "exists": false
+    },
+    "stories_oldmusic_vinyl_64_a_4_0": {
+      "name": "stories_oldmusic_vinyl_64_a_4_0",
+      "flipH": 1,
+      "source": "stories_oldmusic_vinyl_64_a_2_0",
+      "x": 29,
+      "y": 36,
+      "exists": false
+    },
+    "stories_oldmusic_vinyl_32_sd_4_0": {
+      "name": "stories_oldmusic_vinyl_32_sd_4_0",
+      "flipH": 1,
+      "source": "stories_oldmusic_vinyl_32_sd_2_0",
+      "x": 15,
+      "y": 6,
+      "exists": false
+    },
+    "stories_oldmusic_vinyl_32_a_4_0": {
+      "name": "stories_oldmusic_vinyl_32_a_4_0",
+      "flipH": 1,
+      "source": "stories_oldmusic_vinyl_32_a_2_0",
+      "x": 15,
+      "y": 18,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "stories_oldmusic_vinyl",
+    "visualization": "furniture_static"
+  }
+}

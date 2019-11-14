@@ -1,0 +1,73 @@
+{
+  "assets": {
+    "ny2013_calendar_32_sd_0_0": {
+      "name": "ny2013_calendar_32_sd_0_0",
+      "x": 15,
+      "y": 7,
+      "exists": true
+    },
+    "ny2013_calendar_32_a_0_0": {
+      "name": "ny2013_calendar_32_a_0_0",
+      "x": 18,
+      "y": 37,
+      "exists": true
+    },
+    "ny2013_calendar_64_sd_0_0": {
+      "name": "ny2013_calendar_64_sd_0_0",
+      "x": 30,
+      "y": 15,
+      "exists": true
+    },
+    "ny2013_calendar_64_a_0_0": {
+      "name": "ny2013_calendar_64_a_0_0",
+      "x": 35,
+      "y": 72,
+      "exists": true
+    },
+    "ny2013_calendar_icon_a": {
+      "name": "ny2013_calendar_icon_a",
+      "x": 12,
+      "y": 16,
+      "exists": true
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.8
+    },
+    "directions": [
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "0": []
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "ny2013_calendar",
+    "visualization": "furniture_static"
+  }
+}

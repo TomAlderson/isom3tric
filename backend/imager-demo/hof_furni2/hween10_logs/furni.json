@@ -1,0 +1,299 @@
+{
+  "assets": {
+    "hween10_logs_32_sd_2_0": {
+      "name": "hween10_logs_32_sd_2_0",
+      "x": 14,
+      "y": 0,
+      "exists": true
+    },
+    "hween10_logs_32_a_2_0": {
+      "name": "hween10_logs_32_a_2_0",
+      "x": 16,
+      "y": 13,
+      "exists": true
+    },
+    "hween10_logs_32_a_2_1": {
+      "name": "hween10_logs_32_a_2_1",
+      "x": 16,
+      "y": 13,
+      "exists": true
+    },
+    "hween10_logs_32_a_2_2": {
+      "name": "hween10_logs_32_a_2_2",
+      "x": 16,
+      "y": 13,
+      "exists": true
+    },
+    "hween10_logs_64_sd_2_0": {
+      "name": "hween10_logs_64_sd_2_0",
+      "x": 30,
+      "y": 1,
+      "exists": true
+    },
+    "hween10_logs_64_a_2_0": {
+      "name": "hween10_logs_64_a_2_0",
+      "x": 32,
+      "y": 25,
+      "exists": true
+    },
+    "hween10_logs_64_a_2_1": {
+      "name": "hween10_logs_64_a_2_1",
+      "x": 32,
+      "y": 23,
+      "exists": true
+    },
+    "hween10_logs_64_a_2_2": {
+      "name": "hween10_logs_64_a_2_2",
+      "x": 32,
+      "y": 24,
+      "exists": true
+    },
+    "hween10_logs_icon_a": {
+      "name": "hween10_logs_icon_a",
+      "x": 16,
+      "y": 12,
+      "exists": true
+    },
+    "hween10_logs_32_sd_6_0": {
+      "name": "hween10_logs_32_sd_6_0",
+      "flipH": 1,
+      "source": "hween10_logs_32_sd_2_0",
+      "x": 14,
+      "y": 0,
+      "exists": false
+    },
+    "hween10_logs_32_a_6_0": {
+      "name": "hween10_logs_32_a_6_0",
+      "flipH": 1,
+      "source": "hween10_logs_32_a_2_0",
+      "x": 16,
+      "y": 13,
+      "exists": false
+    },
+    "hween10_logs_32_a_6_1": {
+      "name": "hween10_logs_32_a_6_1",
+      "flipH": 1,
+      "source": "hween10_logs_32_a_2_1",
+      "x": 16,
+      "y": 13,
+      "exists": false
+    },
+    "hween10_logs_32_a_6_2": {
+      "name": "hween10_logs_32_a_6_2",
+      "flipH": 1,
+      "source": "hween10_logs_32_a_2_2",
+      "x": 16,
+      "y": 13,
+      "exists": false
+    },
+    "hween10_logs_64_sd_6_0": {
+      "name": "hween10_logs_64_sd_6_0",
+      "flipH": 1,
+      "source": "hween10_logs_64_sd_2_0",
+      "x": 30,
+      "y": 1,
+      "exists": false
+    },
+    "hween10_logs_64_a_6_0": {
+      "name": "hween10_logs_64_a_6_0",
+      "flipH": 1,
+      "source": "hween10_logs_64_a_2_0",
+      "x": 32,
+      "y": 25,
+      "exists": false
+    },
+    "hween10_logs_64_a_6_1": {
+      "name": "hween10_logs_64_a_6_1",
+      "flipH": 1,
+      "source": "hween10_logs_64_a_2_1",
+      "x": 32,
+      "y": 23,
+      "exists": false
+    },
+    "hween10_logs_64_a_6_2": {
+      "name": "hween10_logs_64_a_6_2",
+      "flipH": 1,
+      "source": "hween10_logs_64_a_2_2",
+      "x": 32,
+      "y": 24,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.2
+    },
+    "directions": [
+      90,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  0,
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": -1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  2,
+                  0,
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "101": {
+          "id": 101,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween10_logs",
+    "visualization": "furniture_animated"
+  }
+}

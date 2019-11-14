@@ -1,0 +1,97 @@
+{
+  "assets": {
+    "prizetrophy_hween11_32_a_2_0": {
+      "name": "prizetrophy_hween11_32_a_2_0",
+      "x": 14,
+      "y": 26,
+      "exists": true
+    },
+    "prizetrophy_hween11_64_a_2_0": {
+      "name": "prizetrophy_hween11_64_a_2_0",
+      "x": 29,
+      "y": 49,
+      "exists": true
+    },
+    "prizetrophy_hween11_64_b_2_0": {
+      "name": "prizetrophy_hween11_64_b_2_0",
+      "x": 2,
+      "y": 29,
+      "exists": true
+    },
+    "prizetrophy_hween11_64_b_4_0": {
+      "name": "prizetrophy_hween11_64_b_4_0",
+      "x": 8,
+      "y": 29,
+      "exists": true
+    },
+    "prizetrophy_hween11_icon_a": {
+      "name": "prizetrophy_hween11_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "prizetrophy_hween11_32_a_4_0": {
+      "name": "prizetrophy_hween11_32_a_4_0",
+      "flipH": 1,
+      "source": "prizetrophy_hween11_32_a_2_0",
+      "x": 16,
+      "y": 26,
+      "exists": false
+    },
+    "prizetrophy_hween11_64_a_4_0": {
+      "name": "prizetrophy_hween11_64_a_4_0",
+      "flipH": 1,
+      "source": "prizetrophy_hween11_64_a_2_0",
+      "x": 29,
+      "y": 49,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_trophy",
+    "type": "prizetrophy_hween11",
+    "visualization": "furniture_static"
+  }
+}

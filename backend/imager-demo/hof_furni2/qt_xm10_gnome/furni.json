@@ -1,0 +1,1157 @@
+{
+  "assets": {
+    "qt_xm10_gnome_64_a_0_0": {
+      "name": "qt_xm10_gnome_64_a_0_0",
+      "x": -9,
+      "y": 33,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_a_0_1": {
+      "name": "qt_xm10_gnome_64_a_0_1",
+      "x": -4,
+      "y": 50,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_a_0_2": {
+      "name": "qt_xm10_gnome_64_a_0_2",
+      "x": -4,
+      "y": 51,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_a_0_3": {
+      "name": "qt_xm10_gnome_64_a_0_3",
+      "x": -5,
+      "y": 52,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_a_0_4": {
+      "name": "qt_xm10_gnome_64_a_0_4",
+      "x": -6,
+      "y": 53,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_a_0_5": {
+      "name": "qt_xm10_gnome_64_a_0_5",
+      "x": -7,
+      "y": 53,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_a_0_6": {
+      "name": "qt_xm10_gnome_64_a_0_6",
+      "x": -8,
+      "y": 50,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_a_0_7": {
+      "name": "qt_xm10_gnome_64_a_0_7",
+      "x": -8,
+      "y": 49,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_b_0_0": {
+      "name": "qt_xm10_gnome_64_b_0_0",
+      "x": 17,
+      "y": 66,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_c_0_10": {
+      "name": "qt_xm10_gnome_64_c_0_10",
+      "x": 6,
+      "y": 1,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_0_9": {
+      "name": "qt_xm10_gnome_64_c_0_9",
+      "x": 4,
+      "y": -1,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_c_0_8": {
+      "name": "qt_xm10_gnome_64_c_0_8",
+      "x": 2,
+      "y": -3,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_c_0_7": {
+      "name": "qt_xm10_gnome_64_c_0_7",
+      "x": 1,
+      "y": -4,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_0_6": {
+      "name": "qt_xm10_gnome_64_c_0_6",
+      "x": 0,
+      "y": -5,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_0_5": {
+      "name": "qt_xm10_gnome_64_c_0_5",
+      "x": 18,
+      "y": 42,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_c_0_4": {
+      "name": "qt_xm10_gnome_64_c_0_4",
+      "x": 16,
+      "y": 40,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_0_3": {
+      "name": "qt_xm10_gnome_64_c_0_3",
+      "x": 14,
+      "y": 38,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_0_2": {
+      "name": "qt_xm10_gnome_64_c_0_2",
+      "x": 13,
+      "y": 37,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_c_0_1": {
+      "name": "qt_xm10_gnome_64_c_0_1",
+      "x": 12,
+      "y": 36,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_c_0_0": {
+      "name": "qt_xm10_gnome_64_c_0_0",
+      "x": 0,
+      "y": -7,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_a_0_0": {
+      "name": "qt_xm10_gnome_32_a_0_0",
+      "x": -4,
+      "y": 18,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_a_0_1": {
+      "name": "qt_xm10_gnome_32_a_0_1",
+      "x": -2,
+      "y": 26,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_a_0_2": {
+      "name": "qt_xm10_gnome_32_a_0_2",
+      "x": -2,
+      "y": 26,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_a_0_3": {
+      "name": "qt_xm10_gnome_32_a_0_3",
+      "x": -3,
+      "y": 26,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_a_0_4": {
+      "name": "qt_xm10_gnome_32_a_0_4",
+      "x": -3,
+      "y": 26,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_a_0_5": {
+      "name": "qt_xm10_gnome_32_a_0_5",
+      "x": -3,
+      "y": 26,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_a_0_6": {
+      "name": "qt_xm10_gnome_32_a_0_6",
+      "x": -4,
+      "y": 26,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_b_0_0": {
+      "name": "qt_xm10_gnome_32_b_0_0",
+      "x": 9,
+      "y": 34,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_c_0_10": {
+      "name": "qt_xm10_gnome_32_c_0_10",
+      "x": -3,
+      "y": 7,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_c_0_9": {
+      "name": "qt_xm10_gnome_32_c_0_9",
+      "x": -5,
+      "y": 5,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_0_8": {
+      "name": "qt_xm10_gnome_32_c_0_8",
+      "x": -6,
+      "y": 4,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_0_7": {
+      "name": "qt_xm10_gnome_32_c_0_7",
+      "x": -7,
+      "y": 3,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_0_6": {
+      "name": "qt_xm10_gnome_32_c_0_6",
+      "x": -8,
+      "y": 2,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_0_5": {
+      "name": "qt_xm10_gnome_32_c_0_5",
+      "x": 11,
+      "y": 23,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_0_4": {
+      "name": "qt_xm10_gnome_32_c_0_4",
+      "x": 9,
+      "y": 21,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_c_0_3": {
+      "name": "qt_xm10_gnome_32_c_0_3",
+      "x": 8,
+      "y": 20,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_0_2": {
+      "name": "qt_xm10_gnome_32_c_0_2",
+      "x": 7,
+      "y": 19,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_c_0_1": {
+      "name": "qt_xm10_gnome_32_c_0_1",
+      "x": 6,
+      "y": 18,
+      "exists": true
+    },
+    "qt_xm10_gnome_32_c_0_0": {
+      "name": "qt_xm10_gnome_32_c_0_0",
+      "x": 0,
+      "y": -4,
+      "exists": false
+    },
+    "qt_xm10_gnome_icon_a": {
+      "name": "qt_xm10_gnome_icon_a",
+      "x": 7,
+      "y": 15,
+      "exists": true
+    },
+    "qt_xm10_gnome_64_a_2_0": {
+      "name": "qt_xm10_gnome_64_a_2_0",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_a_0_0",
+      "x": -9,
+      "y": 33,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_a_2_1": {
+      "name": "qt_xm10_gnome_64_a_2_1",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_a_0_1",
+      "x": -4,
+      "y": 50,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_a_2_2": {
+      "name": "qt_xm10_gnome_64_a_2_2",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_a_0_2",
+      "x": -4,
+      "y": 51,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_a_2_3": {
+      "name": "qt_xm10_gnome_64_a_2_3",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_a_0_3",
+      "x": -5,
+      "y": 52,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_a_2_4": {
+      "name": "qt_xm10_gnome_64_a_2_4",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_a_0_4",
+      "x": -6,
+      "y": 53,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_a_2_5": {
+      "name": "qt_xm10_gnome_64_a_2_5",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_a_0_5",
+      "x": -7,
+      "y": 53,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_a_2_6": {
+      "name": "qt_xm10_gnome_64_a_2_6",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_a_0_6",
+      "x": -8,
+      "y": 50,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_a_2_7": {
+      "name": "qt_xm10_gnome_64_a_2_7",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_a_0_7",
+      "x": -8,
+      "y": 49,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_b_2_0": {
+      "name": "qt_xm10_gnome_64_b_2_0",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_b_0_0",
+      "x": 17,
+      "y": 66,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_2_10": {
+      "name": "qt_xm10_gnome_64_c_2_10",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_c_0_10",
+      "x": 6,
+      "y": 1,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_2_9": {
+      "name": "qt_xm10_gnome_64_c_2_9",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_c_0_9",
+      "x": 4,
+      "y": -1,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_2_8": {
+      "name": "qt_xm10_gnome_64_c_2_8",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_c_0_8",
+      "x": 2,
+      "y": -3,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_2_7": {
+      "name": "qt_xm10_gnome_64_c_2_7",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_c_0_7",
+      "x": 1,
+      "y": -4,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_2_6": {
+      "name": "qt_xm10_gnome_64_c_2_6",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_c_0_6",
+      "x": 0,
+      "y": -5,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_2_5": {
+      "name": "qt_xm10_gnome_64_c_2_5",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_c_0_5",
+      "x": 18,
+      "y": 42,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_2_4": {
+      "name": "qt_xm10_gnome_64_c_2_4",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_c_0_4",
+      "x": 16,
+      "y": 40,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_2_3": {
+      "name": "qt_xm10_gnome_64_c_2_3",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_c_0_3",
+      "x": 14,
+      "y": 38,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_2_2": {
+      "name": "qt_xm10_gnome_64_c_2_2",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_c_0_2",
+      "x": 13,
+      "y": 37,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_2_1": {
+      "name": "qt_xm10_gnome_64_c_2_1",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_c_0_1",
+      "x": 12,
+      "y": 36,
+      "exists": false
+    },
+    "qt_xm10_gnome_64_c_2_0": {
+      "name": "qt_xm10_gnome_64_c_2_0",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_64_c_0_0",
+      "x": 0,
+      "y": -7,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_a_2_0": {
+      "name": "qt_xm10_gnome_32_a_2_0",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_a_0_0",
+      "x": -4,
+      "y": 18,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_a_2_1": {
+      "name": "qt_xm10_gnome_32_a_2_1",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_a_0_1",
+      "x": -2,
+      "y": 26,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_a_2_2": {
+      "name": "qt_xm10_gnome_32_a_2_2",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_a_0_2",
+      "x": -2,
+      "y": 26,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_a_2_3": {
+      "name": "qt_xm10_gnome_32_a_2_3",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_a_0_3",
+      "x": -3,
+      "y": 26,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_a_2_4": {
+      "name": "qt_xm10_gnome_32_a_2_4",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_a_0_4",
+      "x": -3,
+      "y": 26,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_a_2_5": {
+      "name": "qt_xm10_gnome_32_a_2_5",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_a_0_5",
+      "x": -3,
+      "y": 26,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_a_2_6": {
+      "name": "qt_xm10_gnome_32_a_2_6",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_a_0_6",
+      "x": -4,
+      "y": 26,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_b_2_0": {
+      "name": "qt_xm10_gnome_32_b_2_0",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_b_0_0",
+      "x": 9,
+      "y": 34,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_2_10": {
+      "name": "qt_xm10_gnome_32_c_2_10",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_c_0_10",
+      "x": -3,
+      "y": 7,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_2_9": {
+      "name": "qt_xm10_gnome_32_c_2_9",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_c_0_9",
+      "x": -5,
+      "y": 5,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_2_8": {
+      "name": "qt_xm10_gnome_32_c_2_8",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_c_0_8",
+      "x": -6,
+      "y": 4,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_2_7": {
+      "name": "qt_xm10_gnome_32_c_2_7",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_c_0_7",
+      "x": -7,
+      "y": 3,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_2_6": {
+      "name": "qt_xm10_gnome_32_c_2_6",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_c_0_6",
+      "x": -8,
+      "y": 2,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_2_5": {
+      "name": "qt_xm10_gnome_32_c_2_5",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_c_0_5",
+      "x": 11,
+      "y": 23,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_2_4": {
+      "name": "qt_xm10_gnome_32_c_2_4",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_c_0_4",
+      "x": 9,
+      "y": 21,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_2_3": {
+      "name": "qt_xm10_gnome_32_c_2_3",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_c_0_3",
+      "x": 8,
+      "y": 20,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_2_2": {
+      "name": "qt_xm10_gnome_32_c_2_2",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_c_0_2",
+      "x": 7,
+      "y": 19,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_2_1": {
+      "name": "qt_xm10_gnome_32_c_2_1",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_c_0_1",
+      "x": 6,
+      "y": 18,
+      "exists": false
+    },
+    "qt_xm10_gnome_32_c_2_0": {
+      "name": "qt_xm10_gnome_32_c_2_0",
+      "flipH": 1,
+      "source": "qt_xm10_gnome_32_c_0_0",
+      "x": 0,
+      "y": -4,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {},
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            }
+          ]
+        }
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  5,
+                  4,
+                  3,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  6,
+                  5,
+                  4,
+                  3,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ],
+                [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "qt_xm10_gnome",
+    "visualization": "furniture_animated"
+  }
+}

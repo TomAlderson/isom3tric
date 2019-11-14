@@ -1,0 +1,354 @@
+{
+  "assets": {
+    "track12_ujack_sofa_32_sd_2_0": {
+      "name": "track12_ujack_sofa_32_sd_2_0",
+      "x": 35,
+      "y": 0,
+      "exists": true
+    },
+    "track12_ujack_sofa_32_a_6_0": {
+      "name": "track12_ujack_sofa_32_a_6_0",
+      "x": 22,
+      "y": 8,
+      "exists": true
+    },
+    "track12_ujack_sofa_32_b_6_0": {
+      "name": "track12_ujack_sofa_32_b_6_0",
+      "x": 4,
+      "y": 22,
+      "exists": true
+    },
+    "track12_ujack_sofa_32_c_6_0": {
+      "name": "track12_ujack_sofa_32_c_6_0",
+      "x": 36,
+      "y": 14,
+      "exists": true
+    },
+    "track12_ujack_sofa_32_d_6_0": {
+      "name": "track12_ujack_sofa_32_d_6_0",
+      "x": 5,
+      "y": 20,
+      "exists": true
+    },
+    "track12_ujack_sofa_32_a_2_0": {
+      "name": "track12_ujack_sofa_32_a_2_0",
+      "x": 34,
+      "y": 20,
+      "exists": true
+    },
+    "track12_ujack_sofa_32_b_2_0": {
+      "name": "track12_ujack_sofa_32_b_2_0",
+      "x": 15,
+      "y": 27,
+      "exists": true
+    },
+    "track12_ujack_sofa_32_c_2_0": {
+      "name": "track12_ujack_sofa_32_c_2_0",
+      "x": 36,
+      "y": 8,
+      "exists": true
+    },
+    "track12_ujack_sofa_32_d_2_0": {
+      "name": "track12_ujack_sofa_32_d_2_0",
+      "x": 35,
+      "y": 6,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_sd_2_0": {
+      "name": "track12_ujack_sofa_64_sd_2_0",
+      "x": 73,
+      "y": 1,
+      "exists": true
+    },
+    "track12_ujack_sofa_64_a_6_0": {
+      "name": "track12_ujack_sofa_64_a_6_0",
+      "x": 42,
+      "y": 16,
+      "exists": true
+    },
+    "track12_ujack_sofa_64_b_6_0": {
+      "name": "track12_ujack_sofa_64_b_6_0",
+      "x": 10,
+      "y": 44,
+      "exists": true
+    },
+    "track12_ujack_sofa_64_c_6_0": {
+      "name": "track12_ujack_sofa_64_c_6_0",
+      "x": 73,
+      "y": 29,
+      "exists": true
+    },
+    "track12_ujack_sofa_64_d_6_0": {
+      "name": "track12_ujack_sofa_64_d_6_0",
+      "x": 8,
+      "y": 39,
+      "exists": true
+    },
+    "track12_ujack_sofa_64_a_2_0": {
+      "name": "track12_ujack_sofa_64_a_2_0",
+      "x": 67,
+      "y": 39,
+      "exists": true
+    },
+    "track12_ujack_sofa_64_b_2_0": {
+      "name": "track12_ujack_sofa_64_b_2_0",
+      "x": 30,
+      "y": 52,
+      "exists": true
+    },
+    "track12_ujack_sofa_64_c_2_0": {
+      "name": "track12_ujack_sofa_64_c_2_0",
+      "x": 73,
+      "y": 14,
+      "exists": true
+    },
+    "track12_ujack_sofa_64_d_2_0": {
+      "name": "track12_ujack_sofa_64_d_2_0",
+      "x": 70,
+      "y": 10,
+      "exists": true
+    },
+    "track12_ujack_sofa_icon_a": {
+      "name": "track12_ujack_sofa_icon_a",
+      "x": 15,
+      "y": 13,
+      "exists": true
+    },
+    "track12_ujack_sofa_32_sd_6_0": {
+      "name": "track12_ujack_sofa_32_sd_6_0",
+      "source": "track12_ujack_sofa_32_sd_2_0",
+      "x": 35,
+      "y": 0,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_sd_6_0": {
+      "name": "track12_ujack_sofa_64_sd_6_0",
+      "source": "track12_ujack_sofa_64_sd_2_0",
+      "x": 73,
+      "y": 1,
+      "exists": false
+    },
+    "track12_ujack_sofa_32_sd_4_0": {
+      "name": "track12_ujack_sofa_32_sd_4_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_32_sd_2_0",
+      "x": 35,
+      "y": 0,
+      "exists": false
+    },
+    "track12_ujack_sofa_32_a_4_0": {
+      "name": "track12_ujack_sofa_32_a_4_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_32_a_2_0",
+      "x": 34,
+      "y": 20,
+      "exists": false
+    },
+    "track12_ujack_sofa_32_b_4_0": {
+      "name": "track12_ujack_sofa_32_b_4_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_32_b_2_0",
+      "x": 15,
+      "y": 27,
+      "exists": false
+    },
+    "track12_ujack_sofa_32_c_4_0": {
+      "name": "track12_ujack_sofa_32_c_4_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_32_c_2_0",
+      "x": 36,
+      "y": 8,
+      "exists": false
+    },
+    "track12_ujack_sofa_32_d_4_0": {
+      "name": "track12_ujack_sofa_32_d_4_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_32_d_2_0",
+      "x": 35,
+      "y": 6,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_sd_4_0": {
+      "name": "track12_ujack_sofa_64_sd_4_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_64_sd_2_0",
+      "x": 73,
+      "y": 1,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_a_4_0": {
+      "name": "track12_ujack_sofa_64_a_4_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_64_a_2_0",
+      "x": 67,
+      "y": 39,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_b_4_0": {
+      "name": "track12_ujack_sofa_64_b_4_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_64_b_2_0",
+      "x": 30,
+      "y": 52,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_c_4_0": {
+      "name": "track12_ujack_sofa_64_c_4_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_64_c_2_0",
+      "x": 73,
+      "y": 14,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_d_4_0": {
+      "name": "track12_ujack_sofa_64_d_4_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_64_d_2_0",
+      "x": 70,
+      "y": 10,
+      "exists": false
+    },
+    "track12_ujack_sofa_32_a_0_0": {
+      "name": "track12_ujack_sofa_32_a_0_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_32_a_6_0",
+      "x": 22,
+      "y": 8,
+      "exists": false
+    },
+    "track12_ujack_sofa_32_b_0_0": {
+      "name": "track12_ujack_sofa_32_b_0_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_32_b_6_0",
+      "x": 4,
+      "y": 22,
+      "exists": false
+    },
+    "track12_ujack_sofa_32_c_0_0": {
+      "name": "track12_ujack_sofa_32_c_0_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_32_c_6_0",
+      "x": 36,
+      "y": 14,
+      "exists": false
+    },
+    "track12_ujack_sofa_32_d_0_0": {
+      "name": "track12_ujack_sofa_32_d_0_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_32_d_6_0",
+      "x": 5,
+      "y": 20,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_a_0_0": {
+      "name": "track12_ujack_sofa_64_a_0_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_64_a_6_0",
+      "x": 42,
+      "y": 16,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_b_0_0": {
+      "name": "track12_ujack_sofa_64_b_0_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_64_b_6_0",
+      "x": 10,
+      "y": 44,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_c_0_0": {
+      "name": "track12_ujack_sofa_64_c_0_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_64_c_6_0",
+      "x": 73,
+      "y": 29,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_d_0_0": {
+      "name": "track12_ujack_sofa_64_d_0_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_64_d_6_0",
+      "x": 8,
+      "y": 39,
+      "exists": false
+    },
+    "track12_ujack_sofa_32_sd_0_0": {
+      "name": "track12_ujack_sofa_32_sd_0_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_32_sd_2_0",
+      "x": 35,
+      "y": 0,
+      "exists": false
+    },
+    "track12_ujack_sofa_64_sd_0_0": {
+      "name": "track12_ujack_sofa_64_sd_0_0",
+      "flipH": 1,
+      "source": "track12_ujack_sofa_64_sd_2_0",
+      "x": 73,
+      "y": 1,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      270,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 2,
+          "z": 1500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "layers": [
+        {
+          "layerId": 2,
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "track12_ujack_sofa",
+    "visualization": "furniture_static"
+  }
+}

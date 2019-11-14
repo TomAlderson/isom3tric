@@ -1,0 +1,226 @@
+{
+  "assets": {
+    "matic_brainjar_64_sd_0_0": {
+      "name": "matic_brainjar_64_sd_0_0",
+      "x": 33,
+      "y": 16,
+      "exists": true
+    },
+    "matic_brainjar_64_a_0_0": {
+      "name": "matic_brainjar_64_a_0_0",
+      "x": 33,
+      "y": 41,
+      "exists": true
+    },
+    "matic_brainjar_64_b_0_1": {
+      "name": "matic_brainjar_64_b_0_1",
+      "x": 16,
+      "y": 59,
+      "exists": true
+    },
+    "matic_brainjar_64_b_0_0": {
+      "name": "matic_brainjar_64_b_0_0",
+      "x": 16,
+      "y": 59,
+      "exists": true
+    },
+    "matic_brainjar_32_sd_0_0": {
+      "name": "matic_brainjar_32_sd_0_0",
+      "x": 17,
+      "y": 8,
+      "exists": true
+    },
+    "matic_brainjar_32_a_0_0": {
+      "name": "matic_brainjar_32_a_0_0",
+      "x": 17,
+      "y": 21,
+      "exists": true
+    },
+    "matic_brainjar_32_b_0_1": {
+      "name": "matic_brainjar_32_b_0_1",
+      "x": 9,
+      "y": 30,
+      "exists": true
+    },
+    "matic_brainjar_32_b_0_0": {
+      "name": "matic_brainjar_32_b_0_0",
+      "x": 9,
+      "y": 30,
+      "exists": true
+    },
+    "matic_brainjar_icon_a": {
+      "name": "matic_brainjar_icon_a",
+      "x": 13,
+      "y": 14,
+      "exists": true
+    },
+    "matic_brainjar_64_sd_6_0": {
+      "name": "matic_brainjar_64_sd_6_0",
+      "flipH": 1,
+      "source": "matic_brainjar_64_sd_0_0",
+      "x": 33,
+      "y": 16,
+      "exists": false
+    },
+    "matic_brainjar_64_a_6_0": {
+      "name": "matic_brainjar_64_a_6_0",
+      "flipH": 1,
+      "source": "matic_brainjar_64_a_0_0",
+      "x": 33,
+      "y": 41,
+      "exists": false
+    },
+    "matic_brainjar_64_b_6_1": {
+      "name": "matic_brainjar_64_b_6_1",
+      "flipH": 1,
+      "source": "matic_brainjar_64_b_0_1",
+      "x": 16,
+      "y": 59,
+      "exists": false
+    },
+    "matic_brainjar_64_b_6_0": {
+      "name": "matic_brainjar_64_b_6_0",
+      "flipH": 1,
+      "source": "matic_brainjar_64_b_0_0",
+      "x": 16,
+      "y": 59,
+      "exists": false
+    },
+    "matic_brainjar_32_sd_6_0": {
+      "name": "matic_brainjar_32_sd_6_0",
+      "flipH": 1,
+      "source": "matic_brainjar_32_sd_0_0",
+      "x": 17,
+      "y": 8,
+      "exists": false
+    },
+    "matic_brainjar_32_a_6_0": {
+      "name": "matic_brainjar_32_a_6_0",
+      "flipH": 1,
+      "source": "matic_brainjar_32_a_0_0",
+      "x": 17,
+      "y": 21,
+      "exists": false
+    },
+    "matic_brainjar_32_b_6_1": {
+      "name": "matic_brainjar_32_b_6_1",
+      "flipH": 1,
+      "source": "matic_brainjar_32_b_0_1",
+      "x": 9,
+      "y": 30,
+      "exists": false
+    },
+    "matic_brainjar_32_b_6_0": {
+      "name": "matic_brainjar_32_b_6_0",
+      "flipH": 1,
+      "source": "matic_brainjar_32_b_0_0",
+      "x": 9,
+      "y": 30,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "6": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "matic_brainjar",
+    "visualization": "furniture_animated"
+  }
+}

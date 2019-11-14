@@ -1,0 +1,518 @@
+{
+  "assets": {
+    "scifi_r17_cruiser_64_sd_4_0": {
+      "name": "scifi_r17_cruiser_64_sd_4_0",
+      "x": 72,
+      "y": 5,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_l_4_0": {
+      "name": "scifi_r17_cruiser_64_l_4_0",
+      "x": -40,
+      "y": 393,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_m_4_0": {
+      "name": "scifi_r17_cruiser_64_m_4_0",
+      "x": -31,
+      "y": 402,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_l_4_1": {
+      "name": "scifi_r17_cruiser_64_l_4_1",
+      "x": -50,
+      "y": 389,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_m_4_1": {
+      "name": "scifi_r17_cruiser_64_m_4_1",
+      "x": -40,
+      "y": 399,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_l_4_2": {
+      "name": "scifi_r17_cruiser_64_l_4_2",
+      "x": -44,
+      "y": 397,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_m_4_2": {
+      "name": "scifi_r17_cruiser_64_m_4_2",
+      "x": -35,
+      "y": 406,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_l_4_3": {
+      "name": "scifi_r17_cruiser_64_l_4_3",
+      "x": -44,
+      "y": 391,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_m_4_3": {
+      "name": "scifi_r17_cruiser_64_m_4_3",
+      "x": -35,
+      "y": 401,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_c_4_0": {
+      "name": "scifi_r17_cruiser_64_c_4_0",
+      "x": -85,
+      "y": 286,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_d_4_0": {
+      "name": "scifi_r17_cruiser_64_d_4_0",
+      "x": -76,
+      "y": 295,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_c_4_1": {
+      "name": "scifi_r17_cruiser_64_c_4_1",
+      "x": -95,
+      "y": 282,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_d_4_1": {
+      "name": "scifi_r17_cruiser_64_d_4_1",
+      "x": -85,
+      "y": 292,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_c_4_2": {
+      "name": "scifi_r17_cruiser_64_c_4_2",
+      "x": -89,
+      "y": 290,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_d_4_2": {
+      "name": "scifi_r17_cruiser_64_d_4_2",
+      "x": -80,
+      "y": 299,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_c_4_3": {
+      "name": "scifi_r17_cruiser_64_c_4_3",
+      "x": -89,
+      "y": 284,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_d_4_3": {
+      "name": "scifi_r17_cruiser_64_d_4_3",
+      "x": -80,
+      "y": 294,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_e_4_0": {
+      "name": "scifi_r17_cruiser_64_e_4_0",
+      "x": 98,
+      "y": 383,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_f_4_0": {
+      "name": "scifi_r17_cruiser_64_f_4_0",
+      "x": 38,
+      "y": 298,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_g_4_0": {
+      "name": "scifi_r17_cruiser_64_g_4_0",
+      "x": 76,
+      "y": 282,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_h_4_0": {
+      "name": "scifi_r17_cruiser_64_h_4_0",
+      "x": 51,
+      "y": 266,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_i_4_0": {
+      "name": "scifi_r17_cruiser_64_i_4_0",
+      "x": 31,
+      "y": 383,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_j_4_0": {
+      "name": "scifi_r17_cruiser_64_j_4_0",
+      "x": 104,
+      "y": 343,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_k_4_0": {
+      "name": "scifi_r17_cruiser_64_k_4_0",
+      "x": 65,
+      "y": 323,
+      "exists": true
+    },
+    "scifi_r17_cruiser_icon_a": {
+      "name": "scifi_r17_cruiser_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "scifi_r17_cruiser_64_sd_2_0": {
+      "name": "scifi_r17_cruiser_64_sd_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_sd_4_0",
+      "x": 72,
+      "y": 5,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_l_2_0": {
+      "name": "scifi_r17_cruiser_64_l_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_l_4_0",
+      "x": -40,
+      "y": 393,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_m_2_0": {
+      "name": "scifi_r17_cruiser_64_m_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_m_4_0",
+      "x": -31,
+      "y": 402,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_l_2_1": {
+      "name": "scifi_r17_cruiser_64_l_2_1",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_l_4_1",
+      "x": -50,
+      "y": 389,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_m_2_1": {
+      "name": "scifi_r17_cruiser_64_m_2_1",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_m_4_1",
+      "x": -40,
+      "y": 399,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_l_2_2": {
+      "name": "scifi_r17_cruiser_64_l_2_2",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_l_4_2",
+      "x": -44,
+      "y": 397,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_m_2_2": {
+      "name": "scifi_r17_cruiser_64_m_2_2",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_m_4_2",
+      "x": -35,
+      "y": 406,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_l_2_3": {
+      "name": "scifi_r17_cruiser_64_l_2_3",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_l_4_3",
+      "x": -44,
+      "y": 391,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_m_2_3": {
+      "name": "scifi_r17_cruiser_64_m_2_3",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_m_4_3",
+      "x": -35,
+      "y": 401,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_c_2_0": {
+      "name": "scifi_r17_cruiser_64_c_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_c_4_0",
+      "x": -85,
+      "y": 286,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_d_2_0": {
+      "name": "scifi_r17_cruiser_64_d_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_d_4_0",
+      "x": -76,
+      "y": 295,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_c_2_1": {
+      "name": "scifi_r17_cruiser_64_c_2_1",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_c_4_1",
+      "x": -95,
+      "y": 282,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_d_2_1": {
+      "name": "scifi_r17_cruiser_64_d_2_1",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_d_4_1",
+      "x": -85,
+      "y": 292,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_c_2_2": {
+      "name": "scifi_r17_cruiser_64_c_2_2",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_c_4_2",
+      "x": -89,
+      "y": 290,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_d_2_2": {
+      "name": "scifi_r17_cruiser_64_d_2_2",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_d_4_2",
+      "x": -80,
+      "y": 299,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_c_2_3": {
+      "name": "scifi_r17_cruiser_64_c_2_3",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_c_4_3",
+      "x": -89,
+      "y": 284,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_d_2_3": {
+      "name": "scifi_r17_cruiser_64_d_2_3",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_d_4_3",
+      "x": -80,
+      "y": 294,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_e_2_0": {
+      "name": "scifi_r17_cruiser_64_e_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_e_4_0",
+      "x": 98,
+      "y": 383,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_f_2_0": {
+      "name": "scifi_r17_cruiser_64_f_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_f_4_0",
+      "x": 38,
+      "y": 298,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_g_2_0": {
+      "name": "scifi_r17_cruiser_64_g_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_g_4_0",
+      "x": 76,
+      "y": 282,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_h_2_0": {
+      "name": "scifi_r17_cruiser_64_h_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_h_4_0",
+      "x": 51,
+      "y": 266,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_i_2_0": {
+      "name": "scifi_r17_cruiser_64_i_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_i_4_0",
+      "x": 31,
+      "y": 383,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_j_2_0": {
+      "name": "scifi_r17_cruiser_64_j_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_j_4_0",
+      "x": 104,
+      "y": 343,
+      "exists": false
+    },
+    "scifi_r17_cruiser_64_k_2_0": {
+      "name": "scifi_r17_cruiser_64_k_2_0",
+      "flipH": 1,
+      "source": "scifi_r17_cruiser_64_k_4_0",
+      "x": 65,
+      "y": 323,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 3,
+      "z": 9
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 13,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": []
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            },
+            {
+              "layerId": 7,
+              "frameSequence": []
+            },
+            {
+              "layerId": 8,
+              "frameSequence": []
+            },
+            {
+              "layerId": 9,
+              "frameSequence": []
+            },
+            {
+              "layerId": 10,
+              "frameSequence": []
+            },
+            {
+              "layerId": 11,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 12,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 4
+        },
+        {
+          "layerId": 5,
+          "z": 1000
+        },
+        {
+          "layerId": 6,
+          "z": 2000
+        },
+        {
+          "layerId": 7,
+          "z": 3000
+        },
+        {
+          "layerId": 8,
+          "z": 1500
+        },
+        {
+          "layerId": 9,
+          "z": 2500
+        },
+        {
+          "layerId": 10,
+          "z": 3500
+        },
+        {
+          "layerId": 11
+        },
+        {
+          "layerId": 12,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "scifi_r17_cruiser",
+    "visualization": "furniture_animated"
+  }
+}

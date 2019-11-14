@@ -1,0 +1,126 @@
+{
+  "assets": {
+    "nest_bunny_green_64_b_4_0": {
+      "name": "nest_bunny_green_64_b_4_0",
+      "x": 23,
+      "y": 14,
+      "exists": true
+    },
+    "nest_bunny_green_64_a_4_0": {
+      "name": "nest_bunny_green_64_a_4_0",
+      "x": 23,
+      "y": 28,
+      "exists": true
+    },
+    "nest_bunny_green_32_a_4_0": {
+      "name": "nest_bunny_green_32_a_4_0",
+      "x": 12,
+      "y": 14,
+      "exists": false
+    },
+    "nest_bunny_green_32_b_4_0": {
+      "name": "nest_bunny_green_32_b_4_0",
+      "x": 12,
+      "y": 7,
+      "exists": true
+    },
+    "nest_bunny_green_icon_a": {
+      "name": "nest_bunny_green_icon_a",
+      "x": 11,
+      "y": 20,
+      "exists": true
+    },
+    "nest_bunny_green_64_b_2_0": {
+      "name": "nest_bunny_green_64_b_2_0",
+      "flipH": 1,
+      "source": "nest_bunny_green_64_b_4_0",
+      "x": 23,
+      "y": 14,
+      "exists": false
+    },
+    "nest_bunny_green_64_a_2_0": {
+      "name": "nest_bunny_green_64_a_2_0",
+      "flipH": 1,
+      "source": "nest_bunny_green_64_a_4_0",
+      "x": 23,
+      "y": 28,
+      "exists": false
+    },
+    "nest_bunny_green_32_a_2_0": {
+      "name": "nest_bunny_green_32_a_2_0",
+      "flipH": 1,
+      "source": "nest_bunny_green_32_a_4_0",
+      "x": 12,
+      "y": 14,
+      "exists": false
+    },
+    "nest_bunny_green_32_b_2_0": {
+      "name": "nest_bunny_green_32_b_2_0",
+      "flipH": 1,
+      "source": "nest_bunny_green_32_b_4_0",
+      "x": 12,
+      "y": 7,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.4
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "nest_bunny_green",
+    "visualization": "furniture_static"
+  }
+}

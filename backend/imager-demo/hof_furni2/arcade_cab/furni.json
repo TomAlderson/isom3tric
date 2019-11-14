@@ -1,0 +1,438 @@
+{
+  "assets": {
+    "arcade_cab_64_a_2_0": {
+      "name": "arcade_cab_64_a_2_0",
+      "x": 30,
+      "y": 95,
+      "exists": true
+    },
+    "arcade_cab_64_a_4_0": {
+      "name": "arcade_cab_64_a_4_0",
+      "flipH": 1,
+      "source": "arcade_cab_64_a_2_0",
+      "x": 30,
+      "y": 95,
+      "exists": false
+    },
+    "arcade_cab_64_b_2_0": {
+      "name": "arcade_cab_64_b_2_0",
+      "x": 5,
+      "y": 69,
+      "exists": true
+    },
+    "arcade_cab_64_b_2_1": {
+      "name": "arcade_cab_64_b_2_1",
+      "x": 5,
+      "y": 69,
+      "exists": true
+    },
+    "arcade_cab_64_b_2_10": {
+      "name": "arcade_cab_64_b_2_10",
+      "x": 5,
+      "y": 69,
+      "exists": true
+    },
+    "arcade_cab_64_b_2_2": {
+      "name": "arcade_cab_64_b_2_2",
+      "x": 5,
+      "y": 69,
+      "exists": true
+    },
+    "arcade_cab_64_b_2_3": {
+      "name": "arcade_cab_64_b_2_3",
+      "x": 5,
+      "y": 69,
+      "exists": true
+    },
+    "arcade_cab_64_b_2_4": {
+      "name": "arcade_cab_64_b_2_4",
+      "x": 5,
+      "y": 69,
+      "exists": true
+    },
+    "arcade_cab_64_b_2_5": {
+      "name": "arcade_cab_64_b_2_5",
+      "x": 5,
+      "y": 69,
+      "exists": true
+    },
+    "arcade_cab_64_b_2_6": {
+      "name": "arcade_cab_64_b_2_6",
+      "x": 5,
+      "y": 69,
+      "exists": true
+    },
+    "arcade_cab_64_b_2_7": {
+      "name": "arcade_cab_64_b_2_7",
+      "x": 5,
+      "y": 69,
+      "exists": true
+    },
+    "arcade_cab_64_b_2_8": {
+      "name": "arcade_cab_64_b_2_8",
+      "x": 5,
+      "y": 69,
+      "exists": true
+    },
+    "arcade_cab_64_b_2_9": {
+      "name": "arcade_cab_64_b_2_9",
+      "x": 5,
+      "y": 69,
+      "exists": true
+    },
+    "arcade_cab_64_b_4_0": {
+      "name": "arcade_cab_64_b_4_0",
+      "flipH": 1,
+      "source": "arcade_cab_64_b_2_0",
+      "x": 5,
+      "y": 69,
+      "exists": false
+    },
+    "arcade_cab_64_b_4_1": {
+      "name": "arcade_cab_64_b_4_1",
+      "flipH": 1,
+      "source": "arcade_cab_64_b_2_1",
+      "x": 5,
+      "y": 69,
+      "exists": false
+    },
+    "arcade_cab_64_b_4_10": {
+      "name": "arcade_cab_64_b_4_10",
+      "flipH": 1,
+      "source": "arcade_cab_64_b_2_10",
+      "x": 5,
+      "y": 69,
+      "exists": false
+    },
+    "arcade_cab_64_b_4_2": {
+      "name": "arcade_cab_64_b_4_2",
+      "flipH": 1,
+      "source": "arcade_cab_64_b_2_2",
+      "x": 5,
+      "y": 69,
+      "exists": false
+    },
+    "arcade_cab_64_b_4_3": {
+      "name": "arcade_cab_64_b_4_3",
+      "flipH": 1,
+      "source": "arcade_cab_64_b_2_3",
+      "x": 5,
+      "y": 69,
+      "exists": false
+    },
+    "arcade_cab_64_b_4_4": {
+      "name": "arcade_cab_64_b_4_4",
+      "flipH": 1,
+      "source": "arcade_cab_64_b_2_4",
+      "x": 5,
+      "y": 69,
+      "exists": false
+    },
+    "arcade_cab_64_b_4_5": {
+      "name": "arcade_cab_64_b_4_5",
+      "flipH": 1,
+      "source": "arcade_cab_64_b_2_5",
+      "x": 5,
+      "y": 69,
+      "exists": false
+    },
+    "arcade_cab_64_b_4_6": {
+      "name": "arcade_cab_64_b_4_6",
+      "flipH": 1,
+      "source": "arcade_cab_64_b_2_6",
+      "x": 5,
+      "y": 69,
+      "exists": false
+    },
+    "arcade_cab_64_b_4_7": {
+      "name": "arcade_cab_64_b_4_7",
+      "flipH": 1,
+      "source": "arcade_cab_64_b_2_7",
+      "x": 5,
+      "y": 69,
+      "exists": false
+    },
+    "arcade_cab_64_b_4_8": {
+      "name": "arcade_cab_64_b_4_8",
+      "flipH": 1,
+      "source": "arcade_cab_64_b_2_8",
+      "x": 5,
+      "y": 69,
+      "exists": false
+    },
+    "arcade_cab_64_b_4_9": {
+      "name": "arcade_cab_64_b_4_9",
+      "flipH": 1,
+      "source": "arcade_cab_64_b_2_9",
+      "x": 5,
+      "y": 69,
+      "exists": false
+    },
+    "arcade_cab_icon_a": {
+      "name": "arcade_cab_icon_a",
+      "x": 10,
+      "y": 15,
+      "exists": true
+    },
+    "arcade_cab_32_a_2_0": {
+      "name": "arcade_cab_32_a_2_0",
+      "x": 14,
+      "y": 46,
+      "exists": true
+    },
+    "arcade_cab_32_a_4_0": {
+      "name": "arcade_cab_32_a_4_0",
+      "flipH": 1,
+      "source": "arcade_cab_32_a_2_0",
+      "x": 14,
+      "y": 46,
+      "exists": false
+    },
+    "arcade_cab_32_b_2_0": {
+      "name": "arcade_cab_32_b_2_0",
+      "x": 1,
+      "y": 32,
+      "exists": true
+    },
+    "arcade_cab_32_b_2_1": {
+      "name": "arcade_cab_32_b_2_1",
+      "x": 1,
+      "y": 32,
+      "exists": true
+    },
+    "arcade_cab_32_b_2_2": {
+      "name": "arcade_cab_32_b_2_2",
+      "x": 1,
+      "y": 32,
+      "exists": true
+    },
+    "arcade_cab_32_b_2_3": {
+      "name": "arcade_cab_32_b_2_3",
+      "x": 1,
+      "y": 32,
+      "exists": true
+    },
+    "arcade_cab_32_b_2_4": {
+      "name": "arcade_cab_32_b_2_4",
+      "x": 1,
+      "y": 32,
+      "exists": true
+    },
+    "arcade_cab_32_b_2_5": {
+      "name": "arcade_cab_32_b_2_5",
+      "x": 1,
+      "y": 32,
+      "exists": true
+    },
+    "arcade_cab_32_b_2_6": {
+      "name": "arcade_cab_32_b_2_6",
+      "x": 1,
+      "y": 32,
+      "exists": true
+    },
+    "arcade_cab_32_b_4_0": {
+      "name": "arcade_cab_32_b_4_0",
+      "flipH": 1,
+      "source": "arcade_cab_32_b_2_0",
+      "x": 1,
+      "y": 32,
+      "exists": false
+    },
+    "arcade_cab_32_b_4_1": {
+      "name": "arcade_cab_32_b_4_1",
+      "flipH": 1,
+      "source": "arcade_cab_32_b_2_1",
+      "x": 1,
+      "y": 32,
+      "exists": false
+    },
+    "arcade_cab_32_b_4_2": {
+      "name": "arcade_cab_32_b_4_2",
+      "flipH": 1,
+      "source": "arcade_cab_32_b_2_2",
+      "x": 1,
+      "y": 32,
+      "exists": false
+    },
+    "arcade_cab_32_b_4_3": {
+      "name": "arcade_cab_32_b_4_3",
+      "flipH": 1,
+      "source": "arcade_cab_32_b_2_3",
+      "x": 1,
+      "y": 32,
+      "exists": false
+    },
+    "arcade_cab_32_b_4_4": {
+      "name": "arcade_cab_32_b_4_4",
+      "flipH": 1,
+      "source": "arcade_cab_32_b_2_4",
+      "x": 1,
+      "y": 32,
+      "exists": false
+    },
+    "arcade_cab_32_b_4_5": {
+      "name": "arcade_cab_32_b_4_5",
+      "flipH": 1,
+      "source": "arcade_cab_32_b_2_5",
+      "x": 1,
+      "y": 32,
+      "exists": false
+    },
+    "arcade_cab_32_b_4_6": {
+      "name": "arcade_cab_32_b_4_6",
+      "flipH": 1,
+      "source": "arcade_cab_32_b_2_6",
+      "x": 1,
+      "y": 32,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 2
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {
+        "0": []
+      }
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  0,
+                  6,
+                  0,
+                  6,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  0,
+                  10,
+                  0,
+                  10,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "arcade_cab",
+    "visualization": "furniture_animated"
+  }
+}

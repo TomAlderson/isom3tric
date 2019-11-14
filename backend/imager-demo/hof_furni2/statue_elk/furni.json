@@ -1,0 +1,156 @@
+{
+  "assets": {
+    "statue_elk_64_sd_4_0": {
+      "name": "statue_elk_64_sd_4_0",
+      "x": 42,
+      "y": 4,
+      "exists": true
+    },
+    "statue_elk_64_a_4_0": {
+      "name": "statue_elk_64_a_4_0",
+      "x": 57,
+      "y": 167,
+      "exists": true
+    },
+    "statue_elk_64_b_4_0": {
+      "name": "statue_elk_64_b_4_0",
+      "x": 26,
+      "y": -7,
+      "exists": true
+    },
+    "statue_elk_32_sd_4_0": {
+      "name": "statue_elk_32_sd_4_0",
+      "x": 20,
+      "y": 1,
+      "exists": true
+    },
+    "statue_elk_32_a_4_0": {
+      "name": "statue_elk_32_a_4_0",
+      "x": 28,
+      "y": 84,
+      "exists": true
+    },
+    "statue_elk_32_b_4_0": {
+      "name": "statue_elk_32_b_4_0",
+      "x": 15,
+      "y": -3,
+      "exists": true
+    },
+    "statue_elk_icon_a": {
+      "name": "statue_elk_icon_a",
+      "x": 10,
+      "y": 18,
+      "exists": true
+    },
+    "statue_elk_64_sd_2_0": {
+      "name": "statue_elk_64_sd_2_0",
+      "flipH": 1,
+      "source": "statue_elk_64_sd_4_0",
+      "x": 42,
+      "y": 4,
+      "exists": false
+    },
+    "statue_elk_64_a_2_0": {
+      "name": "statue_elk_64_a_2_0",
+      "flipH": 1,
+      "source": "statue_elk_64_a_4_0",
+      "x": 57,
+      "y": 167,
+      "exists": false
+    },
+    "statue_elk_64_b_2_0": {
+      "name": "statue_elk_64_b_2_0",
+      "flipH": 1,
+      "source": "statue_elk_64_b_4_0",
+      "x": 26,
+      "y": -7,
+      "exists": false
+    },
+    "statue_elk_32_sd_2_0": {
+      "name": "statue_elk_32_sd_2_0",
+      "flipH": 1,
+      "source": "statue_elk_32_sd_4_0",
+      "x": 20,
+      "y": 1,
+      "exists": false
+    },
+    "statue_elk_32_a_2_0": {
+      "name": "statue_elk_32_a_2_0",
+      "flipH": 1,
+      "source": "statue_elk_32_a_4_0",
+      "x": 28,
+      "y": 84,
+      "exists": false
+    },
+    "statue_elk_32_b_2_0": {
+      "name": "statue_elk_32_b_2_0",
+      "flipH": 1,
+      "source": "statue_elk_32_b_4_0",
+      "x": 15,
+      "y": -3,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1100
+        },
+        {
+          "layerId": 1,
+          "z": 2100
+        }
+      ]
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 1100
+        },
+        {
+          "layerId": 1,
+          "z": 2100
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "statue_elk",
+    "visualization": "furniture_static"
+  }
+}
