@@ -6,7 +6,7 @@ var path = require("path");
 // Original imager files, keep these for now if the new ones don't work.
 var AvatarImager = require("../lib/avatar-imager/imager");
 var AvatarImage = require("../lib/avatar-imager/image");
-var AvatarPart = require("../lib/avatar-imager/part");
+var AvatarImageTom = require("../lib/avatar-imager-tom/avatar_image");
 
 const sharp = require("sharp");
 const canvasConverter = require("canvas-to-buffer");
@@ -214,6 +214,32 @@ router.get("/figure/base64", (req, res, next) => {
         });
       });
     });
+  });
+});
+
+router.get("/figure/new", (req, res, next) => {
+  let inputFigure = req.query.figure;
+  let inputAction = req.query.action;
+  let inputGesture = req.query.gesture;
+  let inputDirection = req.query.direction;
+  let inputSize = req.query.size;
+  let inputHeadDirection = req.query.head_direction;
+  let inputFrame = req.query.frame;
+  let inputHeadOnly = req.query.headonly;
+
+  let avatar_image = new AvatarImageTom(
+    inputFigure,
+    inputDirection,
+    inputHeadDirection,
+    inputAction.split(","),
+    inputGesture,
+    inputFrame,
+    inputHeadOnly
+  );
+
+  avatar_image.initialize(() => {
+    avatar_image.constructor();
+    avatar_image.generate("png");
   });
 });
 

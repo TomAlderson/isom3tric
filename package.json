@@ -9,7 +9,7 @@
     "build": "webpack --config webpack.production.config.js",
     "test": "eslint --ext .js,.vue src",
     "start:client": "webpack",
-    "start:server": "nodemon --ignore './backend/imager' server.js"
+    "start:server": "nodemon --ignore './backend/imager-demo' server.js"
   },
   "license": "MIT",
   "devDependencies": {
@@ -43,10 +43,12 @@
     "bcrypt": "^3.0.6",
     "bootstrap": "^4.3.1",
     "canvas": "^2.6.0",
+    "canvas-to-buffer": "^1.1.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "file-loader": "^4.2.0",
     "jsonwebtoken": "^8.5.1",
+    "locutus": "^2.0.11",
     "mongoose": "^5.7.8",
     "mongoose-unique-validator": "^2.0.3",
     "node-sass": "^4.5.3",
@@ -54,6 +56,7 @@
     "phaser-ce": "^2.8.3",
     "phaser-plugin-isometric": "^0.9.2",
     "sass-loader": "^6.0.6",
+    "sharp": "^0.23.2",
     "vue": "^2.5.3",
     "vue-router": "^3.0.1",
     "webfontloader": "^1.6.28"
