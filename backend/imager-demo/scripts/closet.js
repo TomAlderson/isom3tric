@@ -30,11 +30,13 @@ AvatarEditor.Config = {
     config: "#avatareditor-config"
   },
   json: {
-    figuredata: "/json-demo/figuredata",
-    itemset: "/json-demo/itemset",
+    // figuredata: "/json-demo/figuredata",
+    // itemset: "/json-demo/itemset",
+    figuredata: "http://localhost:4000/resource/figuredata.json",
+    itemset: "http://localhost:4000/resource/itemset.json",
     // avatarimage: "http://localhost:4000/api/avatar/imager",
     avatarimage: "http://localhost:4000/api/avatar/figure/base64",
-    "avatarimage-part": "http://localhost:4000/api/avatar/imager/part"
+    "avatarimage-part": "http://localhost:4000/api/avatar/part/base64"
   }
 };
 

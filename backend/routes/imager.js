@@ -6,7 +6,6 @@ var path = require("path");
 // Original imager files, keep these for now if the new ones don't work.
 var AvatarImager = require("../lib/avatar-imager/imager");
 var AvatarImage = require("../lib/avatar-imager/image");
-var AvatarImageTom = require("../lib/avatar-imager-tom/avatar_image");
 
 const sharp = require("sharp");
 const canvasConverter = require("canvas-to-buffer");
@@ -217,7 +216,7 @@ router.get("/figure/base64", (req, res, next) => {
   });
 });
 
-router.get("/figure/new", (req, res, next) => {
+router.get("/part", (req, res, next) => {
   let inputFigure = req.query.figure;
   let inputAction = req.query.action;
   let inputGesture = req.query.gesture;
@@ -227,19 +226,118 @@ router.get("/figure/new", (req, res, next) => {
   let inputFrame = req.query.frame;
   let inputHeadOnly = req.query.headonly;
 
-  let avatar_image = new AvatarImageTom(
-    inputFigure,
-    inputDirection,
-    inputHeadDirection,
-    inputAction.split(","),
-    inputGesture,
-    inputFrame,
-    inputHeadOnly
-  );
+  let inputPartType = req.query.type;
+  let inputPartID = req.query.id;
+  let inputPartColor1 = req.query.color_1;
+  let inputPartColor2 = req.query.color_2;
+  let inputPartColor3 = req.query.color_3;
+  let inputPartColor = [req.query.color_1, req.query.color_2, req.query.color_3];
+  let inputFormat = req.query.img_format;
 
-  avatar_image.initialize(() => {
-    avatar_image.constructor();
-    avatar_image.generate("png");
+  let avatarImager = new AvatarImager();
+
+  avatarImager.initialize(() => {
+    let avatar = new AvatarImage(
+      "",
+      4,
+      4,
+      ["std"],
+      "",
+      0,
+      true,
+      "n"
+    );
+
+    avatarImager.generatePart(avatar, inputPartType, inputPartID, inputPartColor, inputFormat, img => {
+      // We are handling the avatar image resizing manually, this is because I haven't got around to coping with getting the actual large versions of the sprites yet.
+      const frame = new canvasConverter(img);
+      switch (inputSize) {
+        case "l":
+          sharp(frame.toBuffer())
+            .resize(128, 220)
+            .png()
+            .pipe(res);
+          break;
+
+        case "s":
+          sharp(frame.toBuffer())
+            .resize(32, 55)
+            .png()
+            .pipe(res);
+          break;
+
+        default:
+          res.setHeader("Content-Type", "image/png");
+          img.pngStream().pipe(res);
+          break;
+      }
+    });
+  });
+});
+
+router.get("/part/base64", (req, res, next) => {
+  let inputFigure = req.query.figure;
+  let inputAction = req.query.action;
+  let inputGesture = req.query.gesture;
+  let inputDirection = req.query.direction;
+  let inputSize = req.query.size;
+  let inputHeadDirection = req.query.head_direction;
+  let inputFrame = req.query.frame;
+  let inputHeadOnly = req.query.headonly;
+
+  let inputPartType = req.query.type;
+  let inputPartID = req.query.id;
+  let inputPartColor1 = req.query.color_1;
+  let inputPartColor2 = req.query.color_2;
+  let inputPartColor3 = req.query.color_3;
+  let inputPartColor = [req.query.color_1, req.query.color_2, req.query.color_3];
+  let inputFormat = req.query.img_format;
+
+  let avatarImager = new AvatarImager();
+
+  avatarImager.initialize(() => {
+    let avatar = new AvatarImage(
+      "",
+      4,
+      4,
+      ["std"],
+      "",
+      0,
+      true,
+      "n"
+    );
+
+    avatarImager.generatePart(avatar, inputPartType, inputPartID, inputPartColor, inputFormat, img => {
+      // We are handling the avatar image resizing manually, this is because I haven't got around to coping with getting the actual large versions of the sprites yet.
+      const frame = new canvasConverter(img);
+      processImage = null;
+      data = "data:image/png" + ";base64,";
+
+      switch (inputSize) {
+        case "l":
+          processImage = sharp(frame.toBuffer())
+            .resize(128, 220)
+            .toBuffer();
+          break;
+
+        case "s":
+          processImage = sharp(frame.toBuffer())
+            .resize(32, 55)
+            .toBuffer();
+          break;
+
+        default:
+          processImage = sharp(frame.toBuffer()).toBuffer();
+          break;
+      }
+
+      processImage.then(image => {
+        data += image.toString("base64");
+        res.status(200).json({
+          resource: data
+        });
+      });
+    });
   });
 });
 

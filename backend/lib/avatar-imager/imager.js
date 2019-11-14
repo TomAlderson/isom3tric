@@ -479,95 +479,34 @@ var AvatarImager = function(ready, offsets) {
     );
   };
 
-  this.generatePart = (type, id, color, format, canvasCallback) => {
-    // console.log(avatarImage);
+  this.generatePart = (avatarImage, partType, partID, partColor, format = "png", canvasCallback) => {
+    let isHeadOnly = (partType == "hd");
 
-    // let tempCanvas = createCanvas("canvas");
-    // let tempCtx = tempCanvas.getContext("2d");
-    // tempCanvas.width = avatarImage.rectWidth;
-    // tempCanvas.height = avatarImage.rectHeight;
-    // tempCtx.fillStyle = "rgba(255, 255, 255, 0)";
+    
+    let tempCanvas = createCanvas("canvas");
+    let tempCtx = tempCanvas.getContext("2d");
+    tempCanvas.width = avatarImage.rectWidth;
+    tempCanvas.height = avatarImage.rectHeight;
+    tempCtx.fillStyle = "rgba(0, 0, 0, 0)";
     // tempCtx.fillRect(0, 0, avatarImage.rectWidth, avatarImage.rectHeight);
 
-    let isHeadOnly = type == "hd";
+    let drawParts = this.getDrawOrder("std", avatarImage.direction);
 
     let activeParts = {};
-
     activeParts.rect = this.getActivePartSet(
       avatarImage.isHeadOnly ? "head" : "figure"
     );
     activeParts.eye = this.getActivePartSet("eye");
 
-    // Only using explicitly set direction at the moment, will change this to an argument later on.
-    let drawParts = this.getDrawOrder("std", 4);
-
     let setParts = {};
-
-    if (type == "ri" || type == "li") {
-      setParts[type][0] = {
-        id: id,
-        colorable: false
-      };
-    } else {
-      setParts = this.getPartColorNew(type, id, color);
-    }
-
-    let drawCount = 0;
-
-    drawParts.forEach(drawType => {
-      let drawPartArr = [];
-
-      if (setParts[drawType]) {
-        drawPartArr = setParts[drawType];
-      } else {
-        return;
-      }
-
-      drawPartArr.forEach(drawPart => {
-        if (Array.isArray(drawPart)) {
-          return;
-        }
-
-        if (this.getPartUniqueName(type, drawPart["id"]) == "") {
-          return;
-        }
-
-        if (isHeadOnly && activeParts["rect"][type]["active"]) {
-          return;
-        }
-
-        if (activeParts["eye"][type]["active"]) {
-          drawPart["colorable"] = false;
-        }
-
-        let uniqueName = this.getPartUniqueName(type, drawPart["id"]);
-        let drawPartRect = this.getPartResource(
-          uniqueName,
-          "std",
-          type,
-          false,
-          drawPart["id"],
-          4,
-          0,
-          color
-        );
-
-        drawCount++;
-      });
-    });
-
-    for (partSet of avatarImage.figure) {
-      const parts = this.getPartColor(partSet);
-      for (type in parts) {
-        if (setParts[type] == null) {
-          setParts[type] = [];
-        }
-        setParts[type] = parts[type].concat(setParts[type]);
-      }
-    }
-
-    if (avatarImage.handItem !== false) {
-      setParts["ri"] = [{ index: 0, id: avatarImage.handItem }];
+    if(partType == "ri" || partType == "li") {
+      setParts[partType] = [{ index: 0, id: partID, colorable: false }];
+    }else{
+      setParts = this.getPartColor({
+        type: partType,
+        id: partID,
+        colors: partColor
+      })
     }
 
     let chunks = [];
@@ -590,79 +529,27 @@ var AvatarImager = function(ready, offsets) {
             }
 
             let drawDirection = avatarImage.direction;
-            let drawAction = false;
-            if (activeParts.rect.includes(type)) {
-              drawAction = avatarImage.drawAction["body"];
-            }
-            if (activeParts.head.includes(type)) {
-              drawDirection = avatarImage.headDirection;
-            }
-            if (
-              activeParts.speak.includes(type) &&
-              avatarImage.drawAction["speak"]
-            ) {
-              drawAction = avatarImage.drawAction["speak"];
-            }
-            if (
-              activeParts.gesture.includes(type) &&
-              avatarImage.drawAction["gesture"]
-            ) {
-              drawAction = avatarImage.drawAction["gesture"];
-            }
+            let drawAction = "std";
+            drawablePart.colorable = true;
+
             if (activeParts.eye.includes(type)) {
               drawablePart.colorable = false;
-              if (avatarImage.drawAction["eye"]) {
-                drawAction = avatarImage.drawAction["eye"];
-              }
             }
-            if (
-              activeParts.walk.includes(type) &&
-              avatarImage.drawAction["wlk"]
-            ) {
-              drawAction = avatarImage.drawAction["wlk"];
-            }
-            if (
-              activeParts.sit.includes(type) &&
-              avatarImage.drawAction["sit"]
-            ) {
-              drawAction = avatarImage.drawAction["sit"];
-            }
-            if (
-              activeParts.handRight.includes(type) &&
-              avatarImage.drawAction["handRight"]
-            ) {
-              drawAction = avatarImage.drawAction["handRight"];
-            }
-            if (
-              activeParts.itemRight.includes(type) &&
-              avatarImage.drawAction["itemRight"]
-            ) {
-              drawAction = avatarImage.drawAction["itemRight"];
-            }
-            if (
-              activeParts.handLeft.includes(type) &&
-              avatarImage.drawAction["handLeft"]
-            ) {
-              drawAction = avatarImage.drawAction["handLeft"];
-            }
-            if (
-              activeParts.swim.includes(type) &&
-              avatarImage.drawAction["swim"]
-            ) {
-              drawAction = avatarImage.drawAction["swim"];
-            }
+            
+            
 
             if (!drawAction) {
               continue;
             }
 
+
+
             //if (this.offsets[uniqueName] == null) {
             offsetsPromises.push(this.downloadOffsetAsync(uniqueName));
             //}
 
+
             let color = drawablePart.colorable ? drawablePart.color : null;
-            console.log(color);
-            console.log(uniqueName);
             let drawPartChunk = this.getPartResource(
               uniqueName,
               drawAction,
@@ -765,7 +652,7 @@ var AvatarImager = function(ready, offsets) {
                   this.offsets[chunk.lib] != null &&
                   this.offsets[chunk.lib][chunk.getResourceName()] != null
                 ) {
-                  //console.log(chunk);
+                  console.log(chunk);
                   if (chunk.resource != null) {
                     let posX = -this.offsets[chunk.lib][chunk.getResourceName()]
                       .x;
@@ -776,19 +663,12 @@ var AvatarImager = function(ready, offsets) {
                     //console.log("x: " + posX + " - y: " + posY + " - color: " + chunk.color );
 
                     let img = chunk.resource;
-
                     if (chunk.color != null) {
                       img = this.tintSprite(img, chunk.color);
-                      // console.log("tinted", img);
                     }
                     if (chunk.isFlip) {
                       posX = -(posX + img.width - avatarImage.rectWidth + 1);
                       img = this.flipSprite(img);
-                    }
-                    // Lay seems to plant the image too far to the left and too far down, this is the best fix I can do for now to get over this hump.
-                    if (avatarImage.action.includes("lay")) {
-                      posX += avatarImage.rectWidth / 2;
-                      posY -= 5;
                     }
                     tempCtx.drawImage(img, posX, posY);
                   } else {
@@ -802,7 +682,8 @@ var AvatarImager = function(ready, offsets) {
           );
       }.bind(this)
     );
-  };
+
+  }
 
   this.hex2rgb = hex => {
     let result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
