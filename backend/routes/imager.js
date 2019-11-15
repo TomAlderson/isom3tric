@@ -231,47 +231,49 @@ router.get("/part", (req, res, next) => {
   let inputPartColor1 = req.query.color_1;
   let inputPartColor2 = req.query.color_2;
   let inputPartColor3 = req.query.color_3;
-  let inputPartColor = [req.query.color_1, req.query.color_2, req.query.color_3];
+  let inputPartColor = [
+    req.query.color_1,
+    req.query.color_2,
+    req.query.color_3
+  ];
   let inputFormat = req.query.img_format;
 
   let avatarImager = new AvatarImager();
 
   avatarImager.initialize(() => {
-    let avatar = new AvatarImage(
-      "",
-      4,
-      4,
-      ["std"],
-      "",
-      0,
-      true,
-      "n"
-    );
+    let avatar = new AvatarImage("", 4, 4, ["std"], "", 0, inputHeadOnly, "n");
 
-    avatarImager.generatePart(avatar, inputPartType, inputPartID, inputPartColor, inputFormat, img => {
-      // We are handling the avatar image resizing manually, this is because I haven't got around to coping with getting the actual large versions of the sprites yet.
-      const frame = new canvasConverter(img);
-      switch (inputSize) {
-        case "l":
-          sharp(frame.toBuffer())
-            .resize(128, 220)
-            .png()
-            .pipe(res);
-          break;
+    avatarImager.generatePart(
+      avatar,
+      inputPartType,
+      inputPartID,
+      inputPartColor,
+      inputFormat,
+      img => {
+        // We are handling the avatar image resizing manually, this is because I haven't got around to coping with getting the actual large versions of the sprites yet.
+        const frame = new canvasConverter(img);
+        switch (inputSize) {
+          case "l":
+            sharp(frame.toBuffer())
+              .resize(128, 220)
+              .png()
+              .pipe(res);
+            break;
 
-        case "s":
-          sharp(frame.toBuffer())
-            .resize(32, 55)
-            .png()
-            .pipe(res);
-          break;
+          case "s":
+            sharp(frame.toBuffer())
+              .resize(32, 55)
+              .png()
+              .pipe(res);
+            break;
 
-        default:
-          res.setHeader("Content-Type", "image/png");
-          img.pngStream().pipe(res);
-          break;
+          default:
+            res.setHeader("Content-Type", "image/png");
+            img.pngStream().pipe(res);
+            break;
+        }
       }
-    });
+    );
   });
 });
 
@@ -290,54 +292,56 @@ router.get("/part/base64", (req, res, next) => {
   let inputPartColor1 = req.query.color_1;
   let inputPartColor2 = req.query.color_2;
   let inputPartColor3 = req.query.color_3;
-  let inputPartColor = [req.query.color_1, req.query.color_2, req.query.color_3];
+  let inputPartColor = [
+    req.query.color_1,
+    req.query.color_2,
+    req.query.color_3
+  ];
   let inputFormat = req.query.img_format;
 
   let avatarImager = new AvatarImager();
 
   avatarImager.initialize(() => {
-    let avatar = new AvatarImage(
-      "",
-      4,
-      4,
-      ["std"],
-      "",
-      0,
-      true,
-      "n"
-    );
+    let avatar = new AvatarImage("", 4, 4, ["std"], "", 0, inputHeadOnly, "n");
 
-    avatarImager.generatePart(avatar, inputPartType, inputPartID, inputPartColor, inputFormat, img => {
-      // We are handling the avatar image resizing manually, this is because I haven't got around to coping with getting the actual large versions of the sprites yet.
-      const frame = new canvasConverter(img);
-      processImage = null;
-      data = "data:image/png" + ";base64,";
+    avatarImager.generatePart(
+      avatar,
+      inputPartType,
+      inputPartID,
+      inputPartColor,
+      inputFormat,
+      img => {
+        // We are handling the avatar image resizing manually, this is because I haven't got around to coping with getting the actual large versions of the sprites yet.
+        const frame = new canvasConverter(img);
+        processImage = null;
+        data = "data:image/png" + ";base64,";
 
-      switch (inputSize) {
-        case "l":
-          processImage = sharp(frame.toBuffer())
-            .resize(128, 220)
-            .toBuffer();
-          break;
+        switch (inputSize) {
+          case "l":
+            processImage = sharp(frame.toBuffer())
+              .resize(128, 220)
+              .toBuffer();
+            break;
 
-        case "s":
-          processImage = sharp(frame.toBuffer())
-            .resize(32, 55)
-            .toBuffer();
-          break;
+          case "s":
+            processImage = sharp(frame.toBuffer())
+              .resize(32, 55)
+              .toBuffer();
+            break;
 
-        default:
-          processImage = sharp(frame.toBuffer()).toBuffer();
-          break;
-      }
+          default:
+            processImage = sharp(frame.toBuffer()).toBuffer();
+            break;
+        }
 
-      processImage.then(image => {
-        data += image.toString("base64");
-        res.status(200).json({
-          resource: data
+        processImage.then(image => {
+          data += image.toString("base64");
+          res.status(200).json({
+            resource: data
+          });
         });
-      });
-    });
+      }
+    );
   });
 });
 

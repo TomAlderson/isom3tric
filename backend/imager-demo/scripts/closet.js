@@ -36,7 +36,7 @@ AvatarEditor.Config = {
     itemset: "http://localhost:4000/resource/itemset.json",
     // avatarimage: "http://localhost:4000/api/avatar/imager",
     avatarimage: "http://localhost:4000/api/avatar/figure/base64",
-    "avatarimage-part": "http://localhost:4000/api/avatar/part/base64"
+    "avatarimage-part": "http://localhost:4000/api/avatar/part"
   }
 };
 
@@ -427,36 +427,30 @@ AvatarEditor.prototype = {
         .css("background-position", "center center")
         .appendTo(partLists);
 
-      console.log({
-        type: avatareditor.active.partType,
-        id: id,
-        color_1: avatareditor.active.color[0],
-        color_2: avatareditor.active.color[1],
-        color_3: avatareditor.active.color[2],
-        direction: avatareditor.active.direction.body
+      console.log("part address");
+
+      // $.ajax({
+      //   dataType: "json",
+      //   url: AvatarEditor.Config.json["avatarimage-part"],
+      //   data: {
+      //     type: avatareditor.active.partType,
+      //     id: id,
+      //     color_1: avatareditor.active.color[0],
+      //     color_2: avatareditor.active.color[1],
+      //     color_3: avatareditor.active.color[2],
+      //     direction: avatareditor.active.direction.body
+      //   },
+      //   success: function(data) {
+      // window.open(data.resource);
+      part.css({
+        "background-image": `url('${AvatarEditor.Config.json["avatarimage-part"]}?type=${avatareditor.active.partType}&id=${id}&color_1=${avatareditor.active.color[0]}&color_2=${avatareditor.active.color[1]}&color_3=${avatareditor.active.color[2]}&direction=${avatareditor.active.direction.body}')`,
+        "background-position": ""
       });
-      $.ajax({
-        dataType: "json",
-        url: AvatarEditor.Config.json["avatarimage-part"],
-        data: {
-          type: avatareditor.active.partType,
-          id: id,
-          color_1: avatareditor.active.color[0],
-          color_2: avatareditor.active.color[1],
-          color_3: avatareditor.active.color[2],
-          direction: avatareditor.active.direction.body
-        },
-        success: function(data) {
-          console.log(part);
-          part.css({
-            "background-image": "url('" + data.resource + "')",
-            "background-position": ""
-          });
-        },
-        error: function(data) {
-          console.log("error", data);
-        }
-      });
+      //   },
+      //   error: function(data) {
+      //     console.log("error", data);
+      //   }
+      // });
 
       if (avatareditor.active.partID == id) part.addClass("active");
     });
@@ -545,13 +539,11 @@ AvatarEditor.prototype = {
     $(AvatarEditor.Config.elements.form + ' input[name="figure"]').val(
       input.figure
     );
-    console.log(AvatarEditor.Config.json.avatarimage);
     $.ajax({
       dataType: "json",
       url: AvatarEditor.Config.json.avatarimage,
       data: input,
       success: function(data) {
-        console.log(data.resource);
         $(AvatarEditor.Config.elements["preview-rect"])
           .removeClass("scale-l scale-n scale-s")
           .children("img")

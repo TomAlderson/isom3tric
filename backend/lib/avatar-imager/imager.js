@@ -336,8 +336,6 @@ var AvatarImager = function(ready, offsets) {
             //}
 
             let color = drawablePart.colorable ? drawablePart.color : null;
-            console.log(color);
-            console.log(uniqueName);
             let drawPartChunk = this.getPartResource(
               uniqueName,
               drawAction,
@@ -479,10 +477,16 @@ var AvatarImager = function(ready, offsets) {
     );
   };
 
-  this.generatePart = (avatarImage, partType, partID, partColor, format = "png", canvasCallback) => {
-    let isHeadOnly = (partType == "hd");
+  this.generatePart = (
+    avatarImage,
+    partType,
+    partID,
+    partColor,
+    format = "png",
+    canvasCallback
+  ) => {
+    let isHeadOnly = partType == "hd";
 
-    
     let tempCanvas = createCanvas("canvas");
     let tempCtx = tempCanvas.getContext("2d");
     tempCanvas.width = avatarImage.rectWidth;
@@ -493,20 +497,18 @@ var AvatarImager = function(ready, offsets) {
     let drawParts = this.getDrawOrder("std", avatarImage.direction);
 
     let activeParts = {};
-    activeParts.rect = this.getActivePartSet(
-      avatarImage.isHeadOnly ? "head" : "figure"
-    );
+    activeParts.rect = this.getActivePartSet(isHeadOnly ? "head" : "figure");
     activeParts.eye = this.getActivePartSet("eye");
 
     let setParts = {};
-    if(partType == "ri" || partType == "li") {
+    if (partType == "ri" || partType == "li") {
       setParts[partType] = [{ index: 0, id: partID, colorable: false }];
-    }else{
+    } else {
       setParts = this.getPartColor({
         type: partType,
         id: partID,
         colors: partColor
-      })
+      });
     }
 
     let chunks = [];
@@ -535,19 +537,14 @@ var AvatarImager = function(ready, offsets) {
             if (activeParts.eye.includes(type)) {
               drawablePart.colorable = false;
             }
-            
-            
 
             if (!drawAction) {
               continue;
             }
 
-
-
             //if (this.offsets[uniqueName] == null) {
             offsetsPromises.push(this.downloadOffsetAsync(uniqueName));
             //}
-
 
             let color = drawablePart.colorable ? drawablePart.color : null;
             let drawPartChunk = this.getPartResource(
@@ -560,6 +557,8 @@ var AvatarImager = function(ready, offsets) {
               avatarImage.frame,
               color
             );
+
+            console.log(drawPartChunk);
             chunks.push(drawPartChunk);
           }
         }
@@ -652,7 +651,6 @@ var AvatarImager = function(ready, offsets) {
                   this.offsets[chunk.lib] != null &&
                   this.offsets[chunk.lib][chunk.getResourceName()] != null
                 ) {
-                  console.log(chunk);
                   if (chunk.resource != null) {
                     let posX = -this.offsets[chunk.lib][chunk.getResourceName()]
                       .x;
@@ -682,8 +680,7 @@ var AvatarImager = function(ready, offsets) {
           );
       }.bind(this)
     );
-
-  }
+  };
 
   this.hex2rgb = hex => {
     let result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
